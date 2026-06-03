@@ -1,5 +1,4 @@
 'use client'
-
 import { useState } from 'react'
 import Link from 'next/link'
 import { ChapterRenderer } from './ChapterRenderer'
@@ -7,6 +6,8 @@ import { BookmarkButton } from './BookmarkButton'
 import { FontSizeButton } from './FontSizeButton'
 import { ProgressTracker } from './ProgressTracker'
 import { TutorialHint } from './TutorialHint'
+import { ThemeToggle } from './ThemeToggle'
+import { IconArrowLeft, IconArrowRight, IconLanguage, IconBookmark, IconLetterA } from '@tabler/icons-react'
 import type { ParsedLine } from '@/lib/parseChapter'
 
 type Props = {
@@ -20,94 +21,56 @@ type Props = {
 }
 
 export function ReaderClient({ novelId, novelTitle, chapterNum, totalChapters, availableChapters, lines, isDemo }: Props) {
-  const [fontSize, setFontSize] = useState(16)
-
+  const [fontSize, setFontSize] = useState(15)
   const prevNum = chapterNum > 1 ? chapterNum - 1 : null
   const nextNum = chapterNum < availableChapters ? chapterNum + 1 : null
 
   return (
-    <div className="min-h-screen bg-white dark:bg-neutral-950">
+    <div className="min-h-screen flex flex-col bg-neutral-200 dark:bg-neutral-900">
       <ProgressTracker novelId={novelId} chapter={chapterNum} />
 
-      <header className="sticky top-0 z-40 bg-white/90 dark:bg-neutral-950/90 backdrop-blur border-b border-neutral-200 dark:border-neutral-800">
-        <div className="flex items-center justify-between px-5 py-2.5 max-w-2xl mx-auto">
-          <Link
-            href={`/${novelId}`}
-            className="flex items-center gap-1.5 text-[12px] text-neutral-500 hover:text-neutral-800 dark:hover:text-neutral-200 transition-colors"
-          >
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-              <path d="M19 12H5M12 19l-7-7 7-7" />
-            </svg>
-            {novelTitle}
+      {/* sticky top navbar */}
+      <header className="sticky top-0 z-40 bg-neutral-200/90 dark:bg-neutral-900/90 backdrop-blur border-b border-neutral-300 dark:border-neutral-700">
+        <div className="flex items-center justify-between px-8 py-2">
+          <Link href={`/${novelId}`} className="flex items-center gap-1.5 text-xs text-neutral-500 hover:text-neutral-800 dark:hover:text-neutral-200 transition-colors">
+            <IconArrowLeft size={14} />
+            <span className="truncate max-w-[140px]">{novelTitle}</span>
           </Link>
-          <div className="flex items-center gap-2">
+          <div className="flex items-center gap-1">
             <FontSizeButton onChange={setFontSize} />
             <BookmarkButton novelId={novelId} chapter={chapterNum} />
+            <ThemeToggle />
           </div>
         </div>
       </header>
 
-      <main className="px-5 py-8 max-w-2xl mx-auto">
+      {/* scrollable content */}
+      <main className="flex-1 px-8 py-8 overflow-y-auto pb-4">
         {isDemo && chapterNum === 1 && (
-          <TutorialHint
-            id="reader-german-word"
-            icon="🇩🇪"
-            title="Hover the coloured words"
-            body="Every highlighted word is a German word embedded in the English text. Tap or hover it to see the translation, word type, and an example sentence. Colours tell you the type: blue = masculine noun, pink = feminine, green = neuter, orange = verb, and so on."
-          />
+          <>
+            <TutorialHint id="reader-german-word" icon={<IconLanguage size={14} />} title="Tap coloured words" body="Each highlighted word is German. Tap or hover to see translation and example." />
+            <TutorialHint id="reader-bookmark" icon={<IconBookmark size={14} />} title="Bookmark chapters" body="Save your place with the bookmark icon. Stored locally, no account needed." />
+            <TutorialHint id="reader-font" icon={<IconLetterA size={14} />} title="Adjust font size" body="Cycle S/M/L with the font button in the top bar." />
+          </>
         )}
-
-        {isDemo && chapterNum === 1 && (
-          <TutorialHint
-            id="reader-bookmark"
-            icon="🔖"
-            title="Bookmark any chapter"
-            body="Tap the bookmark icon in the top-right to save your place. Bookmarked chapters appear in your library. Everything is stored locally — no account needed."
-          />
-        )}
-
-        {isDemo && chapterNum === 1 && (
-          <TutorialHint
-            id="reader-font"
-            icon="Aa"
-            title="Adjust the font size"
-            body="Tap the S/M/L button at the top to cycle through three font sizes. Your preference is applied immediately."
-          />
-        )}
-
         <ChapterRenderer lines={lines} fontSize={fontSize} />
       </main>
 
-      <nav className="border-t border-neutral-200 dark:border-neutral-800 px-5 py-4 max-w-2xl mx-auto flex items-center justify-between text-[13px] text-neutral-500">
-        {prevNum ? (
-          <Link
-            href={`/${novelId}/${prevNum}`}
-            className="flex items-center gap-1.5 hover:text-neutral-800 dark:hover:text-neutral-200 transition-colors"
-          >
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-              <path d="M19 12H5M12 19l-7-7 7-7" />
-            </svg>
-            Previous
-          </Link>
-        ) : (
-          <span />
-        )}
-        <span className="text-neutral-400 dark:text-neutral-600 text-[12px]">
-          {chapterNum} / {totalChapters}
-        </span>
-        {nextNum ? (
-          <Link
-            href={`/${novelId}/${nextNum}`}
-            className="flex items-center gap-1.5 hover:text-neutral-800 dark:hover:text-neutral-200 transition-colors"
-          >
-            Next
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-              <path d="M5 12h14M12 5l7 7-7 7" />
-            </svg>
-          </Link>
-        ) : (
-          <span />
-        )}
+      {/* sticky bottom nav */}
+      <nav className="sticky bottom-0 z-40 bg-neutral-200/90 dark:bg-neutral-900/90 backdrop-blur border-t border-neutral-300 dark:border-neutral-700">
+        <div className="flex items-center justify-between px-8 py-3">
+          {prevNum ? (
+            <Link href={`/${novelId}/${prevNum}`} className="flex items-center gap-1.5 text-xs text-neutral-500 hover:text-neutral-800 dark:hover:text-neutral-200 transition-colors">
+              <IconArrowLeft size={13} /> Prev
+            </Link>
+          ) : <span />}
+          <span className="text-[11px] text-neutral-400 dark:text-neutral-500 tabular-nums">{chapterNum} / {totalChapters}</span>
+          {nextNum ? (
+            <Link href={`/${novelId}/${nextNum}`} className="flex items-center gap-1.5 text-xs text-neutral-500 hover:text-neutral-800 dark:hover:text-neutral-200 transition-colors">
+              Next <IconArrowRight size={13} />
+            </Link>
+          ) : <span />}
+        </div>
       </nav>
     </div>
   )

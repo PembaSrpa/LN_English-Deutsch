@@ -9,7 +9,7 @@ type Props = { params: Promise<{ novelId: string; chapterId: string }> }
 export default async function ReaderPage({ params }: Props) {
   const { novelId, chapterId } = await params
   const novel = getNovel(novelId)
-  if (!novel) notFound()
+  if (!novel || novel.type !== 'md') notFound()
 
   const chapterNum = parseInt(chapterId, 10)
   if (isNaN(chapterNum)) notFound()
@@ -28,7 +28,7 @@ export default async function ReaderPage({ params }: Props) {
       totalChapters={novel.totalChapters}
       availableChapters={chapters.length}
       lines={lines}
-      isDemo={novelId === 'demo'}
+      isDemo={novelId === 'ugly-duckling'}
     />
   )
 }

@@ -1,20 +1,10 @@
 import type { Metadata } from 'next'
-import { Lora, Crimson_Pro } from 'next/font/google'
+import { JetBrains_Mono } from 'next/font/google'
 import './globals.css'
+import { ThemeProvider } from 'next-themes'
 import { Scales } from '@/components/Scales'
 
-const body = Lora({
-  subsets: ['latin'],
-  variable: '--font-body',
-  display: 'swap',
-})
-
-const display = Crimson_Pro({
-  subsets: ['latin'],
-  variable: '--font-display',
-  weight: ['400', '500', '600'],
-  display: 'swap',
-})
+const mono = JetBrains_Mono({ subsets: ['latin'], variable: '--font-mono', display: 'swap' })
 
 export const metadata: Metadata = {
   title: 'Schatten Lesen',
@@ -23,10 +13,14 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" className={`${body.variable} ${display.variable}`}>
-      <body className="bg-white dark:bg-neutral-950 text-neutral-900 dark:text-neutral-100 antialiased">
-        <Scales />
-        <div className="px-5">{children}</div>
+    <html lang="en" className={mono.variable} suppressHydrationWarning>
+      <body className="bg-white dark:bg-black font-mono antialiased">
+        <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
+          <Scales />
+          <div className="max-w-4xl mx-auto bg-neutral-200 dark:bg-neutral-900 min-h-screen relative">
+            {children}
+          </div>
+        </ThemeProvider>
       </body>
     </html>
   )
