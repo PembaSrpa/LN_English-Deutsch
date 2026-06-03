@@ -166,11 +166,11 @@ Then {er|pron|he|Er schläft. — He sleeps.} turned his head {und|conj|and|Sunn
 
 ## New Words This Chapter
 
-| English | German | Type | Kapitel Source |
-|---------|--------|------|----------------|
-| or | oder | conj | Kap 2 |
-| also | auch | adv | Kap 2 |
-| man | Mann (der) | masc noun | Kap 2 |
-| good | gut | adj | Kap 2 |
+| English | German | Type |
+|---------|--------|------|
+| or | oder | conj |
+| also | auch | adv |
+| man | Mann (der) | masc noun |
+| good | gut | adj |
 
 ---

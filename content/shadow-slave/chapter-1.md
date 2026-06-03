@@ -188,10 +188,10 @@ Everything became black.
 
 ## New Words This Chapter
 
-| English | German | Type | Kapitel Source |
-|---------|--------|------|----------------|
-| and | und | conj | Kap 1 |
-| but | aber | conj | Kap 1 |
-| not | nicht | adv | Kap 1 |
-| he | er | pron | Kap 1 |
-| it | es | pron | Kap 1 |
+| English | German | Type |
+|---------|--------|------|
+| and | und | conj |
+| but | aber | conj |
+| not | nicht | adv |
+| he | er | pron |
+| it | es | pron |
