@@ -3,7 +3,6 @@ import { JetBrains_Mono } from 'next/font/google'
 import './globals.css'
 import { ThemeProvider } from 'next-themes'
 import { Scales } from '@/components/Scales'
-import { Analytics } from "@vercel/analytics/next"
 
 const mono = JetBrains_Mono({ subsets: ['latin'], variable: '--font-mono', display: 'swap' })
 
@@ -18,7 +17,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body className="bg-neutral-200 dark:bg-neutral-900 font-mono antialiased">
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
           <Scales />
-          <Analytics/>
           <div className="max-w-3xl mx-auto min-h-screen relative">
             {children}
           </div>
