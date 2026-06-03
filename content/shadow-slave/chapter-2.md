@@ -1,5 +1,7 @@
 # Chapter 2 Slave Caravan
 
+---
+
 Sunny dreamt of a mountain.
 
 Jagged {und|conj|and|Sunny und Nephis. — Sunny and Nephis.} lonesome, {es|pron|it|Es ist kalt. — It is cold.} dwarfed other peaks of the mountain chain, cutting the night sky with its sharp edges. A radiant moon bathed its slopes in the ghostly, pale light.
@@ -42,9 +44,9 @@ Remembering popular webtoons {er|pron|he|Er schläft. — He sleeps.} read as a 
 
 ***
 
-{Name|masc|name|Wie ist dein Name? — What is your name?}: Sunless.
+Name: Sunless.
 
-True {Name|masc|name|Wie ist dein Name? — What is your name?}: —
+True Name: —
 
 Rank: Aspirant.
 
@@ -90,7 +92,7 @@ Sunny silently shook his head {und|conj|and|Sunny und Nephis. — Sunny and Neph
 
 Suddenly, a third voice joined the conversation from somewhere further back. This one sounded gentle {und|conj|and|Sunny und Nephis. — Sunny and Nephis.} intelligent.
 
-"This mountain pass is usually much warmer this time of year. We just had really bad luck. {Auch|adv|also/too|Er auch. — He too.}, I would advise you against harming this boy."
+"This mountain pass is usually much warmer this time of year. We just had really bad luck. {Auch|adv|also|Er auch. — He too.}, I would advise you against harming this boy."
 
 "Why is that?"
 
@@ -132,7 +134,7 @@ Due to his thin body {und|conj|and|Sunny und Nephis. — Sunny and Nephis.} smal
 
 Still, {er|pron|he|Er schläft. — He sleeps.} was really thirsty.
 
-{Er|pron|he|Er schläft. — He sleeps.} was just about to take the flask when a whip cracked in the air, {und|conj|and|Sunny und Nephis. — Sunny and Nephis.} suddenly Sunny was in a {Welt|fem|world|Die Welt ist groß. — The world is big.} of pain. {Er|pron|he|Er schläft. — He sleeps.} stumbled, once again pulling on the chain {und|conj|and|Sunny und Nephis. — Sunny and Nephis.} causing the shifty slave behind him to curse.
+{Er|pron|he|Er schläft. — He sleeps.} was just about to take the flask when a whip cracked in the air, {und|conj|and|Sunny und Nephis. — Sunny and Nephis.} suddenly Sunny was in a world of pain. {Er|pron|he|Er schläft. — He sleeps.} stumbled, once again pulling on the chain {und|conj|and|Sunny und Nephis. — Sunny and Nephis.} causing the shifty slave behind him to curse.
 
 Another soldier, this one older {und|conj|and|Sunny und Nephis. — Sunny and Nephis.} angrier, stopped his horse a few steps back. The whip that sliced the back of Sunny's tunic open {und|conj|and|Sunny und Nephis. — Sunny and Nephis.} drew blood belonged to him. Without even glancing at the slaves, the older soldier pierced his younger colleague with a disdainful glare.
 
@@ -162,7 +164,13 @@ Then {er|pron|he|Er schläft. — He sleeps.} turned his head {und|conj|and|Sunn
 
 ---
 
-## 📖 New Words This Chapter
+## New Words This Chapter
 
-*No new words introduced this chapter — existing dictionary provided sufficient coverage to meet the 5% token budget.*
+| English | German | Type | Kapitel Source |
+|---------|--------|------|----------------|
+| or | oder | conj | Kap 2 |
+| also | auch | adv | Kap 2 |
+| man | Mann (der) | masc noun | Kap 2 |
+| good | gut | adj | Kap 2 |
 
+---

@@ -16,8 +16,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="en" className={mono.variable} suppressHydrationWarning>
       <body className="bg-neutral-200 dark:bg-neutral-900 font-mono antialiased">
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
-          <Scales />
           <div className="max-w-3xl mx-auto min-h-screen relative">
+            <Scales />
             {children}
           </div>
         </ThemeProvider>

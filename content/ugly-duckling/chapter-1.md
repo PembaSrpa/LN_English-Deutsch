@@ -1,5 +1,7 @@
 # The Ugly Duckling
 
+--- 
+
 It was summer {und|conj|and|Sommer und Sonne. - Summer and sun.} {die|fem|the (f)|Die Mutter ruft. - The mother calls.} days were long {und|conj|and|Sommer und Sonne. - Summer and sun.} warm. In {der|masc|the (m)|Der Mann wartet. - The man waits.} middle of a green field, near a deep river, sat a mother duck on her nest. {Sie|pron|she|Sie sitzt. - She sits.} had been sitting there for a long time, waiting for her eggs to hatch.
 
 {Endlich|adv|finally|Endlich ist er da. - He is finally here.} the eggs began to crack. One by one, little yellow ducklings pushed through their shells {und|conj|and|Sommer und Sonne. - Summer and sun.} tumbled into the warm grass.
