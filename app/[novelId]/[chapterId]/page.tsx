@@ -10,16 +10,12 @@ export default async function ReaderPage({ params }: Props) {
   const { novelId, chapterId } = await params
   const novel = getNovel(novelId)
   if (!novel || novel.type !== 'md') notFound()
-
   const chapterNum = parseInt(chapterId, 10)
   if (isNaN(chapterNum)) notFound()
-
   const raw = getChapterRaw(novel.contentFolder, chapterNum)
   if (!raw) notFound()
-
   const chapters = getChapterList(novel.contentFolder)
   const lines = parseChapter(raw)
-
   return (
     <ReaderClient
       novelId={novelId}

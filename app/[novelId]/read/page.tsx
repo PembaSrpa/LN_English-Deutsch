@@ -8,13 +8,5 @@ export default async function PdfReaderPage({ params }: Props) {
   const { novelId } = await params
   const novel = getNovel(novelId)
   if (!novel || novel.type !== 'pdf' || !novel.pdfPath) notFound()
-
-  return (
-    <PdfViewer
-      novelTitle={novel.title}
-      novelId={novelId}
-      pdfPath={novel.pdfPath}
-      totalPages={novel.totalChapters}
-    />
-  )
+  return <PdfViewer novelTitle={novel.title} novelId={novelId} pdfPath={novel.pdfPath} totalPages={novel.totalChapters} />
 }
