@@ -14,10 +14,10 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" className={mono.variable} suppressHydrationWarning>
-      <body className="bg-white dark:bg-black font-mono antialiased">
+      <body className="bg-neutral-200 dark:bg-neutral-900 font-mono antialiased">
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
           <Scales />
-          <div className="max-w-4xl mx-auto bg-neutral-200 dark:bg-neutral-900 min-h-screen relative">
+          <div className="max-w-3xl mx-auto min-h-screen relative">
             {children}
           </div>
         </ThemeProvider>

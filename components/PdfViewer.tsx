@@ -14,50 +14,58 @@ type Props = { novelTitle: string; novelId: string; pdfPath: string; totalPages:
 export function PdfViewer({ novelTitle, novelId, pdfPath, totalPages }: Props) {
   const [page, setPage] = useState(1)
   const [numPages, setNumPages] = useState(totalPages)
-  const [width, setWidth] = useState(600)
+  const [containerWidth, setContainerWidth] = useState(0)
 
   const containerRef = useCallback((node: HTMLDivElement | null) => {
     if (!node) return
-    const ro = new ResizeObserver(entries => {
-      const w = entries[0].contentRect.width
-      setWidth(Math.min(w - 64, 700))
-    })
+    const update = () => setContainerWidth(node.clientWidth)
+    update()
+    const ro = new ResizeObserver(update)
     ro.observe(node)
   }, [])
 
+  const pageWidth = containerWidth > 0 ? Math.min(containerWidth - 32, 700) : undefined
+
   return (
     <div className="min-h-screen flex flex-col bg-neutral-200 dark:bg-neutral-900">
-      <header className="sticky top-0 z-40 bg-neutral-200/90 dark:bg-neutral-900/90 backdrop-blur border-b border-neutral-300 dark:border-neutral-700">
+      <header className="sticky top-0 z-40 bg-neutral-200/95 dark:bg-neutral-900/95 backdrop-blur border-b border-neutral-300 dark:border-neutral-700">
         <div className="flex items-center justify-between px-8 py-2">
           <Link href={`/${novelId}`} className="flex items-center gap-1.5 text-xs text-neutral-500 hover:text-neutral-800 dark:hover:text-neutral-200 transition-colors">
             <IconArrowLeft size={14} />
-            <span className="truncate max-w-[140px]">{novelTitle}</span>
+            <span className="truncate max-w-[160px]">{novelTitle}</span>
           </Link>
           <ThemeToggle />
         </div>
       </header>
 
-      <main ref={containerRef} className="flex-1 flex flex-col items-center px-8 py-6">
-        <Document
-          file={pdfPath}
-          onLoadSuccess={({ numPages: n }) => setNumPages(n)}
-          loading={
-            <div className="flex items-center gap-2 text-xs text-neutral-400 py-20">
-              <IconLoader2 size={16} className="animate-spin" /> Loading...
-            </div>
-          }
-        >
-          <Page
-            pageNumber={page}
-            width={width}
-            renderAnnotationLayer
-            renderTextLayer
-            className="rounded-xl overflow-hidden shadow-section"
-          />
-        </Document>
+      <main ref={containerRef} className="flex-1 flex flex-col items-center px-4 py-4 overflow-x-hidden">
+        {containerWidth > 0 && (
+          <Document
+            file={pdfPath}
+            onLoadSuccess={({ numPages: n }) => setNumPages(n)}
+            loading={
+              <div className="flex items-center gap-2 text-xs text-neutral-400 py-20">
+                <IconLoader2 size={16} className="animate-spin" /> Loading PDF...
+              </div>
+            }
+            error={
+              <div className="text-xs text-neutral-400 py-20 text-center">
+                Failed to load PDF. Make sure the file is in public/pdf/.
+              </div>
+            }
+          >
+            <Page
+              pageNumber={page}
+              width={pageWidth}
+              renderAnnotationLayer={false}
+              renderTextLayer={false}
+              className="rounded-lg overflow-hidden"
+            />
+          </Document>
+        )}
       </main>
 
-      <nav className="sticky bottom-0 z-40 bg-neutral-200/90 dark:bg-neutral-900/90 backdrop-blur border-t border-neutral-300 dark:border-neutral-700">
+      <nav className="sticky bottom-0 z-40 bg-neutral-200/95 dark:bg-neutral-900/95 backdrop-blur border-t border-neutral-300 dark:border-neutral-700">
         <div className="flex items-center justify-between px-8 py-3">
           <button
             onClick={() => setPage(p => Math.max(1, p - 1))}

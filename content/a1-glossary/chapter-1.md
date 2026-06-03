@@ -13,13 +13,13 @@
 
 | Case | Masculine | Feminine | Neuter | Plural |
 |------|-----------|----------|--------|--------|
-| Nominativ (subject) | der | die | das | die |
-| Akkusativ (direct object) | den | die | das | die |
-| Dativ (indirect object) | dem | der | dem | den |
-| Genitiv (possession) | des | der | des | der |
+| **Nominativ** (subject) | **der** | **die** | **das** | **die** |
+| **Akkusativ** (direct object) | **den** | die | das | die |
+| **Dativ** (indirect object) | **dem** | **der** | **dem** | **den** |
+| **Genitiv** (possession) | des | der | des | der |
 
->  Only Masculine changes in Akkusativ: der → den
->  Dativ plural always adds -n to the noun: *den Kindern, den Männern*
+> 💡 Only Masculine changes in Akkusativ: **der → den**
+> 💡 Dativ plural always adds **-n** to the noun: *den Kindern, den Männern*
 
 ---
 
@@ -27,11 +27,11 @@
 
 | Case | Masculine | Feminine | Neuter |
 |------|-----------|----------|--------|
-| Nominativ | ein | eine | ein |
-| Akkusativ | einen | eine | ein |
-| Dativ | einem | einer | einem |
+| **Nominativ** | **ein** | **eine** | **ein** |
+| **Akkusativ** | **einen** | eine | ein |
+| **Dativ** | **einem** | **einer** | **einem** |
 
->  No plural form for *ein*. Use just the noun (or *keine* for "no/not any").
+> 💡 No plural form for *ein*. Use just the noun (or *keine* for "no/not any").
 
 ---
 
@@ -39,15 +39,15 @@
 
 | Case | Masculine | Feminine | Neuter | Plural |
 |------|-----------|----------|--------|--------|
-| Nominativ | kein | keine | kein | keine |
-| Akkusativ | keinen | keine | kein | keine |
-| Dativ | keinem | keiner | keinem | keinen |
+| **Nominativ** | kein | keine | kein | keine |
+| **Akkusativ** | **keinen** | keine | kein | keine |
+| **Dativ** | **keinem** | **keiner** | **keinem** | **keinen** |
 
 ---
 
 ## 2. Possessive Articles (mein, dein, sein, ihr …)
 
-All possessives follow the same endings as kein/ein:
+All possessives follow the **same endings as kein/ein**:
 
 | Pronoun | Meaning | Nominativ M | Nominativ F | Nominativ N | Nominativ Pl |
 |---------|---------|-------------|-------------|-------------|--------------|
@@ -59,13 +59,13 @@ All possessives follow the same endings as kein/ein:
 | euer- | your (plural) | euer | eure | euer | eure |
 | Ihr- | your (formal) | Ihr | Ihre | Ihr | Ihre |
 
-### Full declension of mein (example for all possessives):
+### Full declension of **mein** (example for all possessives):
 
 | Case | Masculine | Feminine | Neuter | Plural |
 |------|-----------|----------|--------|--------|
-| Nominativ | mein | meine | mein | meine |
-| Akkusativ | meinen | meine | mein | meine |
-| Dativ | meinem | meiner | meinem | meinen |
+| **Nominativ** | mein | meine | mein | meine |
+| **Akkusativ** | **meinen** | meine | mein | meine |
+| **Dativ** | **meinem** | **meiner** | **meinem** | **meinen** |
 
 ---
 
@@ -73,9 +73,9 @@ All possessives follow the same endings as kein/ein:
 
 | Case | Question | Use | Example |
 |------|----------|-----|---------|
-| Nominativ | Wer? / Was? | Subject (who/what does the action) | Der Mann kommt. |
-| Akkusativ | Wen? / Was? | Direct object (what is affected) | Ich sehe den Mann. |
-| Dativ | Wem? | Indirect object (to/for whom) | Ich gebe dem Mann das Buch. |
+| **Nominativ** | Wer? / Was? | Subject (who/what does the action) | **Der Mann** kommt. |
+| **Akkusativ** | Wen? / Was? | Direct object (what is affected) | Ich sehe **den Mann**. |
+| **Dativ** | Wem? | Indirect object (to/for whom) | Ich gebe **dem Mann** das Buch. |
 
 ---
 
@@ -85,12 +85,12 @@ All possessives follow the same endings as kein/ein:
 
 | Preposition | Meaning | Example |
 |-------------|---------|---------|
-| durch | through | Gehen Sie durch die Tür. |
-| für | for | Das ist für dich. |
-| gegen | against / around | Fahr nicht gegen den Baum! |
-| ohne | without | Ohne Geld geht das nicht. |
-| um | around / at (time) | Er kommt um sieben Uhr. |
-| bis | until / up to | Ich fahre bis Stuttgart. |
+| **durch** | through | Gehen Sie durch die Tür. |
+| **für** | for | Das ist für dich. |
+| **gegen** | against / around | Fahr nicht gegen den Baum! |
+| **ohne** | without | Ohne Geld geht das nicht. |
+| **um** | around / at (time) | Er kommt um sieben Uhr. |
+| **bis** | until / up to | Ich fahre bis Stuttgart. |
 
 ---
 
@@ -98,32 +98,32 @@ All possessives follow the same endings as kein/ein:
 
 | Preposition | Meaning | Example |
 |-------------|---------|---------|
-| aus | from / out of | Er kommt aus Brasilien. |
-| bei | at / near / with | Ich wohne bei meinen Eltern. |
-| mit | with | Ich fahre mit dem Bus. |
-| nach | after / to (cities/countries) | Ich fliege nach Berlin. |
-| seit | since / for | Ich wohne seit drei Jahren hier. |
-| von | from / of / by | Das Auto von Felix ist kaputt. |
-| zu | to / at | Ich gehe zu Fuß. |
-| gegenüber | opposite | Die Post ist gegenüber dem Bahnhof. |
+| **aus** | from / out of | Er kommt aus Brasilien. |
+| **bei** | at / near / with | Ich wohne bei meinen Eltern. |
+| **mit** | with | Ich fahre mit dem Bus. |
+| **nach** | after / to (cities/countries) | Ich fliege nach Berlin. |
+| **seit** | since / for | Ich wohne seit drei Jahren hier. |
+| **von** | from / of / by | Das Auto von Felix ist kaputt. |
+| **zu** | to / at | Ich gehe zu Fuß. |
+| **gegenüber** | opposite | Die Post ist gegenüber dem Bahnhof. |
 
 ---
 
 ### 4c. Two-Way Prepositions (Wechselpräpositionen) — Akkusativ OR Dativ
 
-> Rule: Movement/direction → Akkusativ (Wohin?) | Location/state → Dativ (Wo?)
+> **Rule:** Movement/direction → **Akkusativ** (Wohin?) | Location/state → **Dativ** (Wo?)
 
 | Preposition | Meaning | Akkusativ (movement) | Dativ (location) |
 |-------------|---------|----------------------|------------------|
-| an | at / on (vertical) | Stell es an die Wand. | Es hängt an der Wand. |
-| auf | on (horizontal) | Leg es auf den Tisch. | Es liegt auf dem Tisch. |
-| hinter | behind | Stell es hinter den Schrank. | Es steht hinter dem Schrank. |
-| in | in / into | Geh in die Küche. | Er ist in der Küche. |
-| neben | next to | Stell es neben den Stuhl. | Es steht neben dem Stuhl. |
-| über | above / over | Häng es über das Sofa. | Es hängt über dem Sofa. |
-| unter | under / below | Stell es unter den Tisch. | Es steht unter dem Tisch. |
-| vor | in front of | Stell es vor die Tür. | Es steht vor der Tür. |
-| zwischen | between | Stell es zwischen die Stühle. | Es steht zwischen den Stühlen. |
+| **an** | at / on (vertical) | Stell es **an die** Wand. | Es hängt **an der** Wand. |
+| **auf** | on (horizontal) | Leg es **auf den** Tisch. | Es liegt **auf dem** Tisch. |
+| **hinter** | behind | Stell es **hinter den** Schrank. | Es steht **hinter dem** Schrank. |
+| **in** | in / into | Geh **in die** Küche. | Er ist **in der** Küche. |
+| **neben** | next to | Stell es **neben den** Stuhl. | Es steht **neben dem** Stuhl. |
+| **über** | above / over | Häng es **über das** Sofa. | Es hängt **über dem** Sofa. |
+| **unter** | under / below | Stell es **unter den** Tisch. | Es steht **unter dem** Tisch. |
+| **vor** | in front of | Stell es **vor die** Tür. | Es steht **vor der** Tür. |
+| **zwischen** | between | Stell es **zwischen die** Stühle. | Es steht **zwischen den** Stühlen. |
 
 ---
 
@@ -139,24 +139,24 @@ All possessives follow the same endings as kein/ein:
 | we | wir | uns | uns |
 | you (plural) | ihr | euch | euch |
 | they | sie | sie | ihnen |
-| you (formal) | Sie | Sie | Ihnen |
+| you (formal) | **Sie** | **Sie** | **Ihnen** |
 
 ---
 
 ## 6. Verb Conjugation — Present Tense (Präsens)
 
-### 6a. Regular Verbs — Pattern with machen (to do/make)
+### 6a. Regular Verbs — Pattern with **machen** (to do/make)
 
 | Person | Ending | machen | arbeiten | heißen |
 |--------|--------|--------|----------|--------|
-| ich | -e | mache | arbeite | heiße |
-| du | -st | machst | arbeitest | heißt |
-| er/sie/es | -t | macht | arbeitet | heißt |
-| wir | -en | machen | arbeiten | heißen |
-| ihr | -t | macht | arbeitet | heißt |
-| sie/Sie | -en | machen | arbeiten | heißen |
+| ich | **-e** | mach**e** | arbeit**e** | heiß**e** |
+| du | **-st** | mach**st** | arbeit**est** | heiß**t** |
+| er/sie/es | **-t** | mach**t** | arbeit**et** | heiß**t** |
+| wir | **-en** | mach**en** | arbeit**en** | heiß**en** |
+| ihr | **-t** | mach**t** | arbeit**et** | heiß**t** |
+| sie/Sie | **-en** | mach**en** | arbeit**en** | heiß**en** |
 
->  Verbs ending in -ten / -den (arbeiten, reden) add an extra -e before -st and -t.
+> 💡 Verbs ending in **-ten / -den** (arbeiten, reden) add an extra **-e** before **-st** and **-t**.
 
 ---
 
@@ -164,115 +164,115 @@ All possessives follow the same endings as kein/ein:
 
 | Infinitiv | ich | du | er/sie/es | wir | ihr | sie/Sie | Meaning |
 |-----------|-----|----|-----------|-----|-----|---------|---------|
-| sein | bin | bist | ist | sind | seid | sind | to be |
-| haben | habe | hast | hat | haben | habt | haben | to have |
-| werden | werde | wirst | wird | werden | werdet | werden | to become |
-| fahren | fahre | fährst | fährt | fahren | fahrt | fahren | to drive/go |
-| laufen | laufe | läufst | läuft | laufen | lauft | laufen | to run/walk |
-| schlafen | schlafe | schläfst | schläft | schlafen | schlaft | schlafen | to sleep |
-| lesen | lese | liest | liest | lesen | lest | lesen | to read |
-| sehen | sehe | siehst | sieht | sehen | seht | sehen | to see |
-| essen | esse | isst | isst | essen | esst | essen | to eat |
-| geben | gebe | gibst | gibt | geben | gebt | geben | to give |
-| sprechen | spreche | sprichst | spricht | sprechen | sprecht | sprechen | to speak |
-| helfen | helfe | hilfst | hilft | helfen | helft | helfen | to help |
-| nehmen | nehme | nimmst | nimmt | nehmen | nehmt | nehmen | to take |
-| anfangen | fange an | fängst an | fängt an | fangen an | fangt an | fangen an | to begin |
-| laufen | laufe | läufst | läuft | laufen | lauft | laufen | to walk/run |
-| waschen | wasche | wäschst | wäscht | waschen | wascht | waschen | to wash |
-| tragen | trage | trägst | trägt | tragen | tragt | tragen | to carry/wear |
-| wissen | weiß | weißt | weiß | wissen | wisst | wissen | to know (fact) |
+| **sein** | bin | bist | ist | sind | seid | sind | to be |
+| **haben** | habe | hast | hat | haben | habt | haben | to have |
+| **werden** | werde | wirst | wird | werden | werdet | werden | to become |
+| **fahren** | fahre | fährst | fährt | fahren | fahrt | fahren | to drive/go |
+| **laufen** | laufe | läufst | läuft | laufen | lauft | laufen | to run/walk |
+| **schlafen** | schlafe | schläfst | schläft | schlafen | schlaft | schlafen | to sleep |
+| **lesen** | lese | liest | liest | lesen | lest | lesen | to read |
+| **sehen** | sehe | siehst | sieht | sehen | seht | sehen | to see |
+| **essen** | esse | isst | isst | essen | esst | essen | to eat |
+| **geben** | gebe | gibst | gibt | geben | gebt | geben | to give |
+| **sprechen** | spreche | sprichst | spricht | sprechen | sprecht | sprechen | to speak |
+| **helfen** | helfe | hilfst | hilft | helfen | helft | helfen | to help |
+| **nehmen** | nehme | nimmst | nimmt | nehmen | nehmt | nehmen | to take |
+| **anfangen** | fange an | fängst an | fängt an | fangen an | fangt an | fangen an | to begin |
+| **laufen** | laufe | läufst | läuft | laufen | lauft | laufen | to walk/run |
+| **waschen** | wasche | wäschst | wäscht | waschen | wascht | waschen | to wash |
+| **tragen** | trage | trägst | trägt | tragen | tragt | tragen | to carry/wear |
+| **wissen** | weiß | weißt | weiß | wissen | wisst | wissen | to know (fact) |
 
 ---
 
 ## 7. Modal Verbs (Modalverben)
 
-Modal verbs express ability, permission, obligation, or desire. They are always used with an infinitive at the end.
+Modal verbs express ability, permission, obligation, or desire. They are always used with an **infinitive at the end**.
 
 | Infinitiv | ich | du | er/sie/es | wir | ihr | sie/Sie | Core Meaning |
 |-----------|-----|----|-----------|-----|-----|---------|--------------|
-| können | kann | kannst | kann | können | könnt | können | can / to be able to |
-| müssen | muss | musst | muss | müssen | müsst | müssen | must / have to |
-| wollen | will | willst | will | wollen | wollt | wollen | want to |
-| sollen | soll | sollst | soll | sollen | sollt | sollen | should / supposed to |
-| dürfen | darf | darfst | darf | dürfen | dürft | dürfen | may / allowed to |
-| mögen | mag | magst | mag | mögen | mögt | mögen | to like |
-| möchten | möchte | möchtest | möchte | möchten | möchtet | möchten | would like to |
+| **können** | kann | kannst | kann | können | könnt | können | can / to be able to |
+| **müssen** | muss | musst | muss | müssen | müsst | müssen | must / have to |
+| **wollen** | will | willst | will | wollen | wollt | wollen | want to |
+| **sollen** | soll | sollst | soll | sollen | sollt | sollen | should / supposed to |
+| **dürfen** | darf | darfst | darf | dürfen | dürft | dürfen | may / allowed to |
+| **mögen** | mag | magst | mag | mögen | mögt | mögen | to like |
+| **möchten** | möchte | möchtest | möchte | möchten | möchtet | möchten | would like to |
 
 ### Examples:
 | German | English |
 |--------|---------|
-| Ich kann Deutsch sprechen. | I can speak German. |
-| Du musst jetzt gehen. | You have to go now. |
-| Er will Arzt werden. | He wants to become a doctor. |
-| Hier darf man nicht rauchen. | You may not smoke here. |
-| Was möchten Sie trinken? | What would you like to drink? |
+| Ich **kann** Deutsch **sprechen**. | I can speak German. |
+| Du **musst** jetzt **gehen**. | You have to go now. |
+| Er **will** Arzt **werden**. | He wants to become a doctor. |
+| Hier **darf** man nicht **rauchen**. | You may not smoke here. |
+| Was **möchten** Sie **trinken**? | What would you like to drink? |
 
 ---
 
 ## 8. Separable Verbs (Trennbare Verben)
 
-The prefix splits off and goes to the end of the sentence in present tense.
+The prefix **splits off** and goes to the **end** of the sentence in present tense.
 
 | Verb | Meaning | Present Tense Example |
 |------|---------|----------------------|
-| an·rufen | to call (phone) | Ich rufe dich an. |
-| ab·fahren | to depart | Der Zug fährt um 8 Uhr ab. |
-| ab·holen | to pick up | Ich hole dich ab. |
-| an·fangen | to begin | Der Kurs fängt um 9 Uhr an. |
-| auf·stehen | to get up | Ich stehe um 6 Uhr auf. |
-| aus·steigen | to get off | Wo steigst du aus? |
-| ein·kaufen | to shop | Ich kaufe heute ein. |
-| ein·laden | to invite | Darf ich dich einladen? ← *NOT separable in infinitive* |
-| an·machen | to turn on | Mach das Licht an! |
-| aus·machen | to turn off | Mach das Licht aus! |
-| mit·kommen | to come along | Kommst du mit? |
-| fern·sehen | to watch TV | Wir sehen heute Abend fern. |
-| aus·füllen | to fill out | Füllen Sie das Formular aus! |
+| **an·rufen** | to call (phone) | Ich **rufe** dich **an**. |
+| **ab·fahren** | to depart | Der Zug **fährt** um 8 Uhr **ab**. |
+| **ab·holen** | to pick up | Ich **hole** dich **ab**. |
+| **an·fangen** | to begin | Der Kurs **fängt** um 9 Uhr **an**. |
+| **auf·stehen** | to get up | Ich **stehe** um 6 Uhr **auf**. |
+| **aus·steigen** | to get off | Wo **steigst** du **aus**? |
+| **ein·kaufen** | to shop | Ich **kaufe** heute **ein**. |
+| **ein·laden** | to invite | Darf ich dich **einladen**? ← *NOT separable in infinitive* |
+| **an·machen** | to turn on | **Mach** das Licht **an**! |
+| **aus·machen** | to turn off | **Mach** das Licht **aus**! |
+| **mit·kommen** | to come along | **Kommst** du **mit**? |
+| **fern·sehen** | to watch TV | Wir **sehen** heute Abend **fern**. |
+| **aus·füllen** | to fill out | **Füllen** Sie das Formular **aus**! |
 
 ---
 
 ## 9. Perfect Tense (Perfekt) — Talking About the Past
 
-Structure: haben/sein (conjugated) + Partizip II (at the end)
+**Structure:** haben/sein (conjugated) + **Partizip II** (at the end)
 
 ### 9a. Partizip II Formation
 
 | Type | Rule | Example |
 |------|------|---------|
-| Regular | ge- + stem + -t | machen → gemacht |
-| Regular (-ieren) | no ge- + -t | telefonieren → telefoniert |
-| Separable | prefix + ge- + stem + -t | anrufen → angerufen |
-| Irregular | ge- + changed stem + -en | fahren → gefahren |
+| Regular | ge- + stem + -t | machen → **ge**mach**t** |
+| Regular (-ieren) | no ge- + -t | telefonieren → telefon**iert** |
+| Separable | prefix + ge- + stem + -t | anrufen → **an**ge**rufen** |
+| Irregular | ge- + changed stem + -en | fahren → **ge**fahr**en** |
 
 ### 9b. haben vs. sein
 
-sein is used with verbs of movement/change of state:
+**sein** is used with verbs of **movement/change of state**:
 
 | Verb | Partizip II | Example |
 |------|-------------|---------|
-| gehen | gegangen | Ich bin gegangen. |
-| fahren | gefahren | Er ist gefahren. |
-| kommen | gekommen | Sie ist gekommen. |
-| fliegen | geflogen | Wir sind geflogen. |
-| aufstehen | aufgestanden | Ich bin aufgestanden. |
-| einsteigen | eingestiegen | Er ist eingestiegen. |
-| aussteigen | ausgestiegen | Ich bin ausgestiegen. |
-| bleiben | geblieben | Sie ist geblieben. |
-| werden | geworden | Er ist Arzt geworden. |
-| sein | gewesen | Wo bist du gewesen? |
+| gehen | gegangen | Ich **bin** gegangen. |
+| fahren | gefahren | Er **ist** gefahren. |
+| kommen | gekommen | Sie **ist** gekommen. |
+| fliegen | geflogen | Wir **sind** geflogen. |
+| aufstehen | aufgestanden | Ich **bin** aufgestanden. |
+| einsteigen | eingestiegen | Er **ist** eingestiegen. |
+| aussteigen | ausgestiegen | Ich **bin** ausgestiegen. |
+| bleiben | geblieben | Sie **ist** geblieben. |
+| werden | geworden | Er **ist** Arzt geworden. |
+| sein | gewesen | Wo **bist** du gewesen? |
 
-haben is used with most other verbs:
+**haben** is used with most other verbs:
 
 | Verb | Partizip II | Example |
 |------|-------------|---------|
-| machen | gemacht | Ich habe das gemacht. |
-| kaufen | gekauft | Er hat ein Auto gekauft. |
-| essen | gegessen | Wir haben gegessen. |
-| trinken | getrunken | Sie hat Kaffee getrunken. |
-| sehen | gesehen | Ich habe ihn gesehen. |
-| sprechen | gesprochen | Wir haben gesprochen. |
-| schreiben | geschrieben | Er hat eine E-Mail geschrieben. |
+| machen | gemacht | Ich **habe** das gemacht. |
+| kaufen | gekauft | Er **hat** ein Auto gekauft. |
+| essen | gegessen | Wir **haben** gegessen. |
+| trinken | getrunken | Sie **hat** Kaffee getrunken. |
+| sehen | gesehen | Ich **habe** ihn gesehen. |
+| sprechen | gesprochen | Wir **haben** gesprochen. |
+| schreiben | geschrieben | Er **hat** eine E-Mail geschrieben. |
 
 ---
 
@@ -282,19 +282,19 @@ haben is used with most other verbs:
 
 | Position 1 | Position 2 (Verb) | Middle | End |
 |------------|-------------------|--------|-----|
-| Ich | komme | morgen | — |
-| Morgen | komme | ich | — |
-| Ich | möchte | ein Bier | trinken |
-| Er | hat | das Buch | gelesen |
+| Ich | **komme** | morgen | — |
+| Morgen | **komme** | ich | — |
+| Ich | **möchte** | ein Bier | **trinken** |
+| Er | **hat** | das Buch | **gelesen** |
 
->  The verb always stays in position 2 in a main clause, no matter what comes first!
+> 💡 The **verb always stays in position 2** in a main clause, no matter what comes first!
 
 ### 10b. Questions
 
 | Type | Structure | Example |
 |------|-----------|---------|
-| Yes/No question | Verb first | Kommst du mit? |
-| W-question | W-word + Verb | Woher kommen Sie? |
+| Yes/No question | Verb first | **Kommst** du mit? |
+| W-question | W-word + Verb | **Woher** **kommen** Sie? |
 
 ### 10c. Common W-Question Words
 
@@ -321,21 +321,21 @@ haben is used with most other verbs:
 
 | Case | Masculine | Feminine | Neuter | Plural |
 |------|-----------|----------|--------|--------|
-| Nominativ | -e | -e | -e | -en |
-| Akkusativ | -en | -e | -e | -en |
-| Dativ | -en | -en | -en | -en |
+| Nominativ | -**e** | -**e** | -**e** | -**en** |
+| Akkusativ | -**en** | -**e** | -**e** | -**en** |
+| Dativ | -**en** | -**en** | -**en** | -**en** |
 
-*Example: der alte Mann, den alten Mann, dem alten Mann*
+*Example: der alt**e** Mann, den alt**en** Mann, dem alt**en** Mann*
 
 ### After indefinite article (ein/eine):
 
 | Case | Masculine | Feminine | Neuter | Plural |
 |------|-----------|----------|--------|--------|
-| Nominativ | -er | -e | -es | -en |
-| Akkusativ | -en | -e | -es | -en |
-| Dativ | -en | -en | -en | -en |
+| Nominativ | -**er** | -**e** | -**es** | -**en** |
+| Akkusativ | -**en** | -**e** | -**es** | -**en** |
+| Dativ | -**en** | -**en** | -**en** | -**en** |
 
-*Example: ein alter Mann, einen alten Mann*
+*Example: ein alt**er** Mann, einen alt**en** Mann*
 
 ---
 
@@ -343,13 +343,13 @@ haben is used with most other verbs:
 
 | Conjunction | Meaning | Note | Example |
 |-------------|---------|------|---------|
-| und | and | normal word order | Peter und Helmut kommen. |
-| aber | but | normal word order | Ich bin da, aber ich habe keine Zeit. |
-| oder | or | normal word order | Heute oder morgen? |
-| denn | because | normal word order | Ich bleibe, denn es regnet. |
-| weil | because | verb → END | Ich bleibe, weil es regnet. |
-| dass | that | verb → END | Ich glaube, dass er kommt. |
-| wenn | when / if | verb → END | Wenn ich Zeit habe, komme ich. |
+| **und** | and | normal word order | Peter und Helmut kommen. |
+| **aber** | but | normal word order | Ich bin da, **aber** ich habe keine Zeit. |
+| **oder** | or | normal word order | Heute oder morgen? |
+| **denn** | because | normal word order | Ich bleibe, **denn** es regnet. |
+| **weil** | because | verb → END | Ich bleibe, **weil** es **regnet**. |
+| **dass** | that | verb → END | Ich glaube, **dass** er **kommt**. |
+| **wenn** | when / if | verb → END | **Wenn** ich Zeit **habe**, komme ich. |
 
 ---
 
@@ -357,11 +357,11 @@ haben is used with most other verbs:
 
 | Form | Rule | Example |
 |------|------|---------|
-| du (informal singular) | Verb stem (drop -en) | Komm! Mach! Fahr! |
-| ihr (informal plural) | Verb stem + -t | Kommt! Macht! |
-| Sie (formal) | Infinitive + Sie | Kommen Sie! Machen Sie! |
+| **du** (informal singular) | Verb stem (drop -en) | Komm! Mach! Fahr! |
+| **ihr** (informal plural) | Verb stem + -t | Kommt! Macht! |
+| **Sie** (formal) | Infinitive + Sie | Kommen **Sie**! Machen **Sie**! |
 
->  Irregular: sein → Sei! / Seid! / Seien Sie!
+> 💡 Irregular: **sein** → Sei! / Seid! / Seien Sie!
 
 ---
 
@@ -369,10 +369,10 @@ haben is used with most other verbs:
 
 | Word | Use | Example |
 |------|-----|---------|
-| nicht | negates verbs, adjectives, adverbs | Das ist nicht richtig. |
-| kein/keine | negates nouns (replaces ein/eine) | Ich habe keine Zeit. |
-| nie | never | Er kommt nie pünktlich. |
-| nichts | nothing | Ich kaufe nichts. |
+| **nicht** | negates verbs, adjectives, adverbs | Das ist **nicht** richtig. |
+| **kein/keine** | negates nouns (replaces ein/eine) | Ich habe **keine** Zeit. |
+| **nie** | never | Er kommt **nie** pünktlich. |
+| **nichts** | nothing | Ich kaufe **nichts**. |
 
 ---
 
@@ -833,7 +833,7 @@ haben is used with most other verbs:
 | werden | wirst | wird | geworden* | to become |
 | wissen | weißt | weiß | gewusst | to know (fact) |
 
-> \* = uses sein in Perfekt
+> \* = uses **sein** in Perfekt
 
 ---
 
