@@ -3,14 +3,14 @@ import { useState, useRef, useCallback } from 'react'
 import type { AnnotatedWord, WordType } from '@/lib/parseChapter'
 
 const TYPE_STYLES: Record<WordType, { light: string; dark: string; label: string }> = {
-  verb:  { light: '#b45309', dark: '#f59e0b', label: 'Verb' },
-  conj:  { light: '#6d28d9', dark: '#a78bfa', label: 'Conjunction' },
-  adv:   { light: '#047857', dark: '#34d399', label: 'Adverb' },
-  adj:   { light: '#92400e', dark: '#fcd34d', label: 'Adjective' },
-  masc:  { light: '#1d4ed8', dark: '#60a5fa', label: 'Noun (der)' },
-  fem:   { light: '#be185d', dark: '#f472b6', label: 'Noun (die)' },
-  neut:  { light: '#15803d', dark: '#4ade80', label: 'Noun (das)' },
-  pron:  { light: '#6b7280', dark: '#9ca3af', label: 'Pronoun' },
+  verb:  { light: '#b45309', dark: '#f59e0b', label: 'Verb' },        // amber
+  conj:  { light: '#0369a1', dark: '#38bdf8', label: 'Conjunction' }, // sky blue — distinct from masc
+  adv:   { light: '#047857', dark: '#34d399', label: 'Adverb' },      // emerald
+  adj:   { light: '#7c3aed', dark: '#c084fc', label: 'Adjective' },   // violet
+  masc:  { light: '#1d4ed8', dark: '#60a5fa', label: 'Noun (der)' },  // blue
+  fem:   { light: '#be185d', dark: '#f472b6', label: 'Noun (die)' },  // pink
+  neut:  { light: '#15803d', dark: '#4ade80', label: 'Noun (das)' },  // green
+  pron:  { light: '#6b7280', dark: '#9ca3af', label: 'Pronoun' },     // gray
 }
 
 export function GermanWord({ data }: { data: AnnotatedWord }) {
@@ -23,19 +23,12 @@ export function GermanWord({ data }: { data: AnnotatedWord }) {
   const computePos = useCallback(() => {
     if (!spanRef.current) return
     const rect = spanRef.current.getBoundingClientRect()
-    const tw = 240
-    const th = 160
-    const vw = window.innerWidth
-    const vh = window.innerHeight
-    const pad = 8
-
+    const tw = 240, th = 160, pad = 8
+    const vw = window.innerWidth, vh = window.innerHeight
     let x = rect.left
     if (x + tw > vw - pad) x = vw - tw - pad
     if (x < pad) x = pad
-
-    const spaceBelow = vh - rect.bottom - pad
-    const y = spaceBelow >= th ? rect.bottom + 4 : rect.top - th - 4
-
+    const y = (vh - rect.bottom - pad) >= th ? rect.bottom + 4 : rect.top - th - 4
     setPos({ x, y })
   }, [])
 
@@ -60,8 +53,8 @@ export function GermanWord({ data }: { data: AnnotatedWord }) {
         onTouchStart={(e) => { e.preventDefault(); show() }}
         onTouchEnd={() => hide(2500)}
       >
-        <style>{`.dark .de-word-${data.type.replace(/[^a-z]/g,'')} { color: ${style.dark} !important; }`}</style>
-        <span className={`de-word-${data.type.replace(/[^a-z]/g,'')}`} style={{ color: 'inherit' }}>{data.word}</span>
+        <style>{`.dark .de-${data.type}{color:${style.dark}!important}`}</style>
+        <span className={`de-${data.type}`} style={{ color: 'inherit' }}>{data.word}</span>
       </span>
 
       {visible && (

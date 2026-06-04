@@ -2,57 +2,49 @@ import { GermanWord } from './GermanWord'
 import type { ParsedLine, Token } from '@/lib/parseChapter'
 
 type ArticleStyle =
-  | { kind: 'solid'; light: string; dark: string }
-  | { kind: 'gradient'; lightFrom: string; lightTo: string; darkFrom: string; darkTo: string }
+  | { kind: 'solid'; light: string; dark: string; id: string }
+  | { kind: 'gradient'; lightFrom: string; lightTo: string; darkFrom: string; darkTo: string; id: string }
 
-const MASC  = { kind: 'solid' as const, light: '#1d4ed8', dark: '#60a5fa' }
-const FEM   = { kind: 'solid' as const, light: '#be185d', dark: '#f472b6' }
-const NEUT  = { kind: 'solid' as const, light: '#15803d', dark: '#4ade80' }
-
-const MASC_FEM: ArticleStyle = {
-  kind: 'gradient',
-  lightFrom: '#1d4ed8', lightTo: '#be185d',
-  darkFrom: '#60a5fa',  darkTo: '#f472b6',
-}
-const MASC_NEUT: ArticleStyle = {
-  kind: 'gradient',
-  lightFrom: '#1d4ed8', lightTo: '#15803d',
-  darkFrom: '#60a5fa',  darkTo: '#4ade80',
-}
-const ALL_GENDERS: ArticleStyle = {
-  kind: 'gradient',
-  lightFrom: '#1d4ed8', lightTo: '#be185d',
-  darkFrom: '#60a5fa',  darkTo: '#f472b6',
-}
+const MASC:      ArticleStyle = { kind: 'solid',    id: 'masc',      light: '#1d4ed8', dark: '#60a5fa' }
+const FEM:       ArticleStyle = { kind: 'solid',    id: 'fem',       light: '#be185d', dark: '#f472b6' }
+const NEUT:      ArticleStyle = { kind: 'solid',    id: 'neut',      light: '#15803d', dark: '#4ade80' }
+const MASC_NEUT: ArticleStyle = { kind: 'gradient', id: 'mascneut',  lightFrom: '#1d4ed8', lightTo: '#15803d', darkFrom: '#60a5fa', darkTo: '#4ade80' }
+const MASC_FEM:  ArticleStyle = { kind: 'gradient', id: 'mascfem',   lightFrom: '#1d4ed8', lightTo: '#be185d', darkFrom: '#60a5fa', darkTo: '#f472b6' }
 
 const ARTICLE_MAP: Record<string, ArticleStyle> = {
-  // unambiguous
-  'der ':  MASC,
-  'die ':  FEM,
-  'das ':  NEUT,
-  'den ':  MASC,
-  // ambiguous masc+neut
-  'dem ':  MASC_NEUT,
-  'des ':  MASC_NEUT,
-  'ein ':  MASC_NEUT,
-  'eines': MASC_NEUT,
-  'einem': MASC_NEUT,
-  'kein ': MASC_NEUT,
+  'der ':   MASC,
+  'die ':   FEM,
+  'das ':   NEUT,
+  'den ':   MASC,
+  'dem ':   MASC_NEUT,
+  'des ':   MASC_NEUT,
+  'ein ':   MASC_NEUT,
+  'eines':  MASC_NEUT,
+  'einem':  MASC_NEUT,
+  'kein ':  MASC_NEUT,
   'keines': MASC_NEUT,
   'keinem': MASC_NEUT,
-  // ambiguous fem only forms that look like others
-  'einer': FEM,
-  'eine ': FEM,
-  'keine': FEM,
-  // ambiguous all genders
-  'einen': MASC,
+  'einer':  FEM,
+  'eine ':  FEM,
+  'keine':  FEM,
+  'einen':  MASC,
   'keinen': MASC,
 }
 
+const STYLE_CSS = `
+  .da-masc { color: #1d4ed8 } .dark .da-masc { color: #60a5fa }
+  .da-fem  { color: #be185d } .dark .da-fem  { color: #f472b6 }
+  .da-neut { color: #15803d } .dark .da-neut { color: #4ade80 }
+  .da-mascneut { background: linear-gradient(90deg,#1d4ed8,#15803d); -webkit-background-clip:text; -webkit-text-fill-color:transparent; background-clip:text }
+  .dark .da-mascneut { background: linear-gradient(90deg,#60a5fa,#4ade80); -webkit-background-clip:text; -webkit-text-fill-color:transparent; background-clip:text }
+  .da-mascfem { background: linear-gradient(90deg,#1d4ed8,#be185d); -webkit-background-clip:text; -webkit-text-fill-color:transparent; background-clip:text }
+  .dark .da-mascfem { background: linear-gradient(90deg,#60a5fa,#f472b6); -webkit-background-clip:text; -webkit-text-fill-color:transparent; background-clip:text }
+`
+
 function getArticleMatch(text: string): { style: ArticleStyle; articleLen: number } | null {
   const lower = text.toLowerCase()
-  // try longest match first (up to 6 chars + space)
-  for (const key of ['keinen', 'keines', 'keinem', 'keine ', 'einen ', 'einem ', 'eines ', 'eine ', 'kein ', 'einem', 'einer', 'eines', 'einen', 'keine', 'dem ', 'den ', 'des ', 'ein ', 'der ', 'die ', 'das ']) {
+  const keys = ['keinen','keines','keinem','keine ','einen ','einem ','eines ','eine ','kein ','einem','einer','eines','einen','keine','dem ','den ','des ','ein ','der ','die ','das ']
+  for (const key of keys) {
     if (lower.startsWith(key) || lower === key.trimEnd()) {
       const style = ARTICLE_MAP[key] ?? ARTICLE_MAP[key.trimEnd() + ' ']
       if (style) return { style, articleLen: key.trimEnd().length }
@@ -61,33 +53,18 @@ function getArticleMatch(text: string): { style: ArticleStyle; articleLen: numbe
   return null
 }
 
-function ArticleSpan({ text, style }: { text: string; style: ArticleStyle }) {
-  if (style.kind === 'solid') {
-    return (
-      <>
-        <style>{`.da-s{color:${style.light}}.dark .da-s{color:${style.dark}}`}</style>
-        <span className="da-s font-semibold">{text}</span>
-      </>
-    )
-  }
-  const id = `dag-${text.toLowerCase().replace(/\s/g, '')}`
-  return (
-    <>
-      <style>{`
-        .${id}{background:linear-gradient(90deg,${style.lightFrom},${style.lightTo});-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
-        .dark .${id}{background:linear-gradient(90deg,${style.darkFrom},${style.darkTo});-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
-      `}</style>
-      <span className={`${id} font-semibold`}>{text}</span>
-    </>
-  )
-}
-
 function GenderedCell({ text }: { text: string }) {
   const match = getArticleMatch(text)
   if (!match) return <>{text}</>
   const article = text.slice(0, match.articleLen)
   const rest = text.slice(match.articleLen)
-  return <><ArticleSpan text={article} style={match.style} />{rest}</>
+  return (
+    <>
+      <style>{STYLE_CSS}</style>
+      <span className={`da-${match.style.id} font-semibold`}>{article}</span>
+      {rest}
+    </>
+  )
 }
 
 function Tokens({ tokens }: { tokens: Token[] }) {
