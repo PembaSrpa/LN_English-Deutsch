@@ -53,7 +53,7 @@ function getArticleMatch(text: string): { style: ArticleStyle; articleLen: numbe
   const lower = text.toLowerCase()
   // try longest match first (up to 6 chars + space)
   for (const key of ['keinen', 'keines', 'keinem', 'keine ', 'einen ', 'einem ', 'eines ', 'eine ', 'kein ', 'einem', 'einer', 'eines', 'einen', 'keine', 'dem ', 'den ', 'des ', 'ein ', 'der ', 'die ', 'das ']) {
-    if (lower.startsWith(key)) {
+    if (lower.startsWith(key) || lower === key.trimEnd()) {
       const style = ARTICLE_MAP[key] ?? ARTICLE_MAP[key.trimEnd() + ' ']
       if (style) return { style, articleLen: key.trimEnd().length }
     }
