@@ -20,10 +20,7 @@ type Props = {
 
 export function ReaderClient({ novelId, novelTitle, chapterNum, totalChapters, availableChapters, lines }: Props) {
   const [fontSize, setFontSize] = useState(15)
-
-  useEffect(() => {
-    setFontSize(window.innerWidth < 768 ? 13 : 15)
-  }, [])
+  useEffect(() => { setFontSize(window.innerWidth < 768 ? 13 : 15) }, [])
 
   const prevNum = chapterNum > 1 ? chapterNum - 1 : null
   const nextNum = chapterNum < availableChapters ? chapterNum + 1 : null
@@ -51,17 +48,13 @@ export function ReaderClient({ novelId, novelTitle, chapterNum, totalChapters, a
 
       <nav className="sticky bottom-0 z-40 bg-neutral-200/95 dark:bg-neutral-900/95 backdrop-blur border-t border-neutral-300 dark:border-neutral-700">
         <div className="flex items-center justify-between px-8 py-3">
-          {prevNum ? (
-            <Link href={`/${novelId}/${prevNum}`} className="flex items-center gap-1.5 text-xs text-neutral-500 hover:text-neutral-800 dark:hover:text-neutral-200 transition-colors">
-              <IconArrowLeft size={13} /> Prev
-            </Link>
-          ) : <span />}
+          {prevNum
+            ? <Link href={`/${novelId}/${prevNum}`} className="flex items-center gap-1.5 text-xs text-neutral-500 hover:text-neutral-800 dark:hover:text-neutral-200 transition-colors"><IconArrowLeft size={13} /> Prev</Link>
+            : <span />}
           <span className="text-[11px] text-neutral-400 dark:text-neutral-500 tabular-nums">{chapterNum} / {totalChapters}</span>
-          {nextNum ? (
-            <Link href={`/${novelId}/${nextNum}`} className="flex items-center gap-1.5 text-xs text-neutral-500 hover:text-neutral-800 dark:hover:text-neutral-200 transition-colors">
-              Next <IconArrowRight size={13} />
-            </Link>
-          ) : <span />}
+          {nextNum
+            ? <Link href={`/${novelId}/${nextNum}`} className="flex items-center gap-1.5 text-xs text-neutral-500 hover:text-neutral-800 dark:hover:text-neutral-200 transition-colors">Next <IconArrowRight size={13} /></Link>
+            : <span />}
         </div>
       </nav>
     </div>

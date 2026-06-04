@@ -1,24 +1,93 @@
 import { GermanWord } from './GermanWord'
 import type { ParsedLine, Token } from '@/lib/parseChapter'
 
-const ARTICLE_STYLES: Record<string, { type: string; light: string; dark: string }> = {
-  'der ': { type: 'masc', light: '#1d4ed8', dark: '#60a5fa' },
-  'die ': { type: 'fem',  light: '#be185d', dark: '#f472b6' },
-  'das ': { type: 'neut', light: '#15803d', dark: '#4ade80' },
+type ArticleStyle =
+  | { kind: 'solid'; light: string; dark: string }
+  | { kind: 'gradient'; lightFrom: string; lightTo: string; darkFrom: string; darkTo: string }
+
+const MASC  = { kind: 'solid' as const, light: '#1d4ed8', dark: '#60a5fa' }
+const FEM   = { kind: 'solid' as const, light: '#be185d', dark: '#f472b6' }
+const NEUT  = { kind: 'solid' as const, light: '#15803d', dark: '#4ade80' }
+
+const MASC_FEM: ArticleStyle = {
+  kind: 'gradient',
+  lightFrom: '#1d4ed8', lightTo: '#be185d',
+  darkFrom: '#60a5fa',  darkTo: '#f472b6',
+}
+const MASC_NEUT: ArticleStyle = {
+  kind: 'gradient',
+  lightFrom: '#1d4ed8', lightTo: '#15803d',
+  darkFrom: '#60a5fa',  darkTo: '#4ade80',
+}
+const ALL_GENDERS: ArticleStyle = {
+  kind: 'gradient',
+  lightFrom: '#1d4ed8', lightTo: '#be185d',
+  darkFrom: '#60a5fa',  darkTo: '#f472b6',
+}
+
+const ARTICLE_MAP: Record<string, ArticleStyle> = {
+  // unambiguous
+  'der ':  MASC,
+  'die ':  FEM,
+  'das ':  NEUT,
+  'den ':  MASC,
+  // ambiguous masc+neut
+  'dem ':  MASC_NEUT,
+  'des ':  MASC_NEUT,
+  'ein ':  MASC_NEUT,
+  'eines': MASC_NEUT,
+  'einem': MASC_NEUT,
+  'kein ': MASC_NEUT,
+  'keines': MASC_NEUT,
+  'keinem': MASC_NEUT,
+  // ambiguous fem only forms that look like others
+  'einer': FEM,
+  'eine ': FEM,
+  'keine': FEM,
+  // ambiguous all genders
+  'einen': MASC,
+  'keinen': MASC,
+}
+
+function getArticleMatch(text: string): { style: ArticleStyle; articleLen: number } | null {
+  const lower = text.toLowerCase()
+  // try longest match first (up to 6 chars + space)
+  for (const key of ['keinen', 'keines', 'keinem', 'keine ', 'einen ', 'einem ', 'eines ', 'eine ', 'kein ', 'einem', 'einer', 'eines', 'einen', 'keine', 'dem ', 'den ', 'des ', 'ein ', 'der ', 'die ', 'das ']) {
+    if (lower.startsWith(key)) {
+      const style = ARTICLE_MAP[key] ?? ARTICLE_MAP[key.trimEnd() + ' ']
+      if (style) return { style, articleLen: key.trimEnd().length }
+    }
+  }
+  return null
+}
+
+function ArticleSpan({ text, style }: { text: string; style: ArticleStyle }) {
+  if (style.kind === 'solid') {
+    return (
+      <>
+        <style>{`.da-s{color:${style.light}}.dark .da-s{color:${style.dark}}`}</style>
+        <span className="da-s font-semibold">{text}</span>
+      </>
+    )
+  }
+  const id = `dag-${text.toLowerCase().replace(/\s/g, '')}`
+  return (
+    <>
+      <style>{`
+        .${id}{background:linear-gradient(90deg,${style.lightFrom},${style.lightTo});-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
+        .dark .${id}{background:linear-gradient(90deg,${style.darkFrom},${style.darkTo});-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
+      `}</style>
+      <span className={`${id} font-semibold`}>{text}</span>
+    </>
+  )
 }
 
 function GenderedCell({ text }: { text: string }) {
-  const match = ARTICLE_STYLES[text.slice(0, 4).toLowerCase()]
+  const match = getArticleMatch(text)
   if (!match) return <>{text}</>
-  const article = text.slice(0, 3)
-  const rest = text.slice(3)
-  return (
-    <>
-      <style>{`.de-art-${match.type}{color:${match.light}} .dark .de-art-${match.type}{color:${match.dark}}`}</style>
-      <span className={`de-art-${match.type} font-semibold`}>{article}</span>
-      {rest}
-    </>
-  )
+  const article = text.slice(0, match.articleLen)
+  const rest = text.slice(match.articleLen)
+  return <><ArticleSpan text={article} style={match.style} />{rest}</>
 }
 
 function Tokens({ tokens }: { tokens: Token[] }) {

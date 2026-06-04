@@ -7,8 +7,7 @@ export type Novel = {
   coverImage: string | null
   totalChapters: number
   contentFolder: string
-  type: 'md' | 'pdf'
-  pdfPath?: string
+  type: 'md'
 }
 
 const novels: Novel[] = [
@@ -33,18 +32,6 @@ const novels: Novel[] = [
     totalChapters: 500,
     contentFolder: 'shadow-slave',
     type: 'md',
-  },
-  {
-    id: 'grammatik-a1',
-    title: 'Deutsch Grammatik leicht A1',
-    author: 'Hueber Verlag',
-    description: 'A1-level German grammar reference with exercises. 122 pages covering verbs, nouns, pronouns, articles, and more.',
-    genre: ['Grammar', 'Reference'],
-    coverImage: '/covers/grammatik-a1.png',
-    totalChapters: 122,
-    contentFolder: '',
-    type: 'pdf',
-    pdfPath: '/pdf/Grammatik_A1.pdf',
   },
   {
     id: 'a1-glossary',
