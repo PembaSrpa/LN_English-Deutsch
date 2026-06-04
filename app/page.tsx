@@ -7,7 +7,7 @@ import { ThemeToggle } from '@/components/ThemeToggle'
 export default function HomePage() {
   const novelData = novels.map(novel => ({
     novel,
-    chapterCount: novel.type === 'pdf' ? novel.totalChapters : getChapterList(novel.contentFolder).length,
+    chapterCount: getChapterList(novel.contentFolder).length,
   }))
 
   return (
@@ -55,12 +55,10 @@ export default function HomePage() {
                   </div>
                 )}
                 {novel.id === 'ugly-duckling' && <span className="absolute top-2 right-2 text-[9px] bg-neutral-900/80 text-white px-1.5 py-0.5 rounded-full font-bold uppercase tracking-wider z-10">Demo</span>}
-                {novel.type === 'pdf' && <span className="absolute top-2 right-2 text-[9px] bg-neutral-900/80 text-white px-1.5 py-0.5 rounded-full font-bold uppercase tracking-wider z-10">PDF</span>}
               </div>
               <div className="p-3 bg-neutral-100 dark:bg-neutral-800">
                 <div className="text-xs font-semibold text-neutral-800 dark:text-neutral-200 truncate mb-0.5">{novel.title}</div>
                 <div className="text-[10px] text-neutral-400 dark:text-neutral-500 truncate">{novel.author}</div>
-                <div className="text-[10px] text-neutral-400 dark:text-neutral-500 mt-0.5">{chapterCount} {novel.type === 'pdf' ? 'pages' : 'chapters'}</div>
               </div>
             </Link>
           ))}
