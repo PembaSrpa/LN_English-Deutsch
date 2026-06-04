@@ -21,11 +21,27 @@ export function GermanWord({ data }: { data: AnnotatedWord }) {
   const [mounted, setMounted] = useState(false)
   const spanRef = useRef<HTMLSpanElement>(null)
   const hideTimer = useRef<ReturnType<typeof setTimeout> | null>(null)
+  const justOpenedRef = useRef(false)
 
   useEffect(() => {
     setMounted(true)
     setIsTouch(window.matchMedia('(pointer: coarse)').matches)
   }, [])
+
+  useEffect(() => {
+    if (!isTouch || !visible) return
+
+    const dismiss = () => {
+      if (justOpenedRef.current) {
+        justOpenedRef.current = false
+        return
+      }
+      setVisible(false)
+    }
+
+    document.addEventListener('touchstart', dismiss, { passive: true })
+    return () => document.removeEventListener('touchstart', dismiss)
+  }, [isTouch, visible])
 
   const style = TYPE_STYLES[data.type] ?? TYPE_STYLES.adv
 
@@ -44,6 +60,7 @@ export function GermanWord({ data }: { data: AnnotatedWord }) {
   const show = useCallback(() => {
     if (hideTimer.current) clearTimeout(hideTimer.current)
     computePos()
+    justOpenedRef.current = true
     setVisible(true)
   }, [computePos])
 
