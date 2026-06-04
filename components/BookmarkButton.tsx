@@ -10,11 +10,11 @@ export function BookmarkButton({ novelId, chapter }: { novelId: string; chapter:
     <button
       onClick={() => setBookmarked(toggleBookmark(novelId, chapter))}
       aria-label={bookmarked ? 'Remove bookmark' : 'Bookmark'}
-      className="py-2 px-3 hover:bg-neutral-300 dark:hover:bg-neutral-800 rounded-md transition-colors border border-transparent hover:border-neutral-400 dark:hover:border-neutral-600"
+      className="py-2 px-3 hover:bg-neutral-600 rounded-md transition-colors border border-transparent hover:border-neutral-500"
     >
       {bookmarked
-        ? <IconBookmarkFilled size={16} className="text-neutral-700 dark:text-neutral-300" />
-        : <IconBookmark size={16} className="text-neutral-500 dark:text-neutral-400" />}
+        ? <IconBookmarkFilled size={16} className="text-neutral-200" />
+        : <IconBookmark size={16} className="text-neutral-300" />}
     </button>
   )
 }

@@ -1,10 +1,10 @@
 'use client'
 import { useEffect, useState } from 'react'
 import Link from 'next/link'
+import { motion } from 'motion/react'
 import { ChapterRenderer } from './ChapterRenderer'
 import { BookmarkButton } from './BookmarkButton'
 import { ProgressTracker } from './ProgressTracker'
-import { ThemeToggle } from './ThemeToggle'
 import { IconArrowLeft, IconArrowRight } from '@tabler/icons-react'
 import type { ParsedLine } from '@/lib/parseChapter'
 
@@ -29,16 +29,15 @@ export function ReaderClient({ novelId, novelTitle, chapterNum, totalChapters, a
     <div className="min-h-screen flex flex-col">
       <ProgressTracker novelId={novelId} chapter={chapterNum} />
 
-      <header className="sticky top-0 z-40 bg-neutral-400 dark:bg-neutral-700 backdrop-blur border-b border-neutral-300 dark:border-neutral-700">
+      <header className="sticky top-0 z-40 bg-neutral-750 backdrop-blur border-b border-neutral-600 rounded-b-2xl">
         <div className="flex items-center justify-between px-8 py-2">
-          <Link href={`/${novelId}`} className="flex items-center gap-1.5 text-xs text-neutral-500 hover:text-neutral-800 dark:hover:text-neutral-200 transition-colors">
-            <IconArrowLeft size={14} />
-            <span className="truncate max-w-[160px]">{novelTitle}</span>
-          </Link>
-          <div className="flex items-center gap-1">
-            <BookmarkButton novelId={novelId} chapter={chapterNum} />
-            <ThemeToggle />
-          </div>
+          <motion.div whileHover={{ scale: 1.05 }} transition={{ type: 'spring', stiffness: 400, damping: 20 }}>
+            <Link href={`/${novelId}`} className="flex items-center gap-1.5 text-xs text-neutral-100 font-medium hover:text-white transition-colors">
+              <IconArrowLeft size={14} />
+              <span className="truncate max-w-[160px]">{novelTitle}</span>
+            </Link>
+          </motion.div>
+          <BookmarkButton novelId={novelId} chapter={chapterNum} />
         </div>
       </header>
 
@@ -46,15 +45,23 @@ export function ReaderClient({ novelId, novelTitle, chapterNum, totalChapters, a
         <ChapterRenderer lines={lines} fontSize={fontSize} />
       </main>
 
-      <nav className="sticky bottom-0 z-40 bg-neutral-400 dark:bg-neutral-700 backdrop-blur border-t border-neutral-300 dark:border-neutral-700">
+      <nav className="sticky bottom-0 z-40 bg-neutral-750 backdrop-blur border-t border-neutral-600 rounded-t-2xl">
         <div className="flex items-center justify-between px-8 py-3">
-          {prevNum
-            ? <Link href={`/${novelId}/${prevNum}`} className="flex items-center gap-1.5 text-xs text-neutral-500 hover:text-neutral-800 dark:hover:text-neutral-200 transition-colors"><IconArrowLeft size={13} /> Prev</Link>
-            : <span />}
-          <span className="text-[11px] text-neutral-400 dark:text-neutral-500 tabular-nums">{chapterNum} / {totalChapters}</span>
-          {nextNum
-            ? <Link href={`/${novelId}/${nextNum}`} className="flex items-center gap-1.5 text-xs text-neutral-500 hover:text-neutral-800 dark:hover:text-neutral-200 transition-colors">Next <IconArrowRight size={13} /></Link>
-            : <span />}
+          {prevNum ? (
+            <motion.div whileHover={{ scale: 1.05 }} transition={{ type: 'spring', stiffness: 400, damping: 20 }}>
+              <Link href={`/${novelId}/${prevNum}`} className="flex items-center gap-1.5 text-xs text-neutral-100 font-medium hover:text-white transition-colors">
+                <IconArrowLeft size={13} /> Prev
+              </Link>
+            </motion.div>
+          ) : <span />}
+          <span className="text-[11px] text-neutral-400 tabular-nums">{chapterNum} / {totalChapters}</span>
+          {nextNum ? (
+            <motion.div whileHover={{ scale: 1.05 }} transition={{ type: 'spring', stiffness: 400, damping: 20 }}>
+              <Link href={`/${novelId}/${nextNum}`} className="flex items-center gap-1.5 text-xs text-neutral-100 font-medium hover:text-white transition-colors">
+                Next <IconArrowRight size={13} />
+              </Link>
+            </motion.div>
+          ) : <span />}
         </div>
       </nav>
     </div>

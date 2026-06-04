@@ -1,23 +1,28 @@
 'use client'
-import { useState, useRef, useCallback } from 'react'
+import { useState, useRef, useCallback, useEffect } from 'react'
 import type { AnnotatedWord, WordType } from '@/lib/parseChapter'
 
-const TYPE_STYLES: Record<WordType, { light: string; dark: string; label: string }> = {
-  verb:  { light: '#fcd34d', dark: '#fcd34d', label: 'Verb' },        // amber
-  conj:  { light: '#c084fc', dark: '#c084fc', label: 'Conjunction' }, // purple
-  adv:   { light: '#c084fc', dark: '#c084fc', label: 'Adverb' },      // purple
-  adj:   { light: '#c084fc', dark: '#c084fc', label: 'Adjective' },   // purple
-  masc:  { light: '#60a5fa', dark: '#60a5fa', label: 'Noun (der)' },  // blue
-  fem:   { light: '#f472b6', dark: '#f472b6', label: 'Noun (die)' },  // pink
-  neut:  { light: '#4ade80', dark: '#4ade80', label: 'Noun (das)' },  // green
-  pron:  { light: '#c084fc', dark: '#c084fc', label: 'Pronoun' },     // purple
+const TYPE_STYLES: Record<WordType, { color: string; label: string }> = {
+  verb:  { color: '#fcd34d', label: 'Verb' },
+  conj:  { color: '#c084fc', label: 'Conjunction' },
+  adv:   { color: '#c084fc', label: 'Adverb' },
+  adj:   { color: '#c084fc', label: 'Adjective' },
+  masc:  { color: '#60a5fa', label: 'Noun (der)' },
+  fem:   { color: '#f472b6', label: 'Noun (die)' },
+  neut:  { color: '#4ade80', label: 'Noun (das)' },
+  pron:  { color: '#c084fc', label: 'Pronoun' },
 }
 
 export function GermanWord({ data }: { data: AnnotatedWord }) {
   const [visible, setVisible] = useState(false)
   const [pos, setPos] = useState({ x: 0, y: 0 })
+  const [isTouch, setIsTouch] = useState(false)
   const spanRef = useRef<HTMLSpanElement>(null)
   const hideTimer = useRef<ReturnType<typeof setTimeout> | null>(null)
+
+  useEffect(() => {
+    setIsTouch(window.matchMedia('(pointer: coarse)').matches)
+  }, [])
 
   const style = TYPE_STYLES[data.type] ?? TYPE_STYLES.adv
 
@@ -43,30 +48,41 @@ export function GermanWord({ data }: { data: AnnotatedWord }) {
     hideTimer.current = setTimeout(() => setVisible(false), delay)
   }, [])
 
+  const handleClick = useCallback(() => {
+    if (visible) {
+      setVisible(false)
+    } else {
+      show()
+    }
+  }, [visible, show])
+
+  const touchHandlers = isTouch
+    ? { onClick: handleClick }
+    : {
+        onMouseEnter: show,
+        onMouseLeave: () => hide(150),
+      }
+
   return (
     <>
       <span
         ref={spanRef}
         className="font-semibold cursor-pointer hover:opacity-70 transition-opacity"
-        style={{ color: style.light }}
-        onMouseEnter={show}
-        onMouseLeave={() => hide(150)}
-        onTouchStart={(e) => { e.preventDefault(); show() }}
-        onTouchEnd={() => hide(2500)}
+        style={{ color: style.color }}
+        {...touchHandlers}
       >
-        <style>{`.dark .de-${data.type}{color:${style.dark}!important}`}</style>
-        <span className={`de-${data.type}`} style={{ color: 'inherit' }}>{data.word}</span>
+        {data.word}
       </span>
 
       {visible && (
         <div
-          className="fixed z-[200] w-[240px] rounded-xl border border-neutral-300 dark:border-neutral-700 bg-neutral-100 dark:bg-neutral-800 p-3 pointer-events-none"
-          style={{ left: pos.x, top: pos.y, boxShadow: '0 4px 24px rgba(0,0,0,0.15)' }}
+          className="fixed z-[200] w-[240px] rounded-xl border border-neutral-600 bg-neutral-800 p-3 pointer-events-none"
+          style={{ left: pos.x, top: pos.y, boxShadow: '0 4px 24px rgba(0,0,0,0.4)' }}
         >
-          <div className="text-sm font-bold text-neutral-900 dark:text-neutral-100 mb-0.5">{data.word}</div>
+          <div className="text-sm font-bold text-neutral-100 mb-0.5">{data.word}</div>
           <div className="text-[10px] uppercase tracking-widest text-neutral-400 mb-1.5">{style.label}</div>
-          <div className="text-xs text-neutral-700 dark:text-neutral-300 mb-2">{data.translation}</div>
-          <div className="text-[11px] text-neutral-500 dark:text-neutral-400 italic border-l-2 border-neutral-300 dark:border-neutral-600 pl-2 leading-relaxed">
+          <div className="text-xs text-neutral-300 mb-2">{data.translation}</div>
+          <div className="text-[11px] text-neutral-400 italic border-l-2 border-neutral-600 pl-2 leading-relaxed">
             {data.example.replace(/\s*—\s*/g, ' - ')}
           </div>
         </div>

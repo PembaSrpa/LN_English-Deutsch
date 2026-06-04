@@ -4,10 +4,7 @@
 
 @layer base {
   :root {
-    --pattern-fg: rgba(10, 10, 10, 0.06);
-  }
-  .dark {
-    --pattern-fg: rgba(255, 255, 255, 0.06);
+    --pattern-fg: rgba(255, 255, 255, 0.05);
   }
   html {
     scroll-behavior: smooth;
