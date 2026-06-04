@@ -21,7 +21,6 @@ export function GermanWord({ data }: { data: AnnotatedWord }) {
   const [mounted, setMounted] = useState(false)
   const spanRef = useRef<HTMLSpanElement>(null)
   const hideTimer = useRef<ReturnType<typeof setTimeout> | null>(null)
-  const justOpenedRef = useRef(false)
 
   useEffect(() => {
     setMounted(true)
@@ -30,15 +29,7 @@ export function GermanWord({ data }: { data: AnnotatedWord }) {
 
   useEffect(() => {
     if (!isTouch || !visible) return
-
-    const dismiss = () => {
-      if (justOpenedRef.current) {
-        justOpenedRef.current = false
-        return
-      }
-      setVisible(false)
-    }
-
+    const dismiss = () => setVisible(false)
     document.addEventListener('touchstart', dismiss, { passive: true })
     return () => document.removeEventListener('touchstart', dismiss)
   }, [isTouch, visible])
@@ -60,7 +51,6 @@ export function GermanWord({ data }: { data: AnnotatedWord }) {
   const show = useCallback(() => {
     if (hideTimer.current) clearTimeout(hideTimer.current)
     computePos()
-    justOpenedRef.current = true
     setVisible(true)
   }, [computePos])
 
@@ -68,7 +58,8 @@ export function GermanWord({ data }: { data: AnnotatedWord }) {
     hideTimer.current = setTimeout(() => setVisible(false), delay)
   }, [])
 
-  const handleClick = useCallback(() => {
+  const handleTouchStart = useCallback((e: React.TouchEvent) => {
+    e.stopPropagation()
     if (visible) {
       setVisible(false)
     } else {
@@ -77,7 +68,7 @@ export function GermanWord({ data }: { data: AnnotatedWord }) {
   }, [visible, show])
 
   const touchHandlers = isTouch
-    ? { onClick: handleClick }
+    ? { onTouchStart: handleTouchStart }
     : {
         onMouseEnter: show,
         onMouseLeave: () => hide(150),
