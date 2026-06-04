@@ -16,7 +16,7 @@ export default async function NovelPage({ params }: Props) {
 
   return (
     <div className="min-h-screen flex flex-col">
-      <header className="sticky top-0 z-40 bg-neutral-300 dark:bg-neutral-700 backdrop-blur border-b border-neutral-300 dark:border-neutral-700">
+      <header className="sticky top-0 z-40 bg-neutral-400 dark:bg-neutral-700 backdrop-blur border-b border-neutral-300 dark:border-neutral-700">
         <div className="flex items-center justify-between px-8 py-2">
           <Link href="/" className="flex items-center gap-1.5 text-xs text-neutral-500 hover:text-neutral-800 dark:hover:text-neutral-200 transition-colors">
             <IconArrowLeft size={14} /> Library

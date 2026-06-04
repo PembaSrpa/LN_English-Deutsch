@@ -29,7 +29,7 @@ export function ReaderClient({ novelId, novelTitle, chapterNum, totalChapters, a
     <div className="min-h-screen flex flex-col">
       <ProgressTracker novelId={novelId} chapter={chapterNum} />
 
-      <header className="sticky top-0 z-40 bg-neutral-200/95 dark:bg-neutral-900/95 backdrop-blur border-b border-neutral-300 dark:border-neutral-700">
+      <header className="sticky top-0 z-40 bg-neutral-400 dark:bg-neutral-700 backdrop-blur border-b border-neutral-300 dark:border-neutral-700">
         <div className="flex items-center justify-between px-8 py-2">
           <Link href={`/${novelId}`} className="flex items-center gap-1.5 text-xs text-neutral-500 hover:text-neutral-800 dark:hover:text-neutral-200 transition-colors">
             <IconArrowLeft size={14} />
@@ -46,7 +46,7 @@ export function ReaderClient({ novelId, novelTitle, chapterNum, totalChapters, a
         <ChapterRenderer lines={lines} fontSize={fontSize} />
       </main>
 
-      <nav className="sticky bottom-0 z-40 bg-neutral-200/95 dark:bg-neutral-900/95 backdrop-blur border-t border-neutral-300 dark:border-neutral-700">
+      <nav className="sticky bottom-0 z-40 bg-neutral-400 dark:bg-neutral-700 backdrop-blur border-t border-neutral-300 dark:border-neutral-700">
         <div className="flex items-center justify-between px-8 py-3">
           {prevNum
             ? <Link href={`/${novelId}/${prevNum}`} className="flex items-center gap-1.5 text-xs text-neutral-500 hover:text-neutral-800 dark:hover:text-neutral-200 transition-colors"><IconArrowLeft size={13} /> Prev</Link>

@@ -12,9 +12,9 @@ export default function HomePage() {
 
   return (
     <div className="min-h-screen flex flex-col">
-      <header className="sticky top-0 z-40 bg-neutral-300 dark:bg-neutral-700 backdrop-blur border-b border-neutral-300 dark:border-neutral-700">
+      <header className="sticky top-0 z-40 bg-neutral-400 dark:bg-neutral-700 backdrop-blur border-b border-neutral-300 dark:border-neutral-700">
         <div className="flex items-center justify-between px-8 py-3">
-          <a href="https://artt-folio.vercel.app/" target="_blank" rel="noopener noreferrer"
+          <a href="https://artt-folio.vercel.app/" rel="noopener noreferrer"
             className="text-sm font-bold text-neutral-800 dark:text-neutral-200 tracking-tight hover:opacity-70 transition-opacity">
             Arttfolio ↗
           </a>
