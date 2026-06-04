@@ -3,14 +3,14 @@ import { useState, useRef, useCallback } from 'react'
 import type { AnnotatedWord, WordType } from '@/lib/parseChapter'
 
 const TYPE_STYLES: Record<WordType, { light: string; dark: string; label: string }> = {
-  verb:  { light: '#b45309', dark: '#f59e0b', label: 'Verb' },        // amber
-  conj:  { light: '#0369a1', dark: '#38bdf8', label: 'Conjunction' }, // sky blue — distinct from masc
-  adv:   { light: '#047857', dark: '#34d399', label: 'Adverb' },      // emerald
-  adj:   { light: '#7c3aed', dark: '#c084fc', label: 'Adjective' },   // violet
-  masc:  { light: '#1d4ed8', dark: '#60a5fa', label: 'Noun (der)' },  // blue
-  fem:   { light: '#be185d', dark: '#f472b6', label: 'Noun (die)' },  // pink
-  neut:  { light: '#15803d', dark: '#4ade80', label: 'Noun (das)' },  // green
-  pron:  { light: '#6b7280', dark: '#9ca3af', label: 'Pronoun' },     // gray
+  verb:  { light: '#92400e', dark: '#fdba74', label: 'Verb' },        // burnt orange
+  conj:  { light: '#374151', dark: '#9ca3af', label: 'Conjunction' }, // slate
+  adv:   { light: '#155e75', dark: '#a5f3fc', label: 'Adverb' },      // dark cyan
+  adj:   { light: '#6d28d9', dark: '#c4b5fd', label: 'Adjective' },   // purple
+  masc:  { light: '#1e40af', dark: '#93c5fd', label: 'Noun (der)' },  // blue
+  fem:   { light: '#b91c1c', dark: '#fca5a5', label: 'Noun (die)' },  // red
+  neut:  { light: '#166534', dark: '#86efac', label: 'Noun (das)' },  // green
+  pron:  { light: '#713f12', dark: '#d6b99a', label: 'Pronoun' },     // sepia
 }
 
 export function GermanWord({ data }: { data: AnnotatedWord }) {

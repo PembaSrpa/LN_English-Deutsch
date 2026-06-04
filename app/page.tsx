@@ -16,7 +16,7 @@ export default function HomePage() {
         <div className="flex items-center justify-between px-8 py-3">
           <a href="https://artt-folio.vercel.app/" target="_blank" rel="noopener noreferrer"
             className="text-sm font-bold text-neutral-800 dark:text-neutral-200 tracking-tight hover:opacity-70 transition-opacity">
-            Schatten Lesen ↗
+            Arttfolio ↗
           </a>
           <ThemeToggle />
         </div>
