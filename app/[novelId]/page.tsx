@@ -21,7 +21,7 @@ export default async function NovelPage({ params }: Props) {
       <main className="flex-1 px-8 py-8">
         <div className="flex gap-4 mb-6">
           <div
-            className="w-20 flex-shrink-0 rounded-xl overflow-hidden border border-neutral-600 bg-neutral-700"
+            className="w-20 flex-shrink-0 rounded-xl overflow-hidden border border-neutral-700 bg-neutral-800"
             style={{ aspectRatio: '2/3' }}
           >
             {novel.coverImage

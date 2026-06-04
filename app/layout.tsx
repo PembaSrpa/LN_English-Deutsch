@@ -9,13 +9,16 @@ const mono = JetBrains_Mono({ subsets: ['latin'], variable: '--font-mono', displ
 export const metadata: Metadata = {
   title: 'Schatten Lesen',
   description: 'Read light novels. Learn German.',
+  icons: {
+    icon: '/favicon.ico',
+  },
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" className={`${mono.variable} dark`} suppressHydrationWarning>
-      <body className="bg-neutral-800 font-mono antialiased">
-        <div className="max-w-3xl mx-auto min-h-screen relative bg-neutral-700">
+    <html lang="en" className={`${mono.variable} dark`} data-scroll-behavior="smooth" suppressHydrationWarning>
+      <body className="bg-neutral-900 font-mono antialiased">
+        <div className="max-w-3xl mx-auto min-h-screen relative bg-neutral-800">
           <Scales />
           <Analytics />
           {children}

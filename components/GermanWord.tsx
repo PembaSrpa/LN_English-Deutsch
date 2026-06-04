@@ -1,5 +1,6 @@
 'use client'
 import { useState, useRef, useCallback, useEffect } from 'react'
+import { createPortal } from 'react-dom'
 import type { AnnotatedWord, WordType } from '@/lib/parseChapter'
 
 const TYPE_STYLES: Record<WordType, { color: string; label: string }> = {
@@ -17,10 +18,12 @@ export function GermanWord({ data }: { data: AnnotatedWord }) {
   const [visible, setVisible] = useState(false)
   const [pos, setPos] = useState({ x: 0, y: 0 })
   const [isTouch, setIsTouch] = useState(false)
+  const [mounted, setMounted] = useState(false)
   const spanRef = useRef<HTMLSpanElement>(null)
   const hideTimer = useRef<ReturnType<typeof setTimeout> | null>(null)
 
   useEffect(() => {
+    setMounted(true)
     setIsTouch(window.matchMedia('(pointer: coarse)').matches)
   }, [])
 
@@ -63,6 +66,21 @@ export function GermanWord({ data }: { data: AnnotatedWord }) {
         onMouseLeave: () => hide(150),
       }
 
+  const popup = mounted && visible ? createPortal(
+    <div
+      className="fixed z-[200] w-[240px] rounded-xl border border-neutral-600 bg-neutral-800 p-3 pointer-events-none"
+      style={{ left: pos.x, top: pos.y, boxShadow: '0 4px 24px rgba(0,0,0,0.4)' }}
+    >
+      <p className="text-sm font-bold text-neutral-100 mb-0.5">{data.word}</p>
+      <p className="text-[10px] uppercase tracking-widest text-neutral-400 mb-1.5">{style.label}</p>
+      <p className="text-xs text-neutral-300 mb-2">{data.translation}</p>
+      <p className="text-[11px] text-neutral-400 italic border-l-2 border-neutral-600 pl-2 leading-relaxed">
+        {data.example.replace(/\s*—\s*/g, ' - ')}
+      </p>
+    </div>,
+    document.body
+  ) : null
+
   return (
     <>
       <span
@@ -73,20 +91,7 @@ export function GermanWord({ data }: { data: AnnotatedWord }) {
       >
         {data.word}
       </span>
-
-      {visible && (
-        <div
-          className="fixed z-[200] w-[240px] rounded-xl border border-neutral-600 bg-neutral-800 p-3 pointer-events-none"
-          style={{ left: pos.x, top: pos.y, boxShadow: '0 4px 24px rgba(0,0,0,0.4)' }}
-        >
-          <div className="text-sm font-bold text-neutral-100 mb-0.5">{data.word}</div>
-          <div className="text-[10px] uppercase tracking-widest text-neutral-400 mb-1.5">{style.label}</div>
-          <div className="text-xs text-neutral-300 mb-2">{data.translation}</div>
-          <div className="text-[11px] text-neutral-400 italic border-l-2 border-neutral-600 pl-2 leading-relaxed">
-            {data.example.replace(/\s*—\s*/g, ' - ')}
-          </div>
-        </div>
-      )}
+      {popup}
     </>
   )
 }
