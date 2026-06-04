@@ -18,7 +18,7 @@ type Props = {
   isDemo?: boolean
 }
 
-export function ReaderClient({ novelId, novelTitle, chapterNum, totalChapters, availableChapters, lines }: Props) {
+export function ReaderClient({ novelId, novelTitle, chapterNum, availableChapters, lines }: Props) {
   const [fontSize, setFontSize] = useState(15)
   useEffect(() => { setFontSize(window.innerWidth < 768 ? 13 : 15) }, [])
 
@@ -29,7 +29,7 @@ export function ReaderClient({ novelId, novelTitle, chapterNum, totalChapters, a
     <div className="min-h-screen flex flex-col">
       <ProgressTracker novelId={novelId} chapter={chapterNum} />
 
-      <header className="sticky top-0 z-40 bg-neutral-750 backdrop-blur border-b border-neutral-600">
+      <header className="sticky top-0 z-40 bg-neutral-750 backdrop-blur border-b border-neutral-600 rounded-b-2xl">
         <div className="flex items-center justify-between px-8 py-2">
           <motion.div whileHover={{ scale: 1.05 }} transition={{ type: 'spring', stiffness: 400, damping: 20 }}>
             <Link href={`/${novelId}`} className="flex items-center gap-1.5 text-xs text-neutral-100 font-medium hover:text-white transition-colors">
@@ -54,7 +54,7 @@ export function ReaderClient({ novelId, novelTitle, chapterNum, totalChapters, a
               </Link>
             </motion.div>
           ) : <span />}
-          <span className="text-[11px] text-neutral-400 tabular-nums">{chapterNum} / {totalChapters}</span>
+          <span className="text-[11px] text-neutral-400 tabular-nums">Ch. {chapterNum}</span>
           {nextNum ? (
             <motion.div whileHover={{ scale: 1.05 }} transition={{ type: 'spring', stiffness: 400, damping: 20 }}>
               <Link href={`/${novelId}/${nextNum}`} className="flex items-center gap-1.5 text-xs text-neutral-100 font-medium hover:text-white transition-colors">
