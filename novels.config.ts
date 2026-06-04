@@ -35,8 +35,8 @@ const novels: Novel[] = [
   },
   {
     id: 'a1-glossary',
-    title: 'Goethe A1 German Reference',
-    author: 'Goethe-Institut',
+    title: 'A1 German',
+    author: 'Goethe',
     description: 'Official A1 vocabulary, grammar tables, verb conjugations, and topic glossaries. Complete reference for Start Deutsch 1.',
     genre: ['Reference', 'Grammar'],
     coverImage: '/covers/a1-glossary.png',
