@@ -6,18 +6,18 @@ type ArticleStyle =
   | { kind: 'gradient'; id: string; lightFrom: string; lightTo: string; darkFrom: string; darkTo: string }
   | { kind: 'ambiguous' }
 
-const MASC:      ArticleStyle = { kind: 'solid',    id: 'masc',     light: '#1d4ed8', dark: '#60a5fa' }
-const FEM:       ArticleStyle = { kind: 'solid',    id: 'fem',      light: '#c2003f', dark: '#ff6b9d' }
-const NEUT:      ArticleStyle = { kind: 'solid',    id: 'neut',     light: '#047857', dark: '#34d399' }
-const MASC_NEUT: ArticleStyle = { kind: 'gradient', id: 'mascneut', lightFrom: '#1d4ed8', lightTo: '#047857', darkFrom: '#60a5fa', darkTo: '#34d399' }
+const MASC:      ArticleStyle = { kind: 'solid',    id: 'masc',     light: '#2563eb', dark: '#60a5fa' }
+const FEM:       ArticleStyle = { kind: 'solid',    id: 'fem',      light: '#e6003a', dark: '#ff6b9d' }
+const NEUT:      ArticleStyle = { kind: 'solid',    id: 'neut',     light: '#16a34a', dark: '#34d399' }
+const MASC_NEUT: ArticleStyle = { kind: 'gradient', id: 'mascneut', lightFrom: '#2563eb', lightTo: '#16a34a', darkFrom: '#60a5fa', darkTo: '#34d399' }
 const AMBIGUOUS: ArticleStyle = { kind: 'ambiguous' }
 
 const STYLE_CSS = `
-  .da-masc { color: #1d4ed8 } .dark .da-masc { color: #60a5fa }
-  .da-fem  { color: #c2003f } .dark .da-fem  { color: #ff6b9d }
-  .da-neut { color: #047857 } .dark .da-neut { color: #34d399 }
+  .da-masc { color: #2563eb } .dark .da-masc { color: #60a5fa }
+  .da-fem  { color: #e6003a } .dark .da-fem  { color: #ff6b9d }
+  .da-neut { color: #16a34a } .dark .da-neut { color: #34d399 }
   .da-mascneut {
-    background: linear-gradient(90deg,#1d4ed8,#047857);
+    background: linear-gradient(90deg,#2563eb,#16a34a);
     -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
   }
   .dark .da-mascneut {

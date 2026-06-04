@@ -7,9 +7,9 @@ const TYPE_STYLES: Record<WordType, { light: string; dark: string; label: string
   conj:  { light: '#92400e', dark: '#fbbf24', label: 'Conjunction' }, // brown
   adv:   { light: '#0e7490', dark: '#67e8f9', label: 'Adverb' },      // cyan
   adj:   { light: '#7c3aed', dark: '#d8b4fe', label: 'Adjective' },   // violet
-  masc:  { light: '#1d4ed8', dark: '#60a5fa', label: 'Noun (der)' },  // blue
-  fem:   { light: '#c2003f', dark: '#ff6b9d', label: 'Noun (die)' },  // crimson
-  neut:  { light: '#047857', dark: '#34d399', label: 'Noun (das)' },  // teal-green
+  masc:  { light: '#2563eb', dark: '#60a5fa', label: 'Noun (der)' },  // blue
+  fem:   { light: '#e6003a', dark: '#ff6b9d', label: 'Noun (die)' },  // crimson
+  neut:  { light: '#16a34a', dark: '#34d399', label: 'Noun (das)' },  // green
   pron:  { light: '#6b7280', dark: '#d1d5db', label: 'Pronoun' },     // gray
 }
 
@@ -18,6 +18,7 @@ export function GermanWord({ data }: { data: AnnotatedWord }) {
   const [pos, setPos] = useState({ x: 0, y: 0 })
   const spanRef = useRef<HTMLSpanElement>(null)
   const hideTimer = useRef<ReturnType<typeof setTimeout> | null>(null)
+
   const style = TYPE_STYLES[data.type] ?? TYPE_STYLES.adv
 
   const computePos = useCallback(() => {
