@@ -14,7 +14,7 @@ export default function HomePage() {
     <div className="min-h-screen flex flex-col">
       <HomeHeader />
 
-      <main className="flex-1 px-8 py-8">
+      <main className="flex-1 px-[calc(1.25rem+2px)] md:px-[calc(2.5rem+2px)] py-8">
         <div className="mb-8">
           <h1 className="text-2xl font-bold text-neutral-100 tracking-tight mb-1">Schatten Lesen</h1>
           <p className="text-xs text-neutral-400">Read. Learn German. One chapter at a time.</p>
@@ -23,7 +23,7 @@ export default function HomePage() {
         <ContinueReading novels={novels} />
 
         <div className="text-[10px] uppercase tracking-[0.12em] text-neutral-400 mb-3 px-1">Library</div>
-        <div className="grid grid-cols-2 gap-3">
+        <div className="grid grid-cols-2 md:grid-cols-3 gap-3">
           {novelData.map(({ novel }) => (
             <Link key={novel.id} href={`/${novel.id}`}
               className="group border border-neutral-600 rounded-xl overflow-hidden hover:border-neutral-500 transition-all bg-neutral-700">

@@ -4,14 +4,10 @@ import { motion } from 'motion/react'
 export function HomeHeader() {
   return (
     <header className="sticky top-0 z-40 bg-neutral-750 backdrop-blur border-b border-neutral-600">
-      <div className="flex items-center px-8 py-3">
+      <div className="flex items-center px-[calc(1.25rem+2px)] md:px-[calc(2.5rem+2px)] py-3">
         <motion.div whileHover={{ scale: 1.05 }} transition={{ type: 'spring', stiffness: 400, damping: 20 }}>
-          <a
-            href="https://artt-folio.vercel.app/"
-            rel="noopener noreferrer"
-            className="text-sm font-bold text-neutral-100 tracking-tight hover:text-white transition-colors"
-          >
-            Arttfolio ↗
+          <a href="https://artt-folio.vercel.app/" rel="noopener noreferrer" className="text-sm font-bold text-neutral-100 tracking-tight hover:text-white transition-colors">
+            Arttfolio
           </a>
         </motion.div>
       </div>
