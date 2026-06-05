@@ -1,4 +1,4 @@
-# Chapter 6 Confronting The Tyrant
+# Confronting The Tyrant
 
 ---
 

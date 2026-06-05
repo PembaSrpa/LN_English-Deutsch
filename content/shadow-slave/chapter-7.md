@@ -1,4 +1,4 @@
-# Chapter 7 Three Slaves And A Hero
+# Three Slaves And A Hero
 
 ---
 

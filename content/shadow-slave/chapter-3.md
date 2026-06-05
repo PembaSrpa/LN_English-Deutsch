@@ -1,4 +1,4 @@
-# Chapter 3 The Strings Of Fate
+# The Strings Of Fate
 
 ---
 

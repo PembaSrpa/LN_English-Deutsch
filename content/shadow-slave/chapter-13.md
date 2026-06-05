@@ -1,4 +1,4 @@
-# Chapter 13 Moment Of Truth
+# Moment Of Truth
 
 ---
 

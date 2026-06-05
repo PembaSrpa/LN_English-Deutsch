@@ -1,4 +1,4 @@
-# Chapter 10 First Man Down
+# First Man Down
 
 ---
 

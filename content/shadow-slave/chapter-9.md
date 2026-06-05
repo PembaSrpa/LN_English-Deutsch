@@ -1,4 +1,4 @@
-# Chapter 9 Wishful Thinking
+# Wishful Thinking
 
 ---
 

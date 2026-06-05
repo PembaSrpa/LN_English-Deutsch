@@ -1,4 +1,4 @@
-# Chapter 12 The Smell Of Blood
+# The Smell Of Blood
 
 ---
 

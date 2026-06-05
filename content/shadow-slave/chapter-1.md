@@ -1,4 +1,4 @@
-# Chapter 1 Nightmare Begins
+# Nightmare Begins
 
 ---
 

@@ -1,4 +1,4 @@
-# Chapter 4 Mountain King
+# Mountain King
 
 ---
 

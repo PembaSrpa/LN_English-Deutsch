@@ -1,4 +1,4 @@
-# Chapter 2 Slave Caravan
+# Slave Caravan
 
 ---
 

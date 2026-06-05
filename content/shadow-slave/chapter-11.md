@@ -1,4 +1,4 @@
-# Chapter 11 Crossroads
+# Crossroads
 
 ---
 
