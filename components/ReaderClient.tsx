@@ -30,7 +30,7 @@ export function ReaderClient({ novelId, novelTitle, chapterNum, availableChapter
       <ProgressTracker novelId={novelId} chapter={chapterNum} />
 
       <header className="sticky top-0 z-40 bg-neutral-750 backdrop-blur border-b border-neutral-600">
-        <div className="flex items-center justify-between px-8 py-2">
+        <div className="flex items-center justify-between px-8 md:px-10 py-2">
           <motion.div whileHover={{ scale: 1.05 }} transition={{ type: 'spring', stiffness: 400, damping: 20 }}>
             <Link href={`/${novelId}`} className="flex items-center gap-1.5 text-xs text-neutral-100 font-medium hover:text-white transition-colors">
               <IconArrowLeft size={14} />
@@ -41,12 +41,12 @@ export function ReaderClient({ novelId, novelTitle, chapterNum, availableChapter
         </div>
       </header>
 
-      <main className="flex-1 px-8 py-8">
+      <main className="flex-1 px-8 md:px-10 py-8">
         <ChapterRenderer lines={lines} fontSize={fontSize} />
       </main>
 
       <nav className="sticky bottom-0 z-40 bg-neutral-750 backdrop-blur border-t border-neutral-600">
-        <div className="flex items-center justify-between px-8 py-3">
+        <div className="flex items-center justify-between px-8 md:px-10 py-3">
           {prevNum ? (
             <motion.div whileHover={{ scale: 1.05 }} transition={{ type: 'spring', stiffness: 400, damping: 20 }}>
               <Link href={`/${novelId}/${prevNum}`} className="flex items-center gap-1.5 text-xs text-neutral-100 font-medium hover:text-white transition-colors">

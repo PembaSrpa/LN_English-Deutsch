@@ -16,9 +16,9 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" className={`${mono.variable} dark`} data-scroll-behavior="smooth" suppressHydrationWarning>
+    <html lang={`en`} className={`${mono.variable} dark`} data-scroll-behavior="smooth" suppressHydrationWarning>
       <body className="bg-neutral-900 font-mono antialiased">
-        <div className="max-w-3xl mx-auto min-h-screen relative bg-neutral-800">
+        <div className="max-w-3xl md:max-w-[80%] mx-auto min-h-screen relative bg-neutral-800">
           <Scales />
           <Analytics />
           {children}
