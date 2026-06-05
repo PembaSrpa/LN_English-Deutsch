@@ -17,7 +17,7 @@ export type ParsedLine =
   | { kind: 'blank' }
   | { kind: 'table'; headers: string[]; rows: string[][] }
 
-const ANNOTATION_RE = /\{([^|{}]+)\|([^|{}]+)\|([^|{}]+)\|([^}]+)\}/g
+const ANNOTATION_RE = /\{([^|{}]+)\|([^|{}]+)\|([^|{}]+)(?:\|([^}]+))?\}/g
 
 function tokenizeLine(line: string): Token[] {
   const tokens: Token[] = []
@@ -34,7 +34,7 @@ function tokenizeLine(line: string): Token[] {
         word: match[1].trim(),
         type: match[2].trim() as WordType,
         translation: match[3].trim(),
-        example: match[4].trim(),
+        example: match[4]?.trim() ?? '',
       },
     })
     lastIndex = match.index + match[0].length
