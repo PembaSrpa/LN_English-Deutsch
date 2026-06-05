@@ -14,7 +14,7 @@ export default function HomePage() {
     <div className="min-h-screen flex flex-col">
       <HomeHeader />
 
-      <main className="flex-1 px-[calc(1.25rem+2px)] md:px-[calc(2.5rem+2px)] py-8">
+      <main className="flex-1 px-[calc(1.25rem+8px)] md:px-[calc(2.5rem+8px)] py-8">
         <div className="mb-8">
           <h1 className="text-2xl font-bold text-neutral-100 tracking-tight mb-1">Schatten Lesen</h1>
           <p className="text-xs text-neutral-400">Read. Learn German. One chapter at a time.</p>

@@ -18,7 +18,7 @@ export default async function NovelPage({ params }: Props) {
     <div className="min-h-screen flex flex-col">
       <NovelHeader />
 
-      <main className="flex-1 px-[calc(1.25rem+2px)] md:px-[calc(2.5rem+2px)] py-8">
+      <main className="flex-1 px-[calc(1.25rem+8px)] md:px-[calc(2.5rem+8px)] py-8">
         <div className="flex gap-4 mb-6">
           <div
             className="w-20 flex-shrink-0 rounded-xl overflow-hidden border border-neutral-700 bg-neutral-800"
