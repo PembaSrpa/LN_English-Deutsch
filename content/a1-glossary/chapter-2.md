@@ -1,9 +1,9 @@
-# 🇩🇪 Vocabulary Glossaries
+# Vocabulary Glossaries
 
 ---
 ## A. NOUNS WITH GENDER
 
-###  der (Masculine)
+### der (Masculine)
 
 | Noun | Plural | English |
 |------|--------|---------|
@@ -127,11 +127,13 @@
 
 ---
 
-###  die (Feminine)
+### die (Feminine)
 
 | Noun | Plural | English |
 |------|--------|---------|
+| die Abfahrt | -en | departure |
 | die Adresse | -n | address |
+| die Ankunft | -ü, e | arrival |
 | die Anmeldung | -en | registration |
 | die Anrede | -n | salutation / form of address |
 | die Antwort | -en | answer |
@@ -168,7 +170,6 @@
 | die Freizeit | — | free time |
 | die Freundin | -nen | friend (female) / girlfriend |
 | die Führung | -en | guided tour |
-| die Geburtsjahr | -e | year of birth |
 | die Geschwister | pl. | siblings |
 | die Größe | -n | size |
 | die Gruppe | -n | group |
@@ -190,6 +191,7 @@
 | die Lebensmittel | pl. | groceries / food |
 | die Leute | pl. | people |
 | die Lösung | -en | solution / answer |
+| die Miete | -n | rent |
 | die Milch | — | milk |
 | die Mitte | — | middle / centre |
 | die Möbel | pl. | furniture |
@@ -238,7 +240,7 @@
 
 ---
 
-###  das (Neuter)
+### das (Neuter)
 
 | Noun | Plural | English |
 |------|--------|---------|
@@ -268,8 +270,11 @@
 | das Fenster | - | window |
 | das Feuer | - | fire / light (for cigarette) |
 | das Fieber | — | fever / temperature |
+| das Fleisch | — | meat |
+| das Flugzeug | -e | airplane |
 | das Formular | -e | form |
 | das Foto | -s | photo |
+| das Geburtsjahr | -e | year of birth |
 | das Geld | -er | money |
 | das Gemüse | - | vegetables |
 | das Gepäck | — | luggage |
@@ -304,7 +309,10 @@
 | das Papier | -e | paper |
 | das Praktikum | Praktika | internship |
 | das Problem | -e | problem |
+| das Reisebüro | -s | travel agency |
 | das Restaurant | -s | restaurant |
+| das Salz | — | salt |
+| das Schlafzimmer | - | bedroom |
 | das Sofa | -s | sofa |
 | das Spiel | -e | game |
 | das Studium | Studien | studies (university) |
@@ -363,7 +371,6 @@
 | suchen | to look for | gesucht |
 | tanzen | to dance | getanzt |
 | telefonieren | to phone | telefoniert |
-| trinken* | to drink | getrunken |
 | verdienen | to earn | verdient |
 | verkaufen | to sell | verkauft |
 | vermieten | to rent out | vermietet |
@@ -383,51 +390,49 @@
 | abholen | holst ab | holt ab | abgeholt | to pick up |
 | anfangen | fängst an | fängt an | angefangen | to begin |
 | anrufen | rufst an | ruft an | angerufen | to call |
-| aufstehen | stehst auf | steht auf | aufgestanden* | to get up |
-| aussteigen | steigst aus | steigt aus | ausgestiegen* | to get off |
+| aufstehen | stehst auf | steht auf | aufgestanden | to get up |
+| aussteigen | steigst aus | steigt aus | ausgestiegen | to get off |
 | bekommen | bekommst | bekommt | bekommen | to receive |
 | bestellen | bestellst | bestellt | bestellt | to order |
-| bleiben | bleibst | bleibt | geblieben* | to stay |
+| bleiben | bleibst | bleibt | geblieben | to stay |
 | bringen | bringst | bringt | gebracht | to bring |
-| einsteigen | steigst ein | steigt ein | eingestiegen* | to board/get on |
+| einsteigen | steigst ein | steigt ein | eingestiegen | to board/get on |
 | essen | isst | isst | gegessen | to eat |
-| fahren | fährst | fährt | gefahren* | to drive / go |
+| fahren | fährst | fährt | gefahren | to drive / go |
 | finden | findest | findet | gefunden | to find |
-| fliegen | fliegst | fliegt | geflogen* | to fly |
+| fliegen | fliegst | fliegt | geflogen | to fly |
 | geben | gibst | gibt | gegeben | to give |
 | gefallen | gefällst | gefällt | gefallen | to like / please |
-| gehen | gehst | geht | gegangen* | to go / walk |
+| gehen | gehst | geht | gegangen | to go / walk |
 | gewinnen | gewinnst | gewinnt | gewonnen | to win |
 | haben | hast | hat | gehabt | to have |
 | halten | hältst | hält | gehalten | to stop / hold |
 | heißen | heißt | heißt | geheißen | to be called |
 | helfen | hilfst | hilft | geholfen | to help |
-| kommen | kommst | kommt | gekommen* | to come |
+| kommen | kommst | kommt | gekommen | to come |
 | können | kannst | kann | gekonnt | can / to be able |
-| laufen | läufst | läuft | gelaufen* | to run / walk |
+| laufen | läufst | läuft | gelaufen | to run / walk |
 | lesen | liest | liest | gelesen | to read |
 | liegen | liegst | liegt | gelegen | to lie / be located |
-| mitkommen | kommst mit | kommt mit | mitgekommen* | to come along |
+| mitkommen | kommst mit | kommt mit | mitgekommen | to come along |
 | nehmen | nimmst | nimmt | genommen | to take |
 | riechen | riechst | riecht | gerochen | to smell |
 | schlafen | schläfst | schläft | geschlafen | to sleep |
 | schreiben | schreibst | schreibt | geschrieben | to write |
-| schwimmen | schwimmst | schwimmt | geschwommen* | to swim |
+| schwimmen | schwimmst | schwimmt | geschwommen | to swim |
 | sehen | siehst | sieht | gesehen | to see |
-| sein | bist | ist | gewesen* | to be |
+| sein | bist | ist | gewesen | to be |
 | sitzen | sitzt | sitzt | gesessen | to sit |
 | sprechen | sprichst | spricht | gesprochen | to speak |
 | stehen | stehst | steht | gestanden | to stand |
 | treffen | triffst | trifft | getroffen | to meet |
 | trinken | trinkst | trinkt | getrunken | to drink |
 | tun | tust | tut | getan | to do |
-| umziehen | ziehst um | zieht um | umgezogen* | to move (home) |
+| umziehen | ziehst um | zieht um | umgezogen | to move (home) |
 | verstehen | verstehst | versteht | verstanden | to understand |
 | waschen | wäschst | wäscht | gewaschen | to wash |
-| werden | wirst | wird | geworden* | to become |
+| werden | wirst | wird | geworden | to become |
 | wissen | weißt | weiß | gewusst | to know (fact) |
-
-> \* = uses sein in Perfekt
 
 ---
 
@@ -625,15 +630,18 @@
 | 1.000.000 | eine Million |
 
 ### Ordinal Numbers (for dates)
+
 | German | English |
 |--------|---------|
 | der erste (1.) | the first |
 | der zweite (2.) | the second |
 | der dritte (3.) | the third |
 | der vierte (4.) | the fourth |
-| (then add -te for 5–19, -ste for 20+) | |
+| 5th–19th: add -te to the number | fünfte, sechste … |
+| 20th+: add -ste to the number | zwanzigste, dreißigste … |
 
 ### Days of the Week
+
 | German | English |
 |--------|---------|
 | der Montag | Monday |
@@ -646,6 +654,7 @@
 | das Wochenende | weekend |
 
 ### Months
+
 | German | English |
 |--------|---------|
 | der Januar | January |
@@ -662,6 +671,7 @@
 | der Dezember | December |
 
 ### Seasons
+
 | German | English |
 |--------|---------|
 | der Frühling / das Frühjahr | spring |
@@ -670,6 +680,7 @@
 | der Winter | winter |
 
 ### Time Expressions
+
 | German | English |
 |--------|---------|
 | die Sekunde | second |
@@ -690,6 +701,7 @@
 ## F. COLOURS & DIRECTIONS
 
 ### Colours (Farben)
+
 | German | English |
 |--------|---------|
 | schwarz | black |
@@ -702,6 +714,7 @@
 | braun | brown |
 
 ### Compass Directions (Himmelsrichtungen)
+
 | German | English |
 |--------|---------|
 | der Norden | north |
@@ -714,6 +727,7 @@
 ## G. TOPIC-BASED VOCABULARY GROUPS
 
 ### People & Family
+
 | German | English |
 |--------|---------|
 | die Eltern | parents |
@@ -729,13 +743,14 @@
 | der Kollege / die Kollegin | colleague |
 | das Kind / die Kinder | child / children |
 | der Junge / das Mädchen | boy / girl |
-| der Baby | baby |
+| das Baby | baby |
 | der Jugendliche | young person |
 | der Erwachsene | adult |
 | der Partner / die Partnerin | partner |
 | der Verwandte | relative |
 
 ### Body Parts
+
 | German | English |
 |--------|---------|
 | der Kopf | head |
@@ -749,6 +764,7 @@
 | der Bauch | stomach / belly |
 
 ### Food & Drink
+
 | German | English |
 |--------|---------|
 | das Brot | bread |
@@ -779,6 +795,7 @@
 | der Wein | wine |
 
 ### Home & Living
+
 | German | English |
 |--------|---------|
 | das Haus | house |
@@ -802,6 +819,7 @@
 | der Vermieter | landlord |
 
 ### Transport & Travel
+
 | German | English |
 |--------|---------|
 | das Auto | car |
@@ -829,6 +847,7 @@
 | das Reisebüro | travel agency |
 
 ### Health
+
 | German | English |
 |--------|---------|
 | der Arzt / die Ärztin | doctor |
@@ -838,9 +857,10 @@
 | die Praxis | doctor's office |
 | der Termin | appointment |
 | weh tun | to hurt |
-| der Kopf tut weh | my head hurts |
+| Der Kopf tut weh. | My head hurts. |
 
 ### Shopping & Money
+
 | German | English |
 |--------|---------|
 | das Geschäft | shop |
@@ -859,6 +879,7 @@
 | günstig | cheap / good value |
 
 ### Communication & Technology
+
 | German | English |
 |--------|---------|
 | das Handy | mobile phone |

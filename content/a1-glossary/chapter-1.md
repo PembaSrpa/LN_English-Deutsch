@@ -1,4 +1,4 @@
-# 🇩🇪 Reference Tables
+# Reference Tables
 
 ---
 ## 1. The German Articles (Definite & Indefinite)
@@ -12,8 +12,8 @@
 | Dativ (indirect object) | dem | der | dem | den |
 | Genitiv (possession) | des | der | des | der |
 
->  Only Masculine changes in Akkusativ: der → den
->  Dativ plural always adds -n to the noun: *den Kindern, den Männern*
+Only Masculine changes in Akkusativ: der → den
+Dativ plural always adds -n to the noun: *den Kindern, den Männern*
 
 ---
 
@@ -25,7 +25,7 @@
 | Akkusativ | einen | eine | ein |
 | Dativ | einem | einer | einem |
 
->  No plural form for *ein*. Use just the noun (or *keine* for "no/not any").
+No plural form for *ein*. Use just the noun (or *keine* for "no/not any").
 
 ---
 
@@ -105,7 +105,7 @@ All possessives follow the same endings as kein/ein:
 
 ### 4c. Two-Way Prepositions (Wechselpräpositionen) — Akkusativ OR Dativ
 
-> Rule: Movement/direction → Akkusativ (Wohin?) | Location/state → Dativ (Wo?)
+Movement/direction → Akkusativ (Wohin?) | Location/state → Dativ (Wo?)
 
 | Preposition | Meaning | Akkusativ (movement) | Dativ (location) |
 |-------------|---------|----------------------|------------------|
@@ -150,7 +150,7 @@ All possessives follow the same endings as kein/ein:
 | ihr | -t | macht | arbeitet | heißt |
 | sie/Sie | -en | machen | arbeiten | heißen |
 
->  Verbs ending in -ten / -den (arbeiten, reden) add an extra -e before -st and -t.
+Verbs ending in -ten / -den (arbeiten, reden) add an extra -e before -st and -t.
 
 ---
 
@@ -172,7 +172,6 @@ All possessives follow the same endings as kein/ein:
 | helfen | helfe | hilfst | hilft | helfen | helft | helfen | to help |
 | nehmen | nehme | nimmst | nimmt | nehmen | nehmt | nehmen | to take |
 | anfangen | fange an | fängst an | fängt an | fangen an | fangt an | fangen an | to begin |
-| laufen | laufe | läufst | läuft | laufen | lauft | laufen | to walk/run |
 | waschen | wasche | wäschst | wäscht | waschen | wascht | waschen | to wash |
 | tragen | trage | trägst | trägt | tragen | tragt | tragen | to carry/wear |
 | wissen | weiß | weißt | weiß | wissen | wisst | wissen | to know (fact) |
@@ -217,7 +216,7 @@ The prefix splits off and goes to the end of the sentence in present tense.
 | auf·stehen | to get up | Ich stehe um 6 Uhr auf. |
 | aus·steigen | to get off | Wo steigst du aus? |
 | ein·kaufen | to shop | Ich kaufe heute ein. |
-| ein·laden | to invite | Darf ich dich einladen? ← *NOT separable in infinitive* |
+| ein·laden | to invite | Ich lade dich ein. |
 | an·machen | to turn on | Mach das Licht an! |
 | aus·machen | to turn off | Mach das Licht aus! |
 | mit·kommen | to come along | Kommst du mit? |
@@ -241,7 +240,7 @@ Structure: haben/sein (conjugated) + Partizip II (at the end)
 
 ### 9b. haben vs. sein
 
-sein is used with verbs of movement/change of state:
+sein is used with verbs of movement or change of state:
 
 | Verb | Partizip II | Example |
 |------|-------------|---------|
@@ -281,7 +280,7 @@ haben is used with most other verbs:
 | Ich | möchte | ein Bier | trinken |
 | Er | hat | das Buch | gelesen |
 
->  The verb always stays in position 2 in a main clause, no matter what comes first!
+The verb always stays in position 2 in a main clause, no matter what comes first!
 
 ### 10b. Questions
 
@@ -319,7 +318,7 @@ haben is used with most other verbs:
 | Akkusativ | -en | -e | -e | -en |
 | Dativ | -en | -en | -en | -en |
 
-*Example: der alte Mann, den alten Mann, dem alten Mann*
+Example: der alte Mann, den alten Mann, dem alten Mann
 
 ### After indefinite article (ein/eine):
 
@@ -329,7 +328,7 @@ haben is used with most other verbs:
 | Akkusativ | -en | -e | -es | -en |
 | Dativ | -en | -en | -en | -en |
 
-*Example: ein alter Mann, einen alten Mann*
+Example: ein alter Mann, einen alten Mann
 
 ---
 
@@ -341,9 +340,9 @@ haben is used with most other verbs:
 | aber | but | normal word order | Ich bin da, aber ich habe keine Zeit. |
 | oder | or | normal word order | Heute oder morgen? |
 | denn | because | normal word order | Ich bleibe, denn es regnet. |
-| weil | because | verb → END | Ich bleibe, weil es regnet. |
-| dass | that | verb → END | Ich glaube, dass er kommt. |
-| wenn | when / if | verb → END | Wenn ich Zeit habe, komme ich. |
+| weil | because | verb goes to END | Ich bleibe, weil es regnet. |
+| dass | that | verb goes to END | Ich glaube, dass er kommt. |
+| wenn | when / if | verb goes to END | Wenn ich Zeit habe, komme ich. |
 
 ---
 
@@ -355,7 +354,7 @@ haben is used with most other verbs:
 | ihr (informal plural) | Verb stem + -t | Kommt! Macht! |
 | Sie (formal) | Infinitive + Sie | Kommen Sie! Machen Sie! |
 
->  Irregular: sein → Sei! / Seid! / Seien Sie!
+Irregular: sein → Sei! / Seid! / Seien Sie!
 
 ---
 
@@ -395,6 +394,5 @@ haben is used with most other verbs:
 | Kein Problem! | No problem! |
 
 ---
-
 
 *Source: Goethe-Institut, Wortliste zu Start Deutsch 1 (A1), official publication.*
