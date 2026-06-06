@@ -1,12 +1,16 @@
 'use client'
 import { useEffect, useState } from 'react'
 import Link from 'next/link'
+import { usePathname } from 'next/navigation'
 import { getLastChapter } from '@/lib/storage'
 import type { ChapterMeta } from '@/lib/getChapters'
 
 export function NovelPageClient({ novelId, chapters }: { novelId: string; chapters: ChapterMeta[] }) {
+  const pathname = usePathname()
   const [lastChapter, setLastChapter] = useState<number | null>(null)
-  useEffect(() => { setLastChapter(getLastChapter(novelId)) }, [novelId])
+
+  useEffect(() => { setLastChapter(getLastChapter(novelId)) }, [novelId, pathname])
+
   if (!chapters.length) return null
   const first = chapters[0].id
   const isStarted = lastChapter !== null && lastChapter > 1

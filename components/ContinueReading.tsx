@@ -1,15 +1,19 @@
 'use client'
 import { useEffect, useState } from 'react'
 import Link from 'next/link'
+import { usePathname } from 'next/navigation'
 import { getLastChapter } from '@/lib/storage'
 import { IconArrowRight } from '@tabler/icons-react'
 import type { Novel } from '@/novels.config'
 
 export function ContinueReading({ novels }: { novels: Novel[] }) {
+  const pathname = usePathname()
   const [entries, setEntries] = useState<{ novel: Novel; chapter: number }[]>([])
+
   useEffect(() => {
     setEntries(novels.map(n => ({ novel: n, chapter: getLastChapter(n.id) })).filter(e => e.chapter > 1))
-  }, [novels])
+  }, [novels, pathname])
+
   if (!entries.length) return null
   return (
     <section className="mb-8">
