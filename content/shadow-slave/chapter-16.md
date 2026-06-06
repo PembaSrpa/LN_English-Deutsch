@@ -1,5 +1,4 @@
-# Chapter 16 — Rebirth
-**Chapter 16 | Target: 5.5% German | Kapitel Unlocked: 1 | Vol 1**
+# Rebirth
 
 ---
 

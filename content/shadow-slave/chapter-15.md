@@ -1,4 +1,4 @@
-# Chapter 15 Shadow Slave
+# Shadow Slave
 
 ---
 
