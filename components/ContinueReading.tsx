@@ -11,7 +11,12 @@ export function ContinueReading({ novels }: { novels: Novel[] }) {
   const [entries, setEntries] = useState<{ novel: Novel; chapter: number }[]>([])
 
   useEffect(() => {
-    setEntries(novels.map(n => ({ novel: n, chapter: getLastChapter(n.id) })).filter(e => e.chapter > 1))
+    setEntries(
+      novels
+        .filter(n => n.id === 'shadow-slave')
+        .map(n => ({ novel: n, chapter: getLastChapter(n.id) }))
+        .filter(e => e.chapter >= 1)
+    )
   }, [novels, pathname])
 
   if (!entries.length) return null
