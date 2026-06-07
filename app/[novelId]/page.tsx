@@ -41,7 +41,7 @@ export default async function NovelPage({ params }: Props) {
                 </span>
               ))}
             </div>
-            <p className="text-[11px] text-neutral-300 leading-relaxed">{novel.description}</p>
+            <p className="text-xs text-neutral-300 leading-relaxed">{novel.description}</p>
           </div>
         </div>
 
