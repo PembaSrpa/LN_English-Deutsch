@@ -94,9 +94,9 @@ function Tokens({ tokens }: { tokens: Token[] }) {
   )
 }
 
-export function ChapterRenderer({ lines, fontSize }: { lines: ParsedLine[]; fontSize: number }) {
+export function ChapterRenderer({ lines }: { lines: ParsedLine[] }) {
   return (
-    <div style={{ fontSize }} className="font-mono">
+    <div className="font-mono text-[0.9375rem] md:text-[0.9375rem]">
       <style>{STYLE_CSS}</style>
 
       {lines.map((line, i) => {

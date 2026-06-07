@@ -1,5 +1,5 @@
 'use client'
-import { useEffect, useState } from 'react'
+import { useEffect } from 'react'
 import Link from 'next/link'
 import { motion } from 'motion/react'
 import { ChapterRenderer } from './ChapterRenderer'
@@ -19,8 +19,6 @@ type Props = {
 }
 
 export function ReaderClient({ novelId, novelTitle, chapterNum, availableChapters, lines }: Props) {
-  const [fontSize, setFontSize] = useState(15)
-  useEffect(() => { setFontSize(window.innerWidth < 768 ? 13 : 15) }, [])
 
   const prevNum = chapterNum > 1 ? chapterNum - 1 : null
   const nextNum = chapterNum < availableChapters ? chapterNum + 1 : null
@@ -42,7 +40,7 @@ export function ReaderClient({ novelId, novelTitle, chapterNum, availableChapter
       </header>
 
       <main className="flex-1 px-[calc(1.25rem+8px)] md:px-[calc(2.5rem+16px)] py-8">
-        <ChapterRenderer lines={lines} fontSize={fontSize} />
+        <ChapterRenderer lines={lines} />
       </main>
 
       <nav className="sticky bottom-0 z-40 bg-neutral-750 backdrop-blur border-t border-neutral-600">
