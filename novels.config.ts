@@ -26,7 +26,7 @@ const novels: Novel[] = [
     id: 'shadow-slave',
     title: 'Shadow Slave',
     author: 'Guiltythree',
-    description: 'An impoverished street rat gets magical powers, accidentally becomes the literal slave of a lethal blonde girl, and spends thousands of chapters fighting eldritch horrors on pure spite and weaponized paranoia. It is essentially a 2,000-chapter trauma marathon about an unkillable cockroach trying to open a coffee shop.',
+    description: 'An impoverished, paranoid street rat gets magical powers, accidentally becomes the literal slave of a lethal blonde, and survives eldritch horrors on pure spite just to open a coffee shop.',
     genre: ['Fantasy', 'Action'],
     coverImage: '/covers/shadow-slave.jpg',
     totalChapters: 3000,
