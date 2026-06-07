@@ -116,7 +116,7 @@ Sunny read the runes, {und|conj|and} his eyes widened in horror.
 
 ## New Words This Chapter
 
-| English | German | Type | Kapitel Source |
-|---------|--------|------|----------------|
-| heart | Herz (das) | neut | Kap 1 |
-| light | Licht (das) | neut | Kap 1 |
+| English | German | Type |
+|---------|--------|------|
+| heart | Herz (das) | neut |
+| light | Licht (das) | neut |

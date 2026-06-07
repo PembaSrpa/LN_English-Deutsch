@@ -21,6 +21,7 @@ export function GermanWord({ data }: { data: AnnotatedWord }) {
   const [mounted, setMounted] = useState(false)
   const spanRef = useRef<HTMLSpanElement>(null)
   const hideTimer = useRef<ReturnType<typeof setTimeout> | null>(null)
+  const dismissTimer = useRef<ReturnType<typeof setTimeout> | null>(null)
 
   useEffect(() => {
     setMounted(true)
@@ -30,8 +31,13 @@ export function GermanWord({ data }: { data: AnnotatedWord }) {
   useEffect(() => {
     if (!isTouch || !visible) return
     const dismiss = () => setVisible(false)
-    document.addEventListener('touchstart', dismiss, { passive: true })
-    return () => document.removeEventListener('touchstart', dismiss)
+    dismissTimer.current = setTimeout(() => {
+      document.addEventListener('touchstart', dismiss, { passive: true })
+    }, 50)
+    return () => {
+      if (dismissTimer.current) clearTimeout(dismissTimer.current)
+      document.removeEventListener('touchstart', dismiss)
+    }
   }, [isTouch, visible])
 
   const style = TYPE_STYLES[data.type] ?? TYPE_STYLES.adv
@@ -82,9 +88,11 @@ export function GermanWord({ data }: { data: AnnotatedWord }) {
       <p className="text-sm font-bold text-neutral-100 mb-0.5">{data.word}</p>
       <p className="text-[10px] uppercase tracking-widest text-neutral-400 mb-1.5">{style.label}</p>
       <p className="text-xs text-neutral-300 mb-2">{data.translation}</p>
-      <p className="text-[11px] text-neutral-400 italic border-l-2 border-neutral-600 pl-2 leading-relaxed">
-        {data.example.replace(/\s*—\s*/g, ' - ')}
-      </p>
+      {data.example ? (
+        <p className="text-[11px] text-neutral-400 italic border-l-2 border-neutral-600 pl-2 leading-relaxed">
+          {data.example.replace(/\s*—\s*/g, ' - ')}
+        </p>
+      ) : null}
     </div>,
     document.body
   ) : null
