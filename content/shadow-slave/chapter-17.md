@@ -174,7 +174,7 @@ She stared at him with a humorless expression. Sunny thought that {er|pron|he} w
 
 ## New Words This Chapter
 
-| English | German | Type | Example | Kapitel Source |
-|---------|--------|------|---------|----------------|
-| lie | lügen (verb) | verb | Er kann nicht lügen. — He cannot lie. | Kap 1 |
-| mouth | Mund (der) | masc | Der Mund spricht. — The mouth speaks. | Kap 1 |
+| English | German | Type |
+|---------|--------|------|
+| lie | lügen (verb) | verb |
+| mouth | Mund (der) | masc |
