@@ -2,6 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+@media (min-width: 768px) {
+  html {
+    font-size: 170%;
+  }
+}
+
 @layer base {
   :root {
     --pattern-fg: rgba(255, 255, 255, 0.05);
