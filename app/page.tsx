@@ -17,7 +17,7 @@ export default function HomePage() {
       <main className="flex-1 px-[calc(1.25rem+8px)] md:px-[calc(2.5rem+16px)] py-8">
         <div className="mb-8">
           <h1 className="text-2xl font-bold text-neutral-100 tracking-tight mb-1">Schatten Lesen</h1>
-          <p className="text-xs text-neutral-400">Read. Learn German. One chapter at a time.</p>
+          <p className="text-xs text-neutral-400">You'll learn German. Eventually.</p>
         </div>
 
         <ContinueReading novels={novels} />
