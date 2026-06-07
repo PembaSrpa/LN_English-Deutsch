@@ -33,15 +33,15 @@ export default async function NovelPage({ params }: Props) {
           </div>
           <div className="flex-1 min-w-0">
             <h1 className="text-lg font-bold text-neutral-100 mb-0.5 leading-tight">{novel.title}</h1>
-            <p className="text-[11px] text-neutral-400 mb-2">{novel.author}</p>
+            <p className="text-[0.6875rem] text-neutral-400 mb-2">{novel.author}</p>
             <div className="flex flex-wrap gap-1 mb-3">
               {novel.genre.map(g => (
-                <span key={g} className="text-[9px] border border-neutral-600 rounded-md px-1.5 py-0.5 text-neutral-300">
+                <span key={g} className="text-[0.5625rem] border border-neutral-600 rounded-md px-1.5 py-0.5 text-neutral-300">
                   {g}
                 </span>
               ))}
             </div>
-            <p className="text-xs text-neutral-300 leading-relaxed">{novel.description}</p>
+            <p className="text-[0.6875rem] text-neutral-300 leading-relaxed">{novel.description}</p>
           </div>
         </div>
 
@@ -49,14 +49,14 @@ export default async function NovelPage({ params }: Props) {
 
         {chapters.length > 0 && (
           <>
-            <div className="text-[10px] uppercase tracking-[0.12em] text-neutral-400 mb-2 px-1">Chapters</div>
+            <div className="text-[0.625rem] uppercase tracking-[0.12em] text-neutral-400 mb-2 px-1">Chapters</div>
             <div className="flex flex-col divide-y divide-neutral-600 border border-neutral-600 rounded-xl overflow-hidden">
               {chapters.map(ch => (
                 <Link key={ch.id} href={`/${novelId}/${ch.id}`}
                   className="flex items-center gap-3 py-3 px-4 hover:bg-neutral-600 transition-colors group">
-                  <span className="text-[10px] text-neutral-400 w-5 text-right flex-shrink-0 tabular-nums">{ch.id}</span>
+                  <span className="text-[0.625rem] text-neutral-400 w-5 text-right flex-shrink-0 tabular-nums">{ch.id}</span>
                   <span className="flex-1 text-xs text-neutral-200 group-hover:text-neutral-100 transition-colors truncate">{ch.title}</span>
-                  {ch.germanPercent && <span className="text-[10px] text-neutral-400 flex-shrink-0">{ch.germanPercent}</span>}
+                  {ch.germanPercent && <span className="text-[0.625rem] text-neutral-400 flex-shrink-0">{ch.germanPercent}</span>}
                   <IconArrowLeft size={11} className="text-neutral-500 rotate-180 flex-shrink-0" />
                 </Link>
               ))}

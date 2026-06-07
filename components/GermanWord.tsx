@@ -86,10 +86,10 @@ export function GermanWord({ data }: { data: AnnotatedWord }) {
       style={{ left: pos.x, top: pos.y, boxShadow: '0 4px 24px rgba(0,0,0,0.4)' }}
     >
       <p className="text-sm font-bold text-neutral-100 mb-0.5">{data.word}</p>
-      <p className="text-[10px] uppercase tracking-widest text-neutral-400 mb-1.5">{style.label}</p>
+      <p className="text-[0.625rem] uppercase tracking-widest text-neutral-400 mb-1.5">{style.label}</p>
       <p className="text-xs text-neutral-300 mb-2">{data.translation}</p>
       {data.example ? (
-        <p className="text-[11px] text-neutral-400 italic border-l-2 border-neutral-600 pl-2 leading-relaxed">
+        <p className="text-[0.6875rem] text-neutral-400 italic border-l-2 border-neutral-600 pl-2 leading-relaxed">
           {data.example.replace(/\s*—\s*/g, ' - ')}
         </p>
       ) : null}

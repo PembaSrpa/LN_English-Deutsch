@@ -22,7 +22,7 @@ export default function HomePage() {
 
         <ContinueReading novels={novels} />
 
-        <div className="text-[10px] uppercase tracking-[0.12em] text-neutral-400 mb-3 px-1">Library</div>
+        <div className="text-[0.625rem] uppercase tracking-[0.12em] text-neutral-400 mb-3 px-1">Library</div>
         <div className="grid grid-cols-2 md:grid-cols-3 gap-3">
           {novelData.map(({ novel }) => (
             <Link key={novel.id} href={`/${novel.id}`}
@@ -47,14 +47,14 @@ export default function HomePage() {
                   </div>
                 )}
                 {novel.id === 'ugly-duckling' && (
-                  <span className="absolute top-2 right-2 text-[9px] bg-neutral-900/80 text-white px-1.5 py-0.5 rounded-full font-bold uppercase tracking-wider z-10">
+                  <span className="absolute top-2 right-2 text-[0.5625rem] bg-neutral-900/80 text-white px-1.5 py-0.5 rounded-full font-bold uppercase tracking-wider z-10">
                     Demo
                   </span>
                 )}
               </div>
               <div className="p-3 bg-neutral-700">
                 <div className="text-xs font-semibold text-neutral-100 truncate mb-0.5">{novel.title}</div>
-                <div className="text-[10px] text-neutral-400 truncate">{novel.author}</div>
+                <div className="text-[0.625rem] text-neutral-400 truncate">{novel.author}</div>
               </div>
             </Link>
           ))}

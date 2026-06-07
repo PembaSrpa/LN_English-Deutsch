@@ -94,9 +94,9 @@ function Tokens({ tokens }: { tokens: Token[] }) {
   )
 }
 
-export function ChapterRenderer({ lines }: { lines: ParsedLine[] }) {
+export function ChapterRenderer({ lines, fontSize }: { lines: ParsedLine[]; fontSize: number }) {
   return (
-    <div className="font-mono text-[0.9375rem] md:text-[0.75rem]">
+    <div style={{ fontSize }} className="font-mono">
       <style>{STYLE_CSS}</style>
 
       {lines.map((line, i) => {
@@ -126,7 +126,7 @@ export function ChapterRenderer({ lines }: { lines: ParsedLine[] }) {
               <thead className="bg-neutral-750">
                 <tr>
                   {line.headers.map((h, j) => (
-                    <th key={j} className="text-left py-2 px-3 font-semibold text-neutral-300 uppercase tracking-wider text-[10px]">
+                    <th key={j} className="text-left py-2 px-3 font-semibold text-neutral-300 uppercase tracking-wider text-[0.625rem]">
                       {h}
                     </th>
                   ))}
@@ -148,7 +148,7 @@ export function ChapterRenderer({ lines }: { lines: ParsedLine[] }) {
         )
 
         return (
-          <p key={i} className="leading-[1.95] text-neutral-200 mb-4 text-[15px]">
+          <p key={i} className="leading-[1.95] text-neutral-200 mb-4 text-[0.9375rem] md:text-[0.75rem]">
             <Tokens tokens={line.tokens} />
           </p>
         )
