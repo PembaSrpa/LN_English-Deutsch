@@ -1,4 +1,4 @@
-# Chapter 31 — Low Tide
+# Low Tide
 
 The black, opaque water suddenly surged {und|conj|and} seethed, as though a living creature desperately trying to avoid the pale {Licht|neut|light|Das Licht leuchtet. — The light shines.} of the coming dawn. Sunny {langsam|adj|slow}ly rose {und|conj|and}, after some thought, carefully approached the edge of the {Stein|masc|stone|Der Stein fällt. — The stone falls.} platform.
 
