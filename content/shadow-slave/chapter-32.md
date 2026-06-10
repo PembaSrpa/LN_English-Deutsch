@@ -1,4 +1,4 @@
-# Chapter 32 — Making A Choice
+# Making A Choice
 
 With an empty stomach {und|conj|and} a head full of thoughts, Sunny returned to the center of the platform {und|conj|and} sat down. After a while, {er|pron|he} beckoned to his {Schatten|masc|shadow} {und|conj|and} {sagen|verb|say}:
 
@@ -114,7 +114,6 @@ In the next moment, a massive pincer shot out of the ground {und|conj|and} tore 
 
 ---
 
-EnglishGermanTypeUsesrainRegenmasc3stormSturmmasc4
 ## New Words This Chapter
 
 | English | German | Type |
