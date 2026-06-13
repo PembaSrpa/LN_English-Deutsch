@@ -163,5 +163,3 @@ Relieved, {er|pron|he} smiled {und|conj|and} answered:
 ## New Words This Chapter
 | English | German | Type |
 |---------|--------|------|
-| walk | gehen | verb |
-| rope | Seil | neut |
