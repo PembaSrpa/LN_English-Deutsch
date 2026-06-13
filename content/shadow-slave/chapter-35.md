@@ -231,5 +231,5 @@ Feeling his {Herz|neut|heart|Das Herz schlägt. — The heart beats.} beating wi
 ## New Words This Chapter
 | English | German | Type |
 |---------|--------|------|
-| heart | Herz | neut |
-| laugh | lachen | verb |
+| walk | gehen | verb |
+| rope | Seil (das) | neut |

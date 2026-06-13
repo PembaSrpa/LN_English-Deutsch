@@ -28,7 +28,7 @@ Sunny cleared his throat {und|conj|and} smiled, hiding his nervousness:
 
 "Really? That's {gut|adj|good} to know. {aber|conj|but}… why are you so sure that I am being honest?"
 
-The {blind|adj|blind} {Mädchen|neut|girl} shifted a little.
+The {blind|adj|blind|Er ist blind. — He is blind.} {Mädchen|neut|girl} shifted a little.
 
 "Oh! That's my Ability. I can 'see' people's Attributes. Sometimes, I {auch|adv|also} receive, uh, 'visions'. {sie|pron|she/they} can be about the future {oder|conj|or} the past. I mean, that's what I think… {es|pron|it} only happened a couple of {Zeit|fem|time}s."
 
@@ -36,7 +36,7 @@ Sunny swallowed, {aber|conj|but} then relaxed.
 
 'So, {sie|pron|she/they} is an oracle of sorts. Luckily, her insight is limited to Attributes… otherwise, I'd be in real trouble. Still, I'll have to be careful around her.'
 
-{Er|pron|he} finally realized how the {blind|adj|blind} {Mädchen|neut|girl} had known about his birthday. The question was whether {sie|pron|she/they} had seen {es|pron|it} in a vision of the future {oder|conj|or} in a vision of the past. If {es|pron|it} was the former, was {es|pron|it} safe to assume that {er|pron|he} would certainly be able to celebrate at least one more birthday?
+{Er|pron|he} finally realized how the {blind|adj|blind|Er ist blind. — He is blind.} {Mädchen|neut|girl} had known about his birthday. The question was whether {sie|pron|she/they} had seen {es|pron|it} in a vision of the future {oder|conj|or} in a vision of the past. If {es|pron|it} was the former, was {es|pron|it} safe to assume that {er|pron|he} would certainly be able to celebrate at least one more birthday?
 
 {oder|conj|or} did knowing the future actually affected {und|conj|and} changed {es|pron|it}? For example, after {Wissen|neut|knowledge|Wissen ist Macht. — Knowledge is power.}ing that {er|pron|he} was definitely going to {überleben|verb|survive}, Sunny might have naturally relaxed {und|conj|and} lowered his guard. Then, {er|pron|he} would die as the result of {es|pron|it}. {Es|pron|it} surely seemed possible, right? That's assuming that the future could be changed. {aber|conj|but} maybe {es|pron|it} wasn't? Then…
 
@@ -102,9 +102,9 @@ Sunny continued:
 
 Now {es|pron|it} was their turn to share. After a short pause, Nephis spoke:
 
-"My attributes give me an affinity to {Licht|neut|light} {und|conj|and} {Feuer|neut|fire}, as well as a {stark|adj|strong} affiliation to divinity. I have two Memories: a {Seil|neut|rope|Das Seil hält. — The rope holds.}…"
+"My attributes give me an affinity to {Licht|neut|light} {und|conj|and} {Feuer|neut|fire|Das Feuer brennt. — The fire burns.}, as well as a {stark|adj|strong} affiliation to divinity. I have two Memories: a {Seil|neut|rope|Das Seil hält. — The rope holds.}…"
 
-While {sie|pron|she/they} was speaking, Sunny was looking at Cassie, trying to read her expression. From what {er|pron|he} saw, Nephis was telling the {Wahrheit|fem|truth|Die Wahrheit ist wichtig. — The truth is important.} — {aber|conj|but} {auch|adv|also}, {nicht|adv|not} the whole {Wahrheit|fem|truth|Die Wahrheit ist wichtig. — The truth is important.}. {und|conj|and} judging by how hard the {blind|adj|blind} {Mädchen|neut|girl} was trying to hide her true feelings, the secret hiding among Changing {Stern|masc|star|Der Stern leuchtet. — The star shines.}'s Attributes was {nicht|adv|not} at all trivial.
+While {sie|pron|she/they} was speaking, Sunny was looking at Cassie, trying to read her expression. From what {er|pron|he} saw, Nephis was telling the {Wahrheit|fem|truth|Die Wahrheit ist wichtig. — The truth is important.} — {aber|conj|but} {auch|adv|also}, {nicht|adv|not} the whole {Wahrheit|fem|truth|Die Wahrheit ist wichtig. — The truth is important.}. {und|conj|and} judging by how hard the {blind|adj|blind|Er ist blind. — He is blind.} {Mädchen|neut|girl} was trying to hide her true feelings, the secret hiding among Changing {Stern|masc|star|Der Stern leuchtet. — The star shines.}'s Attributes was {nicht|adv|not} at all trivial.
 
 'Interesting.'
 
@@ -112,7 +112,7 @@ While {sie|pron|she/they} was speaking, Sunny was looking at Cassie, trying to r
 
 Sunny didn't miss the wording of the last part. "Can be used to heal"… does this mean that its main purpose was something else? {Er|pron|he} was pretty sure that Nephis would {nicht|adv|not} reveal all of her cards, just like him. However, healing abilities were extremely rare. Having one that could heal, {aber|conj|but} was {nicht|adv|not} limited to healing — that would be simply unheard of.
 
-{aber|conj|but} then again, {sie|pron|she/they} was Changing {Stern|masc|star|Der Stern leuchtet. — The star shines.} — one of the few people in history to receive a True {Name|masc|name} in the First Nightmare. If Sunny were to consider his own Aspect Ability, {nichts|pron|nothing} seemed impossible.
+{aber|conj|but} then again, {sie|pron|she/they} was Changing {Stern|masc|star|Der Stern leuchtet. — The star shines.} — one of the few people in history to receive a True {Name|masc|name|Der Name ist lang. — The name is long.} in the First Nightmare. If Sunny were to consider his own Aspect Ability, {nichts|pron|nothing} seemed impossible.
 
 'I wonder what her Aspect {Rang|masc|rank} is.'
 
@@ -132,7 +132,7 @@ Meanwhile, Cassie sighed.
 
 'So… {sie|pron|she/they}'s {nicht|adv|not} only carrying Cassie on her back, {sie|pron|she/they} even gave away her only clothes? An Awakened-{Rang|masc|rank} {Rüstung|fem|armor|Die Rüstung schützt. — The armor protects.}, at that? What… what is Nephis thinking about?'
 
-The {blind|adj|blind} {Mädchen|neut|girl} turned away {und|conj|and} added after a while:
+The {blind|adj|blind|Er ist blind. — He is blind.} {Mädchen|neut|girl} turned away {und|conj|and} added after a while:
 
 "I used to be a pretty decent fencer… before. Now I can't really fight."
 
@@ -170,4 +170,3 @@ Then {er|pron|he} suddenly shuddered.
 | English | German | Type |
 |---------|--------|------|
 | trust | Vertrauen | neut |
-| rank (used) | Rang | masc |

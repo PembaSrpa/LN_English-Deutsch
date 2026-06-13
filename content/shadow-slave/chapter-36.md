@@ -152,7 +152,7 @@ Nephis glanced in her direction {und|conj|and} shrugged.
 
 "Neph."
 
-Next, {es|pron|it} was Sunny's turn. {Er|pron|he} exhaled, glad that {sie|pron|she/they} didn't ask his {Name|masc|name} directly. Most likely, {er|pron|he} would still have been able to provide his {Mensch|masc|human} {Name|masc|name} — however, {es|pron|it} {auch|adv|also} might have depended on the wording of the question.
+Next, {es|pron|it} was Sunny's turn. {Er|pron|he} exhaled, glad that {sie|pron|she/they} didn't ask his {Name|masc|name|Der Name ist lang. — The name is long.} directly. Most likely, {er|pron|he} would still have been able to provide his {Mensch|masc|human} {Name|masc|name|Der Name ist lang. — The name is long.} — however, {es|pron|it} {auch|adv|also} might have depended on the wording of the question.
 
 Relieved, {er|pron|he} smiled {und|conj|and} answered:
 

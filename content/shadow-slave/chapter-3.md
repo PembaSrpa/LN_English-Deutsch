@@ -111,5 +111,3 @@ As if to answer his thoughts, a thundering noise rang from above.
 | peace | Frieden (der) | masc noun |
 | tree | Baum (der) | masc noun |
 | day | Tag (der) | masc noun |
-| the | der / die / das | article |
-| old | alt | adj |
