@@ -25,7 +25,7 @@ const novels: Novel[] = [
   {
   id: 'learn-how-to-meow',
   title: 'Meow ?',
-  author: 'Pemba Sherpa',
+  author: 'Pemba',
   description: 'meow meow meow.',
   genre: ['Cat'],
   coverImage: '/covers/meow.jpg',
