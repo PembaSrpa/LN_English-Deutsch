@@ -46,3 +46,18 @@
 | 42 | du, sehr |
 | 43 | ja, nein |
 | 44 | sehen, toll |
+| 45 | Heim, Familie |
+| 46 | rennen, kämpfen |
+| 47 | rufen |
+| 48 | schnell, schreien |
+| 49 | still, töten |
+| 50 | allein, klug |
+| 51 | werfen, fließen |
+| 52 | atmen, wach |
+| 53 | brennen, heilen |
+| 54 | schenken, leuchten |
+| 55 | glücklich, mutig |
+| 56 | versprechen, Geheimnis |
+| 57 | König, lernen |
+| 58 | Jagd, zusammen |
+| 59 | spüren, Öl |
