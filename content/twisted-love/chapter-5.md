@@ -1,8 +1,347 @@
-# Chapter 5
+# ALEX
 
 ---
 
-
+{ich|pron|I} slammed my fist into the mannequin's face, reveling {in|prep|in}
+the sharp burst of pain that jolted up my arm at the impact. My
+muscles burned {und|conj|and} sweat dripped down my forehead into my eyes,
+blurring my vision, {aber|conj|but|Ich bin müde, aber glücklich. — I am tired, but happy.} {ich|pron|I} didn't stop. I'd done this so many times {ich|pron|I}
+didn't have to see to land my hits.
+The smell of sweat {und|conj|and} violence stained the air. This {war|verb|was} the one
+place {ich|pron|I} allowed myself to unleash the anger {ich|pron|I} kept under careful
+wraps {in|prep|in} all other areas of my life. I'd started Krav Maga training a
+decade ago {für|prep|for|Das ist für dich. — That is for you.} self-defense, {aber|conj|but|Ich bin müde, aber glücklich. — I am tired, but happy.} {es|pron|it} had since become my catharsis,
+my sanctuary.
+By the time {ich|pron|I} finished pummeling the mannequin, my body {war|verb|was} a
+mess of aches {und|conj|and} sweat. {Ich|pron|I} toweled the perspiration off my face {und|conj|and}
+took a swig of water. Work had been a bitch, {und|conj|and} I'd needed this
+release to reset.
+"Hope {du|pron|you} worked off your frustration," Ralph, the owner of the
+training center {und|conj|and} my personal instructor since I'd moved to D.C.,
+said dryly. Short {und|conj|and} stocky, {er|pron|he} had the powerful build of a fighter
+{und|conj|and} a mean mug, {aber|conj|but|Ich bin müde, aber glücklich. — I am tired, but happy.} deep down, {er|pron|he} {war|verb|was} a teddy bear. He'd knock
+my lights out if {ich|pron|I} ever told him or anyone else that though. "{Du|pron|you}
+looked like {du|pron|you} had a personal vendetta against Harper."
+Ralph named all the training dummies after TV characters or real-
+life people {er|pron|he} didn't like.
+"Shitty week." We were alone {in|prep|in} the private training studio, so {ich|pron|I}
+spoke more freely than {ich|pron|I} would have otherwise. Besides Josh, Ralph
+{war|verb|was} the only person {ich|pron|I} considered a true friend. "{Ich|pron|I} could go {für|prep|for|Das ist für dich. — That is for you.} the real
+thing right now."
+Dummies were good {für|prep|for|Das ist für dich. — That is for you.} practice, {aber|conj|but} Krav Maga {war|verb|was} a hand-to-
+hand combat method {für|prep|for|Das ist für dich. — That is for you.} a reason. {Es|pron|it} {war|verb|was} all about the interaction
+between yourself {und|conj|and} your opponent {und|conj|and} responding quickly.
+Couldn't do that if your opponent {war|verb|was} an inanimate object.
+"Yeah, let's do {es|pron|it}. Gotta end right at seven, though—no overtime.
+There's a new class coming {in|prep|in}."
+{Ich|pron|I} raised my eyebrows. "Class?"
+The KM Academy catered toward intermediate to advanced
+practitioners {und|conj|and} specialized {in|prep|in} one-on-one or small group sessions.
+{Es|pron|it} didn't host large classes the way most other centers did.
+Ralph shrugged. "Yeah. We're opening the center up to
+beginners. Just one class {für|prep|for|Das ist für dich. — That is for you.} now, see how {es|pron|it} goes. Missy bugged
+{mich|pron|me|Sie sieht mich. — She sees me.} about {es|pron|it} until {ich|pron|I} agreed—said people would be interested {in|prep|in}
+learning {es|pron|it} {für|prep|for|Das ist für dich. — That is for you.} self-defense {und|conj|and} that we have the best instructors {in|prep|in}
+the city." {Er|pron|he} barked out a laugh. "Thirty years of marriage. {Sie|pron|she}
+knows how to stroke the ol' ego. So here we are."
+"{Nicht|adv|not} to mention, it's a good business decision." KMA had little
+competition {in|prep|in} the area, {und|conj|and} there {war|verb|was} likely pent-up demand {für|prep|for|Das ist für dich. — That is for you.}
+lessons, {nicht|adv|not} to mention loads of yuppies who could afford the prices.
+Ralph's eyes twinkled. "That, too."
+{Ich|pron|I} took another swig of water, my mind spinning. Beginner
+lessons...
+Might be a good idea {für|prep|for|Das ist für dich. — That is for you.} Ava. {Für|prep|for|Das ist für dich. — That is for you.} anyone, really, man or woman.
+Self-defense is a skill {du|pron|you} never want to use, {aber|conj|but} which could mean
+the difference between life {und|conj|and} death when {du|pron|you} do have to use {es|pron|it}.
+Pepper spray only gets {du|pron|you} so far.
+{Ich|pron|I} fired off a quick text to her before Ralph {und|conj|and} {ich|pron|I} started our
+session.
+{Ich|pron|I} still wasn't happy playing babysitter, {aber|conj|but} Ava {und|conj|and} {ich|pron|I} had settled
+into a wary "truce"—her word, {nicht|adv|not} mine—since her olive branch the
+week before. Plus, when {ich|pron|I} commit to something, {ich|pron|I} commit to {es|pron|it} one
+hundred percent. No half-assery or phoning {es|pron|it} {in|prep|in}.
+{Ich|pron|I} promised Josh I'd look after his sister, {und|conj|and} that {war|verb|was} what I'd do.
+Sign her up {für|prep|for|Das ist für dich. — That is for you.} self-defense lessons, upgrade her house's shitty
+alarm system—she'd thrown a fit when the security company woke
+her up at seven {in|prep|in} the morning to install the new system, {aber|conj|but} {sie|pron|she} got
+over {es|pron|it}—whatever {es|pron|it} took. The more {sie|pron|she} stayed out of trouble, the
+less {ich|pron|I} had to worry about her {und|conj|and} the more {ich|pron|I} could focus on my
+business {und|conj|and} plan {für|prep|for|Das ist für dich. — That is for you.} revenge.
+{Ich|pron|I} wouldn't mind more of those red velvet cookies though. They
+were good.
+{Ich|pron|I} especially wouldn't mind if {sie|pron|she} delivered them wearing the tiny
+shorts {und|conj|and} tank top she'd worn to my house. An unbidden image of a
+bead of sweat trailing down her bronzed skin into her cleavage
+flashed through my mind.
+{Ich|pron|I} grunted when Ralph landed a punch {in|prep|in} my gut. Fuck. That {war|verb|was}
+what {ich|pron|I} got {für|prep|for|Das ist für dich. — That is for you.} allowing my thoughts to stray.
+{Ich|pron|I} set my jaw {und|conj|and} refocused on the training session, pushing all
+thoughts of Ava Chen {und|conj|and} her cleavage out of my head.
+An hour later, my limbs felt like jelly, {und|conj|and} {ich|pron|I} had several
+blossoming bruises on my body.
+{Ich|pron|I} grimaced, stretching out my limbs while the low hum of voices
+filtered through the closed door to the private studio.
+"That's my cue." Ralph clapped {mich|pron|me|Sie sieht mich. — She sees me.} on the shoulder. "Good
+session. {Du|pron|you} might even beat {mich|pron|me|Sie sieht mich. — She sees me.} one day—if you're lucky."
+{Ich|pron|I} smirked. "Fuck {du|pron|you}. {Ich|pron|I} can already beat {du|pron|you} if {ich|pron|I} want."
+I'd come close to doing {es|pron|it} once, {aber|conj|but} part of {mich|pron|me|Sie sieht mich. — She sees me.} liked the fact {ich|pron|I}
+wasn't the best—yet. {Es|pron|it} gave {mich|pron|me|Sie sieht mich. — She sees me.} a goal to strive toward. {Aber|conj|but} {ich|pron|I} would
+win. {Ich|pron|I} always did.
+Ralph's laugh rolled through the sweat-dampened space like
+thunder. "Keep telling yourself that, kid. See {du|pron|you} Tuesday."
+After {er|pron|he} exited the room, {ich|pron|I} checked my phone {für|prep|for|Das ist für dich. — That is for you.} new messages.
+Nothing.
+A tiny furrow creased my brow. I'd texted Ava almost an hour
+ago, {und|conj|and} {sie|pron|she} {war|verb|was} a compulsively fast replier unless {sie|pron|she} had a
+photoshoot. {Sie|pron|she} didn't have one today. {Ich|pron|I} knew because {ich|pron|I} made her
+promise to tell {mich|pron|me|Sie sieht mich. — She sees me.} every time {sie|pron|she} did, along with the location {und|conj|and}
+clients' names {und|conj|and} contact info. {Ich|pron|I} always ran background checks on
+the clients beforehand. There were crazy people out there.
+{Ich|pron|I} sent a follow-up text. Waited.
+Nothing.
+{Ich|pron|I} called. No answer.
+Either she'd turned off her phone—something {ich|pron|I} told her never to
+do—or {sie|pron|she} could be {in|prep|in} trouble.
+Blood. Everywhere.
+On my hands. On my clothes.
+My heart rate ticked up. The familiar noose around my neck
+tightened.
+{Ich|pron|I} squeezed my eyes shut, focusing on a different day, a different
+memory—that of {mich|pron|me|Sie sieht mich. — She sees me.} attending my first Krav Maga lesson at sixteen
+—until the red stains of my past retreated.
+When {ich|pron|I} opened them again, anger {und|conj|and} worry coalesced into a
+block {in|prep|in} my stomach, {und|conj|and} {ich|pron|I} didn't bother changing out of my training
+clothes before {ich|pron|I} exited the center {und|conj|and} took off {für|prep|for|Das ist für dich. — That is for you.} Ava's house.
+"{Du|pron|you} better be there," {ich|pron|I} muttered. {Ich|pron|I} blocked {und|conj|and} flipped off a
+Mercedes who tried to cut {in|prep|in} front of {mich|pron|me|Sie sieht mich. — She sees me.} at Dupont Circle. The driver,
+an overgroomed lawyer type, glared at {mich|pron|me|Sie sieht mich. — She sees me.}, {aber|conj|but} {ich|pron|I} didn't give a shit.
+If {du|pron|you} can't drive, get off the road.
+By the time {ich|pron|I} arrived at Ava's place, {ich|pron|I} still hadn't received a reply,
+{und|conj|and} a muscle pulsed dangerously {in|prep|in} my temple.
+If {sie|pron|she} {war|verb|was} ignoring {mich|pron|me|Sie sieht mich. — She sees me.}, {sie|pron|she} {war|verb|was} {in|prep|in} deep shit.
+{Und|conj|and} if {sie|pron|she} {war|verb|was} hurt, {ich|pron|I} would bury the person responsible six feet
+beneath the ground. {In|prep|in} pieces.
+"Where is {sie|pron|she}?" {Ich|pron|I} dispensed of the usual greetings when Jules
+swung open the door.
+"Who?" {sie|pron|she} asked, all doe-eyed innocence. {Ich|pron|I} wasn't fooled. Jules
+Ambrose {war|verb|was} one of the most dangerous women I'd ever met, {und|conj|and}
+anyone who thought otherwise because of the way {sie|pron|she} looked {und|conj|and}
+flirted {war|verb|was} an idiot.
+"Ava," {ich|pron|I} growled. "She's {nicht|adv|not} answering her phone."
+"Maybe she's busy."
+"Don't fuck with {mich|pron|me|Sie sieht mich. — She sees me.}, Jules. {Sie|pron|she} could be {in|prep|in} trouble, {und|conj|and} {ich|pron|I} know
+your boss. Wouldn't take much more than a word from {mich|pron|me|Sie sieht mich. — She sees me.} to derail
+your internship."
+I'd done my research on all of Ava's closest friends. Jules {war|verb|was}
+pre-law, {und|conj|and} the internship between a student's junior {und|conj|and} senior
+years {war|verb|was} critical {für|prep|for|Das ist für dich. — That is for you.} admittance into a competitive law school.
+All traces of flirty coquettishness melted. Jules narrowed her
+eyes. "Don't threaten {mich|pron|me|Sie sieht mich. — She sees me.}."
+"Don't play games."
+We glared at each other {für|prep|for|Das ist für dich. — That is for you.} a minute, precious seconds ticking by
+before {sie|pron|she} relented. "She's {nicht|adv|not} {in|prep|in} trouble, okay? She's with a friend.
+Like {ich|pron|I} said, she's probably busy. She's {nicht|adv|not} glued to her phone."
+"Address."
+"You're hot, {aber|conj|but} {du|pron|you} can be a real overbearing asshole."
+"Address."
+Jules huffed out a sigh. "I'm only telling {du|pron|you} if {ich|pron|I} can go with {du|pron|you}.
+To make sure {du|pron|you} don't do anything stupid."
+{Ich|pron|I} {war|verb|was} already halfway to my car.
+Five minutes later, we were speeding back to D.C. {Ich|pron|I} {war|verb|was} going to
+bill Josh {für|prep|for|Das ist für dich. — That is for you.} all my gas expenses when {er|pron|he} returned, just out of spite.
+"Why are {du|pron|you} so concerned? Ava has her own life, {und|conj|and} she's {nicht|adv|not}
+a dog. {Sie|pron|she} doesn't have to jump every time {du|pron|you} say fetch." Jules
+flipped down the visor mirror {und|conj|and} retouched her lipstick when we
+stopped at a red light.
+"{Für|prep|for|Das ist für dich. — That is for you.} someone who claims to be her best friend, you're {nicht|adv|not}
+concerned enough." Irritation coiled {in|prep|in} my stomach. "When have {du|pron|you}
+known her {nicht|adv|not} to reply within minutes of receiving a text or a call?"
+"Uh, when she's {in|prep|in} the bathroom. Class. Work. Sleeping.
+Showering. A photo—"
+"It's been almost an hour," {ich|pron|I} snapped.
+Jules shrugged. "Maybe she's having sex."
+A muscle jumped {in|prep|in} my jaw. {Ich|pron|I} wasn't sure which version of Jules
+{war|verb|was} worse—the one who always tried to convince {mich|pron|me|Sie sieht mich. — She sees me.} to mow the
+lawn shirtless, or the one who relished baiting {mich|pron|me|Sie sieht mich. — She sees me.}.
+Why couldn't Ava have lived with one of her other friends? Stella
+seemed more accommodating, {und|conj|and} given her background, Bridget
+wouldn't ever say the shit Jules said.
+{Aber|conj|but} no, {ich|pron|I} {war|verb|was} stuck with the redheaded menace.
+No wonder Josh always complained about her.
+"{Du|pron|you} said she's with a friend." {Ich|pron|I} pulled onto the street where said
+friend's house {war|verb|was} located {und|conj|and} parked.
+"A male friend." {Sie|pron|she} unbuckled her seatbelt with a beatific smile.
+"Thanks {für|prep|for|Das ist für dich. — That is for you.} the ride {und|conj|and} conversation. {Es|pron|it} {war|verb|was}...enlightening."
+{Ich|pron|I} didn't bother asking her what {sie|pron|she} meant. She'd just feed {mich|pron|me|Sie sieht mich. — She sees me.} a
+heap of sugar-laced bullshit.
+While Jules took her sweet time, {ich|pron|I} exited the car {und|conj|and} banged an
+impatient fist against the front door.
+{Es|pron|it} swung open a minute later, revealing a skinny, bespectacled
+man with confusion stamped on his face when {er|pron|he} saw Jules {und|conj|and} {mich|pron|me|Sie sieht mich. — She sees me.}
+standing there. "Can {ich|pron|I} help {du|pron|you}?"
+"Where's Ava?"
+"She's upstairs, {aber|conj|but} who—" {ich|pron|I} shouldered my way past him, which
+wasn't hard considering {er|pron|he} weighed a hundred sixty, tops.
+"Hey, {du|pron|you} can't go up there!" {er|pron|he} yelled. "They're {in|prep|in} the middle of
+something."
+Fuck. That. If Ava {war|verb|was} having sex—a dangerous rhythm pulsed
+behind my temple at the thought—that {war|verb|was} all the more reason {für|prep|for|Das ist für dich. — That is for you.}
+an interruption. Horny college guys were some of the most
+dangerous creatures {in|prep|in} existence.
+{Ich|pron|I} wondered if she'd gotten back together with her ex. Josh
+mentioned the weasel had cheated on her, {und|conj|and} {sie|pron|she} didn't seem like
+the type who'd crawl back to someone after they treated her terribly,
+{aber|conj|but} {ich|pron|I} wouldn't put anything past Miss Sunshine {und|conj|and} Roses. That
+bleeding heart of hers would land her {in|prep|in} a heap of trouble one day.
+Once {ich|pron|I} reached the second floor, {ich|pron|I} didn't need to guess what
+room {sie|pron|she} {war|verb|was} {in|prep|in}—{ich|pron|I} heard sounds bleeding through the half-open
+door at the end of the hall. Behind {mich|pron|me|Sie sieht mich. — She sees me.}, Jules {und|conj|and} Spectacles
+pounded up the steps, the latter still blabbering about how {ich|pron|I} couldn't
+be up here even though {ich|pron|I} {war|verb|was} already fucking here.
+{Ich|pron|I} didn't know how humans survived this long. Most people were
+idiots.
+{Ich|pron|I} opened the door all the way {und|conj|and} froze.
+{Nicht|adv|not} sex. Worse.
+Ava stood {in|prep|in} the middle of the room, clad {in|prep|in} a skimpy black lace
+getup that left little to the imagination. {Sie|pron|she} huddled next to a guy with
+spiked blond hair holding a camera. They were whispering {und|conj|and}
+laughing while staring at the camera's display screen, so engrossed
+{in|prep|in} their little tête-à-tête they didn't notice they had company.
+My temple pulsed harder.
+"What..." My voice sliced through the air like a whip. "Is going on
+here."
+{Es|pron|it} wasn't a question. {Ich|pron|I} knew what {war|verb|was} going on. The setup, the
+rumpled bed, Ava's outfit...they were {in|prep|in} the middle of a photoshoot.
+With Ava as the model. Dressed {in|prep|in} something that wouldn't be out of
+place {in|prep|in} Playboy magazine.
+The strappy concoction Ava wore barely covered the necessary
+bits. {Es|pron|it} looped around her neck, baring her shoulders, {und|conj|and} plunged to
+her navel {in|prep|in} the front. The high-cut bottom left her legs {und|conj|and} most of
+her ass bare, {und|conj|and} other than the areas covering her breasts {und|conj|and}
+between her legs, the sheer black lace revealed more than {es|pron|it}
+covered.
+I'd never seen her like this. {Es|pron|it} wasn't just the outfit; {es|pron|it} {war|verb|was}
+everything. The usually straight black hair that fell {in|prep|in} luscious waves
+down her back, the made-up face with the smoky eyes {und|conj|and} glossy
+red lips, the miles of golden skin {und|conj|and} curves that etched themselves
+into my brain forever.
+{Ich|pron|I} {war|verb|was} caught between disturbing lust—{sie|pron|she} {war|verb|was} my best friend's
+sister, {für|prep|for} fuck's sake—{und|conj|and} inexplicable fury that other men were
+seeing her like this.
+Ava's eyes widened with alarm when {sie|pron|she} spotted {mich|pron|me|Sie sieht mich. — She sees me.}. "Alex?
+What are {du|pron|you} doing here?"
+"{Ich|pron|I} tried to stop him," Spectacles panted, out of breath. Living proof
+that skinniness does {nicht|adv|not} equal fitness.
+"He's here {für|prep|for} {du|pron|you}, babe." Jules leaned against the doorway, her
+amber eyes glowing with amusement. "{Du|pron|you} look super hot, by the
+way. Can't wait to see the pics."
+"{Du|pron|you} are {nicht|adv|not} seeing the pics," {ich|pron|I} ground out. "No one is seeing the
+pics." {Ich|pron|I} yanked the blanket off the bed {und|conj|and} tossed {es|pron|it} over Ava's
+shoulders, covering her up. "We're leaving. Right now. {Und|conj|and} Blondie
+here is deleting every photo {er|pron|he} took of {du|pron|you}."
+Her jaw dropped. "No, I'm {nicht|adv|not}, {und|conj|and} no, he's {nicht|adv|not}. {Du|pron|you} can't tell {mich|pron|me|Sie sieht mich. — She sees me.}
+what to do." {Sie|pron|she} threw the blanket on the ground {und|conj|and} lifted her chin
+{in|prep|in} defiance. "You're {nicht|adv|not} my father or brother, {und|conj|and} even if {du|pron|you} were,
+{du|pron|you} have no say {in|prep|in} what {ich|pron|I} do {in|prep|in} my free time."
+"He's taking photos of {du|pron|you} half-naked," {ich|pron|I} snapped. "Do {du|pron|you} know
+how destructive those can be if they're leaked? If a future employer
+sees them?"
+"{Ich|pron|I} volunteered {für|prep|for} this," {sie|pron|she} snapped back. "It's boudoir
+photography. Artistic. People do this all the time. It's {nicht|adv|not} like I'm
+baring {es|pron|it} all {für|prep|for} a porn site. How did {du|pron|you} even know {ich|pron|I} {war|verb|was} here?"
+"Oops," Jules said from behind us. {Sie|pron|she} didn't sound sorry at all.
+"{Du|pron|you} might as well be." The simmering {in|prep|in} my blood had reached a
+full boil. "Get. Dressed."
+"No-oh." Ava's glare intensified, {und|conj|and} {sie|pron|she} dragged out the word
+"no" until {es|pron|it} had two syllables.
+"Hey, dude, {ich|pron|I} don't mean no harm." Blondie let out a nervous
+chuckle. "Like {sie|pron|she} said, this is art. I'll edit {es|pron|it} so her face is {in|prep|in} shadow
+{und|conj|and} no one can tell it's her. {Ich|pron|I} just need the photos {für|prep|for} my port—what
+are {du|pron|you} doing?" {Er|pron|he} squawked {in|prep|in} protest when {ich|pron|I} snatched the camera
+out of his hands {und|conj|and} started deleting photos {aber|conj|but} fell silent when {ich|pron|I}
+leveled him with a death glare.
+"Stop! You're being ridiculous." Ava tried to retrieve the camera,
+to no avail. "Do {du|pron|you} know how long those photos took? Stop. {Du|pron|you}
+are—" {Sie|pron|she} yanked on my arm. {Es|pron|it} didn't budge. "Being—" Another
+yank, same result. "Unreasonable!"
+"I'm protecting {du|pron|you}, since {du|pron|you} clearly can't do {es|pron|it} yourself."
+My mood darkened further when {ich|pron|I} saw the pictures of her lying on
+the bed, staring sultrily at the camera. How long had {sie|pron|she} {und|conj|and} Blondie
+been doing this, alone? {Es|pron|it} didn't take a genius to figure out what had
+been going through his mind the entire time. {Es|pron|it} {war|verb|was} the same thing
+that would've gone through any red-blooded male's mind. Sex.
+{Ich|pron|I} hoped Blondie enjoyed his working pair of eyes while {er|pron|he} still
+had them.
+Ava stepped back {für|prep|for} a minute, then lunged {für|prep|for} the camera {in|prep|in} a
+poorly concealed attempt to catch {mich|pron|me} off guard. I'd expected the
+move, {aber|conj|but} {ich|pron|I} still grunted at the impact as {sie|pron|she} scrambled over {mich|pron|me} like
+a fucking spider monkey. Her breasts grazed my arm, {und|conj|and} her hair
+tickled my skin.
+My blood heated at the sensations.
+{Sie|pron|she} {war|verb|was} so close {ich|pron|I} could hear her breath coming out {in|prep|in} soft
+pants. {Ich|pron|I} tried {nicht|adv|not} to notice how her chest heaved or how smooth her
+skin felt pressed against mine. They were dangerous, twisting
+thoughts that had no place {in|prep|in} my mind. {Nicht|adv|not} now, {nicht|adv|not} ever.
+"Give {es|pron|it} back," {sie|pron|she} ordered.
+{Es|pron|it} {war|verb|was} almost cute how {sie|pron|she} thought {sie|pron|she} could order {mich|pron|me} around.
+"No."
+Ava narrowed her eyes. "If {du|pron|you} don't give {es|pron|it} back, {ich|pron|I} swear to God
+I'll walk out into the street wearing this outfit."
+Another bolt of fury sizzled through {mich|pron|me}. "{Du|pron|you} wouldn't."
+"Try {mich|pron|me}."
+Our faces were inches apart, our words so soft no one could hear
+them except us.
+Nevertheless, {ich|pron|I} lowered my head so {ich|pron|I} could whisper right {in|prep|in} her
+ear. "If {du|pron|you} step a foot outside this room {in|prep|in} that outfit, I'll {nicht|adv|not} only
+delete every picture on this camera, {aber|conj|but} {ich|pron|I} will destroy your 'friend's'
+career until {er|pron|he} has to resort to advertising shitty five-dollar-an-hour
+headshots on Craigslist." A wintry smile touched my lips. "{Du|pron|you}
+wouldn't want that, would {du|pron|you}?"
+There are two ways to threaten people: attack them directly, or
+attack those they care about. {Ich|pron|I} wasn't above doing either.
+Ava's mouth trembled. {Sie|pron|she} believed {mich|pron|me}, as {sie|pron|she} should, because
+{ich|pron|I} meant every word. {Ich|pron|I} wasn't a senator or a lobbyist, {aber|conj|but} an obscene
+net worth, thick files of blackmail material, {und|conj|and} years of networking
+had granted {mich|pron|me} more than my fair share of influence {in|prep|in} D.C. "You're
+an asshole."
+"Yes, {ich|pron|I} am, {und|conj|and} don't {du|pron|you} forget {es|pron|it}." {Ich|pron|I} straightened. "Get dressed."
+Ava didn't argue, {aber|conj|but} {sie|pron|she} also refused to look at {mich|pron|me} as {sie|pron|she}
+disappeared into the bathroom across the hall to change.
+Blondie {und|conj|and} Spectacles gaped at {mich|pron|me} like the devil himself had
+poofed into their house. Meanwhile, Jules grinned like {sie|pron|she} {war|verb|was}
+watching the most entertaining movie of the year.
+{Ich|pron|I} finished deleting the photos {und|conj|and} shoved the camera back into
+Blondie's hands. "Never ask Ava to do something like this again." {Ich|pron|I}
+towered over him, relishing the subtle shake of his shoulders as {er|pron|he}
+tried {nicht|adv|not} to cower. "If {du|pron|you} do, I'll know. {Und|conj|and} {du|pron|you} won't like what
+happens next."
+"Okay," Blondie squeaked.
+The bathroom door opened. Ava brushed past {mich|pron|me} {und|conj|and} said
+something to Blondie {in|prep|in} a low voice. {Er|pron|he} nodded. {Sie|pron|she} placed a hand
+on his arm, {und|conj|and} my jaw ticked.
+"Let's go." The words came out sharper than I'd intended.
+Ava finally looked at {mich|pron|me}, her eyes flashing. "We'll go when I'm
+ready."
+{Ich|pron|I} didn't know how Josh dealt with her all these years. Two weeks
+{in|prep|in}, {und|conj|and} {ich|pron|I} already wanted to strangle her.
+{Sie|pron|she} murmured something else to Blondie before {sie|pron|she} stalked past
+{mich|pron|me} without another word. Jules followed, still grinning.
+{Ich|pron|I} cast one last glare {in|prep|in} Blondie's direction before {ich|pron|I} left.
+Silence permeated the car as we drove back to Thayer. Jules sat
+{in|prep|in} the backseat, tapping away on her phone, while a stone-faced Ava
+stared out the window from the passenger seat, her shoulders tight.
+{Ich|pron|I} didn't mind silence. {Ich|pron|I} craved {es|pron|it}. There were few things {ich|pron|I} found
+more irritating than incessant, pointless conversation. The weather,
+the latest blockbuster, who broke up with who...who the fuck cared?
+Still, something compelled {mich|pron|me} to turn on the radio halfway
+through the drive, though {ich|pron|I} left the volume so low {ich|pron|I} almost couldn't
+hear the music.
+"{Es|pron|it} {war|verb|was} {für|prep|for} your own good," {ich|pron|I} said over the teeny-tiny beats of the
+latest rap hit.
+Ava turned her body further away {und|conj|and} didn't respond.
+Fine. {Sie|pron|she} could be mad all {sie|pron|she} wanted. The only thing {ich|pron|I} regretted
+{war|verb|was} {nicht|adv|not} smashing Blondie's camera altogether.
+{Es|pron|it} wasn't like {ich|pron|I} cared about her silent treatment. {Nicht|adv|not} one bit.
 
 ---
 
@@ -10,3 +349,5 @@
 
 | English | German | Type |
 |---------|--------|------|
+| me | mich | pron |
+| for | für | prep |
