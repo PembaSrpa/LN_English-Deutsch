@@ -1,8 +1,7 @@
-# Chapter 2
+# ALEX
 
 ---
 
-ALEX
 
 "We should take this somewhere more...private." The
 blonde trailed her fingers down my arm, her hazel eyes bright with

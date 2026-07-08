@@ -1,8 +1,7 @@
-# Chapter 1
+# AVA
 
 ---
 
-AVA
 
 There were worse things than being stranded in the
 middle of nowhere during a rainstorm.
