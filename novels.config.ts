@@ -45,6 +45,17 @@ const novels: Novel[] = [
     type: 'md',
   },
   {
+    id: 'twisted-love',
+    title: 'Twisted Love',
+    author: 'Ana Huang',
+    description: 'Ruthless businessman Alex Volkov has one rule: never fall in love. Then his best friend leaves him in charge of his innocent, sheltered sister, Ava Chen — and Alex\'s rule starts slipping.',
+    genre: ['Romance', 'New Adult'],
+    coverImage: '/covers/twisted-love.jpg',
+    totalChapters: 43,
+    contentFolder: 'twisted-love',
+    type: 'md',
+  },
+  {
     id: 'a1-glossary',
     title: 'A1 German',
     author: 'Goethe',
