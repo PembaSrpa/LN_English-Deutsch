@@ -50,7 +50,7 @@ const novels: Novel[] = [
     author: 'Alex Michaelides',
     description: 'A psychotherapist becomes obsessed with treating a woman who shot her husband and then never spoke another word again.',
     genre: ['Thriller', 'Mystery'],
-    coverImage: '/covers/silent-patient.jpg',
+    coverImage: '/covers/the-silent-patient.jpg',
     totalChapters: 75,
     contentFolder: 'silent-patient',
     type: 'md',
