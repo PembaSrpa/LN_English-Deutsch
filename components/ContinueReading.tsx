@@ -10,12 +10,14 @@ export function ContinueReading({ novels }: { novels: Novel[] }) {
   const pathname = usePathname()
   const [entries, setEntries] = useState<{ novel: Novel; chapter: number }[]>([])
 
+  const EXCLUDED_IDS = ['ugly-duckling', 'a1-glossary']
+
   useEffect(() => {
     setEntries(
       novels
-        .filter(n => n.id === 'shadow-slave')
+        .filter(n => !EXCLUDED_IDS.includes(n.id))
         .map(n => ({ novel: n, chapter: getLastChapter(n.id) }))
-        .filter(e => e.chapter >= 1)
+        .filter(e => e.chapter > 1)
     )
   }, [novels, pathname])
 
