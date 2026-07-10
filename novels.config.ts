@@ -56,6 +56,17 @@ const novels: Novel[] = [
     type: 'md',
   },
   {
+    id: 'the-great-gatsby',
+    title: 'The Great Gatsby',
+    author: 'F. Scott Fitzgerald',
+    description: 'A classic American novel of wealth, longing, and illusion in Jazz Age New York, annotated for German immersion reading.',
+    genre: ['Classic', 'Fiction'],
+    coverImage: '/covers/the-great-gatsby.png',
+    totalChapters: 9,
+    contentFolder: 'the-great-gatsby',
+    type: 'md',
+},
+  {
     id: 'a1-glossary',
     title: 'A1 German',
     author: 'Goethe',
