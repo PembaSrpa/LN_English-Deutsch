@@ -28,7 +28,7 @@ export function ReaderClient({ novelId, novelTitle, chapterNum, availableChapter
   const nextNum = chapterNum < availableChapters ? chapterNum + 1 : null
 
   return (
-    <ClipModeProvider>
+    <ClipModeProvider resetKey={chapterNum}>
       <div className="min-h-screen flex flex-col">
         <ProgressTracker novelId={novelId} chapter={chapterNum} />
         <WordClipButton />
