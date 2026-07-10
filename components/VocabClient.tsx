@@ -1,74 +1,72 @@
 'use client'
 import { useEffect, useState } from 'react'
 import Link from 'next/link'
-import { motion } from 'motion/react'
-import { ChapterRenderer } from './ChapterRenderer'
-import { BookmarkButton } from './BookmarkButton'
-import { ProgressTracker } from './ProgressTracker'
-import { ClipModeProvider } from './ClipModeContext'
-import { WordClipButton } from './WordClipButton'
-import { IconArrowLeft, IconArrowRight } from '@tabler/icons-react'
-import type { ParsedLine } from '@/lib/parseChapter'
+import { getSavedWords, removeSavedWord, type SavedWord } from '@/lib/storage'
+import { IconBookmarkFilled, IconTrash } from '@tabler/icons-react'
 
-type Props = {
-  novelId: string
-  novelTitle: string
-  chapterNum: number
-  totalChapters: number
-  availableChapters: number
-  lines: ParsedLine[]
-  isDemo?: boolean
+const TYPE_COLORS: Record<string, string> = {
+  verb: '#fcd34d',
+  conj: '#c084fc',
+  adv: '#c084fc',
+  adj: '#c084fc',
+  masc: '#60a5fa',
+  fem: '#f472b6',
+  neut: '#4ade80',
+  pron: '#c084fc',
 }
 
-export function ReaderClient({ novelId, novelTitle, chapterNum, availableChapters, lines }: Props) {
-  const [fontSize, setFontSize] = useState(15)
-  useEffect(() => { setFontSize(window.innerWidth < 768 ? 13 : 15) }, [])
+export function VocabClient() {
+  const [words, setWords] = useState<SavedWord[]>([])
 
-  const prevNum = chapterNum > 1 ? chapterNum - 1 : null
-  const nextNum = chapterNum < availableChapters ? chapterNum + 1 : null
+  useEffect(() => {
+    setWords(getSavedWords().sort((a, b) => b.savedAt - a.savedAt))
+  }, [])
+
+  const handleRemove = (w: SavedWord) => {
+    removeSavedWord(w.novelId, w.chapter, w.word)
+    setWords((prev) => prev.filter((x) => x.id !== w.id))
+  }
+
+  if (!words.length) {
+    return (
+      <div className="flex flex-col items-center justify-center text-center py-20 text-neutral-400">
+        <IconBookmarkFilled size={28} className="mb-3 text-neutral-500" />
+        <p className="text-sm font-semibold text-neutral-200 mb-1">No saved words yet</p>
+        <p className="text-xs max-w-[240px]">Tap the bookmark icon on any highlighted word while reading to save it here.</p>
+      </div>
+    )
+  }
 
   return (
-    <ClipModeProvider>
-      <div className="min-h-screen flex flex-col">
-        <ProgressTracker novelId={novelId} chapter={chapterNum} />
-        <WordClipButton />
-
-      <header className="sticky top-0 z-40 bg-neutral-750 backdrop-blur border-b border-neutral-600">
-        <div className="flex items-center justify-between px-[calc(1.25rem+8px)] md:px-[calc(2.5rem+16px)] py-2">
-          <motion.div whileHover={{ scale: 1.05 }} transition={{ type: 'spring', stiffness: 400, damping: 20 }}>
-            <Link href={`/${novelId}`} className="flex items-center gap-1.5 text-xs text-neutral-100 font-medium hover:text-white transition-colors">
-              <IconArrowLeft size={14} />
-              <span className="truncate max-w-[160px]">{novelTitle}</span>
+    <div className="flex flex-col gap-2">
+      {words.map((w) => (
+        <div key={w.id} className="flex items-start gap-3 p-3 border border-neutral-600 rounded-xl bg-neutral-700">
+          <div className="flex-1 min-w-0">
+            <div className="flex items-center gap-2 mb-0.5">
+              <span className="text-sm font-bold" style={{ color: TYPE_COLORS[w.type] ?? '#c084fc' }}>{w.word}</span>
+            </div>
+            <p className="text-xs text-neutral-300 mb-1">{w.translation}</p>
+            {w.example ? (
+              <p className="text-[0.6875rem] text-neutral-400 italic border-l-2 border-neutral-600 pl-2 leading-relaxed mb-1.5">
+                {w.example.replace(/\s*—\s*/g, ' - ')}
+              </p>
+            ) : null}
+            <Link
+              href={`/${w.novelId}/${w.chapter}`}
+              className="text-[0.625rem] text-neutral-400 hover:text-neutral-200 transition-colors underline underline-offset-2"
+            >
+              {w.novelTitle} · Ch. {w.chapter}
             </Link>
-          </motion.div>
-          <BookmarkButton novelId={novelId} chapter={chapterNum} />
+          </div>
+          <button
+            onClick={() => handleRemove(w)}
+            aria-label="Remove saved word"
+            className="flex-shrink-0 p-2 hover:bg-neutral-600 rounded-md transition-colors"
+          >
+            <IconTrash size={15} className="text-neutral-400" />
+          </button>
         </div>
-      </header>
-
-      <main className="flex-1 px-[calc(1.25rem+8px)] md:px-[calc(2.5rem+16px)] py-8">
-        <ChapterRenderer lines={lines} fontSize={fontSize} novelId={novelId} novelTitle={novelTitle} chapter={chapterNum} />
-      </main>
-
-      <nav className="sticky bottom-0 z-40 bg-neutral-750 backdrop-blur border-t border-neutral-600">
-        <div className="flex items-center justify-between px-[calc(1.25rem+8px)] md:px-[calc(2.5rem+16px)] py-3">
-          {prevNum ? (
-            <motion.div whileHover={{ scale: 1.05 }} transition={{ type: 'spring', stiffness: 400, damping: 20 }}>
-              <Link href={`/${novelId}/${prevNum}`} className="flex items-center gap-1.5 text-xs text-neutral-100 font-medium hover:text-white transition-colors">
-                <IconArrowLeft size={13} /> Prev
-              </Link>
-            </motion.div>
-          ) : <span />}
-          <span className="text-[0.6875rem] text-neutral-400 tabular-nums">Ch. {chapterNum}</span>
-          {nextNum ? (
-            <motion.div whileHover={{ scale: 1.05 }} transition={{ type: 'spring', stiffness: 400, damping: 20 }}>
-              <Link href={`/${novelId}/${nextNum}`} className="flex items-center gap-1.5 text-xs text-neutral-100 font-medium hover:text-white transition-colors">
-                Next <IconArrowRight size={13} />
-              </Link>
-            </motion.div>
-          ) : <span />}
-        </div>
-      </nav>
+      ))}
     </div>
-    </ClipModeProvider>
   )
 }
