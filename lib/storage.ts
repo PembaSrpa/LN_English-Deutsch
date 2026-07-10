@@ -98,13 +98,21 @@ export function toggleSavedWord(entry: Omit<SavedWord, 'id' | 'savedAt'>): boole
 
 export type ClipPosition = { x: number; y: number }
 
-export function getClipPosition(): ClipPosition | null {
+// Full persisted state of the clip button: whether clip mode is armed, and
+// where the button currently sits. `x`/`y` are in the coordinate space that
+// matches `active` — document coords while active, viewport coords while idle.
+export type ClipState = { active: boolean; x: number; y: number }
+
+export function getClipState(): ClipState | null {
   if (typeof window === 'undefined') return null
-  const val = localStorage.getItem(`${PREFIX}:clipPos`)
-  return val ? (JSON.parse(val) as ClipPosition) : null
+  const val = localStorage.getItem(`${PREFIX}:clipState`)
+  if (val) return JSON.parse(val) as ClipState
+  // Fall back to the legacy idle-only key so existing users don't lose their spot.
+  const legacy = localStorage.getItem(`${PREFIX}:clipPos`)
+  return legacy ? { active: false, ...(JSON.parse(legacy) as ClipPosition) } : null
 }
 
-export function setClipPosition(pos: ClipPosition): void {
+export function setClipState(state: ClipState): void {
   if (typeof window === 'undefined') return
-  localStorage.setItem(`${PREFIX}:clipPos`, JSON.stringify(pos))
+  localStorage.setItem(`${PREFIX}:clipState`, JSON.stringify(state))
 }

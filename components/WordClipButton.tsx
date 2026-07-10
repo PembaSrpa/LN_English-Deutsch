@@ -2,7 +2,7 @@
 import { useCallback, useEffect, useRef, useState } from 'react'
 import { createPortal } from 'react-dom'
 import { IconPaperclip } from '@tabler/icons-react'
-import { getClipPosition, setClipPosition, type ClipPosition } from '@/lib/storage'
+import { getClipState, setClipState, type ClipPosition } from '@/lib/storage'
 import { useClipMode } from './ClipModeContext'
 
 const SIZE = 46
@@ -46,8 +46,14 @@ export function WordClipButton() {
 
   useEffect(() => {
     setMounted(true)
-    const saved = getClipPosition()
-    const initial = clampToViewport(saved ?? { x: window.innerWidth - SIZE - 16, y: 76 })
+    const saved = getClipState()
+    // `active` here already reflects the persisted flag (ClipModeProvider
+    // reads the same storage on init), so `saved.x/y` — when present — are
+    // already in the coordinate space that matches it. No idle/active
+    // conversion needed on first mount.
+    const initial = saved
+      ? (active ? { x: clampX(saved.x), y: saved.y } : clampToViewport({ x: saved.x, y: saved.y }))
+      : clampToViewport({ x: window.innerWidth - SIZE - 16, y: 76 })
     setPos(initial)
     posRef.current = initial
 
@@ -64,8 +70,9 @@ export function WordClipButton() {
   }, [])
 
   // Handle the black <-> yellow transition: convert coordinates between
-  // viewport space (idle) and document space (armed), and persist the idle
-  // resting spot every time we drop back into idle.
+  // viewport space (idle) and document space (armed), and persist the new
+  // state (mode + matching-space position) every time the mode changes so a
+  // refresh mid-session restores exactly where things were left off.
   useEffect(() => {
     if (prevActive.current === active) return
     prevActive.current = active
@@ -74,11 +81,12 @@ export function WordClipButton() {
       const docPos = { x: clampX(posRef.current.x), y: posRef.current.y + window.scrollY }
       posRef.current = docPos
       setPos(docPos)
+      setClipState({ active: true, ...docPos })
     } else {
       const restPos = toRestCoords(posRef.current, true)
       posRef.current = restPos
       setPos(restPos)
-      setClipPosition(restPos)
+      setClipState({ active: false, ...restPos })
     }
   }, [active])
 
@@ -104,9 +112,10 @@ export function WordClipButton() {
     if (!dragging.current) return
     dragging.current = false
     if (moved.current) {
-      // Persist the idle resting spot regardless of which mode we dragged in,
-      // so the position is never lost on refresh.
-      setClipPosition(toRestCoords(posRef.current, active))
+      // Persist in whichever coordinate space we're currently in — active
+      // stays in document coords, idle stays in viewport coords — so the
+      // saved spot is exactly where the button visually is right now.
+      setClipState({ active, ...posRef.current })
     } else {
       toggle()
     }
