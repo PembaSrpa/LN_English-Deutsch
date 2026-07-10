@@ -10,19 +10,33 @@ type ClipModeContextValue = {
 
 const ClipModeContext = createContext<ClipModeContextValue | null>(null)
 
+// Lives in module memory, not localStorage: true once any ClipModeProvider
+// has mounted during this browser session. A hard page reload re-evaluates
+// the module and resets this to false, so refreshing still restores the
+// last saved active/idle state. But if the reader page component itself
+// remounts on Next/Prev client-side navigation, this flag is already true,
+// so that remount will NOT re-hydrate `active: true` from storage — it
+// forces idle instead. This is what makes the reset effect below reliable
+// regardless of whether the page remounts or is reused on navigation.
+let hasHydratedThisSession = false
+
 type ProviderProps = {
   children: React.ReactNode
-  // Pass something that changes on navigation (e.g. chapter number). The
-  // reader page doesn't remount between chapters, so without this, clip
-  // mode would stay armed after clicking Next/Prev. The very first render
-  // is exempt, so a refresh still restores whatever was last saved.
+  // Pass something that changes on navigation (e.g. chapter number). Forces
+  // clip mode back to idle on chapter change, whether or not the reader
+  // page component itself remounts.
   resetKey?: string | number
 }
 
 export function ClipModeProvider({ children, resetKey }: ProviderProps) {
   // Lazy-init so the very first render already reflects whatever the user
-  // left clip mode as before the page was refreshed.
-  const [active, setActive] = useState(() => getClipState()?.active ?? false)
+  // left clip mode as before the page was refreshed — but only on the
+  // true first mount of this browser session (see hasHydratedThisSession).
+  const [active, setActive] = useState(() => {
+    if (hasHydratedThisSession) return false
+    hasHydratedThisSession = true
+    return getClipState()?.active ?? false
+  })
   const mounted = useRef(false)
 
   useEffect(() => {
