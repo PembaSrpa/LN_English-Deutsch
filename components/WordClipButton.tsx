@@ -9,13 +9,13 @@ const SIZE = 46
 const EDGE_PAD = 8
 const DRAG_THRESHOLD = 6
 
-function clampToViewport(p: ClipPosition): ClipPosition {
+// Clamp horizontally to the page width (no horizontal scroll in this layout,
+// so viewport width doubles as document width). Vertically we only clamp the
+// top edge — the button lives in document flow, so there's no upper bound
+// once content has been scrolled.
+function clampX(x: number): number {
   const maxX = Math.max(EDGE_PAD, window.innerWidth - SIZE - EDGE_PAD)
-  const maxY = Math.max(EDGE_PAD, window.innerHeight - SIZE - EDGE_PAD)
-  return {
-    x: Math.min(Math.max(p.x, EDGE_PAD), maxX),
-    y: Math.min(Math.max(p.y, EDGE_PAD), maxY),
-  }
+  return Math.min(Math.max(x, EDGE_PAD), maxX)
 }
 
 export function WordClipButton() {
@@ -25,18 +25,22 @@ export function WordClipButton() {
   const posRef = useRef(pos)
   const dragging = useRef(false)
   const moved = useRef(false)
+  // start.px/py are viewport (pointer) coordinates at drag start;
+  // start.x/y are the button's document coordinates at drag start.
   const start = useRef({ x: 0, y: 0, px: 0, py: 0 })
 
   useEffect(() => {
     setMounted(true)
     const saved = getClipPosition()
-    const initial = clampToViewport(saved ?? { x: window.innerWidth - SIZE - 16, y: 76 })
+    const initial = saved
+      ? { x: clampX(saved.x), y: Math.max(EDGE_PAD, saved.y) }
+      : { x: clampX(window.innerWidth - SIZE - 16), y: window.scrollY + 76 }
     setPos(initial)
     posRef.current = initial
 
     const onResize = () => {
       setPos((p) => {
-        const next = clampToViewport(p)
+        const next = { x: clampX(p.x), y: p.y }
         posRef.current = next
         return next
       })
@@ -57,7 +61,7 @@ export function WordClipButton() {
     const dx = e.clientX - start.current.px
     const dy = e.clientY - start.current.py
     if (Math.abs(dx) > DRAG_THRESHOLD || Math.abs(dy) > DRAG_THRESHOLD) moved.current = true
-    const next = clampToViewport({ x: start.current.x + dx, y: start.current.y + dy })
+    const next = { x: clampX(start.current.x + dx), y: Math.max(EDGE_PAD, start.current.y + dy) }
     posRef.current = next
     setPos(next)
   }, [])
@@ -82,7 +86,7 @@ export function WordClipButton() {
       onPointerCancel={onPointerUp}
       aria-label={active ? 'Stop clipping words' : 'Clip a word'}
       title={active ? 'Tap a word to save it — tap here to stop' : 'Drag to move · tap to clip a word'}
-      className={`fixed z-[300] flex items-center justify-center rounded-full border touch-none select-none transition-colors ${
+      className={`absolute z-[300] flex items-center justify-center rounded-full border touch-none select-none transition-colors ${
         active
           ? 'bg-amber-400 border-amber-300 text-neutral-900'
           : 'bg-neutral-800 border-neutral-600 text-neutral-300'
