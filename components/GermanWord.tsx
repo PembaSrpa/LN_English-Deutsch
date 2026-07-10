@@ -1,6 +1,9 @@
 'use client'
 import { useState, useRef, useCallback, useEffect } from 'react'
 import { createPortal } from 'react-dom'
+import { isWordSaved } from '@/lib/storage'
+import { IconBookmarkFilled } from '@tabler/icons-react'
+import { useClipMode } from './ClipModeContext'
 import type { AnnotatedWord, WordType } from '@/lib/parseChapter'
 
 const TYPE_STYLES: Record<WordType, { color: string; label: string }> = {
@@ -14,19 +17,34 @@ const TYPE_STYLES: Record<WordType, { color: string; label: string }> = {
   pron:  { color: '#c084fc', label: 'Pronoun' },
 }
 
-export function GermanWord({ data }: { data: AnnotatedWord }) {
+type Props = {
+  data: AnnotatedWord
+  novelId: string
+  novelTitle: string
+  chapter: number
+}
+
+export function GermanWord({ data, novelId, novelTitle, chapter }: Props) {
+  const { active: clipActive, clipWord } = useClipMode()
   const [visible, setVisible] = useState(false)
   const [pos, setPos] = useState({ x: 0, y: 0 })
   const [isTouch, setIsTouch] = useState(false)
   const [mounted, setMounted] = useState(false)
+  const [saved, setSaved] = useState(false)
+  const [justClipped, setJustClipped] = useState(false)
   const spanRef = useRef<HTMLSpanElement>(null)
   const hideTimer = useRef<ReturnType<typeof setTimeout> | null>(null)
   const dismissTimer = useRef<ReturnType<typeof setTimeout> | null>(null)
+  const flashTimer = useRef<ReturnType<typeof setTimeout> | null>(null)
 
   useEffect(() => {
     setMounted(true)
     setIsTouch(window.matchMedia('(pointer: coarse)').matches)
   }, [])
+
+  useEffect(() => {
+    setSaved(isWordSaved(novelId, chapter, data.word))
+  }, [novelId, chapter, data.word])
 
   useEffect(() => {
     if (!isTouch || !visible) return
@@ -64,28 +82,58 @@ export function GermanWord({ data }: { data: AnnotatedWord }) {
     hideTimer.current = setTimeout(() => setVisible(false), delay)
   }, [])
 
+  const handleClip = useCallback(() => {
+    const nowSaved = clipWord({
+      word: data.word,
+      type: data.type,
+      translation: data.translation,
+      example: data.example,
+      novelId,
+      novelTitle,
+      chapter,
+    })
+    setSaved(nowSaved)
+    setJustClipped(true)
+    if (flashTimer.current) clearTimeout(flashTimer.current)
+    flashTimer.current = setTimeout(() => setJustClipped(false), 500)
+  }, [data, novelId, novelTitle, chapter, clipWord])
+
   const handleTouchStart = useCallback((e: React.TouchEvent) => {
     e.stopPropagation()
+    if (clipActive) {
+      handleClip()
+      return
+    }
     if (visible) {
       setVisible(false)
     } else {
       show()
     }
-  }, [visible, show])
+  }, [visible, show, clipActive, handleClip])
+
+  const handleClick = useCallback(() => {
+    if (clipActive) handleClip()
+  }, [clipActive, handleClip])
 
   const touchHandlers = isTouch
     ? { onTouchStart: handleTouchStart }
     : {
-        onMouseEnter: show,
+        onMouseEnter: () => { if (!clipActive) show() },
         onMouseLeave: () => hide(150),
+        onClick: handleClick,
       }
 
-  const popup = mounted && visible ? createPortal(
+  const popup = mounted && visible && !clipActive ? createPortal(
     <div
-      className="fixed z-[200] w-[240px] rounded-xl border border-neutral-600 bg-neutral-800 p-3 pointer-events-none"
+      className="fixed z-[200] w-[240px] rounded-xl border border-neutral-600 bg-neutral-800 p-3"
       style={{ left: pos.x, top: pos.y, boxShadow: '0 4px 24px rgba(0,0,0,0.4)' }}
+      onMouseEnter={() => { if (hideTimer.current) clearTimeout(hideTimer.current) }}
+      onMouseLeave={() => hide(150)}
     >
-      <p className="text-sm font-bold text-neutral-100 mb-0.5">{data.word}</p>
+      <div className="flex items-start justify-between gap-2 mb-0.5">
+        <p className="text-sm font-bold text-neutral-100">{data.word}</p>
+        {saved && <IconBookmarkFilled size={14} className="flex-shrink-0 text-amber-400 -mt-0.5 -mr-0.5" />}
+      </div>
       <p className="text-[0.625rem] uppercase tracking-widest text-neutral-400 mb-1.5">{style.label}</p>
       <p className="text-xs text-neutral-300 mb-2">{data.translation}</p>
       {data.example ? (
@@ -101,11 +149,14 @@ export function GermanWord({ data }: { data: AnnotatedWord }) {
     <>
       <span
         ref={spanRef}
-        className="font-semibold cursor-pointer hover:opacity-70 transition-opacity"
+        className={`font-semibold transition-all rounded ${clipActive ? 'cursor-pointer' : 'cursor-pointer hover:opacity-70'} ${
+          justClipped ? 'ring-2 ring-amber-400' : ''
+        }`}
         style={{ color: style.color }}
         {...touchHandlers}
       >
         {data.word}
+        {saved && <IconBookmarkFilled size={9} className="inline-block ml-0.5 mb-1.5 text-amber-400" />}
       </span>
       {popup}
     </>

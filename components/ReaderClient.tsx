@@ -5,6 +5,8 @@ import { motion } from 'motion/react'
 import { ChapterRenderer } from './ChapterRenderer'
 import { BookmarkButton } from './BookmarkButton'
 import { ProgressTracker } from './ProgressTracker'
+import { ClipModeProvider } from './ClipModeContext'
+import { WordClipButton } from './WordClipButton'
 import { IconArrowLeft, IconArrowRight } from '@tabler/icons-react'
 import type { ParsedLine } from '@/lib/parseChapter'
 
@@ -26,8 +28,10 @@ export function ReaderClient({ novelId, novelTitle, chapterNum, availableChapter
   const nextNum = chapterNum < availableChapters ? chapterNum + 1 : null
 
   return (
-    <div className="min-h-screen flex flex-col">
-      <ProgressTracker novelId={novelId} chapter={chapterNum} />
+    <ClipModeProvider>
+      <div className="min-h-screen flex flex-col">
+        <ProgressTracker novelId={novelId} chapter={chapterNum} />
+        <WordClipButton />
 
       <header className="sticky top-0 z-40 bg-neutral-750 backdrop-blur border-b border-neutral-600">
         <div className="flex items-center justify-between px-[calc(1.25rem+8px)] md:px-[calc(2.5rem+16px)] py-2">
@@ -42,7 +46,7 @@ export function ReaderClient({ novelId, novelTitle, chapterNum, availableChapter
       </header>
 
       <main className="flex-1 px-[calc(1.25rem+8px)] md:px-[calc(2.5rem+16px)] py-8">
-        <ChapterRenderer lines={lines} fontSize={fontSize} />
+        <ChapterRenderer lines={lines} fontSize={fontSize} novelId={novelId} novelTitle={novelTitle} chapter={chapterNum} />
       </main>
 
       <nav className="sticky bottom-0 z-40 bg-neutral-750 backdrop-blur border-t border-neutral-600">
@@ -65,5 +69,6 @@ export function ReaderClient({ novelId, novelTitle, chapterNum, availableChapter
         </div>
       </nav>
     </div>
+    </ClipModeProvider>
   )
 }

@@ -1,44 +1,110 @@
 'use client'
-import { useEffect, useState } from 'react'
-import Link from 'next/link'
-import { usePathname } from 'next/navigation'
-import { getLastChapter } from '@/lib/storage'
-import { IconArrowRight } from '@tabler/icons-react'
-import type { Novel } from '@/novels.config'
 
-export function ContinueReading({ novels }: { novels: Novel[] }) {
-  const pathname = usePathname()
-  const [entries, setEntries] = useState<{ novel: Novel; chapter: number }[]>([])
+const PREFIX = 'schatten-lesen'
 
-  const EXCLUDED_IDS = ['ugly-duckling', 'a1-glossary']
+// Novels that should never have reading progress recorded (demo/reference content).
+const PROGRESS_EXCLUDED_IDS = ['ugly-duckling', 'a1-glossary']
 
-  useEffect(() => {
-    setEntries(
-      novels
-        .filter(n => !EXCLUDED_IDS.includes(n.id))
-        .map(n => ({ novel: n, chapter: getLastChapter(n.id) }))
-        .filter(e => e.chapter > 1)
-    )
-  }, [novels, pathname])
+export function getLastChapter(novelId: string): number {
+  if (typeof window === 'undefined') return 1
+  const val = localStorage.getItem(`${PREFIX}:progress:${novelId}`)
+  return val ? parseInt(val, 10) : 1
+}
 
-  if (!entries.length) return null
-  return (
-    <section className="mb-8">
-      <div className="text-[0.625rem] uppercase tracking-[0.12em] text-neutral-400 mb-2 px-1">Continue Reading</div>
-      {entries.map(({ novel, chapter }) => (
-        <Link key={novel.id} href={`/${novel.id}/${chapter}`}
-          className="flex items-center gap-3 p-3 border border-neutral-600 rounded-xl hover:bg-neutral-600 transition-colors group mb-2"
-        >
-          <div className="w-8 h-10 bg-neutral-600 rounded flex items-center justify-center flex-shrink-0 text-neutral-300 text-[0.625rem] font-bold">
-            {novel.title.slice(0, 2).toUpperCase()}
-          </div>
-          <div className="flex-1 min-w-0">
-            <div className="text-xs font-semibold text-neutral-100 truncate">{novel.title}</div>
-            <div className="text-[0.6875rem] text-neutral-400 mt-0.5">Chapter {chapter}</div>
-          </div>
-          <IconArrowRight size={14} className="text-neutral-400 group-hover:text-neutral-200 transition-colors flex-shrink-0" />
-        </Link>
-      ))}
-    </section>
-  )
+export function setLastChapter(novelId: string, chapter: number): void {
+  if (typeof window === 'undefined') return
+  if (PROGRESS_EXCLUDED_IDS.includes(novelId)) return
+  localStorage.setItem(`${PREFIX}:progress:${novelId}`, String(chapter))
+  localStorage.setItem(`${PREFIX}:updated:${novelId}`, String(Date.now()))
+}
+
+export function getLastUpdated(novelId: string): number {
+  if (typeof window === 'undefined') return 0
+  const val = localStorage.getItem(`${PREFIX}:updated:${novelId}`)
+  return val ? parseInt(val, 10) : 0
+}
+
+export function getBookmarks(novelId: string): number[] {
+  if (typeof window === 'undefined') return []
+  const val = localStorage.getItem(`${PREFIX}:bookmarks:${novelId}`)
+  return val ? (JSON.parse(val) as number[]) : []
+}
+
+export function toggleBookmark(novelId: string, chapter: number): boolean {
+  const current = getBookmarks(novelId)
+  const exists = current.includes(chapter)
+  const updated = exists ? current.filter((c) => c !== chapter) : [...current, chapter]
+  localStorage.setItem(`${PREFIX}:bookmarks:${novelId}`, JSON.stringify(updated))
+  return !exists
+}
+
+export function isBookmarked(novelId: string, chapter: number): boolean {
+  return getBookmarks(novelId).includes(chapter)
+}
+
+export type SavedWord = {
+  id: string
+  word: string
+  type: string
+  translation: string
+  example: string
+  novelId: string
+  novelTitle: string
+  chapter: number
+  savedAt: number
+}
+
+function wordId(novelId: string, chapter: number, word: string): string {
+  return `${novelId}:${chapter}:${word.trim().toLowerCase()}`
+}
+
+export function getSavedWords(): SavedWord[] {
+  if (typeof window === 'undefined') return []
+  const val = localStorage.getItem(`${PREFIX}:savedWords`)
+  return val ? (JSON.parse(val) as SavedWord[]) : []
+}
+
+export function isWordSaved(novelId: string, chapter: number, word: string): boolean {
+  const id = wordId(novelId, chapter, word)
+  return getSavedWords().some((w) => w.id === id)
+}
+
+export function saveWord(entry: Omit<SavedWord, 'id' | 'savedAt'>): void {
+  if (typeof window === 'undefined') return
+  const id = wordId(entry.novelId, entry.chapter, entry.word)
+  const current = getSavedWords()
+  if (current.some((w) => w.id === id)) return
+  const updated = [...current, { ...entry, id, savedAt: Date.now() }]
+  localStorage.setItem(`${PREFIX}:savedWords`, JSON.stringify(updated))
+}
+
+export function removeSavedWord(novelId: string, chapter: number, word: string): void {
+  if (typeof window === 'undefined') return
+  const id = wordId(novelId, chapter, word)
+  const updated = getSavedWords().filter((w) => w.id !== id)
+  localStorage.setItem(`${PREFIX}:savedWords`, JSON.stringify(updated))
+}
+
+export function toggleSavedWord(entry: Omit<SavedWord, 'id' | 'savedAt'>): boolean {
+  const saved = isWordSaved(entry.novelId, entry.chapter, entry.word)
+  if (saved) {
+    removeSavedWord(entry.novelId, entry.chapter, entry.word)
+    return false
+  } else {
+    saveWord(entry)
+    return true
+  }
+}
+
+export type ClipPosition = { x: number; y: number }
+
+export function getClipPosition(): ClipPosition | null {
+  if (typeof window === 'undefined') return null
+  const val = localStorage.getItem(`${PREFIX}:clipPos`)
+  return val ? (JSON.parse(val) as ClipPosition) : null
+}
+
+export function setClipPosition(pos: ClipPosition): void {
+  if (typeof window === 'undefined') return
+  localStorage.setItem(`${PREFIX}:clipPos`, JSON.stringify(pos))
 }
