@@ -1,7 +1,6 @@
 import Link from 'next/link'
 import novels from '@/novels.config'
 import { getChapterList } from '@/lib/getChapters'
-import { ContinueReading } from '@/components/ContinueReading'
 import { ContinueToBookmark } from '@/components/ContinueToBookmark'
 import { HomeHeader } from '@/components/HomeHeader'
 
@@ -21,7 +20,6 @@ export default function HomePage() {
           <p className="text-xs text-neutral-400">You'll learn German. Eventually.</p>
         </div>
 
-        <ContinueReading novels={novels} />
         <ContinueToBookmark />
 
         <div className="text-[0.625rem] uppercase tracking-[0.12em] text-neutral-400 mb-3 px-1">Library</div>
