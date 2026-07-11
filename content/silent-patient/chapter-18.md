@@ -1,8 +1,118 @@
-# Chapter 5
+# Kapitel 5
 
 ---
 
-“{Dies|pron|this} WILL STING A BIT.” Yuri was tending to {mein|pron|my} bleeding scratches in the goldfish bowl. {Er|pron|he} opened the bottle of antiseptic {und|conj|and} applied {es|pron|it} to a swab. The medicinal odor transported me to the sick bay at school, conjuring up memories of playground battle scars, grazed knees {und|conj|and} scratched elbows. {Ich|pron|i} remembered the warm, cozy feeling of being taken care of by Matron, bandaged {und|conj|and} rewarded for {mein|pron|my} bravery with a boiled sweet. {Dann|adv|then|Dann gehen wir. — Then we go.} the sting of the antiseptic on {mein|pron|my} skin brought me back sharply to the present, where the injuries {Ich|pron|i} presented were {nicht|adv|not|Ich weiß es nicht. — I don't know it.} {also|conj|so|Also gut. — So, fine.} easily remedied. {Ich|pron|i} winced. “{Mein|pron|my} head feels like {sie|pron|she} hit me with a fucking hammer.” “{Es|pron|it}’s a nasty bruise. {Du|pron|you}’ll have a lump {morgen|adv|tomorrow|Morgen sehen wir uns. — Tomorrow we'll see each other.}. {Wir|pron|we}’d better keep an eye on {es|pron|it}.” Yuri shook {sein|pron|his} head. “{Ich|pron|i} {nie|adv|never|Nie wieder. — Never again.} should have left {du|pron|you} alone with her.” “{Ich|pron|i} didn’t give {du|pron|you} a choice.” {Er|pron|he} grunted. “{Dass|conj|that}’s true enough.” “Thanks for {nicht|adv|not|Ich weiß es nicht. — I don't know it.} saying, ‘{Ich|pron|i} told {du|pron|you} {also|conj|so|Also gut. — So, fine.}.’ {Es|pron|it}’s noted {und|conj|and} appreciated.” Yuri shrugged. “{Ich|pron|i} don’t need to, mate. The professor will say {es|pron|it} for me. {Er|pron|he}’s asked to see {du|pron|you} in {sein|pron|his} office.” “Ah.” “Rather {du|pron|you} than me, by the look of him.” {Ich|pron|i} started getting up. Yuri watched me carefully. “Don’t rush. Take a minute. Make sure {du|pron|you}’re ready. Any dizziness {oder|conj|or} headaches, let me know.” “{Ich|pron|i}’m fine. Honestly.” {Dass|conj|that} wasn’t strictly true, {aber|conj|but} {Ich|pron|i} didn’t feel as bad as {Ich|pron|i} looked. Bloody scratches, {und|conj|and} black bruises around {mein|pron|my} throat where {sie|pron|she}’d tried to strangle me —{sie|pron|she}’d dug {also|conj|so|Also gut. — So, fine.} deep with her fingers, {sie|pron|she}’d drawn blood. {Ich|pron|i} knocked on the professor’s door. Diomedes’s eyes widened when {er|pron|he} saw me. {Er|pron|he} tutted. “Po po po. Did {du|pron|you} need stitches?” “No, no, of course {nicht|adv|not|Ich weiß es nicht. — I don't know it.}. {Ich|pron|i}’m fine.” Diomedes gave me a disbelieving look {und|conj|and} ushered me inside. “Come in, Theo. Sit down.” The others were already there. Christian {und|conj|and} Stephanie were standing. Indira was sitting by the window. {Es|pron|it} felt like a formal reception, {und|conj|and} {Ich|pron|i} wondered {wenn|conj|if} {Ich|pron|i} was about to get fired. Diomedes sat behind {sein|pron|his} desk. {Er|pron|he} gestured to me to sit in the remaining empty chair. {Ich|pron|i} sat. {Er|pron|he} stared at me in silence for a moment, drumming {sein|pron|his} fingers, deliberating what to say, {oder|conj|or} how to say {es|pron|it}. {Aber|conj|but} before {er|pron|he} could make up {sein|pron|his} mind, {er|pron|he} was beaten to {es|pron|it} by Stephanie. “{Dies|pron|this} is an unfortunate incident. Extremely unfortunate.” {Sie|pron|she} turned to me. “Obviously {wir|pron|we}’re all relieved {du|pron|you}’re still in one piece. {Aber|conj|but} {dass|conj|that} doesn’t alter the fact {dass|conj|that} {es|pron|it} raises all kinds of questions. {Und|conj|and} the first is, what were {du|pron|you} doing alone with Alicia?” “{Es|pron|it} was {mein|pron|my} fault. {Ich|pron|i} asked Yuri to leave. {Ich|pron|i} take full responsibility.” “On whose authority did {du|pron|you} make {dass|conj|that} decision? {Wenn|conj|if} either of {du|pron|you} had been seriously injured—” Diomedes interrupted. “Please don’t let’s get dramatic. Thankfully neither was hurt.” {Er|pron|he} gestured at me dismissively. “A few scratches are hardly grounds for a court-martial.” Stephanie pulled a face. “{Ich|pron|i} don’t think jokes are really appropriate, Professor. {Ich|pron|i} really don’t.” “Who’s joking?” Diomedes turned to me. “{Ich|pron|i}’m deadly serious. Tell us, Theo. What happened?” {Ich|pron|i} felt all their eyes on me; {Ich|pron|i} addressed myself to Diomedes. {Ich|pron|i} chose {mein|pron|my} words carefully. “Well, {sie|pron|she} attacked me. {Dass|conj|that}’s what happened.” “{Dass|conj|that} much is obvious. {Aber|conj|but} why? {Ich|pron|i} take {es|pron|it} was unprovoked?” “Yes. At least, consciously.” “{Und|conj|and} unconsciously?” “Well, obviously Alicia was reacting to me on some level. {Ich|pron|i} believe {es|pron|it} shows us how much {sie|pron|she} wants to communicate.” Christian laughed. “{Du|pron|you} call {dass|conj|that} communication?” “Yes, {Ich|pron|i} do. Rage is a powerful communication. The other patients—the zombies who just sit there, vacant, empty—{sie|pron|they}’ve given up. Alicia hasn’t. Her attack tells us {etwas|pron|something|Etwas ist falsch. — Something is wrong.} {sie|pron|she} can’t articulate directly—about her pain, her desperation, her anguish. {Sie|pron|she} was telling me {nicht|adv|not|Ich weiß es nicht. — I don't know it.} to give up on her. {Nicht|adv|not} yet.” Christian rolled {sein|pron|his} eyes. “A less poetic interpretation might be {dass|conj|that} {sie|pron|she} was off her meds {und|conj|and} out of her mind.” {Er|pron|he} turned to Diomedes. “{Ich|pron|i} told {du|pron|you} {dies|pron|this} would happen, Professor. {Ich|pron|i} warned {du|pron|you} about lowering the dose.” “Really, Christian?” {Ich|pron|i} said. “{Ich|pron|i} thought {es|pron|it} was {dein|pron|your} idea.” Christian dismissed me with a roll of {sein|pron|his} eyes. {Er|pron|he} was a psychiatrist through {und|conj|and} through, {Ich|pron|i} thought. By {dass|conj|that} {Ich|pron|i} mean psychiatrists tend to be wary of psychodynamic thinking. {Sie|pron|they} favor a more biological, chemical, {und|conj|and}, above all, practical approach—such as the cup of pills Alicia was handed at every meal. Christian’s unfriendly, narrow gaze told me {dass|conj|that} there was {nichts|pron|nothing|Nichts ist falsch. — Nothing is wrong.} {Ich|pron|i} could contribute. Diomedes, however, eyed me more thoughtfully. “{Es|pron|it} hasn’t put {du|pron|you} off, Theo, what happened?” {Ich|pron|i} shook {mein|pron|my} head. “On the contrary, {Ich|pron|i}’m encouraged.” Diomedes nodded, looking pleased. “Good. {Ich|pron|i} agree, such an intense reaction to {du|pron|you} is certainly worth investigating. {Ich|pron|i} think {du|pron|you} should keep going.” At {dies|pron|this} Stephanie could restrain herself no longer. “{Dass|conj|that}’s absolutely out of the question.” Diomedes kept talking as {wenn|conj|if} {sie|pron|she} hadn’t spoken. {Er|pron|he} kept looking at me. “{Du|pron|you} think {du|pron|you} can get her to talk?” Before {Ich|pron|i} could reply, a voice said from behind me, “{Ich|pron|i} believe {er|pron|he} can, yes.” {Es|pron|it} was Indira. {Ich|pron|i}’d almost forgotten {sie|pron|she} was there. {Ich|pron|i} turned around. “{Und|conj|and} in a way,” Indira said, “Alicia has begun to talk. {Sie|pron|she}’s communicating through Theo—{er|pron|he} is her advocate. {Es|pron|it}’s already happening.” Diomedes nodded. {Er|pron|he} looked pensive for a moment. {Ich|pron|i} knew what was on {sein|pron|his} mind—Alicia Berenson was a famous patient, {und|conj|and} a powerful bargaining tool with the Trust. {Wenn|conj|if} {wir|pron|we} could make demonstrable progress with her, {wir|pron|we}’d have a much stronger hand in saving the Grove from closure. “How long to see results?” Diomedes asked. “{Ich|pron|i} can’t answer {dass|conj|that},” {Ich|pron|i} said. “{Du|pron|you} know {dass|conj|that} as well as {Ich|pron|i} do. {Es|pron|it} takes as long as {es|pron|it} takes. Six months. A year. Probably longer—{es|pron|it} could be years.” “{Du|pron|you} have six weeks.” Stephanie drew herself up {und|conj|and} crossed her arms. “{Ich|pron|i} am the manager of {dies|pron|this} unit, {und|conj|and} {Ich|pron|i} simply cannot allow—” “{Ich|pron|i} am clinical director of the Grove. {Dies|pron|this} is {mein|pron|my} decision, {nicht|adv|not} yours. {Ich|pron|i} take full responsibility for any injuries incurred upon {unser|pron|our|Unser Haus ist groß. — Our house is big.} long-suffering therapist here,” Diomedes said, winking at me. Stephanie didn’t say anything further. {Sie|pron|she} glared at Diomedes, {dann|adv|then|Dann gehen wir. — Then we go.} at me. {Sie|pron|she} turned {und|conj|and} walked out. “Oh, dear,” Diomedes said. “{Du|pron|you} appear to have made an enemy of Stephanie. How unfortunate.” {Er|pron|he} shared a smile with Indira, {dann|adv|then|Dann gehen wir. — Then we go.} gave me a serious look. “Six weeks. Under {mein|pron|my} supervision. Understand?” {Ich|pron|i} agreed—{Ich|pron|i} had no choice {aber|conj|but} to agree. “Six weeks.” “Good.” Christian stood up, visibly annoyed. “Alicia won’t talk in six weeks, {oder|conj|or} sixty years. {Du|pron|you}’re wasting {dein|pron|your} time.” {Er|pron|he} walked out. {Ich|pron|i} wondered why Christian was {also|conj|so|Also gut. — So, fine.} positive {Ich|pron|i} would fail. {Aber|conj|but} {es|pron|it} made me even more determined to succeed.
+“{Dies|pron|this} WILL STING A BIT.”
+
+Yuri was tending to {mein|pron|my} bleeding scratches in the goldfish bowl. {Er|pron|he} opened the bottle of antiseptic {und|conj|and} applied {es|pron|it} to a swab. The medicinal odor transported me to the sick bay at school, conjuring up memories of playground battle scars, grazed knees {und|conj|and} scratched elbows. {Ich|pron|I} remembered the warm, cozy feeling of being taken care of by Matron, bandaged {und|conj|and} rewarded for {mein|pron|my} bravery with a boiled sweet. {Dann|adv|then|Dann gehen wir. — Then we go.} the sting of the antiseptic on {mein|pron|my} skin brought me back sharply to the present, where the injuries {Ich|pron|I} presented were {nicht|adv|not|Ich weiß es nicht. — I don't know it.} {also|conj|so|Also gut. — So, fine.} easily remedied. {Ich|pron|I} winced.
+
+“{Mein|pron|my} head feels like {sie|pron|she} hit me with a fucking hammer.”
+
+“{Es|pron|it}’s a nasty bruise. {Du|pron|you}’ll have a lump {morgen|adv|tomorrow|Morgen sehen wir uns. — Tomorrow we'll see each other.}. {Wir|pron|we}’d better keep an eye on {es|pron|it}.” Yuri shook {sein|pron|his} head. “{Ich|pron|I} {nie|adv|never|Nie wieder. — Never again.} should have left {du|pron|you} alone with her.”
+
+“{Ich|pron|I} didn’t give {du|pron|you} a choice.”
+
+{Er|pron|he} grunted. “{Dass|conj|that}’s true enough.”
+
+“Thanks for {nicht|adv|not|Ich weiß es nicht. — I don't know it.} saying, ‘{Ich|pron|I} told {du|pron|you} {also|conj|so|Also gut. — So, fine.}.’ {Es|pron|it}’s noted {und|conj|and} appreciated.”
+
+Yuri shrugged. “{Ich|pron|I} don’t need to, mate. The professor will say {es|pron|it} for me. {Er|pron|he}’s asked to see {du|pron|you} in {sein|pron|his} office.”
+
+“Ah.”
+
+“Rather {du|pron|you} than me, by the look of him.”
+
+{Ich|pron|I} started getting up.
+
+Yuri watched me carefully. “Don’t rush. Take a minute. Make sure {du|pron|you}’re ready. Any dizziness {oder|conj|or} headaches, let me know.”
+
+“{Ich|pron|I}’m fine. Honestly.”
+
+{Dass|conj|that} wasn’t strictly true, {aber|conj|but} {Ich|pron|I} didn’t feel as bad as {Ich|pron|I} looked. Bloody scratches, {und|conj|and} black bruises around {mein|pron|my} throat where {sie|pron|she}’d tried to strangle me—{sie|pron|she}’d dug {also|conj|so|Also gut. — So, fine.} deep with her fingers, {sie|pron|she}’d drawn blood.
+
+{Ich|pron|I} knocked on the professor’s door. Diomedes’s eyes widened when {er|pron|he} saw me. {Er|pron|he} tutted. “Po po po. Did {du|pron|you} need stitches?”
+
+“No, no, of course {nicht|adv|not|Ich weiß es nicht. — I don't know it.}. {Ich|pron|I}’m fine.”
+
+Diomedes gave me a disbelieving look {und|conj|and} ushered me inside. “Come in, Theo. Sit down.”
+
+The others were already there. Christian {und|conj|and} Stephanie were standing. Indira was sitting by the window. {Es|pron|it} felt like a formal reception, {und|conj|and} {Ich|pron|I} wondered {wenn|conj|if} {Ich|pron|I} was about to get fired.
+
+Diomedes sat behind {sein|pron|his} desk. {Er|pron|he} gestured to me to sit in the remaining empty chair. {Ich|pron|I} sat. {Er|pron|he} stared at me in silence for a moment, drumming {sein|pron|his} fingers, deliberating what to say, {oder|conj|or} how to say {es|pron|it}. {Aber|conj|but} before {er|pron|he} could make up {sein|pron|his} mind, {er|pron|he} was beaten to {es|pron|it} by Stephanie.
+
+“{Dies|pron|this} is an unfortunate incident. Extremely unfortunate.” {Sie|pron|she} turned to me. “Obviously {wir|pron|we}’re all relieved {du|pron|you}’re still in one piece. {Aber|conj|but} {dass|conj|that} doesn’t alter the fact {dass|conj|that} {es|pron|it} raises all kinds of questions. {Und|conj|and} the first is, what were {du|pron|you} doing alone with Alicia?”
+
+“{Es|pron|it} was {mein|pron|my} fault. {Ich|pron|I} asked Yuri to leave. {Ich|pron|I} take full responsibility.”
+
+“On whose authority did {du|pron|you} make {dass|conj|that} decision? {Wenn|conj|if} either of {du|pron|you} had been seriously injured—”
+
+Diomedes interrupted. “Please don’t let’s get dramatic. Thankfully neither was hurt.” {Er|pron|he} gestured at me dismissively. “A few scratches are hardly grounds for a court-martial.”
+
+Stephanie pulled a face. “{Ich|pron|I} don’t think jokes are really appropriate, Professor. {Ich|pron|I} really don’t.”
+
+“Who’s joking?” Diomedes turned to me. “{Ich|pron|I}’m deadly serious. Tell us, Theo. What happened?”
+
+{Ich|pron|I} felt all their eyes on me; {Ich|pron|I} addressed myself to Diomedes. {Ich|pron|I} chose {mein|pron|my} words carefully. “Well, {sie|pron|she} attacked me. {Dass|conj|that}’s what happened.”
+
+“{Dass|conj|that} much is obvious. {Aber|conj|but} why? {Ich|pron|I} take {es|pron|it} was unprovoked?”
+
+“Yes. At least, consciously.”
+
+“{Und|conj|and} unconsciously?”
+
+“Well, obviously Alicia was reacting to me on some level. {Ich|pron|I} believe {es|pron|it} shows us how much {sie|pron|she} wants to communicate.”
+
+Christian laughed. “{Du|pron|you} call {dass|conj|that} communication?”
+
+“Yes, {Ich|pron|I} do. Rage is a powerful communication. The other patients—the zombies who just sit there, vacant, empty—{sie|pron|they}’ve given up. Alicia hasn’t. Her attack tells us {etwas|pron|something|Etwas ist falsch. — Something is wrong.} {sie|pron|she} can’t articulate directly—about her pain, her desperation, her anguish. {Sie|pron|she} was telling me {nicht|adv|not|Ich weiß es nicht. — I don't know it.} to give up on her. {Nicht|adv|not} yet.”
+
+Christian rolled {sein|pron|his} eyes. “A less poetic interpretation might be {dass|conj|that} {sie|pron|she} was off her meds {und|conj|and} out of her mind.” {Er|pron|he} turned to Diomedes. “{Ich|pron|I} told {du|pron|you} {dies|pron|this} would happen, Professor. {Ich|pron|I} warned {du|pron|you} about lowering the dose.”
+
+“Really, Christian?” {Ich|pron|I} said. “{Ich|pron|I} thought {es|pron|it} was {dein|pron|your} idea.”
+
+Christian dismissed me with a roll of {sein|pron|his} eyes. {Er|pron|he} was a psychiatrist through {und|conj|and} through, {Ich|pron|I} thought. By {dass|conj|that} {Ich|pron|I} mean psychiatrists tend to be wary of psychodynamic thinking. {Sie|pron|they} favor a more biological, chemical, {und|conj|and}, above all, practical approach—such as the cup of pills Alicia was handed at every meal. Christian’s unfriendly, narrow gaze told me {dass|conj|that} there was {nichts|pron|nothing|Nichts ist falsch. — Nothing is wrong.} {Ich|pron|I} could contribute.
+
+Diomedes, however, eyed me more thoughtfully. “{Es|pron|it} hasn’t put {du|pron|you} off, Theo, what happened?”
+
+{Ich|pron|I} shook {mein|pron|my} head. “On the contrary, {Ich|pron|I}’m encouraged.”
+
+Diomedes nodded, looking pleased. “Good. {Ich|pron|I} agree, such an intense reaction to {du|pron|you} is certainly worth investigating. {Ich|pron|I} think {du|pron|you} should keep going.”
+
+At {dies|pron|this} Stephanie could restrain herself no longer. “{Dass|conj|that}’s absolutely out of the question.”
+
+Diomedes kept talking as {wenn|conj|if} {sie|pron|she} hadn’t spoken. {Er|pron|he} kept looking at me. “{Du|pron|you} think {du|pron|you} can get her to talk?”
+
+Before {Ich|pron|I} could reply, a voice said from behind me, “{Ich|pron|I} believe {er|pron|he} can, yes.”
+
+{Es|pron|it} was Indira. {Ich|pron|I}’d almost forgotten {sie|pron|she} was there. {Ich|pron|I} turned around.
+
+“{Und|conj|and} in a way,” Indira said, “Alicia has begun to talk. {Sie|pron|she}’s communicating through Theo—{er|pron|he} is her advocate. {Es|pron|it}’s already happening.”
+
+Diomedes nodded. {Er|pron|he} looked pensive for a moment. {Ich|pron|I} knew what was on {sein|pron|his} mind—Alicia Berenson was a famous patient, {und|conj|and} a powerful bargaining tool with the Trust. {Wenn|conj|if} {wir|pron|we} could make demonstrable progress with her, {wir|pron|we}’d have a much stronger hand in saving the Grove from closure.
+
+“How long to see results?” Diomedes asked.
+
+“{Ich|pron|I} can’t answer {dass|conj|that},” {Ich|pron|I} said. “{Du|pron|you} know {dass|conj|that} as well as {Ich|pron|I} do. {Es|pron|it} takes as long as {es|pron|it} takes. Six months. A year. Probably longer—{es|pron|it} could be years.”
+
+“{Du|pron|you} have six weeks.”
+
+Stephanie drew herself up {und|conj|and} crossed her arms. “{Ich|pron|I} am the manager of {dies|pron|this} unit, {und|conj|and} {Ich|pron|I} simply cannot allow—”
+
+“{Ich|pron|I} am clinical director of the Grove. {Dies|pron|this} is {mein|pron|my} decision, {nicht|adv|not} yours. {Ich|pron|I} take full responsibility for any injuries incurred upon {unser|pron|our|Unser Haus ist groß. — Our house is big.} long-suffering therapist here,” Diomedes said, winking at me.
+
+Stephanie didn’t say anything further. {Sie|pron|she} glared at Diomedes, {dann|adv|then|Dann gehen wir. — Then we go.} at me. {Sie|pron|she} turned {und|conj|and} walked out.
+
+“Oh, dear,” Diomedes said. “{Du|pron|you} appear to have made an enemy of Stephanie. How unfortunate.” {Er|pron|he} shared a smile with Indira, {dann|adv|then|Dann gehen wir. — Then we go.} gave me a serious look. “Six weeks. Under {mein|pron|my} supervision. Understand?”
+
+{Ich|pron|I} agreed—{Ich|pron|I} had no choice {aber|conj|but} to agree. “Six weeks.”
+
+“Good.”
+
+Christian stood up, visibly annoyed. “Alicia won’t talk in six weeks, {oder|conj|or} sixty years. {Du|pron|you}’re wasting {dein|pron|your} time.”
+
+{Er|pron|he} walked out. {Ich|pron|I} wondered why Christian was {also|conj|so|Also gut. — So, fine.} positive {Ich|pron|I} would fail.
+
+{Aber|conj|but} {es|pron|it} made me even more determined to succeed.
 
 ---
 

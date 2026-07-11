@@ -1,14 +1,96 @@
-# Chapter 7
+# Kapitel 7
 
 ---
 
-“{Dies|pron|this} FEELS RATHER DIFFERENT from last time,” {Ich|pron|i} said. No response. Alicia sat opposite me in the chair, head turned slightly toward the window. {Sie|pron|she} sat perfectly still, her spine rigid {und|conj|and} straight. {Sie|pron|she} looked like a cellist. {Oder|conj|or} a soldier. “{Ich|pron|i}’m thinking of how the last session ended. When {du|pron|you} physically attacked me {und|conj|and} had to be restrained.” No response. {Ich|pron|i} hesitated. “{Ich|pron|i} wonder {wenn|conj|if} {du|pron|you} did {es|pron|it} as some kind of test? To see what {Ich|pron|i}’m made of? {Ich|pron|i} think {es|pron|it}’s important {dass|conj|that} {du|pron|you} know {Ich|pron|i}’m {nicht|adv|not} easily intimidated. {Ich|pron|i} can take whatever {du|pron|you} throw at me.” Alicia looked out the window at the gray sky beyond the bars. {Ich|pron|i} waited a moment. “There’s {etwas|pron|something} {Ich|pron|i} need to tell {du|pron|you}, Alicia. {Dass|conj|that} {Ich|pron|i}’m on {dein|pron|your} side. Hopefully one day {du|pron|you}’ll believe {dass|conj|that}. Of course, {es|pron|it} takes time to build trust. {Mein|pron|my} old therapist used to say intimacy requires the repeated experience of being responded to—{und|conj|and} {dass|conj|that} doesn’t happen overnight.” Alicia stared at me, unblinking, with an inscrutable gaze. The minutes passed. {Es|pron|it} felt more like an endurance test than a therapy session. {Ich|pron|i} wasn’t making progress in any direction, {es|pron|it} seemed. Perhaps {es|pron|it} was all hopeless. Christian had been right to point out {dass|conj|that} rats desert sinking ships. What the hell was {Ich|pron|i} doing clambering upon {dies|pron|this} wreck, lashing myself to the mast, preparing to drown? The answer was sitting in front of me. As Diomedes put {es|pron|it}, Alicia was a silent siren, luring me to {mein|pron|my} doom. {Ich|pron|i} felt a sudden desperation. {Ich|pron|i} wanted to scream at her, Say {etwas|pron|something}. Anything. Just talk. {Aber|conj|but} {Ich|pron|i} didn’t say {dass|conj|that}. Instead, {Ich|pron|i} broke with therapeutic tradition. {Ich|pron|i} stopped treading softly {und|conj|and} got directly to the point: “{Ich|pron|i}’d like to talk about {dein|pron|your} silence. About what {es|pron|it} means … what {es|pron|it} feels
+“{Dies|pron|this} FEELS RATHER DIFFERENT from last time,” {Ich|pron|I} said.
 
-like. {Und|conj|and} specifically why {du|pron|you} stopped talking.” Alicia didn’t look at me. Was {sie|pron|she} even listening? “As {Ich|pron|i} sit {hier|adv|here|Ich bin hier. — I am here.} with {du|pron|you}, a picture keeps coming into {mein|pron|my} mind—an image of {jemand|pron|someone|Jemand ist da. — Someone is there.} biting their fist, holding back a yell, swallowing a scream. {Ich|pron|i} remember when {Ich|pron|i} first started therapy, {Ich|pron|i} found {es|pron|it} {sehr|adv|very|Sehr gut. — Very good.} hard to cry. {Ich|pron|i} feared {Ich|pron|i}’d be carried away by the flood, overwhelmed. Perhaps {dass|conj|that}’s what {es|pron|it} feels like for {du|pron|you}. {Dass|conj|that}’s why {es|pron|it}’s important to take {dein|pron|your} time to feel safe {und|conj|and} trust {dass|conj|that} {du|pron|you} won’t be alone in {dies|pron|this} flood—{dass|conj|that} {Ich|pron|i}’m treading water {hier|adv|here|Ich bin hier. — I am here.} with {du|pron|you}.” Silence. “{Ich|pron|i} think of myself as a relational therapist. Do {du|pron|you} know what {dass|conj|that} means?” Silence. “{Es|pron|it} means {Ich|pron|i} think Freud was wrong about a couple of things. {Ich|pron|i} don’t believe a therapist can ever really be a blank slate, as {er|pron|he} intended. {Wir|pron|we} leak all kinds of information about ourselves unintentionally—by the color of {mein|pron|my} socks, {oder|conj|or} how {Ich|pron|i} sit {oder|conj|or} the way {Ich|pron|i} talk. Just by sitting {hier|adv|here|Ich bin hier. — I am here.} with {du|pron|you}, {Ich|pron|i} reveal a great deal about myself. Despite {mein|pron|my} best efforts at invisibility, {Ich|pron|i}’m showing {du|pron|you} who {Ich|pron|i} am.” Alicia looked up. {Sie|pron|she} stared at me, her chin slightly tilted—was there a challenge in {dass|conj|that} look? At last {Ich|pron|i} had her attention. {Ich|pron|i} shifted in {mein|pron|my} seat. “The point is, what can {wir|pron|we} do about {dies|pron|this}? {Wir|pron|we} can ignore {es|pron|it} {und|conj|and} deny {es|pron|it} {und|conj|and} pretend {dies|pron|this} therapy is all about {du|pron|you}. {Oder|conj|or} {wir|pron|we} can acknowledge {dass|conj|that} {dies|pron|this} is a two-way street {und|conj|and} work with {dass|conj|that}. {Und|conj|and} {dann|adv|then|Dann gehen wir. — Then we go.} {wir|pron|we} can really start to get somewhere.” {Ich|pron|i} held up {mein|pron|my} hand. {Ich|pron|i} nodded at {mein|pron|my} wedding ring. “{Dies|pron|this} ring tells {du|pron|you} {etwas|pron|something}, doesn’t {es|pron|it}?” Alicia’s eyes ever {also|conj|so} slowly moved in the direction of the ring. “{Es|pron|it} tells {du|pron|you} {Ich|pron|i}’m a married man. {Es|pron|it} tells {du|pron|you} {Ich|pron|i} have a wife. {Wir|pron|we}’ve been married for nearly nine years.” No response, yet {sie|pron|she} kept staring at the ring. “{Du|pron|you} were married for about seven years, weren’t {du|pron|you}?” No reply.
+No response.
 
-“{Ich|pron|i} love {mein|pron|my} wife {sehr|adv|very|Sehr gut. — Very good.} much. Did {du|pron|you} love {dein|pron|your} husband?” Alicia’s eyes moved. {Sie|pron|they} darted up to {mein|pron|my} face. {Wir|pron|we} stared at each other. “Love includes all kinds of feelings, doesn’t {es|pron|it}? Good {und|conj|and} bad. {Ich|pron|i} love {mein|pron|my} wife—her name is Kathy—{aber|conj|but} sometimes {Ich|pron|i} get angry with her. Sometimes … {Ich|pron|i} hate her.” Alicia kept staring at me; {Ich|pron|i} felt like a rabbit in the headlights, frozen, unable to look away {oder|conj|or} move. The attack alarm was on the table, within reach. {Ich|pron|i} made a concerted effort {nicht|adv|not} to look at {es|pron|it}. {Ich|pron|i} knew {Ich|pron|i} shouldn’t keep talking—{dass|conj|that} {Ich|pron|i} should shut up—{aber|conj|but} {Ich|pron|i} couldn’t stop myself. {Ich|pron|i} went on compulsively: “{Und|conj|and} when {Ich|pron|i} say {Ich|pron|i} hate her, {Ich|pron|i} don’t mean all of me hates her. Just a part of me hates. {Es|pron|it}’s about holding on to both parts at the same time. Part of {du|pron|you} loved Gabriel. Part of {du|pron|you} hated him.” Alicia shook her head—no. A brief movement, {aber|conj|but} definite. Finally—a response. {Ich|pron|i} felt a sudden thrill. {Ich|pron|i} should have stopped there, {aber|conj|but} {Ich|pron|i} didn’t. “Part of {du|pron|you} hated him,” {Ich|pron|i} said again more firmly. Another shake of the head. Her eyes burned through me. {Sie|pron|she}’s getting angry, {Ich|pron|i} thought. “{Es|pron|it}’s true, Alicia. {Oder|conj|or} {du|pron|you} wouldn’t have killed him.” Alicia suddenly jumped up. {Ich|pron|i} thought {sie|pron|she} was about to leap on me. {Mein|pron|my} body tensed in anticipation. {Aber|conj|but} instead {sie|pron|she} turned {und|conj|and} marched to the door. {Sie|pron|she} hammered on {es|pron|it} with her fists. There was the sound of a key turning—{und|conj|and} Yuri threw open the door. {Er|pron|he} looked relieved {nicht|adv|not} to find Alicia strangling me on the floor. {Sie|pron|she} pushed past him {und|conj|and} ran into the corridor. “Steady on, slow down, honey.” {Er|pron|he} glanced back at me. “Everything okay? What happened?” {Ich|pron|i} didn’t reply. Yuri gave me a funny look {und|conj|and} left. {Ich|pron|i} was alone. Idiot, {Ich|pron|i} thought to myself. {Du|pron|you} idiot. What was {Ich|pron|i} doing? {Ich|pron|i}’d pushed her too far, too hard, too soon. {Es|pron|it} was horribly unprofessional, {nicht|adv|not} to mention totally fucking inept. {Es|pron|it} revealed far more about {mein|pron|my} state of mind than hers. {Aber|conj|but} {dass|conj|that}’s what Alicia did for {du|pron|you}. Her silence was like a mirror—
+Alicia sat opposite me in the chair, head turned slightly toward the window. {Sie|pron|she} sat perfectly still, her spine rigid {und|conj|and} straight. {Sie|pron|she} looked like a cellist. {Oder|conj|or} a soldier.
 
-reflecting yourself back at {du|pron|you}. {Und|conj|and} {es|pron|it} was {oft|adv|often|Das passiert oft. — That happens often.} an ugly sight.
+“{Ich|pron|I}’m thinking of how the last session ended. When {du|pron|you} physically attacked me {und|conj|and} had to be restrained.”
+
+No response. {Ich|pron|I} hesitated.
+
+“{Ich|pron|I} wonder {wenn|conj|if} {du|pron|you} did {es|pron|it} as some kind of test? To see what {Ich|pron|I}’m made of? {Ich|pron|I} think {es|pron|it}’s important {dass|conj|that} {du|pron|you} know {Ich|pron|I}’m {nicht|adv|not} easily intimidated. {Ich|pron|I} can take whatever {du|pron|you} throw at me.”
+
+Alicia looked out the window at the gray sky beyond the bars. {Ich|pron|I} waited a moment.
+
+“There’s {etwas|pron|something} {Ich|pron|I} need to tell {du|pron|you}, Alicia. {Dass|conj|that} {Ich|pron|I}’m on {dein|pron|your} side. Hopefully one day {du|pron|you}’ll believe {dass|conj|that}. Of course, {es|pron|it} takes time to build trust. {Mein|pron|my} old therapist used to say intimacy requires the repeated experience of being responded to—{und|conj|and} {dass|conj|that} doesn’t happen overnight.”
+
+Alicia stared at me, unblinking, with an inscrutable gaze. The minutes passed. {Es|pron|it} felt more like an endurance test than a therapy session.
+
+{Ich|pron|I} wasn’t making progress in any direction, {es|pron|it} seemed. Perhaps {es|pron|it} was all hopeless. Christian had been right to point out {dass|conj|that} rats desert sinking ships. What the hell was {Ich|pron|I} doing clambering upon {dies|pron|this} wreck, lashing myself to the mast, preparing to drown?
+
+The answer was sitting in front of me. As Diomedes put {es|pron|it}, Alicia was a silent siren, luring me to {mein|pron|my} doom.
+
+{Ich|pron|I} felt a sudden desperation. {Ich|pron|I} wanted to scream at her, Say {etwas|pron|something}. Anything. Just talk.
+
+{Aber|conj|but} {Ich|pron|I} didn’t say {dass|conj|that}. Instead, {Ich|pron|I} broke with therapeutic tradition. {Ich|pron|I} stopped treading softly {und|conj|and} got directly to the point:
+
+“{Ich|pron|I}’d like to talk about {dein|pron|your} silence. About what {es|pron|it} means … what {es|pron|it} feels like. {Und|conj|and} specifically why {du|pron|you} stopped talking.” Alicia didn’t look at me. Was {sie|pron|she} even listening?
+
+“As {Ich|pron|I} sit {hier|adv|here|Ich bin hier. — I am here.} with {du|pron|you}, a picture keeps coming into {mein|pron|my} mind—an image of {jemand|pron|someone|Jemand ist da. — Someone is there.} biting their fist, holding back a yell, swallowing a scream. {Ich|pron|I} remember when {Ich|pron|I} first started therapy, {Ich|pron|I} found {es|pron|it} {sehr|adv|very|Sehr gut. — Very good.} hard to cry. {Ich|pron|I} feared {Ich|pron|I}’d be carried away by the flood, overwhelmed. Perhaps {dass|conj|that}’s what {es|pron|it} feels like for {du|pron|you}. {Dass|conj|that}’s why {es|pron|it}’s important to take {dein|pron|your} time to feel safe {und|conj|and} trust {dass|conj|that} {du|pron|you} won’t be alone in {dies|pron|this} flood—{dass|conj|that} {Ich|pron|I}’m treading water {hier|adv|here|Ich bin hier. — I am here.} with {du|pron|you}.”
+
+Silence.
+
+“{Ich|pron|I} think of myself as a relational therapist. Do {du|pron|you} know what {dass|conj|that} means?”
+
+Silence.
+
+“{Es|pron|it} means {Ich|pron|I} think Freud was wrong about a couple of things. {Ich|pron|I} don’t believe a therapist can ever really be a blank slate, as {er|pron|he} intended. {Wir|pron|we} leak all kinds of information about ourselves unintentionally—by the color of {mein|pron|my} socks, {oder|conj|or} how {Ich|pron|I} sit {oder|conj|or} the way {Ich|pron|I} talk. Just by sitting {hier|adv|here|Ich bin hier. — I am here.} with {du|pron|you}, {Ich|pron|I} reveal a great deal about myself. Despite {mein|pron|my} best efforts at invisibility, {Ich|pron|I}’m showing {du|pron|you} who {Ich|pron|I} am.”
+
+Alicia looked up. {Sie|pron|she} stared at me, her chin slightly tilted—was there a challenge in {dass|conj|that} look? At last {Ich|pron|I} had her attention. {Ich|pron|I} shifted in {mein|pron|my} seat.
+
+“The point is, what can {wir|pron|we} do about {dies|pron|this}? {Wir|pron|we} can ignore {es|pron|it} {und|conj|and} deny {es|pron|it} {und|conj|and} pretend {dies|pron|this} therapy is all about {du|pron|you}. {Oder|conj|or} {wir|pron|we} can acknowledge {dass|conj|that} {dies|pron|this} is a two-way street {und|conj|and} work with {dass|conj|that}. {Und|conj|and} {dann|adv|then|Dann gehen wir. — Then we go.} {wir|pron|we} can really start to get somewhere.”
+
+{Ich|pron|I} held up {mein|pron|my} hand. {Ich|pron|I} nodded at {mein|pron|my} wedding ring.
+
+“{Dies|pron|this} ring tells {du|pron|you} {etwas|pron|something}, doesn’t {es|pron|it}?”
+
+Alicia’s eyes ever {also|conj|so} slowly moved in the direction of the ring.
+
+“{Es|pron|it} tells {du|pron|you} {Ich|pron|I}’m a married man. {Es|pron|it} tells {du|pron|you} {Ich|pron|I} have a wife. {Wir|pron|we}’ve been married for nearly nine years.”
+
+No response, yet {sie|pron|she} kept staring at the ring.
+
+“{Du|pron|you} were married for about seven years, weren’t {du|pron|you}?”
+
+No reply.
+
+“{Ich|pron|I} love {mein|pron|my} wife {sehr|adv|very|Sehr gut. — Very good.} much. Did {du|pron|you} love {dein|pron|your} husband?”
+
+Alicia’s eyes moved. {Sie|pron|they} darted up to {mein|pron|my} face. {Wir|pron|we} stared at each other.
+
+“Love includes all kinds of feelings, doesn’t {es|pron|it}? Good {und|conj|and} bad. {Ich|pron|I} love {mein|pron|my} wife—her name is Kathy—{aber|conj|but} sometimes {Ich|pron|I} get angry with her. Sometimes … {Ich|pron|I} hate her.”
+
+Alicia kept staring at me; {Ich|pron|I} felt like a rabbit in the headlights, frozen, unable to look away {oder|conj|or} move. The attack alarm was on the table, within reach. {Ich|pron|I} made a concerted effort {nicht|adv|not} to look at {es|pron|it}.
+
+{Ich|pron|I} knew {Ich|pron|I} shouldn’t keep talking—{dass|conj|that} {Ich|pron|I} should shut up—{aber|conj|but} {Ich|pron|I} couldn’t stop myself. {Ich|pron|I} went on compulsively:
+
+“{Und|conj|and} when {Ich|pron|I} say {Ich|pron|I} hate her, {Ich|pron|I} don’t mean all of me hates her. Just a part of me hates. {Es|pron|it}’s about holding on to both parts at the same time. Part of {du|pron|you} loved Gabriel. Part of {du|pron|you} hated him.”
+
+Alicia shook her head—no. A brief movement, {aber|conj|but} definite. Finally—a response. {Ich|pron|I} felt a sudden thrill. {Ich|pron|I} should have stopped there, {aber|conj|but} {Ich|pron|I} didn’t.
+
+“Part of {du|pron|you} hated him,” {Ich|pron|I} said again more firmly.
+
+Another shake of the head. Her eyes burned through me. {Sie|pron|she}’s getting angry, {Ich|pron|I} thought.
+
+“{Es|pron|it}’s true, Alicia. {Oder|conj|or} {du|pron|you} wouldn’t have killed him.”
+
+Alicia suddenly jumped up. {Ich|pron|I} thought {sie|pron|she} was about to leap on me. {Mein|pron|my} body tensed in anticipation. {Aber|conj|but} instead {sie|pron|she} turned {und|conj|and} marched to the door. {Sie|pron|she} hammered on {es|pron|it} with her fists.
+
+There was the sound of a key turning—{und|conj|and} Yuri threw open the door. {Er|pron|he} looked relieved {nicht|adv|not} to find Alicia strangling me on the floor. {Sie|pron|she} pushed past him {und|conj|and} ran into the corridor.
+
+“Steady on, slow down, honey.” {Er|pron|he} glanced back at me. “Everything okay? What happened?”
+
+{Ich|pron|I} didn’t reply. Yuri gave me a funny look {und|conj|and} left. {Ich|pron|I} was alone.
+
+Idiot, {Ich|pron|I} thought to myself. {Du|pron|you} idiot. What was {Ich|pron|I} doing? {Ich|pron|I}’d pushed her too far, too hard, too soon. {Es|pron|it} was horribly unprofessional, {nicht|adv|not} to mention totally fucking inept. {Es|pron|it} revealed far more about {mein|pron|my} state of mind than hers.
+
+{Aber|conj|but} {dass|conj|that}’s what Alicia did for {du|pron|you}. Her silence was like a mirror—reflecting yourself back at {du|pron|you}.
+
+{Und|conj|and} {es|pron|it} was {oft|adv|often|Das passiert oft. — That happens often.} an ugly sight
 
 ---
 

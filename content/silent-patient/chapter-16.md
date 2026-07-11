@@ -1,8 +1,120 @@
-# Chapter 3
+# Kapitel 3
 
 ---
 
-AFTER LUNCH {Ich|pron|i} PROWLED THE CORRIDORS, looking for an exit. {Ich|pron|i} was intending to sneak outside {und|conj|and} have a cigarette, {aber|conj|but} {Ich|pron|i} was discovered by Indira by the fire escape. {Sie|pron|she} assumed {Ich|pron|i} was lost. “Don’t worry, Theo,” {sie|pron|she} said, taking {mein|pron|my} arm. “{Es|pron|it} took me months to get {mein|pron|my} bearings around here. Like a maze with no way out. {Ich|pron|i} still get lost sometimes {und|conj|and} {Ich|pron|i}’ve been here ten years.” {Sie|pron|she} laughed. Before {Ich|pron|i} could object, {sie|pron|she} was guiding me upstairs for a cup of tea in the “goldfish bowl.” “{Ich|pron|i}’ll put the kettle on. Bloody miserable weather, isn’t {es|pron|it}? {Ich|pron|i} wish {es|pron|it} would just snow {und|conj|and} get {es|pron|it} over with.… Snow is a very powerful imaginative symbol, don’t {du|pron|you} think? Wipes everything clean. Have {du|pron|you} noticed how the patients keep talking about {es|pron|it}? Look out for {es|pron|it}. {Es|pron|it}’s interesting.” To {mein|pron|my} surprise, {sie|pron|she} reached into her bag {und|conj|and} pulled out a thick slice of cake wrapped in cling film. {Sie|pron|she} thrust {es|pron|it} into {mein|pron|my} hand. “Take {es|pron|it}. Walnut cake. {Ich|pron|i} made {es|pron|it} last night. For {du|pron|you}.” “Oh, thank {du|pron|you}, {Ich|pron|i}—” “{Ich|pron|i} know {es|pron|it}’s unorthodox, {aber|conj|but} {Ich|pron|i} always get better results with difficult patients {wenn|conj|if|Wenn du willst. — If you want.} {Ich|pron|i} give them a slice of cake in the session.” {Ich|pron|i} laughed. “{Ich|pron|i} bet {du|pron|you} do. Am {Ich|pron|i} a difficult patient?” Indira laughed. “No, {obwohl|conj|although|Obwohl es regnet. — Although it's raining.} {Ich|pron|i} find {es|pron|it} works just as well on difficult members of staff too—which {du|pron|you}’re {nicht|adv|not|Ich weiß es nicht. — I don't know it.} either, by the way. A little bit of sugar is a great mood enhancer. {Ich|pron|i} used to make cakes for the canteen, {aber|conj|but} then Stephanie made such a fuss, all {dies|pron|this} health-{und|conj|and}-safety nonsense about food being brought in from the outside. {Du|pron|you}’d think {Ich|pron|i} was smuggling in a file. {Aber|conj|but} {Ich|pron|i} still bake a little on the sly. {Mein|pron|my} rebellion against the dictator state. Try {es|pron|it}.” {Dies|pron|this} was {nicht|adv|not|Ich weiß es nicht. — I don't know it.} a question {aber|conj|but} a command. {Ich|pron|i} took a bite. {Es|pron|it} was good. Chewy, nutty, sweet. {Mein|pron|my} mouth was full, {also|conj|so|Also gut. — So, fine.} {Ich|pron|i} covered {es|pron|it} with {mein|pron|my} hand as {Ich|pron|i} spoke. “{Ich|pron|i} think {dies|pron|this} will definitely put {dein|pron|your} patients in a good mood.” Indira laughed {und|conj|and} looked pleased. {Ich|pron|i} realized why {Ich|pron|i} liked her—{sie|pron|she} radiated a kind of maternal calm. {Sie|pron|she} reminded me of {mein|pron|my} old therapist, Ruth. {Es|pron|it} was hard to imagine her ruffled, {oder|conj|or} upset. {Ich|pron|i} glanced around the room as {sie|pron|she} made the tea. The nurses’ station is always the hub of a psychiatric unit, its heart: staff flow to {und|conj|and} from {es|pron|it}, {und|conj|and} {es|pron|it} is where the ward is run from day to day; at least where all the practical decisions are made. The goldfish bowl was the nurses’ nickname for the station, as its walls were made of reinforced glass—meaning staff could keep an eye on the patients in the recreation room, in theory at least. In practice, the patients hovered restlessly outside, staring in, watching us, {also|conj|so|Also gut. — So, fine.} {wir|pron|we} were the ones under constant observation. The small space did {nicht|adv|not|Ich weiß es nicht. — I don't know it.} have enough chairs, {und|conj|and} the ones {dass|conj|that} were there were generally occupied by nurses typing up notes. {Also|conj|so|Also gut. — So, fine.} {du|pron|you} mostly stood in the middle of the room {oder|conj|or} leaned awkwardly against a desk, which gave the space a crowded feel, no matter how many people were in {es|pron|it}. “Here {du|pron|you} are, love.” Indira handed me a mug of tea. “Thanks.” Christian ambled in {und|conj|and} nodded at me. {Er|pron|he} smelled strongly of the peppermint gum {er|pron|he} was always chewing. {Ich|pron|i} remembered {er|pron|he} used to smoke heavily when {wir|pron|we} were at Broadmoor together; {es|pron|it} was one of the few things {wir|pron|we} had in common. {Seit|conj|since|Seit gestern. — Since yesterday.} then Christian had quit, got married, {und|conj|and} had a baby daughter. {Ich|pron|i} wondered what kind of father {er|pron|he} made. {Er|pron|he} didn’t strike me as particularly compassionate. {Er|pron|he} gave me a cold smile. “Funny seeing {du|pron|you} again like {dies|pron|this}, Theo.” “Small world.” “In mental health terms, {es|pron|it} is—yes.” Christian said {dies|pron|this} as {wenn|conj|if|Wenn du willst. — If you want.} to imply {er|pron|he} might be found in other, larger worlds. {Ich|pron|i} tried to imagine what {sie|pron|they} might be. {Ich|pron|i} could only imagine him in the gym {oder|conj|or} in a scrum on the rugby field. Christian stared at me for a few seconds. {Ich|pron|i}’d forgotten {sein|pron|his} habit of pausing, often lengthily, making {du|pron|you} wait {während|conj|while|Während sie schlief. — While she slept.} {er|pron|he} considered {sein|pron|his} response. {Es|pron|it} irritated me here just as much as {es|pron|it} had done at Broadmoor. “{Du|pron|you}’re joining the team at rather an unfortunate moment,” {er|pron|he} said eventually. “The sword of Damocles is hanging over the Grove.” “{Du|pron|you} think {es|pron|it}’s as bad as {dass|conj|that}?” “{Es|pron|it}’s only a matter of time. The Trust is bound to shut us down sooner {oder|conj|or} later. {Also|conj|so|Also gut. — So, fine.} the question is, what are {du|pron|you} doing here?” “What do {du|pron|you} mean?” “Well, rats desert a sinking ship. {Sie|pron|they} don’t clamber on board.” {Ich|pron|i} was startled by Christian’s undisguised aggression. {Ich|pron|i} decided {nicht|adv|not|Ich weiß es nicht. — I don't know it.} to rise to the bait. {Ich|pron|i} shrugged. “Possibly. {Aber|conj|but} {Ich|pron|i}’m {nicht|adv|not|Ich weiß es nicht. — I don't know it.} a rat.” Before Christian could reply, a massive thud made us jump. Elif was on the other side of the glass, hammering at {es|pron|it} with her fists. Her face was pressed up against {es|pron|it}, squashing her nose, distorting her features, making her almost monstrous. “{Ich|pron|i} won’t take {dies|pron|this} shit no more. {Ich|pron|i} hate {dies|pron|this}—these fucking pills, man—” Christian opened a small hatch in the glass {und|conj|and} spoke through {es|pron|it}. “Now is {nicht|adv|not|Ich weiß es nicht. — I don't know it.} the time to discuss {dies|pron|this}, Elif.” “{Ich|pron|i}’m telling {du|pron|you}, {Ich|pron|i}’m {nicht|adv|not|Ich weiß es nicht. — I don't know it.} taking them no more, {sie|pron|they} make me fucking sick —” “{Ich|pron|i}’m {nicht|adv|not|Ich weiß es nicht. — I don't know it.} having {dies|pron|this} conversation now. Make an appointment to see me. Step away, please.” Elif scowled, deliberating for a moment. Then {sie|pron|she} turned {und|conj|and} lumbered off, leaving a faint circle of condensation where her nose had been pressed against the glass. “Quite a character,” {Ich|pron|i} said. Christian grunted. “Difficult.” Indira nodded. “Poor Elif.” “What’s {sie|pron|she} in for?” “Double murder,” Christian said. “Killed her mother {und|conj|and} her sister. Suffocated them {während|conj|while|Während sie schlief. — While she slept.} {sie|pron|they} slept.” {Ich|pron|i} peered through the glass. Elif joined the other patients. {Sie|pron|she} towered over them. One of them slipped some money into her hand, which {sie|pron|she} pocketed. Then {Ich|pron|i} noticed Alicia at the far end of the room, sitting by herself, by the window, looking out. {Ich|pron|i} watched her for a moment. Christian followed {mein|pron|my} gaze {und|conj|and} said, “By the way, {Ich|pron|i}’ve been talking to Professor Diomedes about Alicia. {Ich|pron|i} want to see how {sie|pron|she} does on a lower dose of risperidone. {Ich|pron|i}’ve brought her down to five milligrams.” “{Ich|pron|i} see.” “{Ich|pron|i} thought {du|pron|you} might want to know—{seit|conj|since|Seit gestern. — Since yesterday.} {Ich|pron|i} heard {du|pron|you} saw her for a session.” “Yes.” “{Wir|pron|we}’ll have to monitor her closely to see how {sie|pron|she} reacts to the change. {Und|conj|and}, by the way, next time {du|pron|you} have a problem with how {Ich|pron|i} medicate {mein|pron|my} patients, come to me directly. Don’t sneak off to Diomedes behind {mein|pron|my} back.” Christian glared at me. {Ich|pron|i} smiled back at him. “{Ich|pron|i} didn’t sneak anywhere. {Ich|pron|i} have no problem talking to {du|pron|you} directly, Christian.” There was an uncomfortable pause. Christian nodded to himself, as {wenn|conj|if|Wenn du willst. — If you want.} {er|pron|he}’d made {sein|pron|his} mind up about {etwas|pron|something|Etwas ist falsch. — Something is wrong.}. “{Du|pron|you} do realize Alicia is borderline? {Sie|pron|she} won’t respond to therapy. {Du|pron|you}’re wasting {dein|pron|your} time.” “How do {du|pron|you} know {sie|pron|she}’s borderline {wenn|conj|if} {sie|pron|she} can’t talk?” “Won’t talk.” “{Du|pron|you} think {sie|pron|she}’s faking?” “Yes, as a matter of fact, {Ich|pron|i} do.” “{Wenn|conj|if} {sie|pron|she}’s faking, then how can {sie|pron|she} be borderline?” Christian looked irritated. Indira interrupted before {er|pron|he} could reply. “With all due respect, {Ich|pron|i} don’t feel umbrella terms like borderline are particularly helpful. {Sie|pron|they} don’t tell us anything very useful at all.” {Sie|pron|she} glanced at Christian. “{Dies|pron|this} is a subject Christian {und|conj|and} {Ich|pron|i} disagree on frequently.” “{Und|conj|and} how do {du|pron|you} feel about Alicia?” {Ich|pron|i} asked her. Indira pondered the question for a moment. “{Ich|pron|i} find myself feeling very maternal towards her. {Dass|conj|that}’s {mein|pron|my} countertransference, {dass|conj|that}’s what {sie|pron|she} brings out in me—{Ich|pron|i} feel {sie|pron|she} needs {jemand|pron|someone|Jemand ist da. — Someone is there.} to take care of her.” Indira smiled at me. “{Und|conj|and} now {sie|pron|she} has {jemand|pron|someone|Jemand ist da. — Someone is there.}. {Sie|pron|she} has {du|pron|you}.” Christian laughed {dass|conj|that} annoying laugh of {sein|pron|his}. “Forgive me for being {also|conj|so|Also gut. — So, fine.} dense, {aber|conj|but} how can Alicia benefit from therapy {wenn|conj|if} {sie|pron|she} doesn’t talk?” “Therapy isn’t just about talking,” Indira said. “{Es|pron|it}’s about providing a safe space—a containing environment. Most communication is nonverbal, as {Ich|pron|i}’m sure {du|pron|you} know.” Christian rolled {sein|pron|his} eyes at me. “Good luck, mate. {Du|pron|you}’ll need {es|pron|it}.”
+AFTER LUNCH {Ich|pron|I} PROWLED THE CORRIDORS, looking for an exit. {Ich|pron|I} was intending to sneak outside {und|conj|and} have a cigarette, {aber|conj|but} {Ich|pron|I} was discovered by Indira by the fire escape. {Sie|pron|she} assumed {Ich|pron|I} was lost.
+
+“Don’t worry, Theo,” {sie|pron|she} said, taking {mein|pron|my} arm. “{Es|pron|it} took me months to get {mein|pron|my} bearings around here. Like a maze with no way out. {Ich|pron|I} still get lost sometimes {und|conj|and} {Ich|pron|I}’ve been here ten years.” {Sie|pron|she} laughed. Before {Ich|pron|I} could object, {sie|pron|she} was guiding me upstairs for a cup of tea in the “goldfish bowl.”
+
+“{Ich|pron|I}’ll put the kettle on. Bloody miserable weather, isn’t {es|pron|it}? {Ich|pron|I} wish {es|pron|it} would just snow {und|conj|and} get {es|pron|it} over with.… Snow is a very powerful imaginative symbol, don’t {du|pron|you} think? Wipes everything clean. Have {du|pron|you} noticed how the patients keep talking about {es|pron|it}? Look out for {es|pron|it}. {Es|pron|it}’s interesting.”
+
+To {mein|pron|my} surprise, {sie|pron|she} reached into her bag {und|conj|and} pulled out a thick slice of cake wrapped in cling film. {Sie|pron|she} thrust {es|pron|it} into {mein|pron|my} hand. “Take {es|pron|it}. Walnut cake. {Ich|pron|I} made {es|pron|it} last night. For {du|pron|you}.”
+
+“Oh, thank {du|pron|you}, {Ich|pron|I}—”
+
+“{Ich|pron|I} know {es|pron|it}’s unorthodox, {aber|conj|but} {Ich|pron|I} always get better results with difficult patients {wenn|conj|if|Wenn du willst. — If you want.} {Ich|pron|I} give them a slice of cake in the session.”
+
+{Ich|pron|I} laughed. “{Ich|pron|I} bet {du|pron|you} do. Am {Ich|pron|I} a difficult patient?”
+
+Indira laughed. “No, {obwohl|conj|although|Obwohl es regnet. — Although it's raining.} {Ich|pron|I} find {es|pron|it} works just as well on difficult members of staff too—which {du|pron|you}’re {nicht|adv|not|Ich weiß es nicht. — I don't know it.} either, by the way. A little bit of sugar is a great mood enhancer. {Ich|pron|I} used to make cakes for the canteen, {aber|conj|but} then Stephanie made such a fuss, all {dies|pron|this} health-{und|conj|and}-safety nonsense about food being brought in from the outside. {Du|pron|you}’d think {Ich|pron|I} was smuggling in a file. {Aber|conj|but} {Ich|pron|I} still bake a little on the sly. {Mein|pron|my} rebellion against the dictator state. Try {es|pron|it}.”
+
+{Dies|pron|this} was {nicht|adv|not|Ich weiß es nicht. — I don't know it.} a question {aber|conj|but} a command. {Ich|pron|I} took a bite. {Es|pron|it} was good. Chewy, nutty, sweet. {Mein|pron|my} mouth was full, {also|conj|so|Also gut. — So, fine.} {Ich|pron|I} covered {es|pron|it} with {mein|pron|my} hand as {Ich|pron|I} spoke.
+
+“{Ich|pron|I} think {dies|pron|this} will definitely put {dein|pron|your} patients in a good mood.”
+
+Indira laughed {und|conj|and} looked pleased. {Ich|pron|I} realized why {Ich|pron|I} liked her—{sie|pron|she} radiated a kind of maternal calm. {Sie|pron|she} reminded me of {mein|pron|my} old therapist, Ruth. {Es|pron|it} was hard to imagine her ruffled, {oder|conj|or} upset.
+
+{Ich|pron|I} glanced around the room as {sie|pron|she} made the tea. The nurses’ station is always the hub of a psychiatric unit, its heart: staff flow to {und|conj|and} from {es|pron|it}, {und|conj|and} {es|pron|it} is where the ward is run from day to day; at least where all the practical decisions are made. The goldfish bowl was the nurses’ nickname for the station, as its walls were made of reinforced glass—meaning staff could keep an eye on the patients in the recreation room, in theory at least. In practice, the patients hovered restlessly outside, staring in, watching us, {also|conj|so|Also gut. — So, fine.} {wir|pron|we} were the ones under constant observation. The small space did {nicht|adv|not|Ich weiß es nicht. — I don't know it.} have enough chairs, {und|conj|and} the ones {dass|conj|that} were there were generally occupied by nurses typing up notes. {Also|conj|so|Also gut. — So, fine.} {du|pron|you} mostly stood in the middle of the room {oder|conj|or} leaned awkwardly against a desk, which gave the space a crowded feel, no matter how many people were in {es|pron|it}.
+
+“Here {du|pron|you} are, love.” Indira handed me a mug of tea.
+
+“Thanks.”
+
+Christian ambled in {und|conj|and} nodded at me. {Er|pron|he} smelled strongly of the peppermint gum {er|pron|he} was always chewing. {Ich|pron|I} remembered {er|pron|he} used to smoke heavily when {wir|pron|we} were at Broadmoor together; {es|pron|it} was one of the few things {wir|pron|we} had in common. {Seit|conj|since|Seit gestern. — Since yesterday.} then Christian had quit, got married, {und|conj|and} had a baby daughter. {Ich|pron|I} wondered what kind of father {er|pron|he} made. {Er|pron|he} didn’t strike me as particularly compassionate.
+
+{Er|pron|he} gave me a cold smile. “Funny seeing {du|pron|you} again like {dies|pron|this}, Theo.”
+
+“Small world.”
+
+“In mental health terms, {es|pron|it} is—yes.” Christian said {dies|pron|this} as {wenn|conj|if|Wenn du willst. — If you want.} to imply {er|pron|he} might be found in other, larger worlds. {Ich|pron|I} tried to imagine what {sie|pron|they} might be. {Ich|pron|I} could only imagine him in the gym {oder|conj|or} in a scrum on the rugby field.
+
+Christian stared at me for a few seconds. {Ich|pron|I}’d forgotten {sein|pron|his} habit of pausing, often lengthily, making {du|pron|you} wait {während|conj|while|Während sie schlief. — While she slept.} {er|pron|he} considered {sein|pron|his} response. {Es|pron|it} irritated me here just as much as {es|pron|it} had done at Broadmoor.
+
+“{Du|pron|you}’re joining the team at rather an unfortunate moment,” {er|pron|he} said eventually. “The sword of Damocles is hanging over the Grove.”
+
+“{Du|pron|you} think {es|pron|it}’s as bad as {dass|conj|that}?”
+
+“{Es|pron|it}’s only a matter of time. The Trust is bound to shut us down sooner {oder|conj|or} later. {Also|conj|so|Also gut. — So, fine.} the question is, what are {du|pron|you} doing here?”
+
+“What do {du|pron|you} mean?”
+
+“Well, rats desert a sinking ship. {Sie|pron|they} don’t clamber on board.”
+
+{Ich|pron|I} was startled by Christian’s undisguised aggression. {Ich|pron|I} decided {nicht|adv|not|Ich weiß es nicht. — I don't know it.} to rise to the bait. {Ich|pron|I} shrugged. “Possibly. {Aber|conj|but} {Ich|pron|I}’m {nicht|adv|not|Ich weiß es nicht. — I don't know it.} a rat.”
+
+Before Christian could reply, a massive thud made us jump. Elif was on the other side of the glass, hammering at {es|pron|it} with her fists. Her face was pressed up against {es|pron|it}, squashing her nose, distorting her features, making her almost monstrous.
+
+“{Ich|pron|I} won’t take {dies|pron|this} shit no more. {Ich|pron|I} hate {dies|pron|this}—these fucking pills, man—”
+
+Christian opened a small hatch in the glass {und|conj|and} spoke through {es|pron|it}. “Now is {nicht|adv|not|Ich weiß es nicht. — I don't know it.} the time to discuss {dies|pron|this}, Elif.”
+
+“{Ich|pron|I}’m telling {du|pron|you}, {Ich|pron|I}’m {nicht|adv|not|Ich weiß es nicht. — I don't know it.} taking them no more, {sie|pron|they} make me fucking sick—”
+
+“{Ich|pron|I}’m {nicht|adv|not|Ich weiß es nicht. — I don't know it.} having {dies|pron|this} conversation now. Make an appointment to see me. Step away, please.”
+
+Elif scowled, deliberating for a moment. Then {sie|pron|she} turned {und|conj|and} lumbered off, leaving a faint circle of condensation where her nose had been pressed against the glass.
+
+“Quite a character,” {Ich|pron|I} said.
+
+Christian grunted. “Difficult.”
+
+Indira nodded. “Poor Elif.”
+
+“What’s {sie|pron|she} in for?”
+
+“Double murder,” Christian said. “Killed her mother {und|conj|and} her sister. Suffocated them {während|conj|while|Während sie schlief. — While she slept.} {sie|pron|they} slept.”
+
+{Ich|pron|I} peered through the glass. Elif joined the other patients. {Sie|pron|she} towered over them. One of them slipped some money into her hand, which {sie|pron|she} pocketed.
+
+Then {Ich|pron|I} noticed Alicia at the far end of the room, sitting by herself, by the window, looking out. {Ich|pron|I} watched her for a moment.
+
+Christian followed {mein|pron|my} gaze {und|conj|and} said, “By the way, {Ich|pron|I}’ve been talking to Professor Diomedes about Alicia. {Ich|pron|I} want to see how {sie|pron|she} does on a lower dose of risperidone. {Ich|pron|I}’ve brought her down to five milligrams.”
+
+“{Ich|pron|I} see.”
+
+“{Ich|pron|I} thought {du|pron|you} might want to know—{seit|conj|since|Seit gestern. — Since yesterday.} {Ich|pron|I} heard {du|pron|you} saw her for a session.”
+
+“Yes.”
+
+“{Wir|pron|we}’ll have to monitor her closely to see how {sie|pron|she} reacts to the change. {Und|conj|and}, by the way, next time {du|pron|you} have a problem with how {Ich|pron|I} medicate {mein|pron|my} patients, come to me directly. Don’t sneak off to Diomedes behind {mein|pron|my} back.” Christian glared at me.
+
+{Ich|pron|I} smiled back at him. “{Ich|pron|I} didn’t sneak anywhere. {Ich|pron|I} have no problem talking to {du|pron|you} directly, Christian.”
+
+There was an uncomfortable pause. Christian nodded to himself, as {wenn|conj|if|Wenn du willst. — If you want.} {er|pron|he}’d made {sein|pron|his} mind up about {etwas|pron|something|Etwas ist falsch. — Something is wrong.}. “{Du|pron|you} do realize Alicia is borderline? {Sie|pron|she} won’t respond to therapy. {Du|pron|you}’re wasting {dein|pron|your} time.”
+
+“How do {du|pron|you} know {sie|pron|she}’s borderline {wenn|conj|if} {sie|pron|she} can’t talk?”
+
+“Won’t talk.”
+
+“{Du|pron|you} think {sie|pron|she}’s faking?”
+
+“Yes, as a matter of fact, {Ich|pron|I} do.”
+
+“{Wenn|conj|if} {sie|pron|she}’s faking, then how can {sie|pron|she} be borderline?”
+
+Christian looked irritated.
+
+Indira interrupted before {er|pron|he} could reply. “With all due respect, {Ich|pron|I} don’t feel umbrella terms like borderline are particularly helpful. {Sie|pron|they} don’t tell us anything very useful at all.” {Sie|pron|she} glanced at Christian. “{Dies|pron|this} is a subject Christian {und|conj|and} {Ich|pron|I} disagree on frequently.”
+
+“{Und|conj|and} how do {du|pron|you} feel about Alicia?” {Ich|pron|I} asked her.
+
+Indira pondered the question for a moment. “{Ich|pron|I} find myself feeling very maternal towards her. {Dass|conj|that}’s {mein|pron|my} countertransference, {dass|conj|that}’s what {sie|pron|she} brings out in me—{Ich|pron|I} feel {sie|pron|she} needs {jemand|pron|someone|Jemand ist da. — Someone is there.} to take care of her.” Indira smiled at me. “{Und|conj|and} now {sie|pron|she} has {jemand|pron|someone|Jemand ist da. — Someone is there.}. {Sie|pron|she} has {du|pron|you}.”
+
+Christian laughed {dass|conj|that} annoying laugh of {sein|pron|his}. “Forgive me for being {also|conj|so|Also gut. — So, fine.} dense, {aber|conj|but} how can Alicia benefit from therapy {wenn|conj|if} {sie|pron|she} doesn’t talk?”
+
+“Therapy isn’t just about talking,” Indira said. “{Es|pron|it}’s about providing a safe space—a containing environment. Most communication is nonverbal, as {Ich|pron|I}’m sure {du|pron|you} know.”
+
+Christian rolled {sein|pron|his} eyes at me. “Good luck, mate. {Du|pron|you}’ll need {es|pron|it}.”
 
 ---
 

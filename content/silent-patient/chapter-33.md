@@ -1,16 +1,134 @@
-# Chapter 20
+# Kapitel 20
 
 ---
 
-{Ich|pron|i} FOLLOWED JEAN-FELIX into a storage room. {Er|pron|he} went over to a large case, pulled out a hinged rack, {und|conj|and} lifted out three paintings wrapped in blankets. {Er|pron|he} propped them up. {Er|pron|he} carefully unwrapped each one. {Dann|adv|then} {er|pron|he} stood back {und|conj|and} presented the first to me with a flourish. “Voilà.” {Ich|pron|i} looked at {es|pron|it}. The painting had the same photo-realistic quality as the rest of Alicia’s work. {Es|pron|it} represented the car accident {dass|conj|that} killed her mother. A woman’s body was sitting in the wreck, slumped at the wheel. {Sie|pron|she} was bloodied {und|conj|and} obviously dead. Her spirit, her soul, was rising from the corpse, like a large bird with yellow wings, soaring to the heavens. “Isn’t {es|pron|it} glorious?” Jean-Felix gazed at {es|pron|it}. “All those yellows {und|conj|and} reds {und|conj|and} greens—{Ich|pron|i} can quite get lost in {es|pron|it}. {Es|pron|it}’s joyous.” Joyous wasn’t the word {Ich|pron|i} would have chosen. Unsettling, perhaps. {Ich|pron|i} wasn’t sure how {Ich|pron|i} felt about {es|pron|it}. {Ich|pron|i} moved on to the next picture. A painting of Jesus on the cross. {Oder|conj|or} was {es|pron|it}? “{Es|pron|it}’s Gabriel,” Jean-Felix said. “{Es|pron|it}’s a {gut|adj|good|Sehr gut. — Very good.} likeness.” {Es|pron|it} was Gabriel—{aber|conj|but} Gabriel portrayed as Jesus, crucified, hanging from the cross, blood trickling from {sein|pron|his} wounds, a crown of thorns on {sein|pron|his} head. {Sein|pron|his} eyes were {nicht|adv|not} downcast {aber|conj|but} staring out—unblinking, tortured, unashamedly reproachful. {Sie|pron|they} seemed to burn {richtig|adj|right|Das ist richtig. — That is right.} through me. {Ich|pron|i} peered at the picture more closely—at the incongruous item strapped to Gabriel’s torso. A rifle. “{Dass|conj|that}’s the gun {dass|conj|that} killed him?” Jean-Felix nodded. “Yes. {Es|pron|it} belonged to him, {Ich|pron|i} think.” “{Und|conj|and} {dies|pron|this} was painted before {sein|pron|his} murder?” “A month {oder|conj|or} {also|conj|so} before. {Es|pron|it} shows {du|pron|you} what was on Alicia’s mind, doesn’t {es|pron|it}?” Jean-Felix moved on to the third picture. {Es|pron|it} was a larger canvas than the others. “{Dies|pron|this} one’s the best. Stand back to get a better look.” {Ich|pron|i} did as {er|pron|he} said {und|conj|and} took a few paces back. {Dann|adv|then} {Ich|pron|i} turned {und|conj|and} looked. The moment {Ich|pron|i} saw the painting, {Ich|pron|i} let out an involuntary laugh. The subject was Alicia’s aunt, Lydia Rose. {Es|pron|it} was obvious why {sie|pron|she} had
+{Ich|pron|I} FOLLOWED JEAN-FELIX into a storage room. {Er|pron|he} went over to a large case, pulled out a hinged rack, {und|conj|and} lifted out three paintings wrapped in blankets. {Er|pron|he} propped them up. {Er|pron|he} carefully unwrapped each one. {Dann|adv|then} {er|pron|he} stood back {und|conj|and} presented the first to me with a flourish.
 
-been {also|conj|so} upset by {es|pron|it}. Lydia was nude, reclining on a tiny bed. The bed was buckling under her weight. {Sie|pron|she} was enormously, monstrously fat—an explosion of flesh spilling over the bed {und|conj|and} hitting the floor {und|conj|and} spreading across the room, rippling {und|conj|and} folding like waves of gray custard. “Jesus. {Dass|conj|that}’s cruel.” “{Ich|pron|i} think {es|pron|it}’s quite lovely.” Jean-Felix looked at me with interest. “{Du|pron|you} know Lydia?” “Yes, {Ich|pron|i} went to visit her.” “{Ich|pron|i} {sehen|verb|see|Ich sehe dich. — I see you.}.” {Er|pron|he} smiled. “{Du|pron|you} have been doing {dein|pron|your} homework. {Ich|pron|i} {nie|adv|never} met Lydia. Alicia hated her, {du|pron|you} know.” “Yes.” {Ich|pron|i} stared at the painting. “Yes, {Ich|pron|i} can {sehen|verb|see|Ich sehe dich. — I see you.} {dass|conj|that}.” Jean-Felix began carefully wrapping up the pictures {wieder|adv|again|Schon wieder. — Already again.}. “{Und|conj|and} the Alcestis?” {Ich|pron|i} said. “Can {Ich|pron|i} {sehen|verb|see|Ich sehe dich. — I see you.} {es|pron|it}?” “Of course. Follow me.” Jean-Felix led me along the narrow passage to the end of the gallery. {Dort|adv|there} the Alcestis occupied a wall to itself. {Es|pron|it} was just as {schön|adj|beautiful|Ein schöner Tag. — A beautiful day.} {und|conj|and} mysterious as {Ich|pron|i} remembered {es|pron|it}. Alicia naked in the studio, in front of a blank canvas, painting with a bloodred paintbrush. {Ich|pron|i} studied Alicia’s expression. {Wieder|adv|again|Schon wieder. — Already again.} {es|pron|it} defied interpretation. {Ich|pron|i} frowned. “{Sie|pron|she}’s impossible to read.” “{Dass|conj|that}’s the point—{es|pron|it} is a refusal to comment. {Es|pron|it}’s a painting about silence.” “{Ich|pron|i}’m {nicht|adv|not} sure {Ich|pron|i} understand what {du|pron|you} mean.” “Well, at the heart of all art lies a mystery. Alicia’s silence is her secret—her mystery, in the religious sense. {Dass|conj|that}’s why {sie|pron|she} named {es|pron|it} Alcestis. Have {du|pron|you} read {es|pron|it}? By Euripides.” {Er|pron|he} gave me a curious look. “Read {es|pron|it}. {Dann|adv|then} {du|pron|you}’ll understand.” {Ich|pron|i} nodded—{und|conj|and} {dann|adv|then} {Ich|pron|i} noticed {etwas|pron|something} in the painting {Ich|pron|i} hadn’t before. {Ich|pron|i} leaned forward to look closely. A bowl of fruit sat on the table in the background of the picture—a collection of apples {und|conj|and} pears. On the red apples were some {klein|adj|small|Klein, aber stark. — Small, but strong.} white blobs—slippery white blobs creeping in {und|conj|and} around the fruit.
+“Voilà.”
 
-{Ich|pron|i} pointed at them. “Are {sie|pron|they}…?” “Maggots?” Jean-Felix nodded. “Yes.” “Fascinating. {Ich|pron|i} wonder what {dass|conj|that} means.” “{Es|pron|it}’s wonderful. A masterpiece. {Es|pron|it} {wirklich|adv|really|Wirklich wahr. — Really true.} is.” Jean-Felix sighed {und|conj|and} glanced at me across the portrait. {Er|pron|he} lowered {sein|pron|his} voice as {wenn|conj|if} Alicia were able to hear us. “{Es|pron|it}’s a shame {du|pron|you} didn’t know her {dann|adv|then}. {Sie|pron|she} was the most interesting person {Ich|pron|i}’ve ever met. Most people aren’t alive, {du|pron|you} know, {nicht|adv|not} {wirklich|adv|really|Wirklich wahr. — Really true.}—sleepwalking their way through life. {Aber|conj|but} Alicia was {also|conj|so} intensely alive.… {Es|pron|it} was hard to take {dein|pron|your} eyes off her.” Jean-Felix turned {sein|pron|his} head back to the painting {und|conj|and} gazed at Alicia’s naked body. “{Also|conj|so} {schön|adj|beautiful|Ein schöner Tag. — A beautiful day.}.” {Ich|pron|i} looked back at Alicia’s body. {Aber|conj|but} where Jean-Felix saw beauty, {Ich|pron|i} saw {nur|adv|only|Nur du. — Only you.} pain; {Ich|pron|i} saw self-inflicted wounds, {und|conj|and} scars of self-harm. “Did {sie|pron|she} ever talk to {du|pron|you} about her suicide attempt?” {Ich|pron|i} was fishing, {aber|conj|but} Jean-Felix took the bait. “Oh, {du|pron|you} know about {dass|conj|that}? Yes, of course.” “After her father died?” “{Sie|pron|she} went to pieces.” Jean-Felix nodded. “The truth is Alicia was hugely fucked-up. {Nicht|adv|not} as an artist, {aber|conj|but} as a person {sie|pron|she} was extremely vulnerable. When her father hanged himself, {es|pron|it} was too much. {Sie|pron|she} couldn’t cope.” “{Sie|pron|she} must have loved him a great deal.” Jean-Felix gave a kind of strangled laugh. {Er|pron|he} looked at me as {wenn|conj|if} {Ich|pron|i} were mad. “What are {du|pron|you} talking about?” “What do {du|pron|you} mean?” “Alicia didn’t love him. {Sie|pron|she} hated her father. {Sie|pron|she} despised him.” {Ich|pron|i} was taken aback by {dies|pron|this}. “Alicia told {du|pron|you} {dass|conj|that}?” “Of course {sie|pron|she} did. {Sie|pron|she} hated him ever {seit|conj|since|Seit gestern. — Since yesterday.} {sie|pron|she} was a kid—ever {seit|conj|since|Seit gestern. — Since yesterday.} her mother died.” “{Aber|conj|but}—{dann|adv|then} why try to commit suicide after {sein|pron|his} death? {Wenn|conj|if} {es|pron|it} wasn’t grief, what was {es|pron|it}?” Jean-Felix shrugged. “Guilt, perhaps? Who knows?” {Dort|adv|there} was {etwas|pron|something} {er|pron|he} wasn’t telling me, {Ich|pron|i} thought. {Etwas|pron|something} didn’t fit. {Etwas|pron|something} was {falsch|adj|wrong|Das ist falsch. — That is wrong.}.
+{Ich|pron|I} looked at {es|pron|it}. The painting had the same photo-realistic quality as the rest of Alicia’s work. {Es|pron|it} represented the car accident {dass|conj|that} killed her mother. A woman’s body was sitting in the wreck, slumped at the wheel. {Sie|pron|she} was bloodied {und|conj|and} obviously dead. Her spirit, her soul, was rising from the corpse, like a large bird with yellow wings, soaring to the heavens.
 
-{Sein|pron|his} phone rang. “Excuse me a moment.” {Er|pron|he} turned away from me to answer {es|pron|it}. A woman’s voice was on the other end. {Sie|pron|they} talked for a moment, arranging a time to meet. “{Ich|pron|i}’ll call {du|pron|you} back, baby,” {er|pron|he} said, {und|conj|and} hung up. Jean-Felix turned back to me. “Sorry about {dass|conj|that}.” “{Dass|conj|that}’s all {richtig|adj|right|Das ist richtig. — That is right.}. {Dein|pron|your} girlfriend?” {Er|pron|he} smiled. “Just a friend … {Ich|pron|i} have a lot of friends.” {Ich|pron|i}’ll bet {du|pron|you} do, {Ich|pron|i} thought. {Ich|pron|i} felt a flicker of dislike; {Ich|pron|i} wasn’t sure why. As {er|pron|he} showed me out, {Ich|pron|i} asked a final question. “Just one more thing. Did Alicia ever mention a doctor to {du|pron|you}?” “A doctor?” “Apparently {sie|pron|she} saw a doctor, around the time of her suicide attempt. {Ich|pron|i}’m trying to locate him.” “Hmm.” Jean-Felix frowned. “Possibly—{dort|adv|there} was {jemand|pron|someone}…” “Can {du|pron|you} remember {sein|pron|his} name?” {Er|pron|he} thought for a second {und|conj|and} shook {sein|pron|his} head. “{Ich|pron|i}’m sorry. No, {Ich|pron|i} honestly can’t.” “Well, {wenn|conj|if} {es|pron|it} comes to {du|pron|you}, perhaps {du|pron|you} can let me know?” “Sure. {Aber|conj|but} {Ich|pron|i} doubt {es|pron|it}.” {Er|pron|he} glanced at me {und|conj|and} hesitated. “{Du|pron|you} want some advice?” “{Ich|pron|i}’d welcome some.” “{Wenn|conj|if} {du|pron|you} {wirklich|adv|really|Wirklich wahr. — Really true.} want to get Alicia to talk … give her some paint {und|conj|and} brushes. Let her paint. {Dass|conj|that}’s the {nur|adv|only|Nur du. — Only you.} way {sie|pron|she}’ll talk to {du|pron|you}. Through her art.” “{Dass|conj|that}’s an interesting idea.… {Du|pron|you}’ve been {sehr|adv|very|Sehr gut. — Very good.} helpful. Thank {du|pron|you}, Mr. Martin.” “Call me Jean-Felix. {Und|conj|and} when {du|pron|you} {sehen|verb|see|Ich sehe dich. — I see you.} Alicia, tell her {Ich|pron|i} love her.” {Er|pron|he} smiled, {und|conj|and} {wieder|adv|again|Schon wieder. — Already again.} {Ich|pron|i} felt a slight repulsion: {Ich|pron|i} found {etwas|pron|something} about Jean-Felix hard to stomach. {Ich|pron|i} could tell {er|pron|he} had been genuinely close to Alicia; {sie|pron|they} had known each other a long time, {und|conj|and} {er|pron|he} was obviously attracted to her. Was {er|pron|he} in love with her? {Ich|pron|i} wasn’t {also|conj|so} sure. {Ich|pron|i} thought of Jean-Felix’s face when {er|pron|he} was looking at the Alcestis. Yes, love was in {sein|pron|his} eyes—{aber|conj|but} love for the painting, {nicht|adv|not} necessarily the painter. Jean-Felix coveted the art. Otherwise {er|pron|he}
+“Isn’t {es|pron|it} glorious?” Jean-Felix gazed at {es|pron|it}. “All those yellows {und|conj|and} reds {und|conj|and} greens—{Ich|pron|I} can quite get lost in {es|pron|it}. {Es|pron|it}’s joyous.”
 
-would have visited Alicia at the Grove. {Er|pron|he} would have stuck by her—{Ich|pron|i} knew {dass|conj|that} for a fact. A man {nie|adv|never} abandons a woman like {dass|conj|that}. {Nicht|adv|not} {wenn|conj|if} {er|pron|he} loves her.
+Joyous wasn’t the word {Ich|pron|I} would have chosen. Unsettling, perhaps. {Ich|pron|I} wasn’t sure how {Ich|pron|I} felt about {es|pron|it}.
+
+{Ich|pron|I} moved on to the next picture. A painting of Jesus on the cross. {Oder|conj|or} was {es|pron|it}?
+
+“{Es|pron|it}’s Gabriel,” Jean-Felix said. “{Es|pron|it}’s a {gut|adj|good|Sehr gut. — Very good.} likeness.”
+
+{Es|pron|it} was Gabriel—{aber|conj|but} Gabriel portrayed as Jesus, crucified, hanging from the cross, blood trickling from {sein|pron|his} wounds, a crown of thorns on {sein|pron|his} head. {Sein|pron|his} eyes were {nicht|adv|not} downcast {aber|conj|but} staring out—unblinking, tortured, unashamedly reproachful. {Sie|pron|they} seemed to burn {richtig|adj|right|Das ist richtig. — That is right.} through me. {Ich|pron|I} peered at the picture more closely—at the incongruous item strapped to Gabriel’s torso. A rifle.
+
+“{Dass|conj|that}’s the gun {dass|conj|that} killed him?”
+
+Jean-Felix nodded. “Yes. {Es|pron|it} belonged to him, {Ich|pron|I} think.”
+
+“{Und|conj|and} {dies|pron|this} was painted before {sein|pron|his} murder?”
+
+“A month {oder|conj|or} {also|conj|so} before. {Es|pron|it} shows {du|pron|you} what was on Alicia’s mind, doesn’t {es|pron|it}?” Jean-Felix moved on to the third picture. {Es|pron|it} was a larger canvas than the others. “{Dies|pron|this} one’s the best. Stand back to get a better look.”
+
+{Ich|pron|I} did as {er|pron|he} said {und|conj|and} took a few paces back. {Dann|adv|then} {Ich|pron|I} turned {und|conj|and} looked. The moment {Ich|pron|I} saw the painting, {Ich|pron|I} let out an involuntary laugh.
+
+The subject was Alicia’s aunt, Lydia Rose. {Es|pron|it} was obvious why {sie|pron|she} had been {also|conj|so} upset by {es|pron|it}. Lydia was nude, reclining on a tiny bed. The bed was buckling under her weight. {Sie|pron|she} was enormously, monstrously fat—an explosion of flesh spilling over the bed {und|conj|and} hitting the floor {und|conj|and} spreading across the room, rippling {und|conj|and} folding like waves of gray custard.
+
+“Jesus. {Dass|conj|that}’s cruel.”
+
+“{Ich|pron|I} think {es|pron|it}’s quite lovely.” Jean-Felix looked at me with interest. “{Du|pron|you} know Lydia?”
+
+“Yes, {Ich|pron|I} went to visit her.”
+
+“{Ich|pron|I} {sehen|verb|see|Ich sehe dich. — I see you.}.” {Er|pron|he} smiled. “{Du|pron|you} have been doing {dein|pron|your} homework. {Ich|pron|I} {nie|adv|never} met Lydia. Alicia hated her, {du|pron|you} know.”
+
+“Yes.” {Ich|pron|I} stared at the painting. “Yes, {Ich|pron|I} can {sehen|verb|see|Ich sehe dich. — I see you.} {dass|conj|that}.”
+
+Jean-Felix began carefully wrapping up the pictures {wieder|adv|again|Schon wieder. — Already again.}. “{Und|conj|and} the Alcestis?” {Ich|pron|I} said. “Can {Ich|pron|I} {sehen|verb|see|Ich sehe dich. — I see you.} {es|pron|it}?”
+
+“Of course. Follow me.”
+
+Jean-Felix led me along the narrow passage to the end of the gallery. {Dort|adv|there} the Alcestis occupied a wall to itself. {Es|pron|it} was just as {schön|adj|beautiful|Ein schöner Tag. — A beautiful day.} {und|conj|and} mysterious as {Ich|pron|I} remembered {es|pron|it}. Alicia naked in the studio, in front of a blank canvas, painting with a bloodred paintbrush. {Ich|pron|I} studied Alicia’s expression. {Wieder|adv|again|Schon wieder. — Already again.} {es|pron|it} defied interpretation. {Ich|pron|I} frowned.
+
+“{Sie|pron|she}’s impossible to read.”
+
+“{Dass|conj|that}’s the point—{es|pron|it} is a refusal to comment. {Es|pron|it}’s a painting about silence.”
+
+“{Ich|pron|I}’m {nicht|adv|not} sure {Ich|pron|I} understand what {du|pron|you} mean.”
+
+“Well, at the heart of all art lies a mystery. Alicia’s silence is her secret—her mystery, in the religious sense. {Dass|conj|that}’s why {sie|pron|she} named {es|pron|it} Alcestis. Have {du|pron|you} read {es|pron|it}? By Euripides.” {Er|pron|he} gave me a curious look. “Read {es|pron|it}. {Dann|adv|then} {du|pron|you}’ll understand.”
+
+{Ich|pron|I} nodded—{und|conj|and} {dann|adv|then} {Ich|pron|I} noticed {etwas|pron|something} in the painting {Ich|pron|I} hadn’t before. {Ich|pron|I} leaned forward to look closely. A bowl of fruit sat on the table in the background of the picture—a collection of apples {und|conj|and} pears. On the red apples were some {klein|adj|small|Klein, aber stark. — Small, but strong.} white blobs—slippery white blobs creeping in {und|conj|and} around the fruit.
+
+{Ich|pron|I} pointed at them. “Are {sie|pron|they}…?”
+
+“Maggots?” Jean-Felix nodded. “Yes.”
+
+“Fascinating. {Ich|pron|I} wonder what {dass|conj|that} means.”
+
+“{Es|pron|it}’s wonderful. A masterpiece. {Es|pron|it} {wirklich|adv|really|Wirklich wahr. — Really true.} is.” Jean-Felix sighed {und|conj|and} glanced at me across the portrait. {Er|pron|he} lowered {sein|pron|his} voice as {wenn|conj|if} Alicia were able to hear us. “{Es|pron|it}’s a shame {du|pron|you} didn’t know her {dann|adv|then}. {Sie|pron|she} was the most interesting person {Ich|pron|I}’ve ever met. Most people aren’t alive, {du|pron|you} know, {nicht|adv|not} {wirklich|adv|really|Wirklich wahr. — Really true.}—sleepwalking their way through life. {Aber|conj|but} Alicia was {also|conj|so} intensely alive.… {Es|pron|it} was hard to take {dein|pron|your} eyes off her.” Jean-Felix turned {sein|pron|his} head back to the painting {und|conj|and} gazed at Alicia’s naked body. “{Also|conj|so} {schön|adj|beautiful|Ein schöner Tag. — A beautiful day.}.”
+
+{Ich|pron|I} looked back at Alicia’s body. {Aber|conj|but} where Jean-Felix saw beauty, {Ich|pron|I} saw {nur|adv|only|Nur du. — Only you.} pain; {Ich|pron|I} saw self-inflicted wounds, {und|conj|and} scars of self-harm.
+
+“Did {sie|pron|she} ever talk to {du|pron|you} about her suicide attempt?”
+
+{Ich|pron|I} was fishing, {aber|conj|but} Jean-Felix took the bait. “Oh, {du|pron|you} know about {dass|conj|that}? Yes, of course.”
+
+“After her father died?”
+
+“{Sie|pron|she} went to pieces.” Jean-Felix nodded. “The truth is Alicia was hugely fucked-up. {Nicht|adv|not} as an artist, {aber|conj|but} as a person {sie|pron|she} was extremely vulnerable. When her father hanged himself, {es|pron|it} was too much. {Sie|pron|she} couldn’t cope.”
+
+“{Sie|pron|she} must have loved him a great deal.”
+
+Jean-Felix gave a kind of strangled laugh. {Er|pron|he} looked at me as {wenn|conj|if} {Ich|pron|I} were mad. “What are {du|pron|you} talking about?”
+
+“What do {du|pron|you} mean?”
+
+“Alicia didn’t love him. {Sie|pron|she} hated her father. {Sie|pron|she} despised him.”
+
+{Ich|pron|I} was taken aback by {dies|pron|this}. “Alicia told {du|pron|you} {dass|conj|that}?”
+
+“Of course {sie|pron|she} did. {Sie|pron|she} hated him ever {seit|conj|since|Seit gestern. — Since yesterday.} {sie|pron|she} was a kid—ever {seit|conj|since|Seit gestern. — Since yesterday.} her mother died.”
+
+“{Aber|conj|but}—{dann|adv|then} why try to commit suicide after {sein|pron|his} death? {Wenn|conj|if} {es|pron|it} wasn’t grief, what was {es|pron|it}?”
+
+Jean-Felix shrugged. “Guilt, perhaps? Who knows?”
+
+{Dort|adv|there} was {etwas|pron|something} {er|pron|he} wasn’t telling me, {Ich|pron|I} thought. {Etwas|pron|something} didn’t fit. {Etwas|pron|something} was {falsch|adj|wrong|Das ist falsch. — That is wrong.}.
+
+{Sein|pron|his} phone rang. “Excuse me a moment.” {Er|pron|he} turned away from me to answer {es|pron|it}. A woman’s voice was on the other end. {Sie|pron|they} talked for a moment, arranging a time to meet. “{Ich|pron|I}’ll call {du|pron|you} back, baby,” {er|pron|he} said, {und|conj|and} hung up.
+
+Jean-Felix turned back to me. “Sorry about {dass|conj|that}.”
+
+“{Dass|conj|that}’s all {richtig|adj|right|Das ist richtig. — That is right.}. {Dein|pron|your} girlfriend?”
+
+{Er|pron|he} smiled. “Just a friend … {Ich|pron|I} have a lot of friends.”
+
+{Ich|pron|I}’ll bet {du|pron|you} do, {Ich|pron|I} thought. {Ich|pron|I} felt a flicker of dislike; {Ich|pron|I} wasn’t sure why.
+
+As {er|pron|he} showed me out, {Ich|pron|I} asked a final question. “Just one more thing. Did Alicia ever mention a doctor to {du|pron|you}?”
+
+“A doctor?”
+
+“Apparently {sie|pron|she} saw a doctor, around the time of her suicide attempt. {Ich|pron|I}’m trying to locate him.”
+
+“Hmm.” Jean-Felix frowned. “Possibly—{dort|adv|there} was {jemand|pron|someone}…”
+
+“Can {du|pron|you} remember {sein|pron|his} name?”
+
+{Er|pron|he} thought for a second {und|conj|and} shook {sein|pron|his} head. “{Ich|pron|I}’m sorry. No, {Ich|pron|I} honestly can’t.”
+
+“Well, {wenn|conj|if} {es|pron|it} comes to {du|pron|you}, perhaps {du|pron|you} can let me know?”
+
+“Sure. {Aber|conj|but} {Ich|pron|I} doubt {es|pron|it}.” {Er|pron|he} glanced at me {und|conj|and} hesitated. “{Du|pron|you} want some advice?”
+
+“{Ich|pron|I}’d welcome some.”
+
+“{Wenn|conj|if} {du|pron|you} {wirklich|adv|really|Wirklich wahr. — Really true.} want to get Alicia to talk … give her some paint {und|conj|and} brushes. Let her paint. {Dass|conj|that}’s the {nur|adv|only|Nur du. — Only you.} way {sie|pron|she}’ll talk to {du|pron|you}. Through her art.”
+
+“{Dass|conj|that}’s an interesting idea.… {Du|pron|you}’ve been {sehr|adv|very|Sehr gut. — Very good.} helpful. Thank {du|pron|you}, Mr. Martin.”
+
+“Call me Jean-Felix. {Und|conj|and} when {du|pron|you} {sehen|verb|see|Ich sehe dich. — I see you.} Alicia, tell her {Ich|pron|I} love her.”
+
+{Er|pron|he} smiled, {und|conj|and} {wieder|adv|again|Schon wieder. — Already again.} {Ich|pron|I} felt a slight repulsion: {Ich|pron|I} found {etwas|pron|something} about Jean-Felix hard to stomach. {Ich|pron|I} could tell {er|pron|he} had been genuinely close to Alicia; {sie|pron|they} had known each other a long time, {und|conj|and} {er|pron|he} was obviously attracted to her. Was {er|pron|he} in love with her? {Ich|pron|I} wasn’t {also|conj|so} sure. {Ich|pron|I} thought of Jean-Felix’s face when {er|pron|he} was looking at the Alcestis. Yes, love was in {sein|pron|his} eyes—{aber|conj|but} love for the painting, {nicht|adv|not} necessarily the painter. Jean-Felix coveted the art. Otherwise {er|pron|he} would have visited Alicia at the Grove. {Er|pron|he} would have stuck by her—{Ich|pron|I} knew {dass|conj|that} for a fact. A man {nie|adv|never} abandons a woman like {dass|conj|that}.
+
+{Nicht|adv|not} {wenn|conj|if} {er|pron|he} loves her.
 
 ---
 

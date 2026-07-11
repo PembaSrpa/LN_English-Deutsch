@@ -1,16 +1,148 @@
-# Chapter 15
+# Kapitel 15
 
 ---
 
-{Also|conj|so} {Dort|adv|there} {Du|pron|you} HAVE {Es|pron|it}. Alicia Berenson didn’t kill her husband. A faceless intruder broke into their home {und|conj|and}, in an apparently motiveless act of malice, shot Gabriel dead before vanishing into the night. Alicia was entirely innocent. {Dass|conj|that}’s {wenn|conj|if} {du|pron|you} {glauben|verb|believe|Ich glaube dir. — I believe you.} her explanation. {Ich|pron|i} didn’t. {Nicht|adv|not} a word of {es|pron|it}. Apart from her obvious inconsistencies {und|conj|and} inaccuracies—such as {dass|conj|that} Gabriel was {nicht|adv|not} shot six times, {aber|conj|but} {nur|adv|only} five, one of the bullets being fired at the ceiling; nor was Alicia discovered tied to a chair, {aber|conj|but} standing in the middle of the room, having slashed her wrists. Alicia made no mention to me of the man’s untying her, nor did {sie|pron|she} explain why {sie|pron|she} hadn’t told the police {dies|pron|this} version of events from the start. No, {Ich|pron|i} knew {sie|pron|she} was lying. {Ich|pron|i} was annoyed {dass|conj|that} {sie|pron|she} had lied, badly {und|conj|and} pointlessly, to {mein|pron|my} face. For a second {Ich|pron|i} wondered {wenn|conj|if} {sie|pron|she} was testing me, seeing whether {Ich|pron|i} accepted the story? {Wenn|conj|if} {also|conj|so}, {Ich|pron|i} was determined to {geben|verb|give|Gib mir das. — Give me that.} {nichts|pron|nothing} away. {Ich|pron|i} sat {dort|adv|there} in silence. Unusually, Alicia spoke first. “{Ich|pron|i}’m {müde|adj|tired|Er ist müde. — He is tired.}. {Ich|pron|i} want to stop.” {Ich|pron|i} nodded. {Ich|pron|i} couldn’t object. “{Lassen|verb|let|Lass mich. — Let me.}’s carry on {morgen|adv|tomorrow|Morgen sehen wir uns. — Tomorrow we'll see each other.},” {sie|pron|she} said. “Is {dort|adv|there} more to {sagen|verb|say}?” “Yes. One last thing.” “{Sehr|adv|very} well. {Morgen|adv|tomorrow|Morgen sehen wir uns. — Tomorrow we'll see each other.}.” Yuri was waiting in the corridor. {Er|pron|he} escorted Alicia to her room, {und|conj|and} {Ich|pron|i} went up to {mein|pron|my} office. As {Ich|pron|i} have said, {es|pron|it}’s been {mein|pron|my} practice for years to transcribe a session as soon as {es|pron|it}’s ended. The ability to accurately record what has been said during the past fifty minutes is of paramount importance to a therapist—otherwise much detail is forgotten {und|conj|and} the immediacy of the emotions lost. {Ich|pron|i} sat at {mein|pron|my} desk {und|conj|and} wrote down, as {schnell|adj|fast|Ein schnelles Auto. — A fast car.} as {Ich|pron|i} could, everything {dass|conj|that} had transpired between us. The moment {Ich|pron|i} finished, {Ich|pron|i} marched through the
+{Also|conj|so} {Dort|adv|there} {Du|pron|you} HAVE {Es|pron|it}. Alicia Berenson didn’t kill her husband. A faceless intruder broke into their home {und|conj|and}, in an apparently motiveless act of malice, shot Gabriel dead before vanishing into the night. Alicia was entirely innocent.
 
-corridors, clutching {mein|pron|my} pages of notes. {Ich|pron|i} knocked on Diomedes’s door. {Dort|adv|there} was no response, {also|conj|so} {Ich|pron|i} knocked {wieder|adv|again}. {Noch|adv|still} no answer. {Ich|pron|i} opened the door a crack—{und|conj|and} {dort|adv|there} was Diomedes, {schnell|adj|fast|Ein schnelles Auto. — A fast car.} asleep on {sein|pron|his} narrow couch. “Professor?” {Und|conj|and} {wieder|adv|again}, louder: “Professor Diomedes?” {Er|pron|he} woke with a start {und|conj|and} sat up {schnell|adv|quickly|Er lief schnell. — He ran quickly.}. {Er|pron|he} blinked at me. “What is {es|pron|it}? What’s {falsch|adj|wrong|Das ist falsch. — That is wrong.}?” “{Ich|pron|i} {brauchen|verb|need|Ich brauche Zeit. — I need time.} to talk to {du|pron|you}. Should {Ich|pron|i} {kommen|verb|come|Sie kommen morgen. — They come tomorrow.} back later?” Diomedes frowned {und|conj|and} shook {sein|pron|his} head. “{Ich|pron|i} was having a brief siesta. {Ich|pron|i} {immer|adv|always} do, after lunch. {Es|pron|it} helps me get through the afternoon. {Es|pron|it} becomes a necessity as {du|pron|you} get older.” {Er|pron|he} yawned {und|conj|and} stood up. “{Kommen|verb|come|Sie kommen morgen. — They come tomorrow.} in, Theo. Sit down. By the looks of {du|pron|you}, {es|pron|it}’s {wichtig|adj|important|Das ist wichtig. — That is important.}.” “{Ich|pron|i} {denken|verb|think|Ich denke oft nach. — I often think about it.} {es|pron|it} is, yes.” “Alicia?” {Ich|pron|i} nodded. {Ich|pron|i} sat in front of the desk. {Er|pron|he} sat down behind {es|pron|it}. {Sein|pron|his} hair was sticking up to one side, {und|conj|and} {er|pron|he} {noch|adv|still} looked half-asleep. “Are {du|pron|you} sure {Ich|pron|i} shouldn’t {kommen|verb|come|Sie kommen morgen. — They come tomorrow.} back later?” Diomedes shook {sein|pron|his} head. {Er|pron|he} poured himself a glass of water from a jug. “{Ich|pron|i}’m awake {jetzt|adv|now}. {Gehen|verb|go} on. What {es|pron|it} is?” “{Ich|pron|i}’ve been with Alicia, talking.… {Ich|pron|i} {brauchen|verb|need|Ich brauche Zeit. — I need time.} some supervision.” Diomedes nodded. {Er|pron|he} was looking more awake by the second, {und|conj|and} more interested. “{Gehen|verb|go} on.” {Ich|pron|i} started reading from {mein|pron|my} notes. {Ich|pron|i} took him through the entire session. {Ich|pron|i} repeated her words as accurately as {Ich|pron|i} could {und|conj|and} relayed the story {sie|pron|she} had told me: how the man who’d been spying on her broke into the house, took her prisoner, {und|conj|and} shot {und|conj|and} killed Gabriel. When {Ich|pron|i} finished, {dort|adv|there} was a long pause. Diomedes’s expression gave little away. {Er|pron|he} pulled a box of cigars out of {sein|pron|his} desk drawer. {Er|pron|he} took out a little silver guillotine. {Er|pron|he} popped the end of a cigar into {es|pron|it} {und|conj|and} sliced {es|pron|it} off. “{Lassen|verb|let|Lass mich. — Let me.}’s start with the countertransference. Tell me about {dein|pron|your} emotional experience. Start at the beginning. As {sie|pron|she} was telling {du|pron|you} her story, what kind of feelings were coming up?”
+{Dass|conj|that}’s {wenn|conj|if} {du|pron|you} {glauben|verb|believe|Ich glaube dir. — I believe you.} her explanation.
 
-{Ich|pron|i} thought about {es|pron|it} for a moment. “{Ich|pron|i} felt excited, {Ich|pron|i} suppose.… {Und|conj|and} anxious. {Ängstlich|adj|afraid|Sie war ängstlich. — She was afraid.}.” “{Ängstlich|adj|afraid|Sie war ängstlich. — She was afraid.}? Was {es|pron|it} {dein|pron|your} fear, {oder|conj|or} hers?” “Both, {Ich|pron|i} imagine.” “{Und|conj|and} what were {du|pron|you} {ängstlich|adj|afraid|Sie war ängstlich. — She was afraid.} of?” “{Ich|pron|i}’m {nicht|adv|not} sure. Fear of failure, perhaps. {Ich|pron|i} have a lot riding on {dies|pron|this}, as {du|pron|you} {wissen|verb|know}.” Diomedes nodded. “What else?” “Frustration too. {Ich|pron|i} {fühlen|verb|feel|Ich fühle mich müde. — I feel tired.} frustrated quite frequently during {unser|pron|our} sessions.” “{Und|conj|and} {wütend|adj|angry|Er war wütend. — He was angry.}?” “Yes, {Ich|pron|i} suppose {also|conj|so}.” “{Du|pron|you} {fühlen|verb|feel|Ich fühle mich müde. — I feel tired.} like a frustrated father, dealing with a {schwierig|adj|difficult|Das ist schwierig. — That is difficult.} child?” “Yes. {Ich|pron|i} want to {helfen|verb|help|Kannst du helfen? — Can you help?} her—{aber|conj|but} {Ich|pron|i} don’t {wissen|verb|know} {wenn|conj|if} {sie|pron|she} wants to be helped.” {Er|pron|he} nodded. “{Bleiben|verb|stay|Bleib hier. — Stay here.} with the feeling of anger. Talk more about {es|pron|it}. How does {es|pron|it} manifest itself?” {Ich|pron|i} hesitated. “Well, {Ich|pron|i} {oft|adv|often|Das passiert oft. — That happens often.} leave the sessions with a splitting headache.” Diomedes nodded. “Yes, exactly. {Es|pron|it} has to {kommen|verb|come|Sie kommen morgen. — They come tomorrow.} out one way {oder|conj|or} another. ‘A trainee who is {nicht|adv|not} anxious will be sick.’ Who was {es|pron|it} who said {dass|conj|that}?” “{Ich|pron|i} don’t {wissen|verb|know}.” {Ich|pron|i} shrugged. “{Ich|pron|i}’m sick {und|conj|and} anxious.” Diomedes smiled. “{Du|pron|you}’re {auch|adv|also|Ich auch. — Me too.} no longer a trainee—{obwohl|conj|although|Obwohl es regnet. — Although it's raining.} those feelings {nie|adv|never} {gehen|verb|go} away entirely.” {Er|pron|he} picked up {sein|pron|his} cigar. “{Lassen|verb|let|Lass mich. — Let me.}’s {gehen|verb|go} outside for a smoke.” * * * {Wir|pron|we} went onto the fire escape. Diomedes puffed on {sein|pron|his} cigar for a moment, mulling things over. Eventually {er|pron|he} reached a conclusion. “{Sie|pron|she}’s lying, {du|pron|you} {wissen|verb|know}.” “{Du|pron|you} mean about the man killing Gabriel? {Ich|pron|i} thought {also|conj|so} too.” “{Nicht|adv|not} just {dass|conj|that}.” “{Dann|adv|then} what?” “All of {es|pron|it}. The whole cock-{und|conj|and}-bull story. {Ich|pron|i} don’t {glauben|verb|believe|Ich glaube dir. — I believe you.} a single word of
+{Ich|pron|I} didn’t. {Nicht|adv|not} a word of {es|pron|it}.
 
-{es|pron|it}.” {Ich|pron|i} must have looked rather taken aback. {Ich|pron|i} had suspected {er|pron|he}’d disbelieve some elements of Alicia’s tale. {Ich|pron|i} hadn’t expected him to reject the whole thing. “{Du|pron|you} don’t {glauben|verb|believe|Ich glaube dir. — I believe you.} in the man?” “No, {Ich|pron|i} don’t. {Ich|pron|i} don’t {glauben|verb|believe|Ich glaube dir. — I believe you.} {er|pron|he} ever existed. {Es|pron|it}’s a fantasy. From start to finish.” “What makes {du|pron|you} {also|conj|so} sure?” Diomedes gave me a strange smile. “Call {es|pron|it} {mein|pron|my} intuition. Years of professional experience with fantasists.” {Ich|pron|i} tried to interrupt {aber|conj|but} {er|pron|he} forestalled me with a wave of {sein|pron|his} hand. “Of course, {Ich|pron|i} don’t expect {du|pron|you} to agree, Theo. {Du|pron|you}’re in deep with Alicia, {und|conj|and} {dein|pron|your} feelings are bound up with hers like a tangled ball of wool. {Dass|conj|that} is the purpose of a supervision like {dies|pron|this}—to {helfen|verb|help|Kannst du helfen? — Can you help?} {du|pron|you} unpick the strands of wool—to {sehen|verb|see} what is yours {und|conj|and} what is hers. {Und|conj|and} once {du|pron|you} gain some distance, {und|conj|and} clarity, {Ich|pron|i} suspect {du|pron|you} will {fühlen|verb|feel|Ich fühle mich müde. — I feel tired.} rather differently about {dein|pron|your} experience with Alicia Berenson.” “{Ich|pron|i}’m {nicht|adv|not} sure what {du|pron|you} mean.” “Well, to be blunt, {Ich|pron|i} fear {sie|pron|she} has been performing for {du|pron|you}. Manipulating {du|pron|you}. {Und|conj|and} {es|pron|it}’s a performance {dass|conj|that} {Ich|pron|i} {glauben|verb|believe|Ich glaube dir. — I believe you.} has been tailored specifically to appeal to {dein|pron|your} chivalric … {und|conj|and}, {lassen|verb|let|Lass mich. — Let me.}’s {sagen|verb|say}, romantic instincts. {Es|pron|it} was obvious to me from the start {dass|conj|that} {du|pron|you} intended to rescue her. {Ich|pron|i}’m quite sure {es|pron|it} was obvious to Alicia too. Hence her seduction of {du|pron|you}.” “{Du|pron|you} sound like Christian. {Sie|pron|she} hasn’t seduced me. {Ich|pron|i} am perfectly capable of withstanding a patient’s sexual projections. Don’t underestimate me, Professor.” “Don’t underestimate her. {Sie|pron|she}’s giving an excellent performance.” Diomedes shook {sein|pron|his} head {und|conj|and} peered up at the gray clouds. “The vulnerable woman under attack, {allein|adv|alone|Er ist allein. — He is alone.}, in {brauchen|verb|need|Ich brauche Zeit. — I need time.} of protection. Alicia has cast herself as the victim {und|conj|and} {dies|pron|this} mystery man as the villain. Whereas in fact Alicia {und|conj|and} the man are one {und|conj|and} the same. {Sie|pron|she} killed Gabriel. {Sie|pron|she} was guilty—{und|conj|and} {sie|pron|she} is {noch|adv|still} refusing to accept {dass|conj|that} guilt. {Also|conj|so} {sie|pron|she} splits, dissociates, fantasizes—Alicia becomes the innocent victim {und|conj|and} {du|pron|you} are her protector. {Und|conj|and} by colluding with {dies|pron|this} fantasy {du|pron|you} are allowing her to disown all responsibility.” “{Ich|pron|i} don’t agree with {dass|conj|that}. {Ich|pron|i} don’t {glauben|verb|believe|Ich glaube dir. — I believe you.} {sie|pron|she} is lying, consciously, anyway.
+Apart from her obvious inconsistencies {und|conj|and} inaccuracies—such as {dass|conj|that} Gabriel was {nicht|adv|not} shot six times, {aber|conj|but} {nur|adv|only} five, one of the bullets being fired at the ceiling; nor was Alicia discovered tied to a chair, {aber|conj|but} {stehen|verb|stand|Er steht dort. — He stands there.} in the middle of the room, having slashed her wrists. Alicia made no mention to me of the man’s untying her, nor did {sie|pron|she} explain why {sie|pron|she} hadn’t told the police {dies|pron|this} version of events from the start. No, {Ich|pron|I} knew {sie|pron|she} was lying. {Ich|pron|I} was annoyed {dass|conj|that} {sie|pron|she} had lied, badly {und|conj|and} pointlessly, to {mein|pron|my} face. For a second {Ich|pron|I} wondered {wenn|conj|if} {sie|pron|she} was testing me, seeing whether {Ich|pron|I} accepted the story? {Wenn|conj|if} {also|conj|so}, {Ich|pron|I} was determined to {geben|verb|give|Gib mir das. — Give me that.} {nichts|pron|nothing} away.
 
-At the {sehr|adv|very} least, Alicia believes her story to be {wahr|adj|true|Das ist wahr. — That is true.}.” “Yes, {sie|pron|she} believes {es|pron|it}. Alicia is under attack—{aber|conj|but} from her own psyche, {nicht|adv|not} the outside world.” {Ich|pron|i} knew {dass|conj|that} wasn’t {wahr|adj|true|Das ist wahr. — That is true.}, {aber|conj|but} {dort|adv|there} was no point in arguing further. {Ich|pron|i} stubbed out {mein|pron|my} cigarette. “How do {du|pron|you} {denken|verb|think|Ich denke oft nach. — I often think about it.} {Ich|pron|i} should proceed?” “{Du|pron|you} must force her to confront the truth. {Nur|adv|only} {dann|adv|then} will {sie|pron|she} have a hope of recovery. {Du|pron|you} must refuse point-blank to accept her story. Challenge her. Demand {sie|pron|she} tell {du|pron|you} the truth.” “{Und|conj|and} do {du|pron|you} {denken|verb|think|Ich denke oft nach. — I often think about it.} {sie|pron|she} will?” {Er|pron|he} shrugged. “{Dass|conj|that}”—{er|pron|he} took a long drag on {sein|pron|his} cigar—“is anyone’s guess.” “{Sehr|adv|very} well. {Ich|pron|i}’ll talk to her {morgen|adv|tomorrow|Morgen sehen wir uns. — Tomorrow we'll see each other.}. {Ich|pron|i}’ll confront her.” Diomedes looked slightly uneasy {und|conj|and} opened {sein|pron|his} mouth as {wenn|conj|if} {er|pron|he} was about to {sagen|verb|say} {etwas|pron|something} further. {Aber|conj|but} {er|pron|he} changed {sein|pron|his} mind. {Er|pron|he} nodded {und|conj|and} stamped on {sein|pron|his} cigar with an air of finality. “{Morgen|adv|tomorrow|Morgen sehen wir uns. — Tomorrow we'll see each other.}.”
+{Ich|pron|I} sat {dort|adv|there} in silence.
+
+Unusually, Alicia spoke first. “{Ich|pron|I}’m {müde|adj|tired|Er ist müde. — He is tired.}. {Ich|pron|I} want to stop.”
+
+{Ich|pron|I} nodded. {Ich|pron|I} couldn’t object.
+
+“{Lassen|verb|let|Lass mich. — Let me.}’s carry on {morgen|adv|tomorrow|Morgen sehen wir uns. — Tomorrow we'll see each other.},” {sie|pron|she} said.
+
+“Is {dort|adv|there} more to {sagen|verb|say}?”
+
+“Yes. One last thing.”
+
+“{Sehr|adv|very} well. {Morgen|adv|tomorrow|Morgen sehen wir uns. — Tomorrow we'll see each other.}.”
+
+Yuri was {warten|verb|wait|Wir warten hier. — We wait here.} in the corridor. {Er|pron|he} escorted Alicia to her room, {und|conj|and} {Ich|pron|I} went up to {mein|pron|my} office.
+
+As {Ich|pron|I} have said, {es|pron|it}’s been {mein|pron|my} practice for years to transcribe a session as soon as {es|pron|it}’s ended. The ability to accurately record what has been said during the past fifty minutes is of paramount importance to a therapist—otherwise much detail is forgotten {und|conj|and} the immediacy of the emotions lost.
+
+{Ich|pron|I} sat at {mein|pron|my} desk {und|conj|and} wrote down, as {schnell|adj|fast|Ein schnelles Auto. — A fast car.} as {Ich|pron|I} could, everything {dass|conj|that} had transpired between us. The moment {Ich|pron|I} finished, {Ich|pron|I} marched through the corridors, clutching {mein|pron|my} pages of notes.
+
+{Ich|pron|I} knocked on Diomedes’s door. {Dort|adv|there} was no response, {also|conj|so} {Ich|pron|I} knocked {wieder|adv|again}. {Noch|adv|still} no answer. {Ich|pron|I} {öffnen|verb|open|Öffne die Tür. — Open the door.} the door a crack—{und|conj|and} {dort|adv|there} was Diomedes, {schnell|adj|fast|Ein schnelles Auto. — A fast car.} asleep on {sein|pron|his} narrow couch.
+
+“Professor?” {Und|conj|and} {wieder|adv|again}, louder: “Professor Diomedes?”
+
+{Er|pron|he} woke with a start {und|conj|and} sat up {schnell|adv|quickly|Er lief schnell. — He ran quickly.}. {Er|pron|he} blinked at me.
+
+“What is {es|pron|it}? What’s {falsch|adj|wrong|Das ist falsch. — That is wrong.}?”
+
+“{Ich|pron|I} {brauchen|verb|need|Ich brauche Zeit. — I need time.} to talk to {du|pron|you}. Should {Ich|pron|I} {kommen|verb|come|Sie kommen morgen. — They come tomorrow.} back later?”
+
+Diomedes frowned {und|conj|and} shook {sein|pron|his} head. “{Ich|pron|I} was having a brief siesta. {Ich|pron|I} {immer|adv|always} do, after lunch. {Es|pron|it} {helfen|verb|help|Kannst du helfen? — Can you help?} me get through the afternoon. {Es|pron|it} becomes a necessity as {du|pron|you} get older.” {Er|pron|he} yawned {und|conj|and} stood up. “{Kommen|verb|come|Sie kommen morgen. — They come tomorrow.} in, Theo. Sit down. By the looks of {du|pron|you}, {es|pron|it}’s {wichtig|adj|important|Das ist wichtig. — That is important.}.”
+
+“{Ich|pron|I} think {es|pron|it} is, yes.”
+
+“Alicia?”
+
+{Ich|pron|I} nodded. {Ich|pron|I} sat in front of the desk. {Er|pron|he} sat down behind {es|pron|it}. {Sein|pron|his} hair was sticking up to one side, {und|conj|and} {er|pron|he} {noch|adv|still} looked half-asleep.
+
+“Are {du|pron|you} sure {Ich|pron|I} shouldn’t {kommen|verb|come|Sie kommen morgen. — They come tomorrow.} back later?”
+
+Diomedes shook {sein|pron|his} head. {Er|pron|he} poured himself a glass of water from a jug. “{Ich|pron|I}’m awake {jetzt|adv|now}. {Gehen|verb|go} on. What {es|pron|it} is?”
+
+“{Ich|pron|I}’ve been with Alicia, talking.… {Ich|pron|I} {brauchen|verb|need|Ich brauche Zeit. — I need time.} some supervision.”
+
+Diomedes nodded. {Er|pron|he} was looking more awake by the second, {und|conj|and} more interested. “{Gehen|verb|go} on.”
+
+{Ich|pron|I} started {lesen|verb|read|Ich lese ein Buch. — I read a book.} from {mein|pron|my} notes. {Ich|pron|I} took him through the entire session. {Ich|pron|I} repeated her words as accurately as {Ich|pron|I} could {und|conj|and} relayed the story {sie|pron|she} had told me: how the man who’d been spying on her broke into the house, took her prisoner, {und|conj|and} shot {und|conj|and} killed Gabriel.
+
+When {Ich|pron|I} finished, {dort|adv|there} was a long pause. Diomedes’s expression gave little away. {Er|pron|he} pulled a box of cigars out of {sein|pron|his} desk drawer. {Er|pron|he} took out a little silver guillotine. {Er|pron|he} popped the end of a cigar into {es|pron|it} {und|conj|and} sliced {es|pron|it} off.
+
+“{Lassen|verb|let|Lass mich. — Let me.}’s start with the countertransference. Tell me about {dein|pron|your} emotional experience. Start at the beginning. As {sie|pron|she} was telling {du|pron|you} her story, what kind of feelings were {kommen|verb|come} up?”
+
+{Ich|pron|I} thought about {es|pron|it} for a moment. “{Ich|pron|I} felt excited, {Ich|pron|I} suppose.… {Und|conj|and} anxious. {Ängstlich|adj|afraid|Sie war ängstlich. — She was afraid.}.”
+
+“{Ängstlich|adj|afraid|Sie war ängstlich. — She was afraid.}? Was {es|pron|it} {dein|pron|your} fear, {oder|conj|or} hers?”
+
+“Both, {Ich|pron|I} imagine.”
+
+“{Und|conj|and} what were {du|pron|you} {ängstlich|adj|afraid|Sie war ängstlich. — She was afraid.} of?”
+
+“{Ich|pron|I}’m {nicht|adv|not} sure. Fear of failure, perhaps. {Ich|pron|I} have a lot riding on {dies|pron|this}, as {du|pron|you} {wissen|verb|know}.”
+
+Diomedes nodded. “What else?”
+
+“Frustration too. {Ich|pron|I} {fühlen|verb|feel|Ich fühle mich müde. — I feel tired.} frustrated quite frequently during {unser|pron|our} sessions.”
+
+“{Und|conj|and} {wütend|adj|angry|Er war wütend. — He was angry.}?”
+
+“Yes, {Ich|pron|I} suppose {also|conj|so}.”
+
+“{Du|pron|you} {fühlen|verb|feel|Ich fühle mich müde. — I feel tired.} like a frustrated father, dealing with a {schwierig|adj|difficult|Das ist schwierig. — That is difficult.} child?”
+
+“Yes. {Ich|pron|I} want to {helfen|verb|help|Kannst du helfen? — Can you help?} her—{aber|conj|but} {Ich|pron|I} don’t {wissen|verb|know} {wenn|conj|if} {sie|pron|she} wants to be {helfen|verb|help|Kannst du helfen? — Can you help?}.”
+
+{Er|pron|he} nodded. “{Bleiben|verb|stay|Bleib hier. — Stay here.} with the {fühlen|verb|feel|Ich fühle mich müde. — I feel tired.} of anger. Talk more about {es|pron|it}. How does {es|pron|it} manifest itself?”
+
+{Ich|pron|I} hesitated. “Well, {Ich|pron|I} {oft|adv|often|Das passiert oft. — That happens often.} leave the sessions with a splitting headache.”
+
+Diomedes nodded. “Yes, exactly. {Es|pron|it} has to {kommen|verb|come} out one way {oder|conj|or} another. ‘A trainee who is {nicht|adv|not} anxious will be sick.’ Who was {es|pron|it} who said {dass|conj|that}?”
+
+“{Ich|pron|I} don’t {wissen|verb|know}.” {Ich|pron|I} shrugged. “{Ich|pron|I}’m sick {und|conj|and} anxious.”
+
+Diomedes smiled. “{Du|pron|you}’re {auch|adv|also|Ich auch. — Me too.} no longer a trainee—{obwohl|conj|although|Obwohl es regnet. — Although it's raining.} those feelings {nie|adv|never} {gehen|verb|go} away entirely.” {Er|pron|he} picked up {sein|pron|his} cigar. “{Lassen|verb|let|Lass mich. — Let me.}’s {gehen|verb|go} outside for a smoke.”
+
+* * *
+
+{Wir|pron|we} went onto the fire escape. Diomedes puffed on {sein|pron|his} cigar for a moment, mulling things over. Eventually {er|pron|he} reached a conclusion.
+
+“{Sie|pron|she}’s lying, {du|pron|you} {wissen|verb|know}.”
+
+“{Du|pron|you} mean about the man killing Gabriel? {Ich|pron|I} thought {also|conj|so} too.”
+
+“{Nicht|adv|not} just {dass|conj|that}.”
+
+“{Dann|adv|then} what?”
+
+“All of {es|pron|it}. The whole cock-{und|conj|and}-bull story. {Ich|pron|I} don’t {glauben|verb|believe|Ich glaube dir. — I believe you.} a single word of {es|pron|it}.”
+
+{Ich|pron|I} must have looked rather taken aback. {Ich|pron|I} had suspected {er|pron|he}’d disbelieve some elements of Alicia’s tale. {Ich|pron|I} hadn’t expected him to reject the whole thing.
+
+“{Du|pron|you} don’t {glauben|verb|believe|Ich glaube dir. — I believe you.} in the man?”
+
+“No, {Ich|pron|I} don’t. {Ich|pron|I} don’t {glauben|verb|believe|Ich glaube dir. — I believe you.} {er|pron|he} ever existed. {Es|pron|it}’s a fantasy. From start to finish.”
+
+“What makes {du|pron|you} {also|conj|so} sure?”
+
+Diomedes gave me a strange smile. “Call {es|pron|it} {mein|pron|my} intuition. Years of professional experience with fantasists.” {Ich|pron|I} tried to interrupt {aber|conj|but} {er|pron|he} forestalled me with a wave of {sein|pron|his} hand. “Of course, {Ich|pron|I} don’t expect {du|pron|you} to agree, Theo. {Du|pron|you}’re in deep with Alicia, {und|conj|and} {dein|pron|your} feelings are bound up with hers like a tangled ball of wool. {Dass|conj|that} is the purpose of a supervision like {dies|pron|this}—to {helfen|verb|help|Kannst du helfen? — Can you help?} {du|pron|you} unpick the strands of wool—to {sehen|verb|see} what is yours {und|conj|and} what is hers. {Und|conj|and} once {du|pron|you} gain some distance, {und|conj|and} clarity, {Ich|pron|I} suspect {du|pron|you} will {fühlen|verb|feel|Ich fühle mich müde. — I feel tired.} rather differently about {dein|pron|your} experience with Alicia Berenson.”
+
+“{Ich|pron|I}’m {nicht|adv|not} sure what {du|pron|you} mean.”
+
+“Well, to be blunt, {Ich|pron|I} fear {sie|pron|she} has been performing for {du|pron|you}. Manipulating {du|pron|you}. {Und|conj|and} {es|pron|it}’s a performance {dass|conj|that} {Ich|pron|I} {glauben|verb|believe|Ich glaube dir. — I believe you.} has been tailored specifically to appeal to {dein|pron|your} chivalric … {und|conj|and}, {lassen|verb|let|Lass mich. — Let me.}’s {sagen|verb|say}, romantic instincts. {Es|pron|it} was obvious to me from the start {dass|conj|that} {du|pron|you} intended to rescue her. {Ich|pron|I}’m quite sure {es|pron|it} was obvious to Alicia too. Hence her seduction of {du|pron|you}.”
+
+“{Du|pron|you} sound like Christian. {Sie|pron|she} hasn’t seduced me. {Ich|pron|I} am perfectly capable of withstanding a patient’s sexual projections. Don’t underestimate me, Professor.”
+
+“Don’t underestimate her. {Sie|pron|she}’s {geben|verb|give|Gib mir das. — Give me that.} an excellent performance.” Diomedes shook {sein|pron|his} head {und|conj|and} peered up at the gray clouds. “The vulnerable woman under attack, {allein|adv|alone|Er ist allein. — He is alone.}, in {brauchen|verb|need|Ich brauche Zeit. — I need time.} of protection. Alicia has cast herself as the victim {und|conj|and} {dies|pron|this} mystery man as the villain. Whereas in fact Alicia {und|conj|and} the man are one {und|conj|and} the same. {Sie|pron|she} killed Gabriel. {Sie|pron|she} was guilty—{und|conj|and} {sie|pron|she} is {noch|adv|still} refusing to accept {dass|conj|that} guilt. {Also|conj|so} {sie|pron|she} splits, dissociates, fantasizes—Alicia becomes the innocent victim {und|conj|and} {du|pron|you} are her protector. {Und|conj|and} by colluding with {dies|pron|this} fantasy {du|pron|you} are allowing her to disown all responsibility.”
+
+“{Ich|pron|I} don’t agree with {dass|conj|that}. {Ich|pron|I} don’t {glauben|verb|believe|Ich glaube dir. — I believe you.} {sie|pron|she} is lying, consciously, anyway. At the {sehr|adv|very} least, Alicia believes her story to be {wahr|adj|true|Das ist wahr. — That is true.}.”
+
+“Yes, {sie|pron|she} believes {es|pron|it}. Alicia is under attack—{aber|conj|but} from her own psyche, {nicht|adv|not} the outside world.”
+
+{Ich|pron|I} knew {dass|conj|that} wasn’t {wahr|adj|true|Das ist wahr. — That is true.}, {aber|conj|but} {dort|adv|there} was no point in arguing further. {Ich|pron|I} stubbed out {mein|pron|my} cigarette.
+
+“How do {du|pron|you} think {Ich|pron|I} should proceed?”
+
+“{Du|pron|you} must force her to confront the truth. {Nur|adv|only} {dann|adv|then} will {sie|pron|she} have a hope of recovery. {Du|pron|you} must refuse point-blank to accept her story. Challenge her. Demand {sie|pron|she} tell {du|pron|you} the truth.”
+
+“{Und|conj|and} do {du|pron|you} think {sie|pron|she} will?”
+
+{Er|pron|he} shrugged. “{Dass|conj|that}”—{er|pron|he} took a long drag on {sein|pron|his} cigar—“is anyone’s guess.”
+
+“{Sehr|adv|very} well. {Ich|pron|I}’ll talk to her {morgen|adv|tomorrow|Morgen sehen wir uns. — Tomorrow we'll see each other.}. {Ich|pron|I}’ll confront her.”
+
+Diomedes looked slightly uneasy {und|conj|and} {öffnen|verb|open|Öffne die Tür. — Open the door.} {sein|pron|his} mouth as {wenn|conj|if} {er|pron|he} was about to {sagen|verb|say} {etwas|pron|something} further. {Aber|conj|but} {er|pron|he} changed {sein|pron|his} mind. {Er|pron|he} nodded {und|conj|and} stamped on {sein|pron|his} cigar with an air of finality. “{Morgen|adv|tomorrow|Morgen sehen wir uns. — Tomorrow we'll see each other.}.”
 
 ---
 
@@ -18,5 +150,5 @@ At the {sehr|adv|very} least, Alicia believes her story to be {wahr|adj|true|Das
 
 | English | German | Type |
 |---------|--------|------|
+| help | helfen | verb |
 | feel | fühlen | verb |
-| think | denken | verb |

@@ -1,8 +1,80 @@
-# Chapter 2
+# Kapitel 2
 
 ---
 
-{Ich|pron|i} WENT TO FIND DIOMEDES to report on {mein|pron|my} meeting with Alicia. {Er|pron|he} was in {sein|pron|his} office, sorting through piles of sheet music. “Well”—{er|pron|he} didn’t look up—“how did {es|pron|it} go?” “{Es|pron|it} didn’t, really.” Diomedes gave me a quizzical glance. {Ich|pron|i} hesitated. “{Wenn|conj|if|Wenn du willst. — If you want.} {Ich|pron|i}’m going to get anywhere with her, {Ich|pron|i} need Alicia to be able to think, {und|conj|and} feel.” “Absolutely. {Und|conj|and} {dein|pron|your|Dein Haus ist groß. — Your house is big.} concern is…?” “{Es|pron|it}’s impossible to get through to {jemand|pron|someone|Jemand ist da. — Someone is there.} when {sie|pron|they}’re {also|conj|so|Also gut. — So, fine.} heavily medicated. {Es|pron|it}’s like {sie|pron|she}’s six feet underwater.” Diomedes frowned. “{Ich|pron|i} wouldn’t go {dass|conj|that} far. {Ich|pron|i}’m {nicht|adv|not|Ich weiß es nicht. — I don't know it.} familiar with the exact dose {sie|pron|she}’s on—” “{Ich|pron|i} checked with Yuri. Sixteen milligrams of risperidone. A horse’s dose.” Diomedes raised an eyebrow. “{Dass|conj|that}’s certainly quite high, yes. {Es|pron|it} could probably be reduced. {Du|pron|you} know, Christian is the head of Alicia’s care team. {Du|pron|you} should talk to him about {es|pron|it}.” “{Ich|pron|i} think {es|pron|it}’ll sound better coming from {du|pron|you}.” “Hmm.” Diomedes gave me a doubtful look. “{Du|pron|you} {und|conj|and} Christian knew each other before, didn’t {du|pron|you}? At Broadmoor?” “Very slightly.” Diomedes didn’t respond immediately. {Er|pron|he} reached over to a little dish of sugared almonds on {sein|pron|his} desk {und|conj|and} offered me one. {Ich|pron|i} shook {mein|pron|my} head. {Er|pron|he} popped an almond in {sein|pron|his} mouth {und|conj|and} crunched {es|pron|it}, watching me as {er|pron|he} chewed. “Tell me, is everything friendly between {du|pron|you} {und|conj|and} Christian?” “{Dass|conj|that}’s an odd question. Why do {du|pron|you} ask?” “{Weil|conj|because|Ich bleibe, weil es regnet. — I'm staying because it's raining.} {Ich|pron|i}’m picking up on some hostility.” “{Nicht|adv|not|Ich weiß es nicht. — I don't know it.} on {mein|pron|my} part.” “{Aber|conj|but} on {sein|pron|his}?” “{Du|pron|you}’ll have to ask him. {Ich|pron|i} have no problem with Christian.” “Hmm. Perhaps {Ich|pron|i}’m imagining {es|pron|it}. {Aber|conj|but} {Ich|pron|i}’m sensing {etwas|pron|something|Etwas ist falsch. — Something is wrong.}.… Keep an eye on {es|pron|it}. Any aggression {oder|conj|or|Jetzt oder nie. — Now or never.} competitiveness interferes with the work. {Du|pron|you} two need to work with each other, {nicht|adv|not|Ich weiß es nicht. — I don't know it.} against each other.” “{Ich|pron|i}’m aware of {dass|conj|that}.” “Well, Christian needs to be included in {dies|pron|this} discussion. {Du|pron|you} want Alicia to feel, yes. {Aber|conj|but} remember, with greater feeling comes greater danger.” “Danger for whom?” “For Alicia, of course.” Diomedes wagged {sein|pron|his} finger at me. “Don’t forget {sie|pron|she} was highly suicidal when {wir|pron|we} first brought her here. {Sie|pron|she} made numerous attempts to end her life. {Und|conj|and} the medication keeps her stable. {Es|pron|it} keeps her alive. {Wenn|conj|if|Wenn du willst. — If you want.} {wir|pron|we} lower the dose, there’s every chance {sie|pron|she} will be overwhelmed by her feelings {und|conj|and} be unable to cope. Are {du|pron|you} prepared to take {dass|conj|that} risk?” {Ich|pron|i} took what Diomedes said seriously. {Aber|conj|but} {Ich|pron|i} nodded. “{Es|pron|it}’s a risk {Ich|pron|i} believe {wir|pron|we} need to take, Professor. Otherwise {wir|pron|we}’ll never reach her.” Diomedes shrugged. “Then {Ich|pron|i} shall talk to Christian on {dein|pron|your|Dein Haus ist groß. — Your house is big.} behalf.” “Thank {du|pron|you}.” “{Wir|pron|we}’ll see how {er|pron|he} reacts. Psychiatrists don’t often respond well to being told how to medicate their patients. Of course, {Ich|pron|i} can overrule him, {aber|conj|but} {Ich|pron|i} don’t tend to do {dass|conj|that}—let me broach the subject with him subtly. {Ich|pron|i}’ll tell {du|pron|you} what {er|pron|he} says.” “{Es|pron|it} might be better {nicht|adv|not|Ich weiß es nicht. — I don't know it.} to mention me when {du|pron|you} talk to him.” “{Ich|pron|i} see.” Diomedes smiled strangely. “Very well, {Ich|pron|i} won’t.” {Er|pron|he} pulled out a little box from {sein|pron|his} desk, sliding off the cover to reveal a row of cigars. {Er|pron|he} offered me one. {Ich|pron|i} shook {mein|pron|my} head. “{Du|pron|you} don’t smoke?” {Er|pron|he} seemed surprised. “{Du|pron|you} look like a smoker to me.” “No, no. Only the occasional cigarette—just now {und|conj|and} then … {Ich|pron|i}’m trying to quit.” “Good, good for {du|pron|you}.” {Er|pron|he} opened the window. “{Du|pron|you} know {dass|conj|that} joke, about why {du|pron|you} can’t be a therapist {und|conj|and} smoke? {Weil|conj|because|Ich bleibe, weil es regnet. — I'm staying because it's raining.} {es|pron|it} means {du|pron|you}’re still fucked-up.” {Er|pron|he} laughed {und|conj|and} popped one of the cigars into {sein|pron|his} mouth. “{Ich|pron|i} think {wir|pron|we}’re all a bit crazy in {dies|pron|this} place. {Du|pron|you} know {dass|conj|that} sign {sie|pron|they} used to have in offices? ‘{Du|pron|you} don’t need to be mad to work here, {aber|conj|but} {es|pron|it} helps’?” Diomedes laughed again. {Er|pron|he} lit the cigar {und|conj|and} puffed on {es|pron|it}, blowing the smoke outside. {Ich|pron|i} watched him enviously.
+{Ich|pron|I} WENT TO FIND DIOMEDES to report on {mein|pron|my} meeting with Alicia. {Er|pron|he} was in {sein|pron|his} office, sorting through piles of sheet music.
+
+“Well”—{er|pron|he} didn’t look up—“how did {es|pron|it} go?”
+
+“{Es|pron|it} didn’t, really.”
+
+Diomedes gave me a quizzical glance.
+
+{Ich|pron|I} hesitated. “{Wenn|conj|if|Wenn du willst. — If you want.} {Ich|pron|I}’m going to get anywhere with her, {Ich|pron|I} need Alicia to be able to think, {und|conj|and} feel.”
+
+“Absolutely. {Und|conj|and} {dein|pron|your|Dein Haus ist groß. — Your house is big.} concern is…?”
+
+“{Es|pron|it}’s impossible to get through to {jemand|pron|someone|Jemand ist da. — Someone is there.} when {sie|pron|they}’re {also|conj|so|Also gut. — So, fine.} heavily medicated. {Es|pron|it}’s like {sie|pron|she}’s six feet underwater.”
+
+Diomedes frowned. “{Ich|pron|I} wouldn’t go {dass|conj|that} far. {Ich|pron|I}’m {nicht|adv|not|Ich weiß es nicht. — I don't know it.} familiar with the exact dose {sie|pron|she}’s on—”
+
+“{Ich|pron|I} checked with Yuri. Sixteen milligrams of risperidone. A horse’s dose.”
+
+Diomedes raised an eyebrow. “{Dass|conj|that}’s certainly quite high, yes. {Es|pron|it} could probably be reduced. {Du|pron|you} know, Christian is the head of Alicia’s care team. {Du|pron|you} should talk to him about {es|pron|it}.”
+
+“{Ich|pron|I} think {es|pron|it}’ll sound better coming from {du|pron|you}.”
+
+“Hmm.” Diomedes gave me a doubtful look. “{Du|pron|you} {und|conj|and} Christian knew each other before, didn’t {du|pron|you}? At Broadmoor?”
+
+“Very slightly.”
+
+Diomedes didn’t respond immediately. {Er|pron|he} reached over to a little dish of sugared almonds on {sein|pron|his} desk {und|conj|and} offered me one.
+
+{Ich|pron|I} shook {mein|pron|my} head.
+
+{Er|pron|he} popped an almond in {sein|pron|his} mouth {und|conj|and} crunched {es|pron|it}, watching me as {er|pron|he} chewed. “Tell me, is everything friendly between {du|pron|you} {und|conj|and} Christian?”
+
+“{Dass|conj|that}’s an odd question. Why do {du|pron|you} ask?”
+
+“{Weil|conj|because|Ich bleibe, weil es regnet. — I'm staying because it's raining.} {Ich|pron|I}’m picking up on some hostility.”
+
+“{Nicht|adv|not|Ich weiß es nicht. — I don't know it.} on {mein|pron|my} part.”
+
+“{Aber|conj|but} on {sein|pron|his}?”
+
+“{Du|pron|you}’ll have to ask him. {Ich|pron|I} have no problem with Christian.”
+
+“Hmm. Perhaps {Ich|pron|I}’m imagining {es|pron|it}. {Aber|conj|but} {Ich|pron|I}’m sensing {etwas|pron|something|Etwas ist falsch. — Something is wrong.}.… Keep an eye on {es|pron|it}. Any aggression {oder|conj|or|Jetzt oder nie. — Now or never.} competitiveness interferes with the work. {Du|pron|you} two need to work with each other, {nicht|adv|not|Ich weiß es nicht. — I don't know it.} against each other.”
+
+“{Ich|pron|I}’m aware of {dass|conj|that}.”
+
+“Well, Christian needs to be included in {dies|pron|this} discussion. {Du|pron|you} want Alicia to feel, yes. {Aber|conj|but} remember, with greater feeling comes greater danger.”
+
+“Danger for whom?”
+
+“For Alicia, of course.” Diomedes wagged {sein|pron|his} finger at me. “Don’t forget {sie|pron|she} was highly suicidal when {wir|pron|we} first brought her here. {Sie|pron|she} made numerous attempts to end her life. {Und|conj|and} the medication keeps her stable. {Es|pron|it} keeps her alive. {Wenn|conj|if|Wenn du willst. — If you want.} {wir|pron|we} lower the dose, there’s every chance {sie|pron|she} will be overwhelmed by her feelings {und|conj|and} be unable to cope. Are {du|pron|you} prepared to take {dass|conj|that} risk?”
+
+{Ich|pron|I} took what Diomedes said seriously. {Aber|conj|but} {Ich|pron|I} nodded. “{Es|pron|it}’s a risk {Ich|pron|I} believe {wir|pron|we} need to take, Professor. Otherwise {wir|pron|we}’ll never reach her.”
+
+Diomedes shrugged. “Then {Ich|pron|I} shall talk to Christian on {dein|pron|your|Dein Haus ist groß. — Your house is big.} behalf.”
+
+“Thank {du|pron|you}.”
+
+“{Wir|pron|we}’ll see how {er|pron|he} reacts. Psychiatrists don’t often respond well to being told how to medicate their patients. Of course, {Ich|pron|I} can overrule him, {aber|conj|but} {Ich|pron|I} don’t tend to do {dass|conj|that}—let me broach the subject with him subtly. {Ich|pron|I}’ll tell {du|pron|you} what {er|pron|he} says.”
+
+“{Es|pron|it} might be better {nicht|adv|not|Ich weiß es nicht. — I don't know it.} to mention me when {du|pron|you} talk to him.”
+
+“{Ich|pron|I} see.” Diomedes smiled strangely. “Very well, {Ich|pron|I} won’t.”
+
+{Er|pron|he} pulled out a little box from {sein|pron|his} desk, sliding off the cover to reveal a row of cigars. {Er|pron|he} offered me one. {Ich|pron|I} shook {mein|pron|my} head.
+
+“{Du|pron|you} don’t smoke?” {Er|pron|he} seemed surprised. “{Du|pron|you} look like a smoker to me.”
+
+“No, no. Only the occasional cigarette—just now {und|conj|and} then … {Ich|pron|I}’m trying to quit.”
+
+“Good, good for {du|pron|you}.” {Er|pron|he} opened the window. “{Du|pron|you} know {dass|conj|that} joke, about why {du|pron|you} can’t be a therapist {und|conj|and} smoke? {Weil|conj|because|Ich bleibe, weil es regnet. — I'm staying because it's raining.} {es|pron|it} means {du|pron|you}’re still fucked-up.” {Er|pron|he} laughed {und|conj|and} popped one of the cigars into {sein|pron|his} mouth. “{Ich|pron|I} think {wir|pron|we}’re all a bit crazy in {dies|pron|this} place. {Du|pron|you} know {dass|conj|that} sign {sie|pron|they} used to have in offices? ‘{Du|pron|you} don’t need to be mad to work here, {aber|conj|but} {es|pron|it} helps’?”
+
+Diomedes laughed again. {Er|pron|he} lit the cigar {und|conj|and} puffed on {es|pron|it}, blowing the smoke outside. {Ich|pron|I} watched him enviously.
 
 ---
 

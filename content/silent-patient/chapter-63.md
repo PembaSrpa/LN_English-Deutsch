@@ -1,16 +1,136 @@
-# Chapter 13
+# Kapitel 13
 
 ---
 
-THE COURTYARD WAS POPULATED WITH PATIENTS. {Sie|pron|they} were huddled about in their usual groups, gossiping, arguing, smoking; some were hugging themselves {und|conj|and} stamping their feet to keep {warm|adj|warm|Es ist warm. — It is warm.}. Alicia put a cigarette to her lips, holding {es|pron|it} between her long thin fingers. {Ich|pron|i} lit {es|pron|it} for her. As the flame caught the tip of her cigarette, {es|pron|it} crackled {und|conj|and} glowed red. {Sie|pron|she} inhaled deeply, her eyes on mine. {Sie|pron|she} seemed {fast|adv|almost|Fast fertig. — Almost done.} amused. “Aren’t {du|pron|you} going to smoke? {Oder|conj|or} is {dass|conj|that} inappropriate? Sharing a cigarette with a patient?” {Sie|pron|she}’s making fun of me, {Ich|pron|i} thought. {Aber|conj|but} {sie|pron|she} was {richtig|adj|right} to—no regulation prohibited a member of staff {und|conj|and} a patient from having a cigarette {zusammen|adv|together|Wir sind zusammen. — We are together.}. {Aber|conj|but} {wenn|conj|if} staff smoked, {sie|pron|they} tended to do {es|pron|it} covertly, sneaking to the fire escape at the back of the building. {Sie|pron|they} certainly didn’t do {es|pron|it} in front of the patients. To {stehen|verb|stand|Er steht dort. — He stands there.} {hier|adv|here} in the courtyard {und|conj|and} smoke with her did feel like a transgression. {Ich|pron|i} was probably imagining {es|pron|it}, {aber|conj|but} {Ich|pron|i} felt {wir|pron|we} were being watched. {Ich|pron|i} sensed Christian spying on us from the window. {Sein|pron|his} words came back to me: “Borderlines are {also|conj|so} seductive.” {Ich|pron|i} looked into Alicia’s eyes. {Sie|pron|they} weren’t seductive; {sie|pron|they} weren’t even friendly. A fierce mind was behind those eyes, a sharp intelligence {dass|conj|that} was {gerade|adv|only just|Gerade jetzt. — Just now.} waking up. {Sie|pron|she} was a force to be reckoned with, Alicia Berenson. {Ich|pron|i} understood {dass|conj|that} {jetzt|adv|now}. Perhaps {dass|conj|that}’s why Christian had felt the {brauchen|verb|need|Ich brauche Zeit. — I need time.} to sedate her. Was {er|pron|he} scared of what {sie|pron|she} might do—what {sie|pron|she} might {sagen|verb|say}? {Ich|pron|i} felt a little scared of her myself; {nicht|adv|not} scared, exactly—{aber|conj|but} alert, apprehensive. {Ich|pron|i} knew {Ich|pron|i} had to watch {mein|pron|my} step. “Why {nicht|adv|not}?” {Ich|pron|i} said. “{Ich|pron|i}’ll have one too.” {Ich|pron|i} put a cigarette in {mein|pron|my} mouth {und|conj|and} lit {es|pron|it}. {Wir|pron|we} smoked in silence for a moment, maintaining eye contact, {nur|adv|only} inches from each other, until {Ich|pron|i} felt a strange adolescent embarrassment {und|conj|and} averted {mein|pron|my} gaze. {Ich|pron|i} tried to cover {es|pron|it} by gesturing at the courtyard. “Shall {wir|pron|we} walk {und|conj|and} talk?” Alicia nodded. “Okay.” {Wir|pron|we} started walking around the wall, along the perimeter of the courtyard. The other patients watched us. {Ich|pron|i} wondered what {sie|pron|they} were thinking. Alicia
+THE COURTYARD WAS POPULATED WITH PATIENTS. {Sie|pron|they} were huddled about in their usual groups, gossiping, arguing, smoking; some were hugging themselves {und|conj|and} stamping their feet to keep {warm|adj|warm|Es ist warm. — It is warm.}.
 
-didn’t seem to care. {Sie|pron|she} didn’t even seem to notice them. {Wir|pron|we} walked in silence for a moment. Eventually {sie|pron|she} said, “Do {du|pron|you} want me to {gehen|verb|go} on?” “{Wenn|conj|if} {du|pron|you} want to, yes … Are {du|pron|you} ready?” Alicia nodded. “Yes, {Ich|pron|i} am.” “What happened once {du|pron|you} were inside the house?” “The man said … {er|pron|he} said {er|pron|he} wanted a drink. {Also|conj|so} {Ich|pron|i} gave him one of Gabriel’s beers. {Ich|pron|i} don’t drink beer. {Ich|pron|i} didn’t have anything else in the house.” “{Und|conj|and} {dann|adv|then}?” “{Er|pron|he} talked.” “What about?” “{Ich|pron|i} don’t remember.” “{Du|pron|you} don’t?” “No.” {Sie|pron|she} lapsed into silence. {Ich|pron|i} waited as long as {Ich|pron|i} could bear before prompting her, “{Lassen|verb|let|Lass mich. — Let me.}’s keep going. {Du|pron|you} were in the kitchen. How were {du|pron|you} feeling?” “{Ich|pron|i} don’t … {Ich|pron|i} don’t remember feeling anything at all.” {Ich|pron|i} nodded. “{Dass|conj|that}’s {nicht|adv|not} uncommon in these situations. {Es|pron|it}’s {nicht|adv|not} just a case of flight-{oder|conj|or}-fight responses. {Dort|adv|there}’s a third, equally common response when {wir|pron|we}’re under attack—{wir|pron|we} freeze.” “{Ich|pron|i} didn’t freeze.” “No?” “No.” {Sie|pron|she} shot me a fierce look. “{Ich|pron|i} was preparing myself. {Ich|pron|i} was getting ready … ready to fight. Ready to—kill him.” “{Ich|pron|i} {sehen|verb|see}. {Und|conj|and} how did {du|pron|you} intend to do {dass|conj|that}?” “Gabriel’s gun. {Ich|pron|i} knew {Ich|pron|i} had to get to the gun.” “{Es|pron|it} was in the kitchen? {Du|pron|you} had put {es|pron|it} {dort|adv|there}? {Dass|conj|that}’s what {du|pron|you} wrote in the diary.” Alicia nodded. “Yes, in the cupboard by the window.” {Sie|pron|she} inhaled deeply
+Alicia put a cigarette to her lips, holding {es|pron|it} between her long thin fingers. {Ich|pron|I} lit {es|pron|it} for her. As the flame caught the tip of her cigarette, {es|pron|it} crackled {und|conj|and} glowed red. {Sie|pron|she} inhaled deeply, her eyes on mine. {Sie|pron|she} seemed {fast|adv|almost|Fast fertig. — Almost done.} amused.
 
-{und|conj|and} blew out a long line of smoke. “{Ich|pron|i} told him {Ich|pron|i} needed some water. {Ich|pron|i} went to get a glass. {Ich|pron|i} walked across the kitchen—{es|pron|it} took forever to walk a few feet. Step by step, {Ich|pron|i} reached the cupboard. {Mein|pron|my} hand was shaking.… {Ich|pron|i} opened {es|pron|it}.…” “{Und|conj|and}?” “The cupboard was {leer|adj|empty|Das Glas ist leer. — The glass is empty.}. The gun was gone. {Und|conj|and} {dann|adv|then} {Ich|pron|i} heard him {sagen|verb|say}, ‘The glasses are in the cupboard to {dein|pron|your} {richtig|adj|right}.’ {Ich|pron|i} turned around, {und|conj|and} the gun was {dort|adv|there}—in {sein|pron|his} hand. {Er|pron|he} was pointing {es|pron|it} at me, {und|conj|and} laughing.” “{Und|conj|and} {dann|adv|then}?” “{Dann|adv|then}?” “What were {du|pron|you} thinking?” “{Dass|conj|that} {es|pron|it} had been {mein|pron|my} last chance to escape, {und|conj|and} {jetzt|adv|now}—{jetzt|adv|now} {er|pron|he} was going to kill me.” “{Du|pron|you} believed {er|pron|he} was going to kill {du|pron|you}?” “{Ich|pron|i} knew {er|pron|he} was.” “{Aber|conj|but} {dann|adv|then} why did {er|pron|he} delay? Why {nicht|adv|not} do {es|pron|it} as soon as {er|pron|he} broke into the house?” Alicia didn’t answer. {Ich|pron|i} glanced at her. To {mein|pron|my} surprise, a smile was on her lips. “When {Ich|pron|i} was {jung|adj|young|Ein junger Mann. — A young man.}, Aunt Lydia had a kitten. A tabby cat. {Ich|pron|i} didn’t like her much. {Sie|pron|she} was wild, {und|conj|and} {sie|pron|she}’d {gehen|verb|go} for me {manchmal|adv|sometimes|Manchmal ist es schwer. — Sometimes it's hard.} with her claws. {Sie|pron|she} was unkind—{und|conj|and} cruel.” “Don’t animals act out of instinct? Can {sie|pron|they} be cruel?” Alicia looked at me intently. “{Sie|pron|they} can be cruel. {Sie|pron|she} was. {Sie|pron|she} would bring in things from the field—mice {oder|conj|or} little birds {sie|pron|she}’d caught. {Und|conj|and} {sie|pron|they} were {immer|adv|always} half-alive. Wounded, {aber|conj|but} alive. {Sie|pron|she}’d keep them like {dass|conj|that} {und|conj|and} play with them.” “{Ich|pron|i} {sehen|verb|see}. {Es|pron|it} sounds like {du|pron|you}’re saying {du|pron|you} were {dies|pron|this} man’s prey? {Dass|conj|that} {er|pron|he} was playing some kind of sadistic game with {du|pron|you}. Is {dass|conj|that} {richtig|adj|right}?” Alicia dropped the end of her cigarette on the ground {und|conj|and} stepped on {es|pron|it}. “{Geben|verb|give|Gib mir das. — Give me that.} me another one.” {Ich|pron|i} handed her the pack. {Sie|pron|she} took one {und|conj|and} lit the cigarette herself. {Sie|pron|she} smoked for a moment. “Gabriel was coming home at eight. Two more hours. {Ich|pron|i}
+“Aren’t {du|pron|you} {gehen|verb|go} to smoke? {Oder|conj|or} is {dass|conj|that} inappropriate? Sharing a cigarette with a patient?”
 
-kept staring at the clock. ‘What’s the matter?’ {er|pron|he} said. ‘Don’t {du|pron|you} like spending time with me?’ {Und|conj|and} {er|pron|he} stroked {mein|pron|my} skin with the gun, running {es|pron|it} up {und|conj|and} down {mein|pron|my} arm.” {Sie|pron|she} shivered at the memory. “{Ich|pron|i} said Gabriel was going to be home any minute. ‘{Und|conj|and} what {dann|adv|then}?’ {er|pron|he} asked. ‘{Er|pron|he}’ll rescue {du|pron|you}?’” “{Und|conj|and} what did {du|pron|you} {sagen|verb|say}?” “{Ich|pron|i} didn’t {sagen|verb|say} anything. {Ich|pron|i} just kept staring at the clock … {und|conj|and} {dann|adv|then} {mein|pron|my} phone rang. {Es|pron|it} was Gabriel. {Er|pron|he} told me to answer {es|pron|it}. {Er|pron|he} held the gun against {mein|pron|my} head.” “{Und|conj|and}? What did Gabriel {sagen|verb|say}?” “{Er|pron|he} said … {er|pron|he} said the shoot was turning into a nightmare, {also|conj|so} {Ich|pron|i} should {gehen|verb|go} ahead {und|conj|and} eat without him. {Er|pron|he} wouldn’t get back until ten at the earliest. {Ich|pron|i} hung up. ‘{Mein|pron|my} husband is on {sein|pron|his} way home,’ {Ich|pron|i} said. ‘{Er|pron|he}’ll be {hier|adv|here} in a few minutes. {Du|pron|you} should {gehen|verb|go}, {jetzt|adv|now}, before {er|pron|he} gets back.’ The man just laughed. ‘{Aber|conj|but} {Ich|pron|i} heard him {sagen|verb|say} {er|pron|he} won’t be back until ten,’ {er|pron|he} said. ‘{Wir|pron|we}’ve got hours to kill. Get me some rope,’ {er|pron|he} said, ‘{oder|conj|or} tape {oder|conj|or} {etwas|pron|something}. {Ich|pron|i} want to tie {du|pron|you} up.’ “{Ich|pron|i} did as {er|pron|he} asked. {Ich|pron|i} knew {es|pron|it} was hopeless {jetzt|adv|now}. {Ich|pron|i} knew how {es|pron|it} was going to end.” Alicia stopped talking {und|conj|and} looked at me. {Ich|pron|i} could {sehen|verb|see} the raw emotion in her eyes. {Ich|pron|i} wondered {wenn|conj|if} {Ich|pron|i} was pushing her too hard. “{Vielleicht|adv|maybe|Vielleicht morgen. — Maybe tomorrow.} {wir|pron|we} should {nehmen|verb|take|Nimm das. — Take that.} a break.” “No, {Ich|pron|i} {brauchen|verb|need|Ich brauche Zeit. — I need time.} to finish. {Ich|pron|i} {brauchen|verb|need|Ich brauche Zeit. — I need time.} to do {dies|pron|this}.” {Sie|pron|she} went on, speaking faster {jetzt|adv|now}. “{Ich|pron|i} didn’t have any rope, {also|conj|so} {er|pron|he} took the wire {Ich|pron|i} had for hanging canvases. {Er|pron|he} made me {gehen|verb|go} in the living room. {Er|pron|he} pulled out one of the upright chairs from the dining table. {Er|pron|he} told me to sit down. {Er|pron|he} started wrapping the wire around {mein|pron|my} ankles, tying me to the chair. {Ich|pron|i} could feel {es|pron|it} cutting into me. ‘Please,’ {Ich|pron|i} said, ‘please—’ {Aber|conj|but} {er|pron|he} didn’t listen. {Er|pron|he} tied {mein|pron|my} wrists behind {mein|pron|my} back. {Ich|pron|i} was sure {dann|adv|then} {dass|conj|that} {er|pron|he} was going to kill me. {Ich|pron|i} wish … {Ich|pron|i} wish {er|pron|he} had.” {Sie|pron|she} spat {dies|pron|this} out. {Ich|pron|i} was startled by her vehemence. “Why do {du|pron|you} wish {dass|conj|that}?” “{Weil|conj|because} what {er|pron|he} did was worse.” For a second {Ich|pron|i} thought Alicia was going to cry. {Ich|pron|i} fought a sudden desire to hold her, {nehmen|verb|take|Nimm das. — Take that.} her in {mein|pron|my} arms, kiss her, reassure her, promise her {sie|pron|she} was {sicher|adj|safe|Das ist sicher. — That is safe.}.
+{Sie|pron|she}’s making fun of me, {Ich|pron|I} thought. {Aber|conj|but} {sie|pron|she} was {richtig|adj|right} to—no regulation prohibited a member of staff {und|conj|and} a patient from having a cigarette {zusammen|adv|together|Wir sind zusammen. — We are together.}. {Aber|conj|but} {wenn|conj|if} staff smoked, {sie|pron|they} tended to do {es|pron|it} covertly, sneaking to the fire escape at the back of the building. {Sie|pron|they} certainly didn’t do {es|pron|it} in front of the patients. To {stehen|verb|stand|Er steht dort. — He stands there.} {hier|adv|here} in the courtyard {und|conj|and} smoke with her did feel like a transgression. {Ich|pron|I} was probably imagining {es|pron|it}, {aber|conj|but} {Ich|pron|I} felt {wir|pron|we} were being watched. {Ich|pron|I} sensed Christian spying on us from the window. {Sein|pron|his} words came back to me: “Borderlines are {also|conj|so} seductive.” {Ich|pron|I} looked into Alicia’s eyes. {Sie|pron|they} weren’t seductive; {sie|pron|they} weren’t even friendly. A fierce mind was behind those eyes, a sharp intelligence {dass|conj|that} was {nur|adv|only} just waking up. {Sie|pron|she} was a force to be reckoned with, Alicia Berenson. {Ich|pron|I} understood {dass|conj|that} {jetzt|adv|now}.
 
-{Ich|pron|i} restrained myself. {Ich|pron|i} stubbed out {mein|pron|my} cigarette on the redbrick wall. “{Ich|pron|i} feel {dass|conj|that} {du|pron|you} {brauchen|verb|need|Ich brauche Zeit. — I need time.} to be taken care of. {Ich|pron|i} {finden|verb|find|Ich finde es. — I find it.} myself wanting to {nehmen|verb|take|Nimm das. — Take that.} care of {du|pron|you}, Alicia.” “No.” {Sie|pron|she} shook her head firmly. “{Dass|conj|that}’s {nicht|adv|not} what {Ich|pron|i} want from {du|pron|you}.” “What do {du|pron|you} want?” Alicia didn’t answer. {Sie|pron|she} turned {und|conj|and} walked back inside.
+Perhaps {dass|conj|that}’s why Christian had felt the {brauchen|verb|need|Ich brauche Zeit. — I need time.} to sedate her. Was {er|pron|he} scared of what {sie|pron|she} might do—what {sie|pron|she} might {sagen|verb|say}? {Ich|pron|I} felt a little scared of her myself; {nicht|adv|not} scared, exactly—{aber|conj|but} alert, apprehensive. {Ich|pron|I} knew {Ich|pron|I} had to watch {mein|pron|my} step.
+
+“Why {nicht|adv|not}?” {Ich|pron|I} said. “{Ich|pron|I}’ll have one too.”
+
+{Ich|pron|I} put a cigarette in {mein|pron|my} mouth {und|conj|and} lit {es|pron|it}. {Wir|pron|we} smoked in silence for a moment, maintaining eye contact, {nur|adv|only} inches from each other, until {Ich|pron|I} felt a strange adolescent embarrassment {und|conj|and} averted {mein|pron|my} gaze. {Ich|pron|I} tried to cover {es|pron|it} by gesturing at the courtyard.
+
+“Shall {wir|pron|we} walk {und|conj|and} talk?”
+
+Alicia nodded. “Okay.”
+
+{Wir|pron|we} started walking around the wall, along the perimeter of the courtyard. The other patients watched us. {Ich|pron|I} wondered what {sie|pron|they} were thinking. Alicia didn’t seem to care. {Sie|pron|she} didn’t even seem to notice them. {Wir|pron|we} walked in silence for a moment.
+
+Eventually {sie|pron|she} said, “Do {du|pron|you} want me to {gehen|verb|go} on?”
+
+“{Wenn|conj|if} {du|pron|you} want to, yes … Are {du|pron|you} ready?”
+
+Alicia nodded. “Yes, {Ich|pron|I} am.”
+
+“What happened once {du|pron|you} were inside the house?”
+
+“The man said … {er|pron|he} said {er|pron|he} wanted a drink. {Also|conj|so} {Ich|pron|I} gave him one of Gabriel’s beers. {Ich|pron|I} don’t drink beer. {Ich|pron|I} didn’t have anything else in the house.”
+
+“{Und|conj|and} {dann|adv|then}?”
+
+“{Er|pron|he} talked.”
+
+“What about?”
+
+“{Ich|pron|I} don’t remember.”
+
+“{Du|pron|you} don’t?”
+
+“No.”
+
+{Sie|pron|she} lapsed into silence.
+
+{Ich|pron|I} {warten|verb|wait|Wir warten hier. — We wait here.} as long as {Ich|pron|I} could bear before prompting her, “{Lassen|verb|let|Lass mich. — Let me.}’s keep {gehen|verb|go}.
+
+{Du|pron|you} were in the kitchen. How were {du|pron|you} feeling?”
+
+“{Ich|pron|I} don’t … {Ich|pron|I} don’t remember feeling anything at all.”
+
+{Ich|pron|I} nodded. “{Dass|conj|that}’s {nicht|adv|not} uncommon in these situations. {Es|pron|it}’s {nicht|adv|not} just a case of flight-{oder|conj|or}-fight responses. {Dort|adv|there}’s a third, equally common response when {wir|pron|we}’re under attack—{wir|pron|we} freeze.”
+
+“{Ich|pron|I} didn’t freeze.”
+
+“No?”
+
+“No.” {Sie|pron|she} shot me a fierce look. “{Ich|pron|I} was preparing myself. {Ich|pron|I} was getting ready … ready to fight. Ready to—kill him.”
+
+“{Ich|pron|I} {sehen|verb|see}. {Und|conj|and} how did {du|pron|you} intend to do {dass|conj|that}?”
+
+“Gabriel’s gun. {Ich|pron|I} knew {Ich|pron|I} had to get to the gun.”
+
+“{Es|pron|it} was in the kitchen? {Du|pron|you} had put {es|pron|it} {dort|adv|there}? {Dass|conj|that}’s what {du|pron|you} wrote in the diary.”
+
+Alicia nodded. “Yes, in the cupboard by the window.” {Sie|pron|she} inhaled deeply {und|conj|and} blew out a long line of smoke. “{Ich|pron|I} told him {Ich|pron|I} {brauchen|verb|need|Ich brauche Zeit. — I need time.} some water. {Ich|pron|I} went to get a glass. {Ich|pron|I} walked across the kitchen—{es|pron|it} took forever to walk a few feet. Step by step, {Ich|pron|I} reached the cupboard. {Mein|pron|my} hand was shaking.… {Ich|pron|I} {öffnen|verb|open|Öffne die Tür. — Open the door.} {es|pron|it}.…”
+
+“{Und|conj|and}?”
+
+“The cupboard was {leer|adj|empty|Das Glas ist leer. — The glass is empty.}. The gun was gone. {Und|conj|and} {dann|adv|then} {Ich|pron|I} heard him {sagen|verb|say}, ‘The glasses are in the cupboard to {dein|pron|your} {richtig|adj|right}.’ {Ich|pron|I} turned around, {und|conj|and} the gun was {dort|adv|there}—in {sein|pron|his} hand. {Er|pron|he} was pointing {es|pron|it} at me, {und|conj|and} laughing.”
+
+“{Und|conj|and} {dann|adv|then}?”
+
+“{Dann|adv|then}?”
+
+“What were {du|pron|you} thinking?”
+
+“{Dass|conj|that} {es|pron|it} had been {mein|pron|my} last chance to escape, {und|conj|and} {jetzt|adv|now}—{jetzt|adv|now} {er|pron|he} was {gehen|verb|go} to kill me.”
+
+“{Du|pron|you} {glauben|verb|believe|Ich glaube dir. — I believe you.} {er|pron|he} was {gehen|verb|go} to kill {du|pron|you}?”
+
+“{Ich|pron|I} knew {er|pron|he} was.”
+
+“{Aber|conj|but} {dann|adv|then} why did {er|pron|he} delay? Why {nicht|adv|not} do {es|pron|it} as soon as {er|pron|he} broke into the house?”
+
+Alicia didn’t answer. {Ich|pron|I} glanced at her. To {mein|pron|my} surprise, a smile was on her lips.
+
+“When {Ich|pron|I} was {jung|adj|young|Ein junger Mann. — A young man.}, Aunt Lydia had a kitten. A tabby cat. {Ich|pron|I} didn’t like her much. {Sie|pron|she} was wild, {und|conj|and} {sie|pron|she}’d {gehen|verb|go} for me {manchmal|adv|sometimes|Manchmal ist es schwer. — Sometimes it's hard.} with her claws. {Sie|pron|she} was unkind—{und|conj|and} cruel.”
+
+“Don’t animals act out of instinct? Can {sie|pron|they} be cruel?”
+
+Alicia looked at me intently. “{Sie|pron|they} can be cruel. {Sie|pron|she} was. {Sie|pron|she} would bring in things from the field—mice {oder|conj|or} little birds {sie|pron|she}’d caught. {Und|conj|and} {sie|pron|they} were {immer|adv|always} half-alive. Wounded, {aber|conj|but} alive. {Sie|pron|she}’d keep them like {dass|conj|that} {und|conj|and} {spielen|verb|play|Kinder spielen gern. — Children like to play.} with them.”
+
+“{Ich|pron|I} {sehen|verb|see}. {Es|pron|it} sounds like {du|pron|you}’re {sagen|verb|say} {du|pron|you} were {dies|pron|this} man’s prey? {Dass|conj|that} {er|pron|he} was {spielen|verb|play|Kinder spielen gern. — Children like to play.} some kind of sadistic game with {du|pron|you}. Is {dass|conj|that} {richtig|adj|right}?”
+
+Alicia dropped the end of her cigarette on the ground {und|conj|and} stepped on {es|pron|it}. “{Geben|verb|give|Gib mir das. — Give me that.} me another one.”
+
+{Ich|pron|I} handed her the pack. {Sie|pron|she} took one {und|conj|and} lit the cigarette herself. {Sie|pron|she} smoked for a moment. “Gabriel was {kommen|verb|come|Sie kommen morgen. — They come tomorrow.} home at eight. Two more hours. {Ich|pron|I} kept staring at the clock. ‘What’s the matter?’ {er|pron|he} said. ‘Don’t {du|pron|you} like spending time with me?’ {Und|conj|and} {er|pron|he} stroked {mein|pron|my} skin with the gun, running {es|pron|it} up {und|conj|and} down {mein|pron|my} arm.” {Sie|pron|she} shivered at the memory. “{Ich|pron|I} said Gabriel was {gehen|verb|go} to be home any minute. ‘{Und|conj|and} what {dann|adv|then}?’ {er|pron|he} {fragen|verb|ask|Darf ich fragen? — May I ask?}. ‘{Er|pron|he}’ll rescue {du|pron|you}?’”
+
+“{Und|conj|and} what did {du|pron|you} {sagen|verb|say}?”
+
+“{Ich|pron|I} didn’t {sagen|verb|say} anything. {Ich|pron|I} just kept staring at the clock … {und|conj|and} {dann|adv|then} {mein|pron|my} phone rang. {Es|pron|it} was Gabriel. {Er|pron|he} told me to answer {es|pron|it}. {Er|pron|he} held the gun against {mein|pron|my} head.”
+
+“{Und|conj|and}? What did Gabriel {sagen|verb|say}?”
+
+“{Er|pron|he} said … {er|pron|he} said the shoot was turning into a nightmare, {also|conj|so} {Ich|pron|I} should {gehen|verb|go} ahead {und|conj|and} {essen|verb|eat|Wir essen zusammen. — We eat together.} without him. {Er|pron|he} wouldn’t get back until ten at the earliest. {Ich|pron|I} hung up. ‘{Mein|pron|my} husband is on {sein|pron|his} way home,’ {Ich|pron|I} said. ‘{Er|pron|he}’ll be {hier|adv|here} in a few minutes. {Du|pron|you} should {gehen|verb|go}, {jetzt|adv|now}, before {er|pron|he} gets back.’ The man just laughed. ‘{Aber|conj|but} {Ich|pron|I} heard him {sagen|verb|say} {er|pron|he} won’t be back until ten,’ {er|pron|he} said. ‘{Wir|pron|we}’ve got hours to kill. Get me some rope,’ {er|pron|he} said, ‘{oder|conj|or} tape {oder|conj|or} {etwas|pron|something}. {Ich|pron|I} want to tie {du|pron|you} up.’
+
+“{Ich|pron|I} did as {er|pron|he} {fragen|verb|ask|Darf ich fragen? — May I ask?}. {Ich|pron|I} knew {es|pron|it} was hopeless {jetzt|adv|now}. {Ich|pron|I} knew how {es|pron|it} was {gehen|verb|go} to end.”
+
+Alicia stopped talking {und|conj|and} looked at me. {Ich|pron|I} could {sehen|verb|see} the raw emotion in her eyes. {Ich|pron|I} wondered {wenn|conj|if} {Ich|pron|I} was pushing her too hard.
+
+“{Vielleicht|adv|maybe|Vielleicht morgen. — Maybe tomorrow.} {wir|pron|we} should {nehmen|verb|take|Nimm das. — Take that.} a break.”
+
+“No, {Ich|pron|I} {brauchen|verb|need|Ich brauche Zeit. — I need time.} to finish. {Ich|pron|I} {brauchen|verb|need|Ich brauche Zeit. — I need time.} to do {dies|pron|this}.”
+
+{Sie|pron|she} went on, speaking faster {jetzt|adv|now}. “{Ich|pron|I} didn’t have any rope, {also|conj|so} {er|pron|he} took the wire {Ich|pron|I} had for hanging canvases. {Er|pron|he} made me {gehen|verb|go} in the living room. {Er|pron|he} pulled out one of the upright chairs from the dining table. {Er|pron|he} told me to sit down. {Er|pron|he} started wrapping the wire around {mein|pron|my} ankles, tying me to the chair. {Ich|pron|I} could feel {es|pron|it} cutting into me. ‘Please,’ {Ich|pron|I} said, ‘please—’ {Aber|conj|but} {er|pron|he} didn’t listen. {Er|pron|he} tied {mein|pron|my} wrists behind {mein|pron|my} back. {Ich|pron|I} was sure {dann|adv|then} {dass|conj|that} {er|pron|he} was {gehen|verb|go} to kill me. {Ich|pron|I} wish … {Ich|pron|I} wish {er|pron|he} had.”
+
+{Sie|pron|she} spat {dies|pron|this} out. {Ich|pron|I} was startled by her vehemence. “Why do {du|pron|you} wish {dass|conj|that}?”
+
+“{Weil|conj|because} what {er|pron|he} did was worse.”
+
+For a second {Ich|pron|I} thought Alicia was {gehen|verb|go} to cry. {Ich|pron|I} fought a sudden desire to hold her, {nehmen|verb|take|Nimm das. — Take that.} her in {mein|pron|my} arms, kiss her, reassure her, promise her {sie|pron|she} was {sicher|adj|safe|Das ist sicher. — That is safe.}. {Ich|pron|I} restrained myself. {Ich|pron|I} stubbed out {mein|pron|my} cigarette on the redbrick wall.
+
+“{Ich|pron|I} feel {dass|conj|that} {du|pron|you} {brauchen|verb|need|Ich brauche Zeit. — I need time.} to be taken care of. {Ich|pron|I} {finden|verb|find|Ich finde es. — I find it.} myself wanting to {nehmen|verb|take|Nimm das. — Take that.} care of {du|pron|you}, Alicia.”
+
+“No.” {Sie|pron|she} shook her head firmly. “{Dass|conj|that}’s {nicht|adv|not} what {Ich|pron|I} want from {du|pron|you}.”
+
+“What do {du|pron|you} want?”
+
+Alicia didn’t answer. {Sie|pron|she} turned {und|conj|and} walked back inside.
 
 ---
 
@@ -18,5 +138,5 @@ kept staring at the clock. ‘What’s the matter?’ {er|pron|he} said. ‘Don�
 
 | English | German | Type |
 |---------|--------|------|
-| only just | gerade | adv |
-| stand | stehen | verb |
+| play | spielen | verb |
+| eat | essen | verb |
