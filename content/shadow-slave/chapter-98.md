@@ -165,3 +165,11 @@ The tall {Mann|masc|man} grinned, still looking Sunny {in|prep|in} the {Auge|neu
 “Do {du|pron|you} really {denken|verb|think} that {ich|pron|I} would {fallen|verb|fall} for…”
 
 However, before {er|pron|he} was done talking, the {Klinge|fem|blade} of the kunai hit him {von|prep|from} behind, penetrating the back of the {Mann|masc|man}’s skull {und|conj|and} {töten|verb|kill} him on the spot.
+
+---
+
+## New Words This Chapter
+
+| English | German | Type |
+|---------|--------|------|
+| situation | Situation | fem noun |

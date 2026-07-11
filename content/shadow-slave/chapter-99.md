@@ -87,3 +87,12 @@ Some {Zeit|fem|time} later, as the echoes of screams began to fade away, {er|pro
 Making sure that {nicht|adv|not} one of the pursuers got away {lebendig|adj|alive}, Sunny frowned {und|conj|and} shook his {Kopf|masc|head}.
 
 ‘Six people… their disappearance won’t go unnoticed. Especially if {sie|pron|she/they} were really up to no good. Huh… why do {ich|pron|I} feel like {ich|pron|I} had just gotten myself {in|prep|in} trouble?’
+
+---
+
+## New Words This Chapter
+
+| English | German | Type |
+|---------|--------|------|
+| building | Gebäude | neut noun |
+| floor | Boden | masc noun |

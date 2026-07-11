@@ -121,3 +121,12 @@ He had {auch|adv|also} been much more prone to ending up bloodied {und|conj|and}
 ‘Ah, {du|pron|you} idiot. {du|pron|you} just had to go {und|conj|and} {denken|verb|think} that out loud, huh?’
 
 Just as he finished that thought, a distant sound of footsteps reached his ears.
+
+---
+
+## New Words This Chapter
+
+| English | German | Type |
+|---------|--------|------|
+| interesting | interessant | adj |
+| street | Straße | fem noun |

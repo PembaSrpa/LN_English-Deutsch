@@ -73,3 +73,12 @@ Perhaps {es|pron|it} was {Zeit|fem|time} to visit the {Burg|fem|castle} again {u
 Of all the Sleepers {in|prep|in} the {Burg|fem|castle}, only three people knew that {er|pron|he} was {nicht|adv|not} just {gut|adj|good} at hiding {in|prep|in} the {Schatten|masc|shadow} {und|conj|and} avoiding danger. {sie|pron|she/they} were Nephis, Cassie… {und|conj|and} Caster.
 
 That damn bastard…
+
+---
+
+## New Words This Chapter
+
+| English | German | Type |
+|---------|--------|------|
+| bottle | Flasche | fem noun |
+| glass | Glas | neut noun |
