@@ -11,6 +11,17 @@ export type Novel = {
 }
 
 const novels: Novel[] = [
+    {
+    id: 'the-greatest-estate-developer',
+    title: 'The Greatest Estate Developer',
+    author: 'Yoo Ryeo Han',
+    description: 'A washed-up architect gets a second chance in a fantasy world, building an empire one estate at a time.',
+    genre: ['Fantasy', 'Romance', 'Reincarnation', 'Slice of Life', 'IELTS'],
+    coverImage: '/covers/the-greatest-estate-developer.jpg',
+    totalChapters: 408,
+    contentFolder: 'the-greatest-estate-developer',
+    type: 'md',
+  },
   {
     id: 'ugly-duckling',
     title: 'The Ugly Duckling',
@@ -75,17 +86,6 @@ const novels: Novel[] = [
     coverImage: '/covers/a1-glossary.png',
     totalChapters: 2,
     contentFolder: 'a1-glossary',
-    type: 'md',
-  },
-  {
-    id: 'the-greatest-estate-developer',
-    title: 'The Greatest Estate Developer',
-    author: 'Yoo Ryeo Han',
-    description: 'A washed-up architect gets a second chance in a fantasy world, building an empire one estate at a time.',
-    genre: ['Fantasy', 'Romance', 'Reincarnation', 'Slice of Life', 'IELTS'],
-    coverImage: '/covers/the-greatest-estate-developer.jpg',
-    totalChapters: 408,
-    contentFolder: 'the-greatest-estate-developer',
     type: 'md',
   },
 ]
