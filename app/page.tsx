@@ -2,6 +2,7 @@ import Link from 'next/link'
 import novels from '@/novels.config'
 import { getChapterList } from '@/lib/getChapters'
 import { ContinueReading } from '@/components/ContinueReading'
+import { ContinueToBookmark } from '@/components/ContinueToBookmark'
 import { HomeHeader } from '@/components/HomeHeader'
 
 export default function HomePage() {
@@ -21,6 +22,7 @@ export default function HomePage() {
         </div>
 
         <ContinueReading novels={novels} />
+        <ContinueToBookmark />
 
         <div className="text-[0.625rem] uppercase tracking-[0.12em] text-neutral-400 mb-3 px-1">Library</div>
         <div className="grid grid-cols-2 md:grid-cols-3 gap-3">
@@ -46,9 +48,9 @@ export default function HomePage() {
                     <span className="text-neutral-400 text-4xl font-bold">{novel.title.slice(0, 1)}</span>
                   </div>
                 )}
-                {novel.id === 'ugly-duckling' && (
+                {(novel.genre.includes('Demo') || novel.genre.includes('IELTS')) && (
                   <span className="absolute top-2 right-2 text-[0.5625rem] bg-neutral-900/80 text-white px-1.5 py-0.5 rounded-full font-bold uppercase tracking-wider z-10">
-                    Demo
+                    {novel.genre.includes('Demo') ? 'Demo' : 'IELTS'}
                   </span>
                 )}
               </div>

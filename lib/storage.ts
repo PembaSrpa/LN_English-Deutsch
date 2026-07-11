@@ -24,95 +24,33 @@ export function getLastUpdated(novelId: string): number {
   return val ? parseInt(val, 10) : 0
 }
 
-export function getBookmarks(novelId: string): number[] {
-  if (typeof window === 'undefined') return []
-  const val = localStorage.getItem(`${PREFIX}:bookmarks:${novelId}`)
-  return val ? (JSON.parse(val) as number[]) : []
-}
-
-export function toggleBookmark(novelId: string, chapter: number): boolean {
-  const current = getBookmarks(novelId)
-  const exists = current.includes(chapter)
-  const updated = exists ? current.filter((c) => c !== chapter) : [...current, chapter]
-  localStorage.setItem(`${PREFIX}:bookmarks:${novelId}`, JSON.stringify(updated))
-  return !exists
-}
-
-export function isBookmarked(novelId: string, chapter: number): boolean {
-  return getBookmarks(novelId).includes(chapter)
-}
-
-export type SavedWord = {
-  id: string
-  word: string
-  type: string
-  translation: string
-  example: string
+// A single, app-wide bookmark pointing at one exact word in one exact chapter.
+// Picking a new word always replaces whatever was bookmarked before — there's
+// only ever one of these at a time. `wordIndex` is the word's sequential
+// position within the chapter's rendered token stream (see ChapterRenderer),
+// which is what lets us find and highlight the exact same word again later,
+// even for plain, un-annotated text where many words share the same text.
+export type WordBookmark = {
   novelId: string
   novelTitle: string
   chapter: number
+  wordIndex: number
+  wordText: string
   savedAt: number
 }
 
-function wordId(novelId: string, chapter: number, word: string): string {
-  return `${novelId}:${chapter}:${word.trim().toLowerCase()}`
-}
-
-export function getSavedWords(): SavedWord[] {
-  if (typeof window === 'undefined') return []
-  const val = localStorage.getItem(`${PREFIX}:savedWords`)
-  return val ? (JSON.parse(val) as SavedWord[]) : []
-}
-
-export function isWordSaved(novelId: string, chapter: number, word: string): boolean {
-  const id = wordId(novelId, chapter, word)
-  return getSavedWords().some((w) => w.id === id)
-}
-
-export function saveWord(entry: Omit<SavedWord, 'id' | 'savedAt'>): void {
-  if (typeof window === 'undefined') return
-  const id = wordId(entry.novelId, entry.chapter, entry.word)
-  const current = getSavedWords()
-  if (current.some((w) => w.id === id)) return
-  const updated = [...current, { ...entry, id, savedAt: Date.now() }]
-  localStorage.setItem(`${PREFIX}:savedWords`, JSON.stringify(updated))
-}
-
-export function removeSavedWord(novelId: string, chapter: number, word: string): void {
-  if (typeof window === 'undefined') return
-  const id = wordId(novelId, chapter, word)
-  const updated = getSavedWords().filter((w) => w.id !== id)
-  localStorage.setItem(`${PREFIX}:savedWords`, JSON.stringify(updated))
-}
-
-export function toggleSavedWord(entry: Omit<SavedWord, 'id' | 'savedAt'>): boolean {
-  const saved = isWordSaved(entry.novelId, entry.chapter, entry.word)
-  if (saved) {
-    removeSavedWord(entry.novelId, entry.chapter, entry.word)
-    return false
-  } else {
-    saveWord(entry)
-    return true
-  }
-}
-
-export type ClipPosition = { x: number; y: number }
-
-// Full persisted state of the clip button: whether clip mode is armed, and
-// where the button currently sits. `x`/`y` are in the coordinate space that
-// matches `active` — document coords while active, viewport coords while idle.
-export type ClipState = { active: boolean; x: number; y: number }
-
-export function getClipState(): ClipState | null {
+export function getWordBookmark(): WordBookmark | null {
   if (typeof window === 'undefined') return null
-  const val = localStorage.getItem(`${PREFIX}:clipState`)
-  if (val) return JSON.parse(val) as ClipState
-  // Fall back to the legacy idle-only key so existing users don't lose their spot.
-  const legacy = localStorage.getItem(`${PREFIX}:clipPos`)
-  return legacy ? { active: false, ...(JSON.parse(legacy) as ClipPosition) } : null
+  const val = localStorage.getItem(`${PREFIX}:wordBookmark`)
+  return val ? (JSON.parse(val) as WordBookmark) : null
 }
 
-export function setClipState(state: ClipState): void {
+export function setWordBookmark(bookmark: WordBookmark): void {
   if (typeof window === 'undefined') return
-  localStorage.setItem(`${PREFIX}:clipState`, JSON.stringify(state))
+  localStorage.setItem(`${PREFIX}:wordBookmark`, JSON.stringify(bookmark))
+}
+
+export function clearWordBookmark(): void {
+  if (typeof window === 'undefined') return
+  localStorage.removeItem(`${PREFIX}:wordBookmark`)
 }

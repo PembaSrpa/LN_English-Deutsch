@@ -82,19 +82,62 @@ function GenderedCell({ text }: { text: string }) {
   return <><span className={`da-${match.style.id} font-semibold`}>{article}</span>{rest}</>
 }
 
-function Tokens({ tokens, novelId, novelTitle, chapter }: { tokens: Token[]; novelId: string; novelTitle: string; chapter: number }) {
+// Shared counter object threaded through a single chapter render so every
+// word — plain or annotated — gets a stable, sequential index. Because it's
+// a fresh plain object created once per ChapterRenderer call and consumed
+// synchronously in document order, the same chapter content always produces
+// the same indices, which is what lets a bookmarked word be found again.
+type WordCounter = { current: number }
+
+function Tokens({
+  tokens, novelId, novelTitle, chapter, counter,
+}: {
+  tokens: Token[]
+  novelId: string
+  novelTitle: string
+  chapter: number
+  counter: WordCounter
+}) {
   return (
     <>
-      {tokens.map((t, i) =>
-        t.kind === 'text'
-          ? <span key={i}>{t.value}</span>
-          : <GermanWord key={i} data={t.data} novelId={novelId} novelTitle={novelTitle} chapter={chapter} />
-      )}
+      {tokens.map((t, i) => {
+        if (t.kind === 'annotated') {
+          const wordIndex = counter.current++
+          return (
+            <GermanWord
+              key={i}
+              data={t.data}
+              novelId={novelId}
+              novelTitle={novelTitle}
+              chapter={chapter}
+              wordIndex={wordIndex}
+            />
+          )
+        }
+        // Split plain text into words + whitespace so every word (even in
+        // un-annotated novels) can be individually bookmarked.
+        const parts = t.value.split(/(\s+)/)
+        return (
+          <span key={i}>
+            {parts.map((part, j) => {
+              if (part === '') return null
+              if (/^\s+$/.test(part)) return part
+              const wordIndex = counter.current++
+              return (
+                <span key={j} data-word-index={wordIndex} data-word-text={part}>
+                  {part}
+                </span>
+              )
+            })}
+          </span>
+        )
+      })}
     </>
   )
 }
 
 export function ChapterRenderer({ lines, fontSize, novelId, novelTitle, chapter }: { lines: ParsedLine[]; fontSize: number; novelId: string; novelTitle: string; chapter: number }) {
+  const counter: WordCounter = { current: 0 }
   return (
     <div style={{ fontSize }} className="font-mono">
       <style>{STYLE_CSS}</style>
@@ -105,17 +148,17 @@ export function ChapterRenderer({ lines, fontSize, novelId, novelTitle, chapter 
         if (line.kind === 'heading') {
           if (line.level === 1) return (
             <h1 key={i} className="text-xl font-bold text-neutral-100 mb-5 mt-2">
-              <Tokens tokens={line.tokens} novelId={novelId} novelTitle={novelTitle} chapter={chapter} />
+              <Tokens tokens={line.tokens} novelId={novelId} novelTitle={novelTitle} chapter={chapter} counter={counter} />
             </h1>
           )
           if (line.level === 2) return (
             <h2 key={i} className="text-base font-semibold text-neutral-200 mb-3 mt-8 pb-2 border-b border-neutral-600">
-              <Tokens tokens={line.tokens} novelId={novelId} novelTitle={novelTitle} chapter={chapter} />
+              <Tokens tokens={line.tokens} novelId={novelId} novelTitle={novelTitle} chapter={chapter} counter={counter} />
             </h2>
           )
           return (
             <h3 key={i} className="text-sm font-semibold text-neutral-200 mb-2 mt-4">
-              <Tokens tokens={line.tokens} novelId={novelId} novelTitle={novelTitle} chapter={chapter} />
+              <Tokens tokens={line.tokens} novelId={novelId} novelTitle={novelTitle} chapter={chapter} counter={counter} />
             </h3>
           )
         }
@@ -149,7 +192,7 @@ export function ChapterRenderer({ lines, fontSize, novelId, novelTitle, chapter 
 
         return (
           <p key={i} className="leading-[1.95] text-neutral-200 mb-4 text-[0.9375rem] md:text-[0.75rem]">
-            <Tokens tokens={line.tokens} novelId={novelId} novelTitle={novelTitle} chapter={chapter} />
+            <Tokens tokens={line.tokens} novelId={novelId} novelTitle={novelTitle} chapter={chapter} counter={counter} />
           </p>
         )
       })}

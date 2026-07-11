@@ -22,3 +22,16 @@
   * { -webkit-tap-highlight-color: transparent; box-sizing: border-box; }
   body { font-family: var(--font-mono); }
 }
+
+/* Word-bookmark "select mode": pencil cursor over the reading area on desktop. */
+.word-select-mode,
+.word-select-mode [data-word-index] {
+  cursor: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScyNCcgaGVpZ2h0PScyNCcgdmlld0JveD0nMCAwIDI0IDI0JyBmaWxsPSdub25lJyBzdHJva2U9JyNmYmJmMjQnIHN0cm9rZS13aWR0aD0nMicgc3Ryb2tlLWxpbmVjYXA9J3JvdW5kJyBzdHJva2UtbGluZWpvaW49J3JvdW5kJz48cGF0aCBkPSdNNCAyMGg0TDE4LjUgOS41YTIuMTIxIDIuMTIxIDAgMCAwLTMtM0w1IDE3djN6Jy8+PHBhdGggZD0nTTEzLjUgNi41bDMgMycvPjwvc3ZnPg==") 4 22, text;
+}
+
+/* The single, currently-bookmarked word — shown wherever it appears. */
+.word-bookmarked {
+  background: rgba(251, 191, 36, 0.32);
+  border-radius: 3px;
+  box-shadow: 0 0 0 2px rgba(251, 191, 36, 0.55);
+}
