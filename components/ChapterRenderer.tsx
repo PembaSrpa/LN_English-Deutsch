@@ -136,10 +136,10 @@ function Tokens({
   )
 }
 
-export function ChapterRenderer({ lines, fontSize, novelId, novelTitle, chapter }: { lines: ParsedLine[]; fontSize: number; novelId: string; novelTitle: string; chapter: number }) {
+export function ChapterRenderer({ lines, fontSize, fontFamily, novelId, novelTitle, chapter }: { lines: ParsedLine[]; fontSize: number; fontFamily?: string; novelId: string; novelTitle: string; chapter: number }) {
   const counter: WordCounter = { current: 0 }
   return (
-    <div style={{ fontSize }} className="font-mono">
+    <div style={{ fontSize, fontFamily }}>
       <style>{STYLE_CSS}</style>
 
       {lines.map((line, i) => {
@@ -147,17 +147,17 @@ export function ChapterRenderer({ lines, fontSize, novelId, novelTitle, chapter 
 
         if (line.kind === 'heading') {
           if (line.level === 1) return (
-            <h1 key={i} className="text-xl font-bold text-neutral-100 mb-5 mt-2">
+            <h1 key={i} className="text-[1.4em] font-bold text-neutral-100 mb-5 mt-2">
               <Tokens tokens={line.tokens} novelId={novelId} novelTitle={novelTitle} chapter={chapter} counter={counter} />
             </h1>
           )
           if (line.level === 2) return (
-            <h2 key={i} className="text-base font-semibold text-neutral-200 mb-3 mt-8 pb-2 border-b border-neutral-600">
+            <h2 key={i} className="text-[1.1em] font-semibold text-neutral-200 mb-3 mt-8 pb-2 border-b border-neutral-600">
               <Tokens tokens={line.tokens} novelId={novelId} novelTitle={novelTitle} chapter={chapter} counter={counter} />
             </h2>
           )
           return (
-            <h3 key={i} className="text-sm font-semibold text-neutral-200 mb-2 mt-4">
+            <h3 key={i} className="text-[1em] font-semibold text-neutral-200 mb-2 mt-4">
               <Tokens tokens={line.tokens} novelId={novelId} novelTitle={novelTitle} chapter={chapter} counter={counter} />
             </h3>
           )
@@ -165,11 +165,11 @@ export function ChapterRenderer({ lines, fontSize, novelId, novelTitle, chapter 
 
         if (line.kind === 'table') return (
           <div key={i} className="my-6 overflow-x-auto rounded-xl border border-neutral-600">
-            <table className="w-full text-xs border-collapse">
+            <table className="w-full text-[0.8em] border-collapse">
               <thead className="bg-neutral-750">
                 <tr>
                   {line.headers.map((h, j) => (
-                    <th key={j} className="text-left py-2 px-3 font-semibold text-neutral-300 uppercase tracking-wider text-[0.625rem]">
+                    <th key={j} className="text-left py-2 px-3 font-semibold text-neutral-300 uppercase tracking-wider text-[0.8em]">
                       {h}
                     </th>
                   ))}
@@ -191,7 +191,7 @@ export function ChapterRenderer({ lines, fontSize, novelId, novelTitle, chapter 
         )
 
         return (
-          <p key={i} className="leading-[1.95] text-neutral-200 mb-4 text-[0.9375rem] md:text-[0.75rem]">
+          <p key={i} className="leading-[1.95] text-neutral-200 mb-4 text-[1em]">
             <Tokens tokens={line.tokens} novelId={novelId} novelTitle={novelTitle} chapter={chapter} counter={counter} />
           </p>
         )

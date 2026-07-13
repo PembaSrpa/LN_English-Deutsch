@@ -1,5 +1,6 @@
 'use client'
 import { motion } from 'motion/react'
+import { SettingsPanel } from './SettingsPanel'
 
 export function HomeHeader() {
   return (
@@ -10,6 +11,7 @@ export function HomeHeader() {
             Arttfolio
           </a>
         </motion.div>
+        <SettingsPanel />
       </div>
     </header>
   )

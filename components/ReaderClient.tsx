@@ -1,12 +1,15 @@
 'use client'
-import { useEffect, useState, useCallback, useRef } from 'react'
+import { useEffect, useCallback, useRef } from 'react'
 import Link from 'next/link'
 import { motion } from 'motion/react'
 import { ChapterRenderer } from './ChapterRenderer'
 import { WordBookmarkToggle } from './WordBookmarkToggle'
+import { SettingsPanel } from './SettingsPanel'
 import { ProgressTracker } from './ProgressTracker'
 import { WordBookmarkProvider, useWordBookmark } from './WordBookmarkContext'
+import { useSettings } from './SettingsContext'
 import { IconArrowLeft, IconArrowRight } from '@tabler/icons-react'
+import { FONT_STACKS } from '@/lib/settings'
 import type { ParsedLine } from '@/lib/parseChapter'
 
 type Props = {
@@ -61,8 +64,7 @@ function ChapterBookmarkLayer({
 }
 
 export function ReaderClient({ novelId, novelTitle, chapterNum, availableChapters, lines }: Props) {
-  const [fontSize, setFontSize] = useState(15)
-  useEffect(() => { setFontSize(window.innerWidth < 768 ? 13 : 15) }, [])
+  const { fontSize, fontFamily } = useSettings()
 
   const prevNum = chapterNum > 1 ? chapterNum - 1 : null
   const nextNum = chapterNum < availableChapters ? chapterNum + 1 : null
@@ -80,13 +82,16 @@ export function ReaderClient({ novelId, novelTitle, chapterNum, availableChapter
                 <span className="truncate max-w-[160px]">{novelTitle}</span>
               </Link>
             </motion.div>
-            <WordBookmarkToggle novelId={novelId} chapter={chapterNum} />
+            <div className="flex items-center gap-1">
+              <WordBookmarkToggle novelId={novelId} chapter={chapterNum} />
+              <SettingsPanel />
+            </div>
           </div>
         </header>
 
         <main className="flex-1 px-[calc(1.25rem+8px)] md:px-[calc(2.5rem+16px)] py-8">
           <ChapterBookmarkLayer novelId={novelId} novelTitle={novelTitle} chapterNum={chapterNum}>
-            <ChapterRenderer lines={lines} fontSize={fontSize} novelId={novelId} novelTitle={novelTitle} chapter={chapterNum} />
+            <ChapterRenderer lines={lines} fontSize={fontSize} fontFamily={FONT_STACKS[fontFamily]} novelId={novelId} novelTitle={novelTitle} chapter={chapterNum} />
           </ChapterBookmarkLayer>
         </main>
 
