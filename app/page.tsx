@@ -47,7 +47,7 @@ export default function HomePage() {
                   </div>
                 )}
                 {(novel.genre.includes('Demo') || novel.genre.includes('IELTS')) && (
-                  <span className="absolute top-2 right-2 text-[0.5625rem] bg-neutral-900/80 text-white px-1.5 py-0.5 rounded-full font-bold uppercase tracking-wider z-10">
+                  <span className="absolute top-2 right-2 text-[0.5625rem] bg-black/70 text-white px-1.5 py-0.5 rounded-full font-bold uppercase tracking-wider z-10">
                     {novel.genre.includes('Demo') ? 'Demo' : 'IELTS'}
                   </span>
                 )}

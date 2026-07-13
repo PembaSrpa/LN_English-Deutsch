@@ -77,7 +77,7 @@ export function ReaderClient({ novelId, novelTitle, chapterNum, availableChapter
         <header className="sticky top-0 z-40 bg-neutral-750 backdrop-blur border-b border-neutral-600">
           <div className="flex items-center justify-between px-[calc(1.25rem+8px)] md:px-[calc(2.5rem+16px)] py-2">
             <motion.div whileHover={{ scale: 1.05 }} transition={{ type: 'spring', stiffness: 400, damping: 20 }}>
-              <Link href={`/${novelId}`} className="flex items-center gap-1.5 text-xs text-neutral-100 font-medium hover:text-white transition-colors">
+              <Link href={`/${novelId}`} className="flex items-center gap-1.5 text-xs text-neutral-100 font-medium hover:text-[var(--n-emphasis)] transition-colors">
                 <IconArrowLeft size={14} />
                 <span className="truncate max-w-[160px]">{novelTitle}</span>
               </Link>
@@ -99,7 +99,7 @@ export function ReaderClient({ novelId, novelTitle, chapterNum, availableChapter
           <div className="flex items-center justify-between px-[calc(1.25rem+8px)] md:px-[calc(2.5rem+16px)] py-3">
             {prevNum ? (
               <motion.div whileHover={{ scale: 1.05 }} transition={{ type: 'spring', stiffness: 400, damping: 20 }}>
-                <Link href={`/${novelId}/${prevNum}`} className="flex items-center gap-1.5 text-xs text-neutral-100 font-medium hover:text-white transition-colors">
+                <Link href={`/${novelId}/${prevNum}`} className="flex items-center gap-1.5 text-xs text-neutral-100 font-medium hover:text-[var(--n-emphasis)] transition-colors">
                   <IconArrowLeft size={13} /> Prev
                 </Link>
               </motion.div>
@@ -107,7 +107,7 @@ export function ReaderClient({ novelId, novelTitle, chapterNum, availableChapter
             <span className="text-[0.6875rem] text-neutral-400 tabular-nums">Ch. {chapterNum}</span>
             {nextNum ? (
               <motion.div whileHover={{ scale: 1.05 }} transition={{ type: 'spring', stiffness: 400, damping: 20 }}>
-                <Link href={`/${novelId}/${nextNum}`} className="flex items-center gap-1.5 text-xs text-neutral-100 font-medium hover:text-white transition-colors">
+                <Link href={`/${novelId}/${nextNum}`} className="flex items-center gap-1.5 text-xs text-neutral-100 font-medium hover:text-[var(--n-emphasis)] transition-colors">
                   Next <IconArrowRight size={13} />
                 </Link>
               </motion.div>

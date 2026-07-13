@@ -10,7 +10,8 @@
 
 @layer base {
   :root {
-    --pattern-fg: rgba(255, 255, 255, 0.05);
+    --pattern-fg: rgba(255, 255, 255, 0.08);
+    --n-emphasis: #ffffff;
 
     --n100: #f5f5f5;
     --n200: #e5e5e5;
@@ -27,6 +28,9 @@
     --reading-font-family: var(--font-mono), ui-monospace, monospace;
   }
   html.light {
+    --pattern-fg: rgba(0, 0, 0, 0.08);
+    --n-emphasis: #000000;
+
     --n100: #18181b;
     --n200: #3f3f46;
     --n300: #52525b;
