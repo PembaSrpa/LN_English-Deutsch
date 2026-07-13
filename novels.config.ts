@@ -44,17 +44,6 @@ const novels: Novel[] = [
     contentFolder: 'ugly-duckling',
     type: 'md',
   },
-  // {
-  // id: 'learn-how-to-meow',
-  // title: 'Meow ?',
-  // author: 'Pemba',
-  // description: 'meow meow meow.',
-  // genre: ['Cat'],
-  // coverImage: '/covers/meow.jpg',
-  // totalChapters: 7,
-  // contentFolder: 'learn-how-to-meow',
-  // type: 'md',
-  // },
   {
     id: 'shadow-slave',
     title: 'Shadow Slave',
