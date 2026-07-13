@@ -22,6 +22,17 @@ const novels: Novel[] = [
     contentFolder: 'the-greatest-estate-developer',
     type: 'md',
   },
+{
+    id: 'white-nights',
+    title: 'White Nights',
+    author: 'Fyodor Dostoevsky',
+    description: 'A lonely dreamer falls for a young woman over four nights in Petersburg.',
+    genre: ['Classic', 'Fiction', 'IELTS'],
+    coverImage: '/covers/white-nights.jpg',
+    totalChapters: 5,
+    contentFolder: 'white-nights',
+    type: 'md',
+},
   {
     id: 'ugly-duckling',
     title: 'The Ugly Duckling',
