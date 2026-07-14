@@ -1,3 +1,7 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = { turbopack: {} }
+const nextConfig = {
+  output: 'export',
+  images: { unoptimized: true },
+  trailingSlash: true,
+}
 module.exports = nextConfig

@@ -1,8 +1,16 @@
 import { notFound } from 'next/navigation'
-import { getNovel } from '@/novels.config'
+import novels, { getNovel } from '@/novels.config'
 import { getChapterRaw, getChapterList } from '@/lib/getChapters'
 import { parseChapter } from '@/lib/parseChapter'
 import { ReaderClient } from '@/components/ReaderClient'
+
+export function generateStaticParams() {
+  return novels.flatMap(novel => {
+    if (novel.type !== 'md') return []
+    const chapters = getChapterList(novel.contentFolder)
+    return chapters.map(ch => ({ novelId: novel.id, chapterId: String(ch.id) }))
+  })
+}
 
 type Props = { params: Promise<{ novelId: string; chapterId: string }> }
 

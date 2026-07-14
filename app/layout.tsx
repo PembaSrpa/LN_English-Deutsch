@@ -2,8 +2,8 @@ import type { Metadata } from 'next'
 import { JetBrains_Mono } from 'next/font/google'
 import './globals.css'
 import { Scales } from '@/components/Scales'
-import { Analytics } from "@vercel/analytics/next"
 import { SettingsProvider } from '@/components/SettingsContext'
+import { WebOnlyAnalytics } from '@/components/WebOnlyAnalytics'
 
 const mono = JetBrains_Mono({ subsets: ['latin'], variable: '--font-mono', display: 'swap' })
 
@@ -45,7 +45,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <SettingsProvider>
           <div className="max-w-3xl md:max-w-[80%] mx-auto min-h-screen relative bg-neutral-800">
             <Scales />
-            <Analytics />
+            <WebOnlyAnalytics />
             {children}
           </div>
         </SettingsProvider>

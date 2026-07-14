@@ -1,10 +1,14 @@
 import { notFound } from 'next/navigation'
-import { getNovel } from '@/novels.config'
+import novels, { getNovel } from '@/novels.config'
 import { getChapterList } from '@/lib/getChapters'
 import { NovelPageClient } from '@/components/NovelPageClient'
 import { NovelHeader } from '@/components/NovelHeader'
 import { IconArrowLeft } from '@tabler/icons-react'
 import Link from 'next/link'
+
+export function generateStaticParams() {
+  return novels.map(novel => ({ novelId: novel.id }))
+}
 
 type Props = { params: Promise<{ novelId: string }> }
 
