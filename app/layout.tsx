@@ -4,9 +4,8 @@ import './globals.css'
 import { Scales } from '@/components/Scales'
 import { SettingsProvider } from '@/components/SettingsContext'
 import { WebOnlyAnalytics } from '@/components/WebOnlyAnalytics'
-
+import { BackButtonHandler } from '@/components/BackButtonHandler'
 const mono = JetBrains_Mono({ subsets: ['latin'], variable: '--font-mono', display: 'swap' })
-
 export const metadata: Metadata = {
   title: 'Schatten Lesen',
   description: 'Read light novels. Learn German.',
@@ -14,7 +13,6 @@ export const metadata: Metadata = {
     icon: '/favicon.ico',
   },
 }
-
 const THEME_INIT_SCRIPT = `
 (function () {
   try {
@@ -34,7 +32,6 @@ const THEME_INIT_SCRIPT = `
   } catch (e) {}
 })();
 `
-
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang={`en`} className={`${mono.variable} dark`} data-scroll-behavior="smooth" suppressHydrationWarning>
@@ -45,6 +42,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <SettingsProvider>
           <div className="max-w-3xl md:max-w-[80%] mx-auto min-h-screen relative bg-neutral-800">
             <Scales />
+            <BackButtonHandler />
             <WebOnlyAnalytics />
             {children}
           </div>
