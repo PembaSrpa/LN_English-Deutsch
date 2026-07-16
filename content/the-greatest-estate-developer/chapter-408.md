@@ -1,4 +1,4 @@
-# Extra 6: Side Story 6 (Epilogue)
+# Side Story 6 (Epilogue)
 
 ---
 

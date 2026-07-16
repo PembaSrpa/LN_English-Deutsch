@@ -1,4 +1,4 @@
-# Extra 3: Side Story 3 (Your Workaholic Majesty (2))
+# Side Story 3 (Your Workaholic Majesty (2))
 
 ---
 

@@ -1,4 +1,4 @@
-# Extra 5: Side Story 5 (Eight Years Later (2))
+# Side Story 5 (Eight Years Later (2))
 
 ---
 

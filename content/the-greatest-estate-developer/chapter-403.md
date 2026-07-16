@@ -1,4 +1,4 @@
-# Extra 1: Side Story 1 (Sir Javier Asrahan’s Wish)
+# Side Story 1 (Sir Javier Asrahan’s Wish)
 
 ---
 

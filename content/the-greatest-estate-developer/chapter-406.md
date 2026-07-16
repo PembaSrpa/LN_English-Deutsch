@@ -1,4 +1,4 @@
-# Extra 4: Side Story 4 (Eight Years Later (1))
+# Side Story 4 (Eight Years Later (1))
 
 ---
 
