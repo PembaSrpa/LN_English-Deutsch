@@ -1,4 +1,4 @@
-# Part One
+# Partizip I
 
 ---
 
