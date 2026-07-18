@@ -23,13 +23,13 @@ const FONT_OPTIONS: { value: ReaderFontFamily; label: string }[] = [
 ]
 
 const ANNOTATION_MODE_OPTIONS: { value: AnnotationMode; label: string }[] = [
-  { value: 'annotate', label: 'Annotate' },
-  { value: 'reveal', label: 'Reveal' },
+  { value: 'annotate', label: 'Annot' },
+  { value: 'reveal', label: 'Rev' },
 ]
 
 const LANGUAGE_MODE_OPTIONS: { value: LanguageMode; label: string }[] = [
-  { value: 'de', label: 'German' },
-  { value: 'en', label: 'English' },
+  { value: 'de', label: 'DE' },
+  { value: 'en', label: 'EN' },
   { value: 'both', label: 'Both' },
 ]
 
