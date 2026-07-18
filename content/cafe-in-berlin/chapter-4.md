@@ -1,6 +1,6 @@
 # Die Waschmaschine
 
-~
+---
 
 Ich öffnete die Wohnungstür und rief: „Hallo? Jemand da?"
 

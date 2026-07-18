@@ -1,6 +1,6 @@
 # Masken
 
-~
+---
 
 Gestern war ich mit Ingrid im Kino. Der Film war auf Norwegisch, mit deutschen Untertiteln. Ich habe nicht viel verstanden. Der Film handelte von einem Mann mit einer Maske. Er hat die Maske überall getragen, im Büro, im Supermarkt und sogar im Bett. Ingrid hat gesagt, die Maske symbolisiert das Ego des Mannes.
 

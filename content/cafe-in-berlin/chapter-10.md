@@ -1,6 +1,6 @@
 # Auf Wiedersehen, Berlin!
 
-~
+---
 
 Der Winter ist hier. Es schneit den ganzen Tag. Alles ist weiß. Es ist sehr kalt. In drei Tagen fliege ich nach Sizilien zu meiner Familie. Ich vermisse das Meer, die Sonne, unser Olivenöl und den Rotwein.
 

@@ -28,8 +28,8 @@ const ANNOTATION_MODE_OPTIONS: { value: AnnotationMode; label: string }[] = [
 ]
 
 const LANGUAGE_MODE_OPTIONS: { value: LanguageMode; label: string }[] = [
-  { value: 'de', label: 'German' },
-  { value: 'en', label: 'English' },
+  { value: 'de', label: 'DE' },
+  { value: 'en', label: 'EN' },
   { value: 'both', label: 'Both' },
 ]
 

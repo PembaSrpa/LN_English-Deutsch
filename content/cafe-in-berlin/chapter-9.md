@@ -1,6 +1,6 @@
 # Die Dänische Dogge
 
-~
+---
 
 In unserem Haus gibt es viele Hunde. Im ersten Stock wohnt ein Schäferhund und zwei Chihuahuas. Im zweiten Stock lebt ein Dobermann und ein Windhund. Im dritten Stock wohnen drei Huskys. Und ganz oben, im fünften Stock wohnt eine Dänische Dogge und ein Rehpinscher.
 

@@ -1,6 +1,6 @@
 # Kohle, Ratten und Gespenster
 
-~
+---
 
 Es ist jetzt Herbst. Das Wetter ist sehr schlecht. Der Himmel ist grau. Es ist kalt und regnet die ganze Zeit.
 

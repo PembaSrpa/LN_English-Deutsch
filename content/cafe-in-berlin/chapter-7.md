@@ -1,6 +1,6 @@
 # Ohne Moos nix los
 
-~
+---
 
 Ich habe Ingrid eine Email geschrieben. Sie hat noch nicht geantwortet. Vielleicht kann ich sie in Hamburg besuchen. Ich war noch nie in Hamburg. Es ist eine schöne Stadt, habe ich gehört.
 

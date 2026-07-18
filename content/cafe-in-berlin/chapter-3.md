@@ -1,6 +1,6 @@
 # Ingrid
 
-~
+---
 
 In meinem Deutschkurs sitzen Menschen aus der ganzen Welt. Ein paar haben einen deutschen Freund oder eine deutsche Freundin. Andere wollen in Deutschland arbeiten. Aber wir haben alle das gleiche Problem: die deutsche Sprache.
 

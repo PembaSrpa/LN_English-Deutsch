@@ -1,6 +1,6 @@
 # Im Prinzenbad
 
-~
+---
 
 Es ist Ende August. Es regnet viel. Aber es ist noch nicht so kalt. Heute scheint die Sonne ein bisschen. Ted hatte die Idee, schwimmen zu gehen. Aber wo?
 

@@ -1,6 +1,6 @@
 # Multikulti
 
-~
+---
 
 Gestern habe ich Pizza gegessen. Die Pizzeria heißt O Sole Mio, aber niemand dort spricht Italienisch. In der Pizzeria arbeiten zwei palästinensische Brüder. Ich habe eine Thunfischpizza gegessen. Der Preis war super (zwei Euro fünfzig). Die Pizza war nicht so gut, aber die Pizzeria ist nur wenige Meter von meiner Wohnung entfernt.
 

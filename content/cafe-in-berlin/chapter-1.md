@@ -1,6 +1,6 @@
 # Die Wohngemeinschaft
 
-~
+---
 
 Mein Vater sagt, die Deutschen spielen gut Fußball. Aber mein Vater spielt nicht Fußball. Er schaut Sport nur im Fernsehen. Mein Onkel sagt, die Deutschen trinken viel Bier. Aber er trinkt auch viel Bier. Was ist deutsch und was ist normal? Ich weiß es nicht.
 
