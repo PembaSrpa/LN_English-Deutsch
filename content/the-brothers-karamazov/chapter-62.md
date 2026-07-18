@@ -1,6 +1,8 @@
-# Chapter 6: "I Am Coming, Too!"
+# Chapter 6
 
 ---
+
+# "I Am Coming, Too!"
 
 But Dmitri Fyodorovitch was speeding along the road. It was a little more than twenty versts to Mokroe, but Andrey's three horses galloped at such a pace that the distance might be covered in an hour and a quarter. The swift motion revived Mitya. The air was fresh and cool, there were big stars shining in the sky. It was the very night, and perhaps the very hour, in which Alyosha fell on the earth, and rapturously swore to love it for ever and ever.
 

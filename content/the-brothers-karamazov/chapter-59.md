@@ -1,6 +1,8 @@
-# Chapter 3: Gold-Mines
+# Chapter 3
 
 ---
+
+# Gold-Mines
 
 This was the visit of Mitya of which Grushenka had spoken to Rakitin with such horror. She was just then expecting the "message," and was much relieved that Mitya had not been to see her that day or the day before. She hoped that "please God he won't come till I'm gone away," and he suddenly burst in on her. The rest we know already. To get him off her hands she suggested at once that he should walk with her to Samsonov's, where she said she absolutely must go "to settle his accounts," and when Mitya accompanied her at once, she said good-by to him at the gate, making him promise to come at twelve o'clock to take her home again. Mitya, too, was delighted at this arrangement. If she was sitting at Samsonov's she could not be going to Fyodor Pavlovitch's, "if only she's not lying," he added at once. But he thought she was not lying from what he saw.
 

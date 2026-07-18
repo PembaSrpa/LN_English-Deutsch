@@ -1,6 +1,8 @@
-# Chapter 11: There Was No Money. There Was No Robbery
+# Chapter 11
 
 ---
+
+# There Was No Money. There Was No Robbery
 
 There was one point that struck every one in Fetyukovitch's speech. He flatly denied the existence of the fatal three thousand roubles, and consequently, the possibility of their having been stolen.
 

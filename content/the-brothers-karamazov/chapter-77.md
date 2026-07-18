@@ -1,6 +1,8 @@
-# Chapter 1: Kolya Krassotkin
+# Chapter 1
 
 ---
+
+# Kolya Krassotkin
 
 It was the beginning of November. There had been a hard frost, eleven degrees Reaumur, without snow, but a little dry snow had fallen on the frozen ground during the night, and a keen dry wind was lifting and blowing it along the dreary streets of our town, especially about the market-place. It was a dull morning, but the snow had ceased.
 

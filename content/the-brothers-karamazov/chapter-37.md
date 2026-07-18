@@ -1,6 +1,8 @@
-# Chapter 7: And In The Open Air
+# Chapter 7
 
 ---
+
+# And In The Open Air
 
 "The air is fresh, but in my apartment it is not so in any sense of the word. Let us walk slowly, sir. I should be glad of your kind interest."
 

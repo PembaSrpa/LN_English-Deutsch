@@ -1,6 +1,8 @@
-# Chapter 15: Plans For Mitya's Escape
+# Chapter 15
 
 ---
+
+# Plans For Mitya's Escape
 
 Very early, at nine o'clock in the morning, five days after the trial, Alyosha went to Katerina Ivanovna's to talk over a matter of great importance to both of them, and to give her a message. She sat and talked to him in the very room in which she had once received Grushenka. In the next room Ivan Fyodorovitch lay unconscious in a high fever. Katerina Ivanovna had immediately after the scene at the trial ordered the sick and unconscious man to be carried to her house, disregarding the inevitable gossip and general disapproval of the public. One of the two relations who lived with her had departed to Moscow immediately after the scene in court, the other remained. But if both had gone away, Katerina Ivanovna would have adhered to her resolution, and would have gone on nursing the sick man and sitting by him day and night. Varvinsky and Herzenstube were attending him. The famous doctor had gone back to Moscow, refusing to give an opinion as to the probable end of the illness. Though the doctors encouraged Katerina Ivanovna and Alyosha, it was evident that they could not yet give them positive hopes of recovery.
 

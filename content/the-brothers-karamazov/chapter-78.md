@@ -1,6 +1,8 @@
-# Chapter 2: Children
+# Chapter 2
 
 ---
+
+# Children
 
 And so on that frosty, snowy, and windy day in November, Kolya Krassotkin was sitting at home. It was Sunday and there was no school. It had just struck eleven, and he particularly wanted to go out "on very urgent business," but he was left alone in charge of the house, for it so happened that all its elder inmates were absent owing to a sudden and singular event. Madame Krassotkin had let two little rooms, separated from the rest of the house by a passage, to a doctor's wife with her two small children. This lady was the same age as Anna Fyodorovna, and a great friend of hers. Her husband, the doctor, had taken his departure twelve months before, going first to Orenburg and then to Tashkend, and for the last six months she had not heard a word from him. Had it not been for her friendship with Madame Krassotkin, which was some consolation to the forsaken lady, she would certainly have completely dissolved away in tears. And now, to add to her misfortunes, Katerina, her only servant, was suddenly moved the evening before to announce, to her mistress's amazement, that she proposed to bring a child into the world before morning. It seemed almost miraculous to every one that no one had noticed the probability of it before. The astounded doctor's wife decided to move Katerina while there was still time to an establishment in the town kept by a midwife for such emergencies. As she set great store by her servant, she promptly carried out this plan and remained there looking after her. By the morning all Madame Krassotkin's friendly sympathy and energy were called upon to render assistance and appeal to some one for help in the case.
 

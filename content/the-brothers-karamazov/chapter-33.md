@@ -1,6 +1,8 @@
-# Chapter 3: A Meeting With The Schoolboys
+# Chapter 3
 
 ---
+
+# A Meeting With The Schoolboys
 
 "Thank goodness he did not ask me about Grushenka," thought Alyosha, as he left his father's house and turned towards Madame Hohlakov's, "or I might have to tell him of my meeting with Grushenka yesterday."
 

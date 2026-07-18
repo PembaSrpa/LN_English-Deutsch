@@ -1,6 +1,8 @@
-# Chapter 2: The Old Buffoon
+# Chapter 2
 
 ---
+
+# The Old Buffoon
 
 They entered the room almost at the same moment that the elder came in from his bedroom. There were already in the cell, awaiting the elder, two monks of the hermitage, one the Father Librarian, and the other Father Paissy, a very learned man, so they said, in delicate health, though not old. There was also a tall young man, who looked about two and twenty, standing in the corner throughout the interview. He had a broad, fresh face, and clever, observant, narrow brown eyes, and was wearing ordinary dress. He was a divinity student, living under the protection of the monastery. His expression was one of unquestioning, but self-respecting, reverence. Being in a subordinate and dependent position, and so not on an equality with the guests, he did not greet them with a bow.
 

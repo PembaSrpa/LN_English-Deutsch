@@ -1,6 +1,8 @@
-# Chapter 6: For Awhile A Very Obscure One
+# Chapter 6
 
 ---
+
+# For Awhile A Very Obscure One
 
 And Ivan, on parting from Alyosha, went home to Fyodor Pavlovitch's house. But, strange to say, he was overcome by insufferable depression, which grew greater at every step he took towards the house. There was nothing strange in his being depressed; what was strange was that Ivan could not have said what was the cause of it. He had often been depressed before, and there was nothing surprising at his feeling so at such a moment, when he had broken off with everything that had brought him here, and was preparing that day to make a new start and enter upon a new, unknown future. He would again be as solitary as ever, and though he had great hopes, and great--too great--expectations from life, he could not have given any definite account of his hopes, his expectations, or even his desires.
 

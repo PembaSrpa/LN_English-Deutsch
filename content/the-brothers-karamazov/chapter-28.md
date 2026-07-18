@@ -1,6 +1,8 @@
-# Chapter 11: Another Reputation Ruined
+# Chapter 11
 
 ---
+
+# Another Reputation Ruined
 
 It was not much more than three-quarters of a mile from the town to the monastery. Alyosha walked quickly along the road, at that hour deserted. It was almost night, and too dark to see anything clearly at thirty paces ahead. There were cross-roads half-way. A figure came into sight under a solitary willow at the cross-roads. As soon as Alyosha reached the cross-roads the figure moved out and rushed at him, shouting savagely:
 

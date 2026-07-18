@@ -1,6 +1,8 @@
-# Chapter 5: A Sudden Resolution
+# Chapter 5
 
 ---
+
+# A Sudden Resolution
 
 She was sitting in the kitchen with her grandmother; they were both just going to bed. Relying on Nazar Ivanovitch, they had not locked themselves in. Mitya ran in, pounced on Fenya and seized her by the throat.
 

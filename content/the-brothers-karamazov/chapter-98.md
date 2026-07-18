@@ -1,6 +1,8 @@
-# Chapter 3: The Medical Experts And A Pound Of Nuts
+# Chapter 3
 
 ---
+
+# The Medical Experts And A Pound Of Nuts
 
 The evidence of the medical experts, too, was of little use to the prisoner. And it appeared later that Fetyukovitch had not reckoned much upon it. The medical line of defense had only been taken up through the insistence of Katerina Ivanovna, who had sent for a celebrated doctor from Moscow on purpose. The case for the defense could, of course, lose nothing by it and might, with luck, gain something from it. There was, however, an element of comedy about it, through the difference of opinion of the doctors. The medical experts were the famous doctor from Moscow, our doctor, Herzenstube, and the young doctor, Varvinsky. The two latter appeared also as witnesses for the prosecution.
 

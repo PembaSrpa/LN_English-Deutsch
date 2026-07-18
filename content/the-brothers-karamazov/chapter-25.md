@@ -1,6 +1,8 @@
-# Chapter 8: Over The Brandy
+# Chapter 8
 
 ---
+
+# Over The Brandy
 
 The controversy was over. But, strange to say, Fyodor Pavlovitch, who had been so gay, suddenly began frowning. He frowned and gulped brandy, and it was already a glass too much.
 

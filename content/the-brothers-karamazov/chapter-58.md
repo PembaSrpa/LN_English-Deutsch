@@ -1,6 +1,8 @@
-# Chapter 2: Lyagavy
+# Chapter 2
 
 ---
+
+# Lyagavy
 
 So he must drive at full speed, and he had not the money for horses. He had forty kopecks, and that was all, all that was left after so many years of prosperity! But he had at home an old silver watch which had long ceased to go. He snatched it up and carried it to a Jewish watchmaker who had a shop in the market-place. The Jew gave him six roubles for it.
 

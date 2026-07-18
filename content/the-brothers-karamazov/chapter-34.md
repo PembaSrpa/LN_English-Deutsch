@@ -1,6 +1,8 @@
-# Chapter 4: At The Hohlakovs'
+# Chapter 4
 
 ---
+
+# At The Hohlakovs'
 
 Alyosha soon reached Madame Hohlakov's house, a handsome stone house of two stories, one of the finest in our town. Though Madame Hohlakov spent most of her time in another province where she had an estate, or in Moscow, where she had a house of her own, yet she had a house in our town too, inherited from her forefathers. The estate in our district was the largest of her three estates, yet she had been very little in our province before this time. She ran out to Alyosha in the hall.
 

@@ -1,6 +1,8 @@
-# Chapter 8: The Third And Last Interview With Smerdyakov
+# Chapter 8
 
 ---
+
+# The Third And Last Interview With Smerdyakov
 
 When he was half-way there, the keen dry wind that had been blowing early that morning rose again, and a fine dry snow began falling thickly. It did not lie on the ground, but was whirled about by the wind, and soon there was a regular snowstorm. There were scarcely any lamp-posts in the part of the town where Smerdyakov lived. Ivan strode alone in the darkness, unconscious of the storm, instinctively picking out his way. His head ached and there was a painful throbbing in his temples. He felt that his hands were twitching convulsively. Not far from Marya Kondratyevna's cottage, Ivan suddenly came upon a solitary drunken little peasant. He was wearing a coarse and patched coat, and was walking in zigzags, grumbling and swearing to himself. Then suddenly he would begin singing in a husky drunken voice:
 

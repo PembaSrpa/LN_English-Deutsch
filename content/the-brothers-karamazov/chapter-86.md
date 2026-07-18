@@ -1,6 +1,8 @@
-# Chapter 2: The Injured Foot
+# Chapter 2
 
 ---
+
+# The Injured Foot
 
 The first of these things was at the house of Madame Hohlakov, and he hurried there to get it over as quickly as possible and not be too late for Mitya. Madame Hohlakov had been slightly ailing for the last three weeks: her foot had for some reason swollen up, and though she was not in bed, she lay all day half-reclining on the couch in her boudoir, in a fascinating but decorous _deshabille_. Alyosha had once noted with innocent amusement that, in spite of her illness, Madame Hohlakov had begun to be rather dressy--top-knots, ribbons, loose wrappers, had made their appearance, and he had an inkling of the reason, though he dismissed such ideas from his mind as frivolous. During the last two months the young official, Perhotin, had become a regular visitor at the house.
 

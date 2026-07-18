@@ -1,6 +1,8 @@
-# Chapter 17: Ilusha's Funeral. The Speech At The Stone
+# Chapter 17
 
 ---
+
+# Ilusha's Funeral. The Speech At The Stone
 
 He really was late. They had waited for him and had already decided to bear the pretty flower-decked little coffin to the church without him. It was the coffin of poor little Ilusha. He had died two days after Mitya was sentenced. At the gate of the house Alyosha was met by the shouts of the boys, Ilusha's schoolfellows. They had all been impatiently expecting him and were glad that he had come at last. There were about twelve of them, they all had their school-bags or satchels on their shoulders. "Father will cry, be with father," Ilusha had told them as he lay dying, and the boys remembered it. Kolya Krassotkin was the foremost of them.
 

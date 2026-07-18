@@ -1,6 +1,8 @@
-# Chapter 1: Kuzma Samsonov
+# Chapter 1
 
 ---
+
+# Kuzma Samsonov
 
 But Dmitri, to whom Grushenka, flying away to a new life, had left her last greetings, bidding him remember the hour of her love for ever, knew nothing of what had happened to her, and was at that moment in a condition of feverish agitation and activity. For the last two days he had been in such an inconceivable state of mind that he might easily have fallen ill with brain fever, as he said himself afterwards. Alyosha had not been able to find him the morning before, and Ivan had not succeeded in meeting him at the tavern on the same day. The people at his lodgings, by his orders, concealed his movements.
 

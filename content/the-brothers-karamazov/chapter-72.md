@@ -1,6 +1,8 @@
-# Chapter 7: Mitya's Great Secret. Received With Hisses
+# Chapter 7
 
 ---
+
+# Mitya's Great Secret. Received With Hisses
 
 "Gentlemen," he began, still in the same agitation, "I want to make a full confession: that money was _my own_." The lawyers' faces lengthened. That was not at all what they expected.
 

@@ -1,6 +1,8 @@
-# Chapter 4: Rebellion
+# Chapter 4
 
 ---
+
+# Rebellion
 
 "I must make you one confession," Ivan began. "I could never understand how one can love one's neighbors. It's just one's neighbors, to my mind, that one can't love, though one might love those at a distance. I once read somewhere of John the Merciful, a saint, that when a hungry, frozen beggar came to him, he took him into his bed, held him in his arms, and began breathing into his mouth, which was putrid and loathsome from some awful disease. I am convinced that he did that from 'self-laceration,' from the self-laceration of falsity, for the sake of the charity imposed by duty, as a penance laid on him. For any one to love a man, he must be hidden, for as soon as he shows his face, love is gone."
 

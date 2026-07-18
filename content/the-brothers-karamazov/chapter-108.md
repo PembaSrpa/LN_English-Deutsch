@@ -1,6 +1,8 @@
-# Chapter 13: A Corrupter Of Thought
+# Chapter 13
 
 ---
+
+# A Corrupter Of Thought
 
 "It's not only the accumulation of facts that threatens my client with ruin, gentlemen of the jury," he began, "what is really damning for my client is one fact--the dead body of his father. Had it been an ordinary case of murder you would have rejected the charge in view of the triviality, the incompleteness, and the fantastic character of the evidence, if you examine each part of it separately; or, at least, you would have hesitated to ruin a man's life simply from the prejudice against him which he has, alas! only too well deserved. But it's not an ordinary case of murder, it's a case of parricide. That impresses men's minds, and to such a degree that the very triviality and incompleteness of the evidence becomes less trivial and less incomplete even to an unprejudiced mind. How can such a prisoner be acquitted? What if he committed the murder and gets off unpunished? That is what every one, almost involuntarily, instinctively, feels at heart.
 

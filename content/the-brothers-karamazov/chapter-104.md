@@ -1,6 +1,8 @@
-# Chapter 9: The Galloping Troika. The End Of The Prosecutor's Speech.
+# Chapter 9
 
 ---
+
+# The Galloping Troika. The End Of The Prosecutor's Speech.
 
 Ippolit Kirillovitch had chosen the historical method of exposition, beloved by all nervous orators, who find in its limitation a check on their own eager rhetoric. At this moment in his speech he went off into a dissertation on Grushenka's "first lover," and brought forward several interesting thoughts on this theme.
 

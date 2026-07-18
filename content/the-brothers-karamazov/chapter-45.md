@@ -1,6 +1,8 @@
-# Chapter 7: "It's Always Worth While Speaking To A Clever Man"
+# Chapter 7
 
 ---
+
+# "It's Always Worth While Speaking To A Clever Man"
 
 And in the same nervous frenzy, too, he spoke. Meeting Fyodor Pavlovitch in the drawing-room directly he went in, he shouted to him, waving his hands, "I am going upstairs to my room, not in to you. Good-by!" and passed by, trying not even to look at his father. Very possibly the old man was too hateful to him at that moment; but such an unceremonious display of hostility was a surprise even to Fyodor Pavlovitch. And the old man evidently wanted to tell him something at once and had come to meet him in the drawing-room on purpose. Receiving this amiable greeting, he stood still in silence and with an ironical air watched his son going upstairs, till he passed out of sight.
 

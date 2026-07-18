@@ -1,6 +1,8 @@
-# Chapter 2: The Duel
+# Chapter 2
 
 ---
+
+# The Duel
 
 _(c) Recollections of Father Zossima's Youth before he became a Monk. The Duel_
 

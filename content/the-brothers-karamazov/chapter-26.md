@@ -1,6 +1,8 @@
-# Chapter 9: The Sensualists
+# Chapter 9
 
 ---
+
+# The Sensualists
 
 Grigory and Smerdyakov ran into the room after Dmitri. They had been struggling with him in the passage, refusing to admit him, acting on instructions given them by Fyodor Pavlovitch some days before. Taking advantage of the fact that Dmitri stopped a moment on entering the room to look about him, Grigory ran round the table, closed the double doors on the opposite side of the room leading to the inner apartments, and stood before the closed doors, stretching wide his arms, prepared to defend the entrance, so to speak, with the last drop of his blood. Seeing this, Dmitri uttered a scream rather than a shout and rushed at Grigory.
 

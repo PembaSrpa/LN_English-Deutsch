@@ -1,6 +1,8 @@
-# Chapter 3: Peasant Women Who Have Faith
+# Chapter 3
 
 ---
+
+# Peasant Women Who Have Faith
 
 Near the wooden portico below, built on to the outer wall of the precinct, there was a crowd of about twenty peasant women. They had been told that the elder was at last coming out, and they had gathered together in anticipation. Two ladies, Madame Hohlakov and her daughter, had also come out into the portico to wait for the elder, but in a separate part of it set aside for women of rank.
 

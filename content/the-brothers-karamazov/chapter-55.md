@@ -1,6 +1,8 @@
-# Chapter 4: Cana Of Galilee
+# Chapter 4
 
 ---
+
+# Cana Of Galilee
 
 It was very late, according to the monastery ideas, when Alyosha returned to the hermitage; the door-keeper let him in by a special entrance. It had struck nine o'clock--the hour of rest and repose after a day of such agitation for all. Alyosha timidly opened the door and went into the elder's cell where his coffin was now standing. There was no one in the cell but Father Paissy, reading the Gospel in solitude over the coffin, and the young novice Porfiry, who, exhausted by the previous night's conversation and the disturbing incidents of the day, was sleeping the deep sound sleep of youth on the floor of the other room. Though Father Paissy heard Alyosha come in, he did not even look in his direction. Alyosha turned to the right from the door to the corner, fell on his knees and began to pray.
 

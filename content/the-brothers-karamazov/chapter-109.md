@@ -1,6 +1,8 @@
-# Chapter 14: The Peasants Stand Firm
+# Chapter 14
 
 ---
+
+# The Peasants Stand Firm
 
 This was how Fetyukovitch concluded his speech, and the enthusiasm of the audience burst like an irresistible storm. It was out of the question to stop it: the women wept, many of the men wept too, even two important personages shed tears. The President submitted, and even postponed ringing his bell. The suppression of such an enthusiasm would be the suppression of something sacred, as the ladies cried afterwards. The orator himself was genuinely touched.
 

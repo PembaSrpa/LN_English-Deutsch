@@ -1,6 +1,8 @@
-# Chapter 2: He Gets Rid Of His Eldest Son
+# Chapter 2
 
 ---
+
+# He Gets Rid Of His Eldest Son
 
 You can easily imagine what a father such a man could be and how he would bring up his children. His behavior as a father was exactly what might be expected. He completely abandoned the child of his marriage with Adelaida Ivanovna, not from malice, nor because of his matrimonial grievances, but simply because he forgot him. While he was wearying every one with his tears and complaints, and turning his house into a sink of debauchery, a faithful servant of the family, Grigory, took the three-year-old Mitya into his care. If he hadn't looked after him there would have been no one even to change the baby's little shirt.
 

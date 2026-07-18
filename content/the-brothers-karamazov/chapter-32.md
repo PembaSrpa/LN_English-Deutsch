@@ -1,6 +1,8 @@
-# Chapter 2: At His Father's
+# Chapter 2
 
 ---
+
+# At His Father's
 
 First of all, Alyosha went to his father. On the way he remembered that his father had insisted the day before that he should come without his brother Ivan seeing him. "Why so?" Alyosha wondered suddenly. "Even if my father has something to say to me alone, why should I go in unseen? Most likely in his excitement yesterday he meant to say something different," he decided. Yet he was very glad when Marfa Ignatyevna, who opened the garden gate to him (Grigory, it appeared, was ill in bed in the lodge), told him in answer to his question that Ivan Fyodorovitch had gone out two hours ago.
 

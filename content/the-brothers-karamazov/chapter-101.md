@@ -1,6 +1,8 @@
-# Chapter 6: The Prosecutor's Speech. Sketches Of Character
+# Chapter 6
 
 ---
+
+# The Prosecutor's Speech. Sketches Of Character
 
 Ippolit Kirillovitch began his speech, trembling with nervousness, with cold sweat on his forehead, feeling hot and cold all over by turns. He described this himself afterwards. He regarded this speech as his _chef-d'oeuvre_, the _chef-d'oeuvre_ of his whole life, as his swan-song. He died, it is true, nine months later of rapid consumption, so that he had the right, as it turned out, to compare himself to a swan singing his last song. He had put his whole heart and all the brain he had into that speech. And poor Ippolit Kirillovitch unexpectedly revealed that at least some feeling for the public welfare and "the eternal question" lay concealed in him. Where his speech really excelled was in its sincerity. He genuinely believed in the prisoner's guilt; he was accusing him not as an official duty only, and in calling for vengeance he quivered with a genuine passion "for the security of society." Even the ladies in the audience, though they remained hostile to Ippolit Kirillovitch, admitted that he made an extraordinary impression on them. He began in a breaking voice, but it soon gained strength and filled the court to the end of his speech. But as soon as he had finished, he almost fainted.
 

@@ -1,6 +1,8 @@
-# Chapter 5: The Confession Of A Passionate Heart--"Heels Up"
+# Chapter 5
 
 ---
+
+# The Confession Of A Passionate Heart--"Heels Up"
 
 "Now," said Alyosha, "I understand the first half."
 

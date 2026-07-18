@@ -1,6 +1,8 @@
-# Chapter 2: Smerdyakov With A Guitar
+# Chapter 2
 
 ---
+
+# Smerdyakov With A Guitar
 
 He had no time to lose indeed. Even while he was saying good-by to Lise, the thought had struck him that he must attempt some stratagem to find his brother Dmitri, who was evidently keeping out of his way. It was getting late, nearly three o'clock. Alyosha's whole soul turned to the monastery, to his dying saint, but the necessity of seeing Dmitri outweighed everything. The conviction that a great inevitable catastrophe was about to happen grew stronger in Alyosha's mind with every hour. What that catastrophe was, and what he would say at that moment to his brother, he could perhaps not have said definitely. "Even if my benefactor must die without me, anyway I won't have to reproach myself all my life with the thought that I might have saved something and did not, but passed by and hastened home. If I do as I intend, I shall be following his great precept."
 

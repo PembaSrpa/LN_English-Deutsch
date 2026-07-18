@@ -1,6 +1,8 @@
-# Chapter 10: The Speech For The Defense. An Argument That Cuts Both Ways
+# Chapter 10
 
 ---
+
+# The Speech For The Defense. An Argument That Cuts Both Ways
 
 All was hushed as the first words of the famous orator rang out. The eyes of the audience were fastened upon him. He began very simply and directly, with an air of conviction, but not the slightest trace of conceit. He made no attempt at eloquence, at pathos, or emotional phrases. He was like a man speaking in a circle of intimate and sympathetic friends. His voice was a fine one, sonorous and sympathetic, and there was something genuine and simple in the very sound of it. But every one realized at once that the speaker might suddenly rise to genuine pathos and "pierce the heart with untold power." His language was perhaps more irregular than Ippolit Kirillovitch's, but he spoke without long phrases, and indeed, with more precision. One thing did not please the ladies: he kept bending forward, especially at the beginning of his speech, not exactly bowing, but as though he were about to dart at his listeners, bending his long spine in half, as though there were a spring in the middle that enabled him to bend almost at right angles.
 

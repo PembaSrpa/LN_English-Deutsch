@@ -1,6 +1,8 @@
-# Chapter 7: A Young Man Bent On A Career
+# Chapter 7
 
 ---
+
+# A Young Man Bent On A Career
 
 Alyosha helped Father Zossima to his bedroom and seated him on his bed. It was a little room furnished with the bare necessities. There was a narrow iron bedstead, with a strip of felt for a mattress. In the corner, under the ikons, was a reading-desk with a cross and the Gospel lying on it. The elder sank exhausted on the bed. His eyes glittered and he breathed hard. He looked intently at Alyosha, as though considering something.
 

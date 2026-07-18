@@ -1,6 +1,8 @@
-# Chapter 4: The Second Ordeal
+# Chapter 4
 
 ---
+
+# The Second Ordeal
 
 "You don't know how you encourage us, Dmitri Fyodorovitch, by your readiness to answer," said Nikolay Parfenovitch, with an animated air, and obvious satisfaction beaming in his very prominent, short-sighted, light gray eyes, from which he had removed his spectacles a moment before. "And you have made a very just remark about the mutual confidence, without which it is sometimes positively impossible to get on in cases of such importance, if the suspected party really hopes and desires to defend himself and is in a position to do so. We, on our side, will do everything in our power, and you can see for yourself how we are conducting the case. You approve, Ippolit Kirillovitch?" He turned to the prosecutor.
 

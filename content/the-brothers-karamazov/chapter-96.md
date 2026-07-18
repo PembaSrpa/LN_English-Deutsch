@@ -1,6 +1,8 @@
-# Chapter 1: The Fatal Day
+# Chapter 1
 
 ---
+
+# The Fatal Day
 
 At ten o'clock in the morning of the day following the events I have described, the trial of Dmitri Karamazov began in our district court.
 

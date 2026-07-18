@@ -1,6 +1,8 @@
-# Chapter 7: The First And Rightful Lover
+# Chapter 7
 
 ---
+
+# The First And Rightful Lover
 
 With his long, rapid strides, Mitya walked straight up to the table.
 

@@ -1,6 +1,8 @@
-# Chapter 4: A Lady Of Little Faith
+# Chapter 4
 
 ---
+
+# A Lady Of Little Faith
 
 A visitor looking on the scene of his conversation with the peasants and his blessing them shed silent tears and wiped them away with her handkerchief. She was a sentimental society lady of genuinely good disposition in many respects. When the elder went up to her at last she met him enthusiastically.
 

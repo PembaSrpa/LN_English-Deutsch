@@ -1,6 +1,8 @@
-# Chapter 8: Delirium
+# Chapter 8
 
 ---
+
+# Delirium
 
 What followed was almost an orgy, a feast to which all were welcome. Grushenka was the first to call for wine.
 

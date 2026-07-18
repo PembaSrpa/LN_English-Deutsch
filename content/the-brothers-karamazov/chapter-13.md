@@ -1,6 +1,8 @@
-# Chapter 5: So Be It! So Be It!
+# Chapter 5
 
 ---
+
+# So Be It! So Be It!
 
 The elder's absence from his cell had lasted for about twenty-five minutes. It was more than half-past twelve, but Dmitri, on whose account they had all met there, had still not appeared. But he seemed almost to be forgotten, and when the elder entered the cell again, he found his guests engaged in eager conversation. Ivan and the two monks took the leading share in it. Miuesov, too, was trying to take a part, and apparently very eagerly, in the conversation. But he was unsuccessful in this also. He was evidently in the background, and his remarks were treated with neglect, which increased his irritability. He had had intellectual encounters with Ivan before and he could not endure a certain carelessness Ivan showed him.
 

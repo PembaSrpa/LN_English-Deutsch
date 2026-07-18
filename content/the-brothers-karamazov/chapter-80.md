@@ -1,6 +1,8 @@
-# Chapter 4: The Lost Dog
+# Chapter 4
 
 ---
+
+# The Lost Dog
 
 Kolya leaned against the fence with an air of dignity, waiting for Alyosha to appear. Yes, he had long wanted to meet him. He had heard a great deal about him from the boys, but hitherto he had always maintained an appearance of disdainful indifference when he was mentioned, and he had even "criticized" what he heard about Alyosha. But secretly he had a great longing to make his acquaintance; there was something sympathetic and attractive in all he was told about Alyosha. So the present moment was important: to begin with, he had to show himself at his best, to show his independence, "Or he'll think of me as thirteen and take me for a boy, like the rest of them. And what are these boys to him? I shall ask him when I get to know him. It's a pity I am so short, though. Tuzikov is younger than I am, yet he is half a head taller. But I have a clever face. I am not good-looking. I know I'm hideous, but I've a clever face. I mustn't talk too freely; if I fall into his arms all at once, he may think--Tfoo! how horrible if he should think--!"
 

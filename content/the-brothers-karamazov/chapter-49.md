@@ -1,6 +1,8 @@
-# Chapter 3: Conversations And Exhortations Of Father Zossima
+# Chapter 3
 
 ---
+
+# Conversations And Exhortations Of Father Zossima
 
 _(e) The Russian Monk and his possible Significance_
 

@@ -1,6 +1,8 @@
-# Chapter 6: Precocity
+# Chapter 6
 
 ---
+
+# Precocity
 
 "What do you think the doctor will say to him?" Kolya asked quickly. "What a repulsive mug, though, hasn't he? I can't endure medicine!"
 

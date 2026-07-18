@@ -1,6 +1,8 @@
-# Chapter 5: Not You, Not You!
+# Chapter 5
 
 ---
+
+# Not You, Not You!
 
 On the way to Ivan he had to pass the house where Katerina Ivanovna was living. There was light in the windows. He suddenly stopped and resolved to go in. He had not seen Katerina Ivanovna for more than a week. But now it struck him that Ivan might be with her, especially on the eve of the terrible day. Ringing, and mounting the staircase, which was dimly lighted by a Chinese lantern, he saw a man coming down, and as they met, he recognized him as his brother. So he was just coming from Katerina Ivanovna.
 

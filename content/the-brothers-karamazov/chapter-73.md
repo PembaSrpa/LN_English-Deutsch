@@ -1,6 +1,8 @@
-# Chapter 8: The Evidence Of The Witnesses. The Babe
+# Chapter 8
 
 ---
+
+# The Evidence Of The Witnesses. The Babe
 
 The examination of the witnesses began. But we will not continue our story in such detail as before. And so we will not dwell on how Nikolay Parfenovitch impressed on every witness called that he must give his evidence in accordance with truth and conscience, and that he would afterwards have to repeat his evidence on oath, how every witness was called upon to sign the protocol of his evidence, and so on. We will only note that the point principally insisted upon in the examination was the question of the three thousand roubles, that is, was the sum spent here, at Mokroe, by Mitya on the first occasion, a month before, three thousand or fifteen hundred? And again had he spent three thousand or fifteen hundred yesterday? Alas, all the evidence given by every one turned out to be against Mitya. There was not one in his favor, and some witnesses introduced new, almost crushing facts, in contradiction of his, Mitya's, story.
 

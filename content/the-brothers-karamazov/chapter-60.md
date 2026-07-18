@@ -1,6 +1,8 @@
-# Chapter 4: In The Dark
+# Chapter 4
 
 ---
+
+# In The Dark
 
 Where was he running? "Where could she be except at Fyodor Pavlovitch's? She must have run straight to him from Samsonov's, that was clear now. The whole intrigue, the whole deceit was evident." ... It all rushed whirling through his mind. He did not run to Marya Kondratyevna's. "There was no need to go there ... not the slightest need ... he must raise no alarm ... they would run and tell directly.... Marya Kondratyevna was clearly in the plot, Smerdyakov too, he too, all had been bought over!"
 

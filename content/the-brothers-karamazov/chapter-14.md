@@ -1,6 +1,8 @@
-# Chapter 6: Why Is Such A Man Alive?
+# Chapter 6
 
 ---
+
+# Why Is Such A Man Alive?
 
 Dmitri Fyodorovitch, a young man of eight and twenty, of medium height and agreeable countenance, looked older than his years. He was muscular, and showed signs of considerable physical strength. Yet there was something not healthy in his face. It was rather thin, his cheeks were hollow, and there was an unhealthy sallowness in their color. His rather large, prominent, dark eyes had an expression of firm determination, and yet there was a vague look in them, too. Even when he was excited and talking irritably, his eyes somehow did not follow his mood, but betrayed something else, sometimes quite incongruous with what was passing. "It's hard to tell what he's thinking," those who talked to him sometimes declared. People who saw something pensive and sullen in his eyes were startled by his sudden laugh, which bore witness to mirthful and light-hearted thoughts at the very time when his eyes were so gloomy. A certain strained look in his face was easy to understand at this moment. Every one knew, or had heard of, the extremely restless and dissipated life which he had been leading of late, as well as of the violent anger to which he had been roused in his quarrels with his father. There were several stories current in the town about it. It is true that he was irascible by nature, "of an unstable and unbalanced mind," as our justice of the peace, Katchalnikov, happily described him.
 

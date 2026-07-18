@@ -1,6 +1,8 @@
-# Chapter 2: The Alarm
+# Chapter 2
 
 ---
+
+# The Alarm
 
 Our police captain, Mihail Makarovitch Makarov, a retired lieutenant-colonel, was a widower and an excellent man. He had only come to us three years previously, but had won general esteem, chiefly because he "knew how to keep society together." He was never without visitors, and could not have got on without them. Some one or other was always dining with him; he never sat down to table without guests. He gave regular dinners, too, on all sorts of occasions, sometimes most surprising ones. Though the fare was not _recherche_, it was abundant. The fish-pies were excellent, and the wine made up in quantity for what it lacked in quality.
 

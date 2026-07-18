@@ -1,6 +1,8 @@
-# Chapter 7: The Second Visit To Smerdyakov
+# Chapter 7
 
 ---
+
+# The Second Visit To Smerdyakov
 
 By that time Smerdyakov had been discharged from the hospital. Ivan knew his new lodging, the dilapidated little wooden house, divided in two by a passage on one side of which lived Marya Kondratyevna and her mother, and on the other, Smerdyakov. No one knew on what terms he lived with them, whether as a friend or as a lodger. It was supposed afterwards that he had come to stay with them as Marya Kondratyevna's betrothed, and was living there for a time without paying for board or lodging. Both mother and daughter had the greatest respect for him and looked upon him as greatly superior to themselves.
 

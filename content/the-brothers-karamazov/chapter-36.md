@@ -1,6 +1,8 @@
-# Chapter 6: A Laceration In The Cottage
+# Chapter 6
 
 ---
+
+# A Laceration In The Cottage
 
 He certainly was really grieved in a way he had seldom been before. He had rushed in like a fool, and meddled in what? In a love-affair. "But what do I know about it? What can I tell about such things?" he repeated to himself for the hundredth time, flushing crimson. "Oh, being ashamed would be nothing; shame is only the punishment I deserve. The trouble is I shall certainly have caused more unhappiness.... And Father Zossima sent me to reconcile and bring them together. Is this the way to bring them together?" Then he suddenly remembered how he had tried to join their hands, and he felt fearfully ashamed again. "Though I acted quite sincerely, I must be more sensible in the future," he concluded suddenly, and did not even smile at his conclusion.
 

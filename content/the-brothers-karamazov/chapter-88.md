@@ -1,6 +1,8 @@
-# Chapter 4: A Hymn And A Secret
+# Chapter 4
 
 ---
+
+# A Hymn And A Secret
 
 It was quite late (days are short in November) when Alyosha rang at the prison gate. It was beginning to get dusk. But Alyosha knew that he would be admitted without difficulty. Things were managed in our little town, as everywhere else. At first, of course, on the conclusion of the preliminary inquiry, relations and a few other persons could only obtain interviews with Mitya by going through certain inevitable formalities. But later, though the formalities were not relaxed, exceptions were made for some, at least, of Mitya's visitors. So much so, that sometimes the interviews with the prisoner in the room set aside for the purpose were practically _tete-a-tete_.
 

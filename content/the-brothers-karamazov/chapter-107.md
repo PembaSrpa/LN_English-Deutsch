@@ -1,6 +1,8 @@
-# Chapter 12: And There Was No Murder Either
+# Chapter 12
 
 ---
+
+# And There Was No Murder Either
 
 "Allow me, gentlemen of the jury, to remind you that a man's life is at stake and that you must be careful. We have heard the prosecutor himself admit that until to-day he hesitated to accuse the prisoner of a full and conscious premeditation of the crime; he hesitated till he saw that fatal drunken letter which was produced in court to-day. 'All was done as written.' But, I repeat again, he was running to her, to seek her, solely to find out where she was. That's a fact that can't be disputed. Had she been at home, he would not have run away, but would have remained at her side, and so would not have done what he promised in the letter. He ran unexpectedly and accidentally, and by that time very likely he did not even remember his drunken letter. 'He snatched up the pestle,' they say, and you will remember how a whole edifice of psychology was built on that pestle--why he was bound to look at that pestle as a weapon, to snatch it up, and so on, and so on. A very commonplace idea occurs to me at this point: What if that pestle had not been in sight, had not been lying on the shelf from which it was snatched by the prisoner, but had been put away in a cupboard? It would not have caught the prisoner's eye, and he would have run away without a weapon, with empty hands, and then he would certainly not have killed any one. How then can I look upon the pestle as a proof of premeditation?
 

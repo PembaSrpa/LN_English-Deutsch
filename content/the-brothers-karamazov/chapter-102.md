@@ -1,6 +1,8 @@
-# Chapter 7: An Historical Survey
+# Chapter 7
 
 ---
+
+# An Historical Survey
 
 "The medical experts have striven to convince us that the prisoner is out of his mind and, in fact, a maniac. I maintain that he is in his right mind, and that if he had not been, he would have behaved more cleverly. As for his being a maniac, that I would agree with, but only in one point, that is, his fixed idea about the three thousand. Yet I think one might find a much simpler cause than his tendency to insanity. For my part I agree thoroughly with the young doctor who maintained that the prisoner's mental faculties have always been normal, and that he has only been irritable and exasperated. The object of the prisoner's continual and violent anger was not the sum itself; there was a special motive at the bottom of it. That motive is jealousy!"
 

@@ -1,6 +1,8 @@
-# Chapter 16: For A Moment The Lie Becomes Truth
+# Chapter 16
 
 ---
+
+# For A Moment The Lie Becomes Truth
 
 He hurried to the hospital where Mitya was lying now. The day after his fate was determined, Mitya had fallen ill with nervous fever, and was sent to the prison division of the town hospital. But at the request of several persons (Alyosha, Madame Hohlakov, Lise, etc.), Doctor Varvinsky had put Mitya not with other prisoners, but in a separate little room, the one where Smerdyakov had been. It is true that there was a sentinel at the other end of the corridor, and there was a grating over the window, so that Varvinsky could be at ease about the indulgence he had shown, which was not quite legal, indeed; but he was a kind-hearted and compassionate young man. He knew how hard it would be for a man like Mitya to pass at once so suddenly into the society of robbers and murderers, and that he must get used to it by degrees. The visits of relations and friends were informally sanctioned by the doctor and overseer, and even by the police captain. But only Alyosha and Grushenka had visited Mitya. Rakitin had tried to force his way in twice, but Mitya persistently begged Varvinsky not to admit him.
 

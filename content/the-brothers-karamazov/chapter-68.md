@@ -1,6 +1,8 @@
-# Chapter 3: The Sufferings Of A Soul, The First Ordeal
+# Chapter 3
 
 ---
+
+# The Sufferings Of A Soul, The First Ordeal
 
 And so Mitya sat looking wildly at the people round him, not understanding what was said to him. Suddenly he got up, flung up his hands, and shouted aloud:
 

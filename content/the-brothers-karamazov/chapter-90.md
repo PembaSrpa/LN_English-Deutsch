@@ -1,6 +1,8 @@
-# Chapter 6: The First Interview With Smerdyakov
+# Chapter 6
 
 ---
+
+# The First Interview With Smerdyakov
 
 This was the third time that Ivan had been to see Smerdyakov since his return from Moscow. The first time he had seen him and talked to him was on the first day of his arrival, then he had visited him once more, a fortnight later. But his visits had ended with that second one, so that it was now over a month since he had seen him. And he had scarcely heard anything of him.
 

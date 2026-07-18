@@ -1,6 +1,8 @@
-# Chapter 3: A Little Demon
+# Chapter 3
 
 ---
+
+# A Little Demon
 
 Going in to Lise, he found her half reclining in the invalid-chair, in which she had been wheeled when she was unable to walk. She did not move to meet him, but her sharp, keen eyes were simply riveted on his face. There was a feverish look in her eyes, her face was pale and yellow. Alyosha was amazed at the change that had taken place in her in three days. She was positively thinner. She did not hold out her hand to him. He touched the thin, long fingers which lay motionless on her dress, then he sat down facing her, without a word.
 

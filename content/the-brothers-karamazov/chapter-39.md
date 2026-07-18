@@ -1,6 +1,8 @@
-# Chapter 1: The Engagement
+# Chapter 1
 
 ---
+
+# The Engagement
 
 Madame Hohlakov was again the first to meet Alyosha. She was flustered; something important had happened. Katerina Ivanovna's hysterics had ended in a fainting fit, and then "a terrible, awful weakness had followed, she lay with her eyes turned up and was delirious. Now she was in a fever. They had sent for Herzenstube; they had sent for the aunts. The aunts were already here, but Herzenstube had not yet come. They were all sitting in her room, waiting. She was unconscious now, and what if it turned to brain fever!"
 

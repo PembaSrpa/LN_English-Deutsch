@@ -1,6 +1,8 @@
-# Chapter 6: The Prosecutor Catches Mitya
+# Chapter 6
 
 ---
+
+# The Prosecutor Catches Mitya
 
 Something utterly unexpected and amazing to Mitya followed. He could never, even a minute before, have conceived that any one could behave like that to him, Mitya Karamazov. What was worst of all, there was something humiliating in it, and on their side something "supercilious and scornful." It was nothing to take off his coat, but he was asked to undress further, or rather not asked but "commanded," he quite understood that. From pride and contempt he submitted without a word. Several peasants accompanied the lawyers and remained on the same side of the curtain. "To be ready if force is required," thought Mitya, "and perhaps for some other reason, too."
 

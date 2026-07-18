@@ -1,6 +1,8 @@
-# Chapter 5: A Laceration In The Drawing-Room
+# Chapter 5
 
 ---
+
+# A Laceration In The Drawing-Room
 
 But in the drawing-room the conversation was already over. Katerina Ivanovna was greatly excited, though she looked resolute. At the moment Alyosha and Madame Hohlakov entered, Ivan Fyodorovitch stood up to take leave. His face was rather pale, and Alyosha looked at him anxiously. For this moment was to solve a doubt, a harassing enigma which had for some time haunted Alyosha. During the preceding month it had been several times suggested to him that his brother Ivan was in love with Katerina Ivanovna, and, what was more, that he meant "to carry her off" from Dmitri. Until quite lately the idea seemed to Alyosha monstrous, though it worried him extremely. He loved both his brothers, and dreaded such rivalry between them. Meantime, Dmitri had said outright on the previous day that he was glad that Ivan was his rival, and that it was a great assistance to him, Dmitri. In what way did it assist him? To marry Grushenka? But that Alyosha considered the worst thing possible. Besides all this, Alyosha had till the evening before implicitly believed that Katerina Ivanovna had a steadfast and passionate love for Dmitri; but he had only believed it till the evening before. He had fancied, too, that she was incapable of loving a man like Ivan, and that she did love Dmitri, and loved him just as he was, in spite of all the strangeness of such a passion.
 

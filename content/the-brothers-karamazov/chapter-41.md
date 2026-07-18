@@ -1,6 +1,8 @@
-# Chapter 3: The Brothers Make Friends
+# Chapter 3
 
 ---
+
+# The Brothers Make Friends
 
 Ivan was not, however, in a separate room, but only in a place shut off by a screen, so that it was unseen by other people in the room. It was the first room from the entrance with a buffet along the wall. Waiters were continually darting to and fro in it. The only customer in the room was an old retired military man drinking tea in a corner. But there was the usual bustle going on in the other rooms of the tavern; there were shouts for the waiters, the sound of popping corks, the click of billiard balls, the drone of the organ. Alyosha knew that Ivan did not usually visit this tavern and disliked taverns in general. So he must have come here, he reflected, simply to meet Dmitri by arrangement. Yet Dmitri was not there.
 

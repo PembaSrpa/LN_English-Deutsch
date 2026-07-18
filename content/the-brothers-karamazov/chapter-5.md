@@ -1,6 +1,8 @@
-# Chapter 3: The Second Marriage And The Second Family
+# Chapter 3
 
 ---
+
+# The Second Marriage And The Second Family
 
 Very shortly after getting his four-year-old Mitya off his hands Fyodor Pavlovitch married a second time. His second marriage lasted eight years. He took this second wife, Sofya Ivanovna, also a very young girl, from another province, where he had gone upon some small piece of business in company with a Jew. Though Fyodor Pavlovitch was a drunkard and a vicious debauchee he never neglected investing his capital, and managed his business affairs very successfully, though, no doubt, not over-scrupulously. Sofya Ivanovna was the daughter of an obscure deacon, and was left from childhood an orphan without relations. She grew up in the house of a general's widow, a wealthy old lady of good position, who was at once her benefactress and tormentor. I do not know the details, but I have only heard that the orphan girl, a meek and gentle creature, was once cut down from a halter in which she was hanging from a nail in the loft, so terrible were her sufferings from the caprice and everlasting nagging of this old woman, who was apparently not bad-hearted but had become an insufferable tyrant through idleness.
 

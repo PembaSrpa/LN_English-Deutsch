@@ -1,6 +1,8 @@
-# Chapter 1: Father Ferapont
+# Chapter 1
 
 ---
+
+# Father Ferapont
 
 Alyosha was roused early, before daybreak. Father Zossima woke up feeling very weak, though he wanted to get out of bed and sit up in a chair. His mind was quite clear; his face looked very tired, yet bright and almost joyful. It wore an expression of gayety, kindness and cordiality. "Maybe I shall not live through the coming day," he said to Alyosha. Then he desired to confess and take the sacrament at once. He always confessed to Father Paissy. After taking the communion, the service of extreme unction followed. The monks assembled and the cell was gradually filled up by the inmates of the hermitage. Meantime it was daylight. People began coming from the monastery. After the service was over the elder desired to kiss and take leave of every one. As the cell was so small the earlier visitors withdrew to make room for others. Alyosha stood beside the elder, who was seated again in his arm-chair. He talked as much as he could. Though his voice was weak, it was fairly steady.
 

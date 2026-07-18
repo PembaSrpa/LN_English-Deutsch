@@ -1,6 +1,8 @@
-# Chapter 7: Ilusha
+# Chapter 7
 
 ---
+
+# Ilusha
 
 The doctor came out of the room again, muffled in his fur coat and with his cap on his head. His face looked almost angry and disgusted, as though he were afraid of getting dirty. He cast a cursory glance round the passage, looking sternly at Alyosha and Kolya as he did so. Alyosha waved from the door to the coachman, and the carriage that had brought the doctor drove up. The captain darted out after the doctor, and, bowing apologetically, stopped him to get the last word. The poor fellow looked utterly crushed; there was a scared look in his eyes.
 
