@@ -52,7 +52,7 @@ const novels: Novel[] = [
     genre: ['Classic', 'Fiction', 'Philosophical', 'Drama','IELTS'],
     coverImage: '/covers/brothers-karamazov.jpg',
     totalChapters: 112,
-    contentFolder: 'brothers-karamazov',
+    contentFolder: 'the-brothers-karamazov',
     type: 'md',
   },
   {
