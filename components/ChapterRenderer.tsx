@@ -1,4 +1,6 @@
+'use client'
 import { GermanWord } from './GermanWord'
+import { useWordBookmark } from './WordBookmarkContext'
 import type { ParsedLine, Token } from '@/lib/parseChapter'
 
 type ArticleStyle =
@@ -98,6 +100,8 @@ function Tokens({
   chapter: number
   counter: WordCounter
 }) {
+  const { bookmark } = useWordBookmark()
+
   return (
     <>
       {tokens.map((t, i) => {
@@ -123,8 +127,17 @@ function Tokens({
               if (part === '') return null
               if (/^\s+$/.test(part)) return part
               const wordIndex = counter.current++
+              const isBookmarked = !!bookmark
+                && bookmark.novelId === novelId
+                && bookmark.chapter === chapter
+                && bookmark.wordIndex === wordIndex
               return (
-                <span key={j} data-word-index={wordIndex} data-word-text={part}>
+                <span
+                  key={j}
+                  data-word-index={wordIndex}
+                  data-word-text={part}
+                  className={isBookmarked ? 'word-bookmarked' : undefined}
+                >
                   {part}
                 </span>
               )

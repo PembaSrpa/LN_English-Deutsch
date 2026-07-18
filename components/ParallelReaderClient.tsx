@@ -48,7 +48,7 @@ export function ParallelReaderClient({ novelId, novelTitle, chapterNum, availabl
 
         <main className="flex-1 px-[calc(1.25rem+8px)] md:px-[calc(2.5rem+16px)] py-8">
           <ChapterBookmarkLayer novelId={novelId} novelTitle={novelTitle} chapterNum={chapterNum}>
-            <ParallelChapterRenderer lines={lines} fontSize={fontSize} fontFamily={FONT_STACKS[fontFamily]} />
+            <ParallelChapterRenderer lines={lines} fontSize={fontSize} fontFamily={FONT_STACKS[fontFamily]} novelId={novelId} chapterNum={chapterNum} />
           </ChapterBookmarkLayer>
         </main>
 

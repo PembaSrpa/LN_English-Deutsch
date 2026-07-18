@@ -10,6 +10,8 @@ type Props = {
   // Stable per-chapter paragraph index, used as the bookmark "word" index
   // since parallel novels bookmark whole paragraphs rather than words.
   wordIndex: number
+  novelId: string
+  chapterNum: number
 }
 
 function snippet(text: string): string {
@@ -35,16 +37,24 @@ const ENTER_WARP = {
   opacity: [0, 1, 0.85, 1, 1],
 }
 
-export function ParallelParagraph({ data, wordIndex }: Props) {
+export function ParallelParagraph({ data, wordIndex, novelId, chapterNum }: Props) {
   const { languageMode } = useSettings()
-  const { active: selectActive } = useWordBookmark()
+  const { active: selectActive, bookmark } = useWordBookmark()
   const [revealed, setRevealed] = useState(false)
 
   const wordText = snippet(data.german || data.english)
+  const isBookmarked = !!bookmark
+    && bookmark.novelId === novelId
+    && bookmark.chapter === chapterNum
+    && bookmark.wordIndex === wordIndex
 
   if (languageMode === 'en') {
     return (
-      <p data-word-index={wordIndex} data-word-text={wordText} className="leading-[1.95] mb-4 text-[1em] text-neutral-200">
+      <p
+        data-word-index={wordIndex}
+        data-word-text={wordText}
+        className={`leading-[1.95] mb-4 text-[1em] text-neutral-200 ${isBookmarked ? 'word-bookmarked' : ''}`}
+      >
         {data.english}
       </p>
     )
@@ -52,7 +62,11 @@ export function ParallelParagraph({ data, wordIndex }: Props) {
 
   if (languageMode === 'de') {
     return (
-      <p data-word-index={wordIndex} data-word-text={wordText} className="leading-[1.95] mb-4 text-[1em] text-neutral-200">
+      <p
+        data-word-index={wordIndex}
+        data-word-text={wordText}
+        className={`leading-[1.95] mb-4 text-[1em] text-neutral-200 ${isBookmarked ? 'word-bookmarked' : ''}`}
+      >
         {data.german}
       </p>
     )
@@ -68,7 +82,7 @@ export function ParallelParagraph({ data, wordIndex }: Props) {
         exit={EXIT_WARP}
         animate={ENTER_WARP}
         transition={WARP_TRANSITION}
-        className={`leading-[1.95] mb-4 text-[1em] cursor-pointer touch-manipulation ${revealed ? 'text-neutral-400' : 'text-neutral-200'}`}
+        className={`leading-[1.95] mb-4 text-[1em] cursor-pointer touch-manipulation ${revealed ? 'text-neutral-400' : 'text-neutral-200'} ${isBookmarked ? 'word-bookmarked' : ''}`}
       >
         {revealed ? data.english : data.german}
       </motion.p>

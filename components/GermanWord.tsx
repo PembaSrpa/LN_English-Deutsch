@@ -25,8 +25,12 @@ type Props = {
 }
 
 export function GermanWord({ data, novelId, novelTitle, chapter, wordIndex }: Props) {
-  const { active: selectActive } = useWordBookmark()
+  const { active: selectActive, bookmark } = useWordBookmark()
   const { annotationMode } = useSettings()
+  const isBookmarked = !!bookmark
+    && bookmark.novelId === novelId
+    && bookmark.chapter === chapter
+    && bookmark.wordIndex === wordIndex
   const [visible, setVisible] = useState(false)
   const [pos, setPos] = useState({ x: 0, y: 0 })
   const [isTouch, setIsTouch] = useState(false)
@@ -122,7 +126,7 @@ export function GermanWord({ data, novelId, novelTitle, chapter, wordIndex }: Pr
         data-word-index={wordIndex}
         data-word-text={data.word}
         onClick={handleRevealClick}
-        className={`transition-all rounded cursor-pointer touch-manipulation hover:opacity-70 ${revealed ? '' : 'font-semibold'}`}
+        className={`transition-all rounded cursor-pointer touch-manipulation hover:opacity-70 ${revealed ? '' : 'font-semibold'} ${isBookmarked ? 'word-bookmarked' : ''}`}
         style={revealed ? undefined : { color: style.color }}
       >
         {revealed ? data.translation : data.word}
@@ -136,7 +140,7 @@ export function GermanWord({ data, novelId, novelTitle, chapter, wordIndex }: Pr
         ref={spanRef}
         data-word-index={wordIndex}
         data-word-text={data.word}
-        className="font-semibold transition-all rounded cursor-pointer hover:opacity-70"
+        className={`font-semibold transition-all rounded cursor-pointer hover:opacity-70 ${isBookmarked ? 'word-bookmarked' : ''}`}
         style={{ color: style.color }}
         {...touchHandlers}
       >

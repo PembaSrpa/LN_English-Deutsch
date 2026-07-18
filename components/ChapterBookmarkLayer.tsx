@@ -4,11 +4,19 @@ import { useWordBookmark } from './WordBookmarkContext'
 
 // Wraps rendered chapter content to (1) delegate clicks on any
 // [data-word-index] element to the bookmark context while select mode is
-// active, and (2) highlight + scroll to the bookmarked item if it lives in
-// this chapter. Works for word-level bookmarks (annotated/plain novels,
-// graded novels) and paragraph-level bookmarks (parallel novels) alike,
-// since both just need a [data-word-index] + [data-word-text] pair on the
-// element that should become bookmarkable.
+// active, and (2) scroll to the bookmarked item if it lives in this chapter
+// and the URL says to (#bookmark). Works for word-level bookmarks
+// (annotated/plain novels, graded novels) and paragraph-level bookmarks
+// (parallel novels) alike, since both just need a [data-word-index] +
+// [data-word-text] pair on the element that should become bookmarkable.
+//
+// The amber highlight itself is NOT applied here. It used to be added
+// imperatively via classList, but that only ever added the class and never
+// removed it from the previously-bookmarked element, so old highlights kept
+// piling up. It also didn't survive elements being unmounted/remounted
+// (e.g. a parallel paragraph flipping between DE/EN). Each renderer now
+// applies `word-bookmarked` itself, driven by React state, so it's always
+// in sync with exactly one element.
 export function ChapterBookmarkLayer({
   novelId, novelTitle, chapterNum, children,
 }: {
@@ -32,12 +40,9 @@ export function ChapterBookmarkLayer({
 
   useEffect(() => {
     if (!bookmark || bookmark.novelId !== novelId || bookmark.chapter !== chapterNum) return
+    if (window.location.hash !== '#bookmark') return
     const el = containerRef.current?.querySelector(`[data-word-index="${bookmark.wordIndex}"]`)
-    if (!el) return
-    el.classList.add('word-bookmarked')
-    if (window.location.hash === '#bookmark') {
-      el.scrollIntoView({ block: 'center', behavior: 'smooth' })
-    }
+    el?.scrollIntoView({ block: 'center', behavior: 'smooth' })
   }, [bookmark, novelId, chapterNum])
 
   return (

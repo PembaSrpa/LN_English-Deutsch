@@ -2,11 +2,13 @@ import { ParallelParagraph } from './ParallelParagraph'
 import type { ParsedParallelLine } from '@/lib/parseParallelChapter'
 
 export function ParallelChapterRenderer({
-  lines, fontSize, fontFamily,
+  lines, fontSize, fontFamily, novelId, chapterNum,
 }: {
   lines: ParsedParallelLine[]
   fontSize: number
   fontFamily?: string
+  novelId: string
+  chapterNum: number
 }) {
   // Parallel novels show whole paragraphs rather than individually
   // annotated words, so bookmarking happens at paragraph granularity.
@@ -38,7 +40,7 @@ export function ParallelChapterRenderer({
           )
         }
 
-        return <ParallelParagraph key={i} data={line.data} wordIndex={paragraphIndex++} />
+        return <ParallelParagraph key={i} data={line.data} wordIndex={paragraphIndex++} novelId={novelId} chapterNum={chapterNum} />
       })}
     </div>
   )
