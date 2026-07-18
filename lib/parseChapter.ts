@@ -15,6 +15,7 @@ export type ParsedLine =
   | { kind: 'heading'; level: number; tokens: Token[] }
   | { kind: 'paragraph'; tokens: Token[] }
   | { kind: 'blank' }
+  | { kind: 'divider' }
   | { kind: 'table'; headers: string[]; rows: string[][] }
 
 const ANNOTATION_RE = /\{([^|{}]+)\|([^|{}]+)\|([^|{}]+)(?:\|([^}]+))?\}/g
@@ -71,6 +72,12 @@ export function parseChapter(raw: string): ParsedLine[] {
 
     if (line.trim() === '' || line.trim() === '---') {
       if (line.trim() === '') result.push({ kind: 'blank' })
+      i++
+      continue
+    }
+
+    if (line.trim() === '~') {
+      result.push({ kind: 'divider' })
       i++
       continue
     }

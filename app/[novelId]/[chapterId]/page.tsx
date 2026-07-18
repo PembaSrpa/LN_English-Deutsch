@@ -3,12 +3,14 @@ import novels, { getNovel } from '@/novels.config'
 import { getChapterRaw, getChapterList } from '@/lib/getChapters'
 import { parseChapter } from '@/lib/parseChapter'
 import { parseParallelChapter } from '@/lib/parseParallelChapter'
+import { parseGradedChapter } from '@/lib/parseGradedChapter'
 import { ReaderClient } from '@/components/ReaderClient'
 import { ParallelReaderClient } from '@/components/ParallelReaderClient'
+import { GradedReaderClient } from '@/components/GradedReaderClient'
 
 export function generateStaticParams() {
   return novels.flatMap(novel => {
-    if (novel.type !== 'md' && novel.type !== 'parallel') return []
+    if (novel.type !== 'md' && novel.type !== 'parallel' && novel.type !== 'graded') return []
     const chapters = getChapterList(novel.contentFolder)
     return chapters.map(ch => ({ novelId: novel.id, chapterId: String(ch.id) }))
   })
@@ -39,6 +41,19 @@ export default async function ReaderPage({ params }: Props) {
     )
   }
 
+  if (novel.type === 'graded') {
+    const chapter = parseGradedChapter(raw)
+    return (
+      <GradedReaderClient
+        novelId={novelId}
+        novelTitle={novel.title}
+        chapterNum={chapterNum}
+        availableChapters={chapters.length}
+        chapter={chapter}
+      />
+    )
+  }
+
   if (novel.type !== 'md') notFound()
   const lines = parseChapter(raw)
   return (
@@ -49,7 +64,7 @@ export default async function ReaderPage({ params }: Props) {
       totalChapters={novel.totalChapters}
       availableChapters={chapters.length}
       lines={lines}
-      showAnnotationToggle={!novel.genre.includes('IELTS')}
+      showAnnotationToggle={novel.annotated !== false && !novel.genre.includes('IELTS')}
       isDemo={novelId === 'ugly-duckling'}
     />
   )

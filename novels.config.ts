@@ -7,7 +7,8 @@ export type Novel = {
   coverImage: string | null
   totalChapters: number
   contentFolder: string
-  type: 'md' | 'parallel'
+  type: 'md' | 'parallel' | 'graded'
+  annotated?: boolean
 }
 
 const novels: Novel[] = [
@@ -43,6 +44,17 @@ const novels: Novel[] = [
     totalChapters: 3,
     contentFolder: 'metamorphosis',
     type: 'parallel',
+  },
+  {
+    id: 'cafe-in-berlin',
+    title: 'Café in Berlin',
+    author: 'André Klein',
+    description: 'A collection of short stories about a young man navigating life in Berlin, written in German with English translations.',
+    genre: ['Fiction', 'Short Stories', 'German', 'A1'],
+    coverImage: '/covers/cafe-in-berlin.jpg',
+    totalChapters: 10,
+    contentFolder: 'cafe-in-berlin',
+    type: 'graded',
   },
   {
     id: 'ugly-duckling',

@@ -145,6 +145,12 @@ export function ChapterRenderer({ lines, fontSize, fontFamily, novelId, novelTit
       {lines.map((line, i) => {
         if (line.kind === 'blank') return <div key={i} className="h-3" />
 
+        if (line.kind === 'divider') return (
+          <div key={i} className="flex justify-center my-6 text-neutral-500 tracking-[0.5em] text-xs select-none">
+            &middot;&middot;&middot;
+          </div>
+        )
+
         if (line.kind === 'heading') {
           if (line.level === 1) return (
             <h1 key={i} className="text-[1.4em] font-bold text-neutral-100 mb-5 mt-2">
