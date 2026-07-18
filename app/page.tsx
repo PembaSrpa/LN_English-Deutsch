@@ -23,7 +23,7 @@ export default function HomePage() {
         <ContinueToBookmark />
 
         <div className="text-[0.625rem] uppercase tracking-[0.12em] text-neutral-400 mb-3 px-1">Library</div>
-        <div className="grid grid-cols-2 md:grid-cols-3 gap-3">
+        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3">
           {novelData.map(({ novel }) => (
             <Link key={novel.id} href={`/${novel.id}`}
               className="group border border-neutral-600 rounded-xl overflow-hidden hover:border-neutral-500 transition-all bg-neutral-700">

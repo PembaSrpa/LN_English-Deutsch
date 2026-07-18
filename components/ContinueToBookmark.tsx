@@ -16,7 +16,7 @@ export function ContinueToBookmark() {
   if (!bookmark) return null
 
   return (
-    <section className="mb-8">
+    <section className="mb-8 max-w-3xl">
       <div className="text-[0.625rem] uppercase tracking-[0.12em] text-neutral-400 mb-2 px-1">Your Bookmark</div>
       <Link
         href={`/${bookmark.novelId}/${bookmark.chapter}#bookmark`}

@@ -49,18 +49,20 @@ export function GradedReaderClient({ novelId, novelTitle, chapterNum, availableC
         </header>
 
         <main className="flex-1 px-[calc(1.25rem+8px)] md:px-[calc(2.5rem+16px)] py-8">
-          <ChapterBookmarkLayer novelId={novelId} novelTitle={novelTitle} chapterNum={chapterNum}>
-            <ChapterRenderer
-              lines={chapter.storyLines}
-              fontSize={fontSize}
-              fontFamily={FONT_STACKS[fontFamily]}
-              novelId={novelId}
-              novelTitle={novelTitle}
-              chapter={chapterNum}
-            />
-          </ChapterBookmarkLayer>
-          <VocabList entries={chapter.vocabulary} />
-          <QuizSection questions={chapter.quiz} />
+          <div className="max-w-3xl mx-auto">
+            <ChapterBookmarkLayer novelId={novelId} novelTitle={novelTitle} chapterNum={chapterNum}>
+              <ChapterRenderer
+                lines={chapter.storyLines}
+                fontSize={fontSize}
+                fontFamily={FONT_STACKS[fontFamily]}
+                novelId={novelId}
+                novelTitle={novelTitle}
+                chapter={chapterNum}
+              />
+            </ChapterBookmarkLayer>
+            <VocabList entries={chapter.vocabulary} />
+            <QuizSection questions={chapter.quiz} />
+          </div>
         </main>
 
         <nav className="sticky bottom-0 z-40 bg-neutral-750 backdrop-blur border-t border-neutral-600">

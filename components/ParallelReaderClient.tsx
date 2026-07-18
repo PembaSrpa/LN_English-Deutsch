@@ -47,9 +47,11 @@ export function ParallelReaderClient({ novelId, novelTitle, chapterNum, availabl
         </header>
 
         <main className="flex-1 px-[calc(1.25rem+8px)] md:px-[calc(2.5rem+16px)] py-8">
-          <ChapterBookmarkLayer novelId={novelId} novelTitle={novelTitle} chapterNum={chapterNum}>
-            <ParallelChapterRenderer lines={lines} fontSize={fontSize} fontFamily={FONT_STACKS[fontFamily]} novelId={novelId} chapterNum={chapterNum} />
-          </ChapterBookmarkLayer>
+          <div className="max-w-3xl mx-auto">
+            <ChapterBookmarkLayer novelId={novelId} novelTitle={novelTitle} chapterNum={chapterNum}>
+              <ParallelChapterRenderer lines={lines} fontSize={fontSize} fontFamily={FONT_STACKS[fontFamily]} novelId={novelId} chapterNum={chapterNum} />
+            </ChapterBookmarkLayer>
+          </div>
         </main>
 
         <nav className="sticky bottom-0 z-40 bg-neutral-750 backdrop-blur border-t border-neutral-600">

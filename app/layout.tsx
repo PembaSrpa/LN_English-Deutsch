@@ -40,7 +40,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       </head>
       <body className="bg-neutral-900 font-mono antialiased">
         <SettingsProvider>
-          <div className="max-w-3xl md:max-w-[80%] mx-auto min-h-screen relative bg-neutral-800">
+          <div className="min-h-screen relative bg-neutral-800">
             <Scales />
             <BackButtonHandler />
             <WebOnlyAnalytics />
