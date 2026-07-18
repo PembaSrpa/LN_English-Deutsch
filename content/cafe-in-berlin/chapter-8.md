@@ -1,4 +1,4 @@
-# 8. Kohle, Ratten und Gespenster
+# Kohle, Ratten und Gespenster
 
 ~
 

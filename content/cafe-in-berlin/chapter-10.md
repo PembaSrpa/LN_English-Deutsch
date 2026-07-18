@@ -1,4 +1,4 @@
-# 10. Auf Wiedersehen, Berlin!
+# Auf Wiedersehen, Berlin!
 
 ~
 

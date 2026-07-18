@@ -1,4 +1,4 @@
-# 9. Die Dänische Dogge
+# Die Dänische Dogge
 
 ~
 

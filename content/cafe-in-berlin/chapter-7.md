@@ -1,4 +1,4 @@
-# 7. Ohne Moos nix los
+# Ohne Moos nix los
 
 ~
 

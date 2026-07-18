@@ -1,4 +1,4 @@
-# 4. Die Waschmaschine
+# Die Waschmaschine
 
 ~
 

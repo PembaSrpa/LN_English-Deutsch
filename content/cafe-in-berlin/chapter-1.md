@@ -1,4 +1,4 @@
-# 1. Die Wohngemeinschaft
+# Die Wohngemeinschaft
 
 ~
 

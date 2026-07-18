@@ -1,4 +1,4 @@
-# 6. Im Prinzenbad
+# Im Prinzenbad
 
 ~
 
