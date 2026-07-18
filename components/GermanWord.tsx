@@ -35,25 +35,11 @@ export function GermanWord({ data, novelId, novelTitle, chapter, wordIndex }: Pr
   const spanRef = useRef<HTMLSpanElement>(null)
   const hideTimer = useRef<ReturnType<typeof setTimeout> | null>(null)
   const dismissTimer = useRef<ReturnType<typeof setTimeout> | null>(null)
-  const revealTimer = useRef<ReturnType<typeof setTimeout> | null>(null)
-
-  useEffect(() => () => {
-    if (revealTimer.current) clearTimeout(revealTimer.current)
-  }, [])
 
   const handleRevealClick = useCallback((e: React.SyntheticEvent) => {
     if (selectActive) return
     e.stopPropagation()
-    setRevealed((prev) => {
-      if (!prev) return true
-      if (revealTimer.current) {
-        clearTimeout(revealTimer.current)
-        revealTimer.current = null
-        return false
-      }
-      revealTimer.current = setTimeout(() => { revealTimer.current = null }, 300)
-      return true
-    })
+    setRevealed((prev) => !prev)
   }, [selectActive])
 
   useEffect(() => {
