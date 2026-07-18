@@ -8,6 +8,13 @@ export function ParallelChapterRenderer({
   fontSize: number
   fontFamily?: string
 }) {
+  // Parallel novels show whole paragraphs rather than individually
+  // annotated words, so bookmarking happens at paragraph granularity.
+  // This counter gives every paragraph a stable, sequential index (mirrors
+  // the word counter in ChapterRenderer) so a bookmarked paragraph can be
+  // found again.
+  let paragraphIndex = 0
+
   return (
     <div style={{ fontSize, fontFamily }}>
       {lines.map((line, i) => {
@@ -31,7 +38,7 @@ export function ParallelChapterRenderer({
           )
         }
 
-        return <ParallelParagraph key={i} data={line.data} />
+        return <ParallelParagraph key={i} data={line.data} wordIndex={paragraphIndex++} />
       })}
     </div>
   )

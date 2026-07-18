@@ -1,12 +1,12 @@
 'use client'
-import { useEffect, useCallback, useRef } from 'react'
 import Link from 'next/link'
 import { motion } from 'motion/react'
 import { ChapterRenderer } from './ChapterRenderer'
 import { WordBookmarkToggle } from './WordBookmarkToggle'
+import { ChapterBookmarkLayer } from './ChapterBookmarkLayer'
 import { SettingsPanel } from './SettingsPanel'
 import { ProgressTracker } from './ProgressTracker'
-import { WordBookmarkProvider, useWordBookmark } from './WordBookmarkContext'
+import { WordBookmarkProvider } from './WordBookmarkContext'
 import { useSettings } from './SettingsContext'
 import { IconArrowLeft, IconArrowRight } from '@tabler/icons-react'
 import { FONT_STACKS } from '@/lib/settings'
@@ -21,47 +21,6 @@ type Props = {
   lines: ParsedLine[]
   isDemo?: boolean
   showAnnotationToggle?: boolean
-}
-
-// Wraps the rendered chapter to (1) delegate word clicks to the bookmark
-// context while select mode is active, and (2) highlight + scroll to the
-// bookmarked word if it lives in this chapter.
-function ChapterBookmarkLayer({
-  novelId, novelTitle, chapterNum, children,
-}: {
-  novelId: string
-  novelTitle: string
-  chapterNum: number
-  children: React.ReactNode
-}) {
-  const { active, selectWord, bookmark } = useWordBookmark()
-  const containerRef = useRef<HTMLDivElement>(null)
-
-  const handleClick = useCallback((e: React.MouseEvent<HTMLDivElement>) => {
-    if (!active) return
-    const target = (e.target as HTMLElement).closest('[data-word-index]') as HTMLElement | null
-    if (!target) return
-    const wordIndex = Number(target.dataset.wordIndex)
-    const wordText = target.dataset.wordText ?? ''
-    if (Number.isNaN(wordIndex)) return
-    selectWord({ wordIndex, wordText, novelId, novelTitle, chapter: chapterNum })
-  }, [active, selectWord, novelId, novelTitle, chapterNum])
-
-  useEffect(() => {
-    if (!bookmark || bookmark.novelId !== novelId || bookmark.chapter !== chapterNum) return
-    const el = containerRef.current?.querySelector(`[data-word-index="${bookmark.wordIndex}"]`)
-    if (!el) return
-    el.classList.add('word-bookmarked')
-    if (window.location.hash === '#bookmark') {
-      el.scrollIntoView({ block: 'center', behavior: 'smooth' })
-    }
-  }, [bookmark, novelId, chapterNum])
-
-  return (
-    <div ref={containerRef} onClick={handleClick} className={active ? 'word-select-mode' : undefined}>
-      {children}
-    </div>
-  )
 }
 
 export function ReaderClient({ novelId, novelTitle, chapterNum, availableChapters, lines, showAnnotationToggle }: Props) {

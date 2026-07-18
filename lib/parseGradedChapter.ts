@@ -78,8 +78,19 @@ function parseQuiz(raw: string): QuizQuestion[] {
   return questions
 }
 
+// Every graded chapter source file opens with "# Title\n\n---\n\n" — a
+// leftover scene-divider marker right under the heading. Rendered as-is it
+// stacks the heading's own bottom margin with the divider's large top/bottom
+// margins and the blank-line spacers on either side of it, producing a huge
+// gap before the story actually starts. It carries no meaning here (unlike
+// mid-chapter "---" scene breaks), so it's stripped, leaving a single blank
+// line between title and first paragraph — matching every other novel type.
+function stripLeadingTitleDivider(text: string): string {
+  return text.replace(/^(#\s[^\n]*\n)[ \t]*\n-{3,}[ \t]*\n[ \t]*\n/, '$1\n')
+}
+
 export function parseGradedChapter(raw: string): ParsedGradedChapter {
-  const normalized = raw.replace(/\r\n/g, '\n')
+  const normalized = stripLeadingTitleDivider(raw.replace(/\r\n/g, '\n'))
 
   const vocabIndex = normalized.search(/\*\*Vokabeln\*\*/i)
   const exerciseIndex = normalized.search(/##\s*[UÜ]bung/i)

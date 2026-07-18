@@ -2,10 +2,19 @@
 import { useState } from 'react'
 import { AnimatePresence, motion } from 'motion/react'
 import { useSettings } from './SettingsContext'
+import { useWordBookmark } from './WordBookmarkContext'
 import type { ParagraphPair } from '@/lib/parseParallelChapter'
 
 type Props = {
   data: ParagraphPair
+  // Stable per-chapter paragraph index, used as the bookmark "word" index
+  // since parallel novels bookmark whole paragraphs rather than words.
+  wordIndex: number
+}
+
+function snippet(text: string): string {
+  const trimmed = text.trim()
+  return trimmed.length > 60 ? `${trimmed.slice(0, 60).trim()}…` : trimmed
 }
 
 const WARP_TRANSITION = { duration: 0.5, ease: 'easeInOut' as const }
@@ -26,23 +35,36 @@ const ENTER_WARP = {
   opacity: [0, 1, 0.85, 1, 1],
 }
 
-export function ParallelParagraph({ data }: Props) {
+export function ParallelParagraph({ data, wordIndex }: Props) {
   const { languageMode } = useSettings()
+  const { active: selectActive } = useWordBookmark()
   const [revealed, setRevealed] = useState(false)
 
+  const wordText = snippet(data.german || data.english)
+
   if (languageMode === 'en') {
-    return <p className="leading-[1.95] mb-4 text-[1em] text-neutral-200">{data.english}</p>
+    return (
+      <p data-word-index={wordIndex} data-word-text={wordText} className="leading-[1.95] mb-4 text-[1em] text-neutral-200">
+        {data.english}
+      </p>
+    )
   }
 
   if (languageMode === 'de') {
-    return <p className="leading-[1.95] mb-4 text-[1em] text-neutral-200">{data.german}</p>
+    return (
+      <p data-word-index={wordIndex} data-word-text={wordText} className="leading-[1.95] mb-4 text-[1em] text-neutral-200">
+        {data.german}
+      </p>
+    )
   }
 
   return (
     <AnimatePresence mode="wait" initial={false}>
       <motion.p
         key={revealed ? 'en' : 'de'}
-        onClick={() => setRevealed((v) => !v)}
+        data-word-index={wordIndex}
+        data-word-text={wordText}
+        onClick={() => { if (!selectActive) setRevealed((v) => !v) }}
         exit={EXIT_WARP}
         animate={ENTER_WARP}
         transition={WARP_TRANSITION}
