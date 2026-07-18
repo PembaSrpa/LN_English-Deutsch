@@ -20,6 +20,7 @@ type Props = {
   availableChapters: number
   lines: ParsedLine[]
   isDemo?: boolean
+  showAnnotationToggle?: boolean
 }
 
 // Wraps the rendered chapter to (1) delegate word clicks to the bookmark
@@ -63,7 +64,7 @@ function ChapterBookmarkLayer({
   )
 }
 
-export function ReaderClient({ novelId, novelTitle, chapterNum, availableChapters, lines }: Props) {
+export function ReaderClient({ novelId, novelTitle, chapterNum, availableChapters, lines, showAnnotationToggle }: Props) {
   const { fontSize, fontFamily } = useSettings()
 
   const prevNum = chapterNum > 1 ? chapterNum - 1 : null
@@ -84,7 +85,7 @@ export function ReaderClient({ novelId, novelTitle, chapterNum, availableChapter
             </motion.div>
             <div className="flex items-center gap-1 shrink-0">
               <WordBookmarkToggle novelId={novelId} chapter={chapterNum} />
-              <SettingsPanel />
+              <SettingsPanel showAnnotationToggle={showAnnotationToggle} />
             </div>
           </div>
         </header>

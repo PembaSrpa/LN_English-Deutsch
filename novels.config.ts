@@ -7,7 +7,7 @@ export type Novel = {
   coverImage: string | null
   totalChapters: number
   contentFolder: string
-  type: 'md'
+  type: 'md' | 'parallel'
 }
 
 const novels: Novel[] = [
@@ -33,28 +33,6 @@ const novels: Novel[] = [
     contentFolder: 'white-nights',
     type: 'md',
 },
-  {
-    id: 'crime-and-punishment',
-    title: 'Crime and Punishment',
-    author: 'Fyodor Dostoevsky',
-    description: 'A destitute former student murders a pawnbroker in St. Petersburg and is consumed by guilt, paranoia, and the moral reckoning that follows.',
-    genre: ['Classic', 'Fiction', 'Psychological', 'Literary Fiction','IELTS'],
-    coverImage: '/covers/crime-and-punishment.jpg',
-    totalChapters: 48,
-    contentFolder: 'crime-and-punishment',
-    type: 'md',
-  },
-  {
-    id: 'brothers-karamazov',
-    title: 'The Brothers Karamazov',
-    author: 'Fyodor Dostoevsky',
-    description: 'Three brothers and their disreputable father collide over inheritance, faith, and desire in a Russian town shaken by patricide.',
-    genre: ['Classic', 'Fiction', 'Philosophical', 'Drama','IELTS'],
-    coverImage: '/covers/brothers-karamazov.jpg',
-    totalChapters: 112,
-    contentFolder: 'the-brothers-karamazov',
-    type: 'md',
-  },
   {
     id: 'ugly-duckling',
     title: 'The Ugly Duckling',
@@ -99,6 +77,17 @@ const novels: Novel[] = [
     contentFolder: 'the-great-gatsby',
     type: 'md',
 },
+  {
+    id: 'metamorphosis',
+    title: 'Metamorphosis',
+    author: 'Franz Kafka',
+    description: 'A traveling salesman wakes up transformed into a giant insect, told in full German and English side by side.',
+    genre: ['Classic', 'Fiction', 'Novella'],
+    coverImage: null,
+    totalChapters: 3,
+    contentFolder: 'metamorphosis',
+    type: 'parallel',
+  },
   {
     id: 'a1-glossary',
     title: 'A1 German',

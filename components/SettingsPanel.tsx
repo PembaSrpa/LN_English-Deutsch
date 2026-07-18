@@ -5,7 +5,10 @@ import {
   IconSettings, IconSun, IconMoon, IconDeviceDesktop, IconMinus, IconPlus,
 } from '@tabler/icons-react'
 import { useSettings } from './SettingsContext'
-import { FONT_SIZE_MAX, FONT_SIZE_MIN, BRIGHTNESS_MIN, BRIGHTNESS_MAX, FONT_STACKS, type ReaderFontFamily, type ReaderTheme } from '@/lib/settings'
+import {
+  FONT_SIZE_MAX, FONT_SIZE_MIN, BRIGHTNESS_MIN, BRIGHTNESS_MAX, FONT_STACKS,
+  type ReaderFontFamily, type ReaderTheme, type AnnotationMode, type LanguageMode,
+} from '@/lib/settings'
 
 const THEME_OPTIONS: { value: ReaderTheme; label: string; icon: typeof IconSun }[] = [
   { value: 'light', label: 'Light', icon: IconSun },
@@ -17,6 +20,17 @@ const FONT_OPTIONS: { value: ReaderFontFamily; label: string }[] = [
   { value: 'mono', label: 'Mono' },
   { value: 'sans', label: 'Sans' },
   { value: 'serif', label: 'Serif' },
+]
+
+const ANNOTATION_MODE_OPTIONS: { value: AnnotationMode; label: string }[] = [
+  { value: 'annotate', label: 'Annotate' },
+  { value: 'reveal', label: 'Reveal' },
+]
+
+const LANGUAGE_MODE_OPTIONS: { value: LanguageMode; label: string }[] = [
+  { value: 'de', label: 'German' },
+  { value: 'en', label: 'English' },
+  { value: 'both', label: 'Both' },
 ]
 
 function SegmentedButton({ active, onClick, children }: { active: boolean; onClick: () => void; children: React.ReactNode }) {
@@ -35,8 +49,16 @@ function SegmentedButton({ active, onClick, children }: { active: boolean; onCli
   )
 }
 
-export function SettingsPanel() {
-  const { theme, fontSize, fontFamily, brightness, setTheme, setFontSize, setFontFamily, setBrightness } = useSettings()
+type Props = {
+  showAnnotationToggle?: boolean
+  showLanguageMode?: boolean
+}
+
+export function SettingsPanel({ showAnnotationToggle = false, showLanguageMode = false }: Props) {
+  const {
+    theme, fontSize, fontFamily, brightness, annotationMode, languageMode,
+    setTheme, setFontSize, setFontFamily, setBrightness, setAnnotationMode, setLanguageMode,
+  } = useSettings()
   const [open, setOpen] = useState(false)
   const [mounted, setMounted] = useState(false)
   const [pos, setPos] = useState({ top: 0, left: 0 })
@@ -88,6 +110,32 @@ export function SettingsPanel() {
       className="fixed z-[200] w-[260px] rounded-xl border border-neutral-600 bg-neutral-800 p-3.5"
       style={{ top: pos.top, left: pos.left, boxShadow: '0 4px 24px rgba(0,0,0,0.4)' }}
     >
+      {showLanguageMode && (
+        <>
+          <div className="text-[0.625rem] uppercase tracking-widest text-neutral-400 mb-2">Language</div>
+          <div className="flex gap-1.5 mb-4">
+            {LANGUAGE_MODE_OPTIONS.map(({ value, label }) => (
+              <SegmentedButton key={value} active={languageMode === value} onClick={() => setLanguageMode(value)}>
+                {label}
+              </SegmentedButton>
+            ))}
+          </div>
+        </>
+      )}
+
+      {showAnnotationToggle && (
+        <>
+          <div className="text-[0.625rem] uppercase tracking-widest text-neutral-400 mb-2">Word Display</div>
+          <div className="flex gap-1.5 mb-4">
+            {ANNOTATION_MODE_OPTIONS.map(({ value, label }) => (
+              <SegmentedButton key={value} active={annotationMode === value} onClick={() => setAnnotationMode(value)}>
+                {label}
+              </SegmentedButton>
+            ))}
+          </div>
+        </>
+      )}
+
       <div className="text-[0.625rem] uppercase tracking-widest text-neutral-400 mb-2">Theme</div>
       <div className="flex gap-1.5 mb-4">
         {THEME_OPTIONS.map(({ value, label, icon: Icon }) => (

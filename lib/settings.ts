@@ -5,12 +5,16 @@ const KEY = `${PREFIX}:settings`
 
 export type ReaderTheme = 'dark' | 'light' | 'system'
 export type ReaderFontFamily = 'mono' | 'sans' | 'serif'
+export type AnnotationMode = 'annotate' | 'reveal'
+export type LanguageMode = 'en' | 'de' | 'both'
 
 export type ReaderSettings = {
   theme: ReaderTheme
   fontSize: number
   fontFamily: ReaderFontFamily
   brightness: number
+  annotationMode: AnnotationMode
+  languageMode: LanguageMode
 }
 
 export const DEFAULT_SETTINGS: ReaderSettings = {
@@ -18,6 +22,8 @@ export const DEFAULT_SETTINGS: ReaderSettings = {
   fontSize: 15,
   fontFamily: 'mono',
   brightness: 100,
+  annotationMode: 'annotate',
+  languageMode: 'both',
 }
 
 export const FONT_SIZE_MIN = 12
@@ -45,7 +51,9 @@ function sanitize(raw: Partial<ReaderSettings>): ReaderSettings {
   const brightness = typeof raw.brightness === 'number' && !Number.isNaN(raw.brightness)
     ? clamp(raw.brightness, BRIGHTNESS_MIN, BRIGHTNESS_MAX)
     : DEFAULT_SETTINGS.brightness
-  return { theme, fontFamily, fontSize, brightness }
+  const annotationMode: AnnotationMode = raw.annotationMode === 'reveal' ? 'reveal' : 'annotate'
+  const languageMode: LanguageMode = raw.languageMode === 'en' || raw.languageMode === 'de' ? raw.languageMode : 'both'
+  return { theme, fontFamily, fontSize, brightness, annotationMode, languageMode }
 }
 
 export function getReaderSettings(): ReaderSettings {

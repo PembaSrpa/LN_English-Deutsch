@@ -8,6 +8,8 @@ import {
   type ReaderSettings,
   type ReaderTheme,
   type ReaderFontFamily,
+  type AnnotationMode,
+  type LanguageMode,
 } from '@/lib/settings'
 
 type SettingsContextValue = ReaderSettings & {
@@ -15,6 +17,8 @@ type SettingsContextValue = ReaderSettings & {
   setFontSize: (size: number) => void
   setFontFamily: (family: ReaderFontFamily) => void
   setBrightness: (value: number) => void
+  setAnnotationMode: (mode: AnnotationMode) => void
+  setLanguageMode: (mode: LanguageMode) => void
 }
 
 const SettingsContext = createContext<SettingsContextValue | null>(null)
@@ -53,6 +57,8 @@ export function SettingsProvider({ children }: { children: React.ReactNode }) {
   const setFontSize = useCallback((fontSize: number) => update({ fontSize }), [update])
   const setFontFamily = useCallback((fontFamily: ReaderFontFamily) => update({ fontFamily }), [update])
   const setBrightness = useCallback((brightness: number) => update({ brightness }), [update])
+  const setAnnotationMode = useCallback((annotationMode: AnnotationMode) => update({ annotationMode }), [update])
+  const setLanguageMode = useCallback((languageMode: LanguageMode) => update({ languageMode }), [update])
 
   const value = useMemo<SettingsContextValue>(() => ({
     ...settings,
@@ -60,7 +66,9 @@ export function SettingsProvider({ children }: { children: React.ReactNode }) {
     setFontSize,
     setFontFamily,
     setBrightness,
-  }), [settings, setTheme, setFontSize, setFontFamily, setBrightness])
+    setAnnotationMode,
+    setLanguageMode,
+  }), [settings, setTheme, setFontSize, setFontFamily, setBrightness, setAnnotationMode, setLanguageMode])
 
   const dimOpacity = ((100 - settings.brightness) / 100) * 0.55
 

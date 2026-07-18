@@ -46,11 +46,15 @@ export default function HomePage() {
                     <span className="text-neutral-400 text-4xl font-bold">{novel.title.slice(0, 1)}</span>
                   </div>
                 )}
-                {(novel.genre.includes('Demo') || novel.genre.includes('IELTS')) && (
-                  <span className="absolute top-2 right-2 text-[0.5625rem] bg-black/70 text-white px-1.5 py-0.5 rounded-full font-bold uppercase tracking-wider z-10">
-                    {novel.genre.includes('Demo') ? 'Demo' : 'IELTS'}
-                  </span>
-                )}
+                {(() => {
+                  const badge = ['Demo', 'IELTS', 'A1', 'A2', 'B1', 'B2'].find(tag => novel.genre.includes(tag))
+                  if (!badge) return null
+                  return (
+                    <span className="absolute top-2 right-2 text-[0.5625rem] bg-black/70 text-white px-1.5 py-0.5 rounded-full font-bold uppercase tracking-wider z-10">
+                      {badge}
+                    </span>
+                  )
+                })()}
               </div>
               <div className="p-3 bg-neutral-700">
                 <div className="text-xs font-semibold text-neutral-100 truncate mb-0.5">{novel.title}</div>

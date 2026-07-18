@@ -2,6 +2,7 @@
 import { useState, useRef, useCallback, useEffect } from 'react'
 import { createPortal } from 'react-dom'
 import { useWordBookmark } from './WordBookmarkContext'
+import { useSettings } from './SettingsContext'
 import type { AnnotatedWord, WordType } from '@/lib/parseChapter'
 
 const TYPE_STYLES: Record<WordType, { color: string; label: string }> = {
@@ -25,13 +26,35 @@ type Props = {
 
 export function GermanWord({ data, novelId, novelTitle, chapter, wordIndex }: Props) {
   const { active: selectActive } = useWordBookmark()
+  const { annotationMode } = useSettings()
   const [visible, setVisible] = useState(false)
   const [pos, setPos] = useState({ x: 0, y: 0 })
   const [isTouch, setIsTouch] = useState(false)
   const [mounted, setMounted] = useState(false)
+  const [revealed, setRevealed] = useState(false)
   const spanRef = useRef<HTMLSpanElement>(null)
   const hideTimer = useRef<ReturnType<typeof setTimeout> | null>(null)
   const dismissTimer = useRef<ReturnType<typeof setTimeout> | null>(null)
+  const revealTimer = useRef<ReturnType<typeof setTimeout> | null>(null)
+
+  useEffect(() => () => {
+    if (revealTimer.current) clearTimeout(revealTimer.current)
+  }, [])
+
+  const handleRevealClick = useCallback((e: React.SyntheticEvent) => {
+    if (selectActive) return
+    e.stopPropagation()
+    setRevealed((prev) => {
+      if (!prev) return true
+      if (revealTimer.current) {
+        clearTimeout(revealTimer.current)
+        revealTimer.current = null
+        return false
+      }
+      revealTimer.current = setTimeout(() => { revealTimer.current = null }, 300)
+      return true
+    })
+  }, [selectActive])
 
   useEffect(() => {
     setMounted(true)
@@ -106,6 +129,20 @@ export function GermanWord({ data, novelId, novelTitle, chapter, wordIndex }: Pr
     </div>,
     document.body
   ) : null
+
+  if (annotationMode === 'reveal') {
+    return (
+      <span
+        data-word-index={wordIndex}
+        data-word-text={data.word}
+        onClick={handleRevealClick}
+        className={`transition-all rounded cursor-pointer touch-manipulation hover:opacity-70 ${revealed ? '' : 'font-semibold'}`}
+        style={revealed ? undefined : { color: style.color }}
+      >
+        {revealed ? data.translation : data.word}
+      </span>
+    )
+  }
 
   return (
     <>
