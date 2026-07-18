@@ -1,4 +1,5 @@
 'use client'
+import { useMemo } from 'react'
 import { GermanWord } from './GermanWord'
 import { useWordBookmark } from './WordBookmarkContext'
 import type { ParsedLine, Token } from '@/lib/parseChapter'
@@ -84,29 +85,52 @@ function GenderedCell({ text }: { text: string }) {
   return <><span className={`da-${match.style.id} font-semibold`}>{article}</span>{rest}</>
 }
 
-// Shared counter object threaded through a single chapter render so every
-// word — plain or annotated — gets a stable, sequential index. Because it's
-// a fresh plain object created once per ChapterRenderer call and consumed
-// synchronously in document order, the same chapter content always produces
-// the same indices, which is what lets a bookmarked word be found again.
-type WordCounter = { current: number }
+// Every word — plain or annotated — needs a stable, sequential index so a
+// bookmarked word can be found again later. This used to be assigned via a
+// single mutable counter object threaded through the whole render and
+// incremented as JSX was built. That broke as soon as a bookmark was set:
+// GermanWord/Tokens read the bookmark via context, so React can (and does)
+// re-render just those consumers directly without re-invoking their parent
+// ChapterRenderer. The shared counter object was never recreated for that
+// standalone re-render, so it kept incrementing from wherever the previous
+// full render had left it — silently shifting every word's index and
+// breaking the highlight instead of just re-showing it.
+//
+// Fix: precompute how many word-slots each line contains (pure, no state),
+// derive a starting offset per line, and give each Tokens instance its own
+// starting number as a plain prop. Counting within a single Tokens call is
+// still just a local variable — safe, because it's recreated from scratch
+// on every call instead of being shared across calls.
+function countTokenWords(tokens: Token[]): number {
+  let n = 0
+  for (const t of tokens) {
+    if (t.kind === 'annotated') { n++; continue }
+    for (const part of t.value.split(/(\s+)/)) {
+      if (part === '' || /^\s+$/.test(part)) continue
+      n++
+    }
+  }
+  return n
+}
 
 function Tokens({
-  tokens, novelId, novelTitle, chapter, counter,
+  tokens, novelId, novelTitle, chapter, startIndex,
 }: {
+
   tokens: Token[]
   novelId: string
   novelTitle: string
   chapter: number
-  counter: WordCounter
+  startIndex: number
 }) {
   const { bookmark } = useWordBookmark()
+  let local = startIndex
 
   return (
     <>
       {tokens.map((t, i) => {
         if (t.kind === 'annotated') {
-          const wordIndex = counter.current++
+          const wordIndex = local++
           return (
             <GermanWord
               key={i}
@@ -126,7 +150,7 @@ function Tokens({
             {parts.map((part, j) => {
               if (part === '') return null
               if (/^\s+$/.test(part)) return part
-              const wordIndex = counter.current++
+              const wordIndex = local++
               const isBookmarked = !!bookmark
                 && bookmark.novelId === novelId
                 && bookmark.chapter === chapter
@@ -150,7 +174,21 @@ function Tokens({
 }
 
 export function ChapterRenderer({ lines, fontSize, fontFamily, novelId, novelTitle, chapter }: { lines: ParsedLine[]; fontSize: number; fontFamily?: string; novelId: string; novelTitle: string; chapter: number }) {
-  const counter: WordCounter = { current: 0 }
+  // One fixed starting word-index per line, computed once from the parsed
+  // content itself (not from render side effects) so it can never drift
+  // between renders. See the note above Tokens for why that matters.
+  const lineStartIndices = useMemo(() => {
+    const starts: number[] = []
+    let running = 0
+    for (const line of lines) {
+      starts.push(running)
+      if (line.kind === 'heading' || line.kind === 'paragraph') {
+        running += countTokenWords(line.tokens)
+      }
+    }
+    return starts
+  }, [lines])
+
   return (
     <div style={{ fontSize, fontFamily }}>
       <style>{STYLE_CSS}</style>
@@ -167,17 +205,17 @@ export function ChapterRenderer({ lines, fontSize, fontFamily, novelId, novelTit
         if (line.kind === 'heading') {
           if (line.level === 1) return (
             <h1 key={i} className="text-[1.4em] font-bold text-neutral-100 mb-5 mt-2">
-              <Tokens tokens={line.tokens} novelId={novelId} novelTitle={novelTitle} chapter={chapter} counter={counter} />
+              <Tokens tokens={line.tokens} novelId={novelId} novelTitle={novelTitle} chapter={chapter} startIndex={lineStartIndices[i]} />
             </h1>
           )
           if (line.level === 2) return (
             <h2 key={i} className="text-[1.1em] font-semibold text-neutral-200 mb-3 mt-8 pb-2 border-b border-neutral-600">
-              <Tokens tokens={line.tokens} novelId={novelId} novelTitle={novelTitle} chapter={chapter} counter={counter} />
+              <Tokens tokens={line.tokens} novelId={novelId} novelTitle={novelTitle} chapter={chapter} startIndex={lineStartIndices[i]} />
             </h2>
           )
           return (
             <h3 key={i} className="text-[1em] font-semibold text-neutral-200 mb-2 mt-4">
-              <Tokens tokens={line.tokens} novelId={novelId} novelTitle={novelTitle} chapter={chapter} counter={counter} />
+              <Tokens tokens={line.tokens} novelId={novelId} novelTitle={novelTitle} chapter={chapter} startIndex={lineStartIndices[i]} />
             </h3>
           )
         }
@@ -211,7 +249,7 @@ export function ChapterRenderer({ lines, fontSize, fontFamily, novelId, novelTit
 
         return (
           <p key={i} className="leading-[1.95] text-neutral-200 mb-4 text-[1em]">
-            <Tokens tokens={line.tokens} novelId={novelId} novelTitle={novelTitle} chapter={chapter} counter={counter} />
+            <Tokens tokens={line.tokens} novelId={novelId} novelTitle={novelTitle} chapter={chapter} startIndex={lineStartIndices[i]} />
           </p>
         )
       })}
