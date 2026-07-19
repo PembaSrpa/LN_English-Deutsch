@@ -1,4 +1,4 @@
-# 1. Willkommen in Frankfurt
+# Willkommen in Frankfurt
 
 ---
 

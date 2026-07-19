@@ -1,4 +1,4 @@
-# 7. Fast wie zu Hause
+# Fast wie zu Hause
 
 ---
 

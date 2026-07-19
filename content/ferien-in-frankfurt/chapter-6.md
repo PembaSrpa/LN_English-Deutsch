@@ -1,4 +1,4 @@
-# 6. 200 Meter über Frankfurt
+# 200 Meter über Frankfurt
 
 ---
 

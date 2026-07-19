@@ -1,4 +1,4 @@
-# 3. Shoppingtour
+# Shoppingtour
 
 ---
 

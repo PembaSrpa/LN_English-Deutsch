@@ -1,4 +1,4 @@
-# 9. Blaulicht im Rotlichtviertel
+# Blaulicht im Rotlichtviertel
 
 ---
 

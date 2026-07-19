@@ -1,4 +1,4 @@
-# 10. Alle Städte, ein Preis
+# Alle Städte, ein Preis
 
 ---
 

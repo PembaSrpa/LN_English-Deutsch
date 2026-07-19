@@ -1,4 +1,4 @@
-# 8. Sechs Stunden Aufenthalt
+# Sechs Stunden Aufenthalt
 
 ---
 

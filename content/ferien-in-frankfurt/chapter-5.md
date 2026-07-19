@@ -1,4 +1,4 @@
-# 5. Handkäse mit Musik
+# Handkäse mit Musik
 
 ---
 

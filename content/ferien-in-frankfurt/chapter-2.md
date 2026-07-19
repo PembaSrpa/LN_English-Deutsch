@@ -1,4 +1,4 @@
-# 2. Ein Name, zwei Städte
+# Ein Name, zwei Städte
 
 ---
 
