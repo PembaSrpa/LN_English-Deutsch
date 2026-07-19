@@ -57,6 +57,17 @@ const novels: Novel[] = [
     type: 'graded',
   },
   {
+    id: 'ferien-in-frankfurt',
+    title: 'Ferien in Frankfurt',
+    author: 'André Klein',
+    description: 'The sequel to Café in Berlin',
+    genre: ['Fiction', 'Short Stories', 'German', 'A1'],
+    coverImage: '/covers/ferien-in-frankfurt.jpg',
+    totalChapters: 10,
+    contentFolder: 'ferien-in-frankfurt',
+    type: 'graded',
+  },
+  {
     id: 'ugly-duckling',
     title: 'The Ugly Duckling',
     author: 'Hans Christian Andersen',
