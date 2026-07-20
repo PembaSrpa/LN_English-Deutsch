@@ -31,7 +31,7 @@ export function ParallelReaderClient({ novelId, novelTitle, chapterNum, availabl
       <div className="min-h-screen flex flex-col">
         <ProgressTracker novelId={novelId} chapter={chapterNum} />
 
-        <header className="sticky top-0 z-40 bg-neutral-750 backdrop-blur border-b border-neutral-600">
+        <header className="sticky top-0 z-40 bg-neutral-750 border-b border-neutral-600">
           <div className="flex items-center justify-between gap-2 px-[calc(1.25rem+8px)] md:px-[calc(2.5rem+16px)] py-2">
             <motion.div className="min-w-0 flex-1" whileHover={{ scale: 1.05 }} transition={{ type: 'spring', stiffness: 400, damping: 20 }}>
               <Link href={`/${novelId}`} title={novelTitle} className="flex items-center gap-1.5 min-w-0 text-xs text-neutral-100 font-medium hover:text-[var(--n-emphasis)] transition-colors">
@@ -54,7 +54,7 @@ export function ParallelReaderClient({ novelId, novelTitle, chapterNum, availabl
           </div>
         </main>
 
-        <nav className="sticky bottom-0 z-40 bg-neutral-750 backdrop-blur border-t border-neutral-600">
+        <nav className="sticky bottom-0 z-40 bg-neutral-750 border-t border-neutral-600">
           <div className="flex items-center justify-between px-[calc(1.25rem+8px)] md:px-[calc(2.5rem+16px)] py-3">
             {prevNum ? (
               <motion.div whileHover={{ scale: 1.05 }} transition={{ type: 'spring', stiffness: 400, damping: 20 }}>
