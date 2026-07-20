@@ -134,6 +134,17 @@ const novels: Novel[] = [
     type: 'md',
   },
   {
+    id: 'the-stranger',
+    title: 'The Stranger',
+    author: 'Albert Camus',
+    description: 'A detached clerk in French Algeria kills a man on a sun-scorched beach and faces trial less for the killing than for his refusal to perform grief, remorse, or belief.',
+    genre: ['Classic', 'Fiction', 'Philosophical', 'Existentialism'],
+    coverImage: '/covers/the-stranger.jpg',
+    totalChapters: 11,
+    contentFolder: 'the-stranger',
+    type: 'md',
+  },
+  {
     id: 'a1-glossary',
     title: 'A1 German',
     author: 'Goethe',

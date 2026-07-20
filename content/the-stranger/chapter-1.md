@@ -1,0 +1,3 @@
+# Part 1
+
+ Meursault, a French Algerian clerk, learns of his mother's death and travels to the retirement home in Marengo for her funeral, showing little outward grief. Back in Algiers, he resumes his routine - swimming, seeing a film, and starting a relationship with Marie. He befriends his neighbor Raymond, a man with a shady reputation, and helps him write a letter to lure and humiliate an ex-mistress, which draws Raymond into a feud with her brother and his friends. Tension escalates over a series of encounters, including a violent altercation at the beach. Isolated, blinded by heat and glare, Meursault encounters the brother alone on the beach and shoots him - then fires four more shots into the already-dead body.
