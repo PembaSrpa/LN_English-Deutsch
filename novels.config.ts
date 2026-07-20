@@ -138,7 +138,7 @@ const novels: Novel[] = [
     title: 'The Stranger',
     author: 'Albert Camus',
     description: 'A detached clerk in French Algeria kills a man on a sun-scorched beach and faces trial less for the killing than for his refusal to perform grief, remorse, or belief.',
-    genre: ['Classic', 'Fiction', 'Philosophical', 'Existentialism'],
+    genre: ['Classic', 'Fiction', 'Philosophical', 'Existentialism','IELTS'],
     coverImage: '/covers/the-stranger.png',
     totalChapters: 11,
     contentFolder: 'the-stranger',
