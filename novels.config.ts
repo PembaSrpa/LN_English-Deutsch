@@ -144,6 +144,17 @@ const novels: Novel[] = [
     contentFolder: 'a1-glossary',
     type: 'md',
   },
+      {
+      id: 'short-stories-german-beginners',
+      title: 'Short Stories in German for Beginners',
+      author: 'Olly Richards',
+      description: 'A collection of 8 graded short stories in German, each with a chapter-by-chapter summary, vocabulary list, and comprehension quiz, written for beginner learners.',
+      genre: ['Fiction', 'Short Stories', 'German', 'A2'],
+      coverImage: '/covers/short-stories-german-beginners.jpg',
+      totalChapters: 33,
+      contentFolder: 'short-stories-german-beginners',
+      type: 'graded',
+    },
 ]
 
 export default novels
