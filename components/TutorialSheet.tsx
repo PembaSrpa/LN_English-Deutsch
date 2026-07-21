@@ -1,5 +1,5 @@
 'use client'
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useMemo } from 'react'
 import { createPortal } from 'react-dom'
 import { IconX } from '@tabler/icons-react'
 import { useTutorial } from './TutorialContext'
@@ -12,14 +12,18 @@ type Props = {
 
 export function TutorialSheet({ novelType, showAnnotationTab = true }: Props) {
   const { open, hide } = useTutorial()
-  const tabs = getTutorialTabs(novelType, showAnnotationTab)
+  const tabs = useMemo(
+    () => getTutorialTabs(novelType, showAnnotationTab),
+    [novelType, showAnnotationTab],
+  )
   const [activeTab, setActiveTab] = useState(tabs[0].id)
   const [mounted, setMounted] = useState(false)
 
   useEffect(() => setMounted(true), [])
   useEffect(() => {
     if (open) setActiveTab(tabs[0].id)
-  }, [open, tabs])
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [open])
 
   if (!mounted || !open) return null
 
