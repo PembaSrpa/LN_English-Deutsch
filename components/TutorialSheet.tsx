@@ -3,15 +3,16 @@ import { useState, useEffect } from 'react'
 import { createPortal } from 'react-dom'
 import { IconX } from '@tabler/icons-react'
 import { useTutorial } from './TutorialContext'
-import { TUTORIAL_TABS, type NovelType } from '@/lib/tutorialContent'
+import { getTutorialTabs, type NovelType } from '@/lib/tutorialContent'
 
 type Props = {
   novelType: NovelType
+  showAnnotationTab?: boolean
 }
 
-export function TutorialSheet({ novelType }: Props) {
+export function TutorialSheet({ novelType, showAnnotationTab = true }: Props) {
   const { open, hide } = useTutorial()
-  const tabs = TUTORIAL_TABS[novelType]
+  const tabs = getTutorialTabs(novelType, showAnnotationTab)
   const [activeTab, setActiveTab] = useState(tabs[0].id)
   const [mounted, setMounted] = useState(false)
 

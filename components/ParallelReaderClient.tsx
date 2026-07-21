@@ -52,9 +52,9 @@ export function ParallelReaderClient({ novelId, novelTitle, chapterNum, availabl
                   </Link>
                 </motion.div>
                 <div className="flex items-center gap-1 shrink-0">
-                  <WordBookmarkToggle novelId={novelId} chapter={chapterNum} />
-                  <WordNarrationToggle />
                   <TutorialToggle />
+                  <WordNarrationToggle />
+                  <WordBookmarkToggle novelId={novelId} chapter={chapterNum} />
                   <SettingsPanel showLanguageMode showNarration />
                 </div>
               </div>

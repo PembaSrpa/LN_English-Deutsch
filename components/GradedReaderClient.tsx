@@ -53,9 +53,9 @@ export function GradedReaderClient({ novelId, novelTitle, chapterNum, availableC
                   </Link>
                 </motion.div>
                 <div className="flex items-center gap-1 shrink-0">
-                  <WordBookmarkToggle novelId={novelId} chapter={chapterNum} />
-                  <WordNarrationToggle />
                   <TutorialToggle />
+                  <WordNarrationToggle />
+                  <WordBookmarkToggle novelId={novelId} chapter={chapterNum} />
                   <SettingsPanel showNarration />
                 </div>
               </div>

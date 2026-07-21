@@ -15,8 +15,6 @@ export type ReaderSettings = {
   brightness: number
   annotationMode: AnnotationMode
   languageMode: LanguageMode
-  voiceEnabled: boolean
-  tutorialTipsEnabled: boolean
 }
 
 export const DEFAULT_SETTINGS: ReaderSettings = {
@@ -26,8 +24,6 @@ export const DEFAULT_SETTINGS: ReaderSettings = {
   brightness: 100,
   annotationMode: 'annotate',
   languageMode: 'both',
-  voiceEnabled: true,
-  tutorialTipsEnabled: true,
 }
 
 export const FONT_SIZE_MIN = 12
@@ -57,9 +53,7 @@ function sanitize(raw: Partial<ReaderSettings>): ReaderSettings {
     : DEFAULT_SETTINGS.brightness
   const annotationMode: AnnotationMode = raw.annotationMode === 'reveal' ? 'reveal' : 'annotate'
   const languageMode: LanguageMode = raw.languageMode === 'en' || raw.languageMode === 'de' ? raw.languageMode : 'both'
-  const voiceEnabled = typeof raw.voiceEnabled === 'boolean' ? raw.voiceEnabled : DEFAULT_SETTINGS.voiceEnabled
-  const tutorialTipsEnabled = typeof raw.tutorialTipsEnabled === 'boolean' ? raw.tutorialTipsEnabled : DEFAULT_SETTINGS.tutorialTipsEnabled
-  return { theme, fontFamily, fontSize, brightness, annotationMode, languageMode, voiceEnabled, tutorialTipsEnabled }
+  return { theme, fontFamily, fontSize, brightness, annotationMode, languageMode }
 }
 
 export function getReaderSettings(): ReaderSettings {

@@ -1,6 +1,5 @@
 'use client'
 import { createContext, useContext, useState, useEffect, useCallback } from 'react'
-import { useSettings } from './SettingsContext'
 import type { NovelType } from '@/lib/tutorialContent'
 
 type TutorialContextValue = {
@@ -19,16 +18,14 @@ type ProviderProps = {
 }
 
 export function TutorialProvider({ children, novelType }: ProviderProps) {
-  const { tutorialTipsEnabled } = useSettings()
   const [open, setOpen] = useState(false)
 
   useEffect(() => {
-    if (!tutorialTipsEnabled) return
     const key = STORAGE_PREFIX + novelType
     if (window.localStorage.getItem(key)) return
     window.localStorage.setItem(key, '1')
     setOpen(true)
-  }, [novelType, tutorialTipsEnabled])
+  }, [novelType])
 
   const show = useCallback(() => setOpen(true), [])
   const hide = useCallback(() => setOpen(false), [])

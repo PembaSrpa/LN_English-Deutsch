@@ -26,6 +26,8 @@ const NARRATION_TAB: TutorialTab = {
   ],
 }
 
+export const DEVICE_VOICE_CAVEAT = 'If your device has no German voice installed, German words may sound off or come out in an English accent.'
+
 const ANNOTATION_TAB: TutorialTab = {
   id: 'annotation',
   label: 'Annotation',
@@ -55,8 +57,10 @@ const VOCAB_TAB: TutorialTab = {
   ],
 }
 
-export const TUTORIAL_TABS: Record<NovelType, TutorialTab[]> = {
-  md: [BOOKMARK_TAB, NARRATION_TAB, ANNOTATION_TAB],
-  graded: [BOOKMARK_TAB, NARRATION_TAB, VOCAB_TAB],
-  parallel: [BOOKMARK_TAB, NARRATION_TAB, LANGUAGE_TAB],
+export function getTutorialTabs(novelType: NovelType, showAnnotationTab: boolean = true): TutorialTab[] {
+  if (novelType === 'md') {
+    return showAnnotationTab ? [BOOKMARK_TAB, NARRATION_TAB, ANNOTATION_TAB] : [BOOKMARK_TAB, NARRATION_TAB]
+  }
+  if (novelType === 'graded') return [BOOKMARK_TAB, NARRATION_TAB, VOCAB_TAB]
+  return [BOOKMARK_TAB, NARRATION_TAB, LANGUAGE_TAB]
 }

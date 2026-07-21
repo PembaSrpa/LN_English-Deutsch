@@ -54,9 +54,9 @@ export function ReaderClient({ novelId, novelTitle, chapterNum, availableChapter
                   </Link>
                 </motion.div>
                 <div className="flex items-center gap-1 shrink-0">
-                  <WordBookmarkToggle novelId={novelId} chapter={chapterNum} />
-                  <WordNarrationToggle />
                   <TutorialToggle />
+                  <WordNarrationToggle hasGermanVoice={showAnnotationToggle} />
+                  <WordBookmarkToggle novelId={novelId} chapter={chapterNum} />
                   <SettingsPanel showAnnotationToggle={showAnnotationToggle} showNarration />
                 </div>
               </div>
@@ -90,7 +90,7 @@ export function ReaderClient({ novelId, novelTitle, chapterNum, availableChapter
               </div>
             </nav>
           </div>
-          <TutorialSheet novelType="md" />
+          <TutorialSheet novelType="md" showAnnotationTab={showAnnotationToggle} />
           </TutorialProvider>
         </NarrationProvider>
       </WordNarrationProvider>
