@@ -6,6 +6,9 @@ import { VocabList } from './VocabList'
 import { QuizSection } from './QuizSection'
 import { WordBookmarkToggle } from './WordBookmarkToggle'
 import { WordNarrationToggle } from './WordNarrationToggle'
+import { TutorialToggle } from './TutorialToggle'
+import { TutorialSheet } from './TutorialSheet'
+import { TutorialProvider } from './TutorialContext'
 import { ChapterBookmarkLayer } from './ChapterBookmarkLayer'
 import { WordBookmarkProvider } from './WordBookmarkContext'
 import { WordNarrationProvider } from './WordNarrationContext'
@@ -37,6 +40,7 @@ export function GradedReaderClient({ novelId, novelTitle, chapterNum, availableC
     <WordBookmarkProvider resetKey={chapterNum}>
       <WordNarrationProvider resetKey={chapterNum}>
         <NarrationProvider segments={narrationSegments} lang="de-DE">
+          <TutorialProvider novelType="graded">
           <div className="min-h-screen flex flex-col">
             <ProgressTracker novelId={novelId} chapter={chapterNum} />
 
@@ -51,6 +55,7 @@ export function GradedReaderClient({ novelId, novelTitle, chapterNum, availableC
                 <div className="flex items-center gap-1 shrink-0">
                   <WordBookmarkToggle novelId={novelId} chapter={chapterNum} />
                   <WordNarrationToggle />
+                  <TutorialToggle />
                   <SettingsPanel showNarration />
                 </div>
               </div>
@@ -94,6 +99,8 @@ export function GradedReaderClient({ novelId, novelTitle, chapterNum, availableC
               </div>
             </nav>
           </div>
+          <TutorialSheet novelType="graded" />
+          </TutorialProvider>
         </NarrationProvider>
       </WordNarrationProvider>
     </WordBookmarkProvider>

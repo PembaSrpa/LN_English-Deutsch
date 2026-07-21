@@ -4,6 +4,9 @@ import { motion } from 'motion/react'
 import { ChapterRenderer } from './ChapterRenderer'
 import { WordBookmarkToggle } from './WordBookmarkToggle'
 import { WordNarrationToggle } from './WordNarrationToggle'
+import { TutorialToggle } from './TutorialToggle'
+import { TutorialSheet } from './TutorialSheet'
+import { TutorialProvider } from './TutorialContext'
 import { ChapterBookmarkLayer } from './ChapterBookmarkLayer'
 import { SettingsPanel } from './SettingsPanel'
 import { ProgressTracker } from './ProgressTracker'
@@ -38,6 +41,7 @@ export function ReaderClient({ novelId, novelTitle, chapterNum, availableChapter
     <WordBookmarkProvider resetKey={chapterNum}>
       <WordNarrationProvider resetKey={chapterNum}>
         <NarrationProvider segments={narrationSegments} lang="en-GB">
+          <TutorialProvider novelType="md">
           <div className="min-h-screen flex flex-col">
             <ProgressTracker novelId={novelId} chapter={chapterNum} />
 
@@ -52,6 +56,7 @@ export function ReaderClient({ novelId, novelTitle, chapterNum, availableChapter
                 <div className="flex items-center gap-1 shrink-0">
                   <WordBookmarkToggle novelId={novelId} chapter={chapterNum} />
                   <WordNarrationToggle />
+                  <TutorialToggle />
                   <SettingsPanel showAnnotationToggle={showAnnotationToggle} showNarration />
                 </div>
               </div>
@@ -85,6 +90,8 @@ export function ReaderClient({ novelId, novelTitle, chapterNum, availableChapter
               </div>
             </nav>
           </div>
+          <TutorialSheet novelType="md" />
+          </TutorialProvider>
         </NarrationProvider>
       </WordNarrationProvider>
     </WordBookmarkProvider>

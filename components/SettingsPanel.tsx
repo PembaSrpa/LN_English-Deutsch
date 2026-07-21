@@ -59,8 +59,8 @@ type Props = {
 
 export function SettingsPanel({ showAnnotationToggle = false, showLanguageMode = false, showNarration = false }: Props) {
   const {
-    theme, fontSize, fontFamily, brightness, annotationMode, languageMode, voiceEnabled,
-    setTheme, setFontSize, setFontFamily, setBrightness, setAnnotationMode, setLanguageMode, setVoiceEnabled,
+    theme, fontSize, fontFamily, brightness, annotationMode, languageMode, voiceEnabled, tutorialTipsEnabled,
+    setTheme, setFontSize, setFontFamily, setBrightness, setAnnotationMode, setLanguageMode, setVoiceEnabled, setTutorialTipsEnabled,
   } = useSettings()
   const narration = useNarrationPlayer()
   const [open, setOpen] = useState(false)
@@ -168,6 +168,12 @@ export function SettingsPanel({ showAnnotationToggle = false, showLanguageMode =
           </div>
         </>
       )}
+
+      <div className="text-[0.625rem] uppercase tracking-widest text-neutral-400 mb-2">Tutorial tips</div>
+      <div className="flex gap-1.5 mb-4">
+        <SegmentedButton active={tutorialTipsEnabled} onClick={() => setTutorialTipsEnabled(true)}>On</SegmentedButton>
+        <SegmentedButton active={!tutorialTipsEnabled} onClick={() => setTutorialTipsEnabled(false)}>Off</SegmentedButton>
+      </div>
 
       <div className="text-[0.625rem] uppercase tracking-widest text-neutral-400 mb-2">Theme</div>
       <div className="flex gap-1.5 mb-4">

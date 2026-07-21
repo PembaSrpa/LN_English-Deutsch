@@ -4,6 +4,9 @@ import { motion } from 'motion/react'
 import { ParallelChapterRenderer } from './ParallelChapterRenderer'
 import { WordBookmarkToggle } from './WordBookmarkToggle'
 import { WordNarrationToggle } from './WordNarrationToggle'
+import { TutorialToggle } from './TutorialToggle'
+import { TutorialSheet } from './TutorialSheet'
+import { TutorialProvider } from './TutorialContext'
 import { ChapterBookmarkLayer } from './ChapterBookmarkLayer'
 import { WordBookmarkProvider } from './WordBookmarkContext'
 import { WordNarrationProvider } from './WordNarrationContext'
@@ -36,6 +39,7 @@ export function ParallelReaderClient({ novelId, novelTitle, chapterNum, availabl
     <WordBookmarkProvider resetKey={chapterNum}>
       <WordNarrationProvider resetKey={chapterNum}>
         <NarrationProvider segments={narrationSegments} lang={narrationLang}>
+          <TutorialProvider novelType="parallel">
           <div className="min-h-screen flex flex-col">
             <ProgressTracker novelId={novelId} chapter={chapterNum} />
 
@@ -50,6 +54,7 @@ export function ParallelReaderClient({ novelId, novelTitle, chapterNum, availabl
                 <div className="flex items-center gap-1 shrink-0">
                   <WordBookmarkToggle novelId={novelId} chapter={chapterNum} />
                   <WordNarrationToggle />
+                  <TutorialToggle />
                   <SettingsPanel showLanguageMode showNarration />
                 </div>
               </div>
@@ -83,6 +88,8 @@ export function ParallelReaderClient({ novelId, novelTitle, chapterNum, availabl
               </div>
             </nav>
           </div>
+          <TutorialSheet novelType="parallel" />
+          </TutorialProvider>
         </NarrationProvider>
       </WordNarrationProvider>
     </WordBookmarkProvider>
