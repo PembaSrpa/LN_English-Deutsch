@@ -3,8 +3,10 @@ import { useCallback, useEffect, useRef, useState } from 'react'
 import { createPortal } from 'react-dom'
 import {
   IconSettings, IconSun, IconMoon, IconDeviceDesktop, IconMinus, IconPlus,
+  IconPlayerPlay, IconPlayerPause, IconPlayerStop,
 } from '@tabler/icons-react'
 import { useSettings } from './SettingsContext'
+import { useNarrationPlayer } from './NarrationProvider'
 import {
   FONT_SIZE_MAX, FONT_SIZE_MIN, BRIGHTNESS_MIN, BRIGHTNESS_MAX, FONT_STACKS,
   type ReaderFontFamily, type ReaderTheme, type AnnotationMode, type LanguageMode,
@@ -52,13 +54,15 @@ function SegmentedButton({ active, onClick, children }: { active: boolean; onCli
 type Props = {
   showAnnotationToggle?: boolean
   showLanguageMode?: boolean
+  showNarration?: boolean
 }
 
-export function SettingsPanel({ showAnnotationToggle = false, showLanguageMode = false }: Props) {
+export function SettingsPanel({ showAnnotationToggle = false, showLanguageMode = false, showNarration = false }: Props) {
   const {
-    theme, fontSize, fontFamily, brightness, annotationMode, languageMode,
-    setTheme, setFontSize, setFontFamily, setBrightness, setAnnotationMode, setLanguageMode,
+    theme, fontSize, fontFamily, brightness, annotationMode, languageMode, voiceEnabled,
+    setTheme, setFontSize, setFontFamily, setBrightness, setAnnotationMode, setLanguageMode, setVoiceEnabled,
   } = useSettings()
+  const narration = useNarrationPlayer()
   const [open, setOpen] = useState(false)
   const [mounted, setMounted] = useState(false)
   const [pos, setPos] = useState({ top: 0, left: 0 })
@@ -132,6 +136,35 @@ export function SettingsPanel({ showAnnotationToggle = false, showLanguageMode =
                 {label}
               </SegmentedButton>
             ))}
+          </div>
+        </>
+      )}
+
+      <div className="text-[0.625rem] uppercase tracking-widest text-neutral-400 mb-2">Voice</div>
+      <div className="flex gap-1.5 mb-4">
+        <SegmentedButton active={voiceEnabled} onClick={() => setVoiceEnabled(true)}>On</SegmentedButton>
+        <SegmentedButton active={!voiceEnabled} onClick={() => setVoiceEnabled(false)}>Off</SegmentedButton>
+      </div>
+
+      {showNarration && voiceEnabled && narration?.available && (
+        <>
+          <div className="text-[0.625rem] uppercase tracking-widest text-neutral-400 mb-2">Listen</div>
+          <div className="flex gap-1.5 mb-4">
+            {!narration.playing || narration.paused ? (
+              <SegmentedButton active={false} onClick={narration.paused ? narration.resume : narration.play}>
+                <IconPlayerPlay size={15} />
+                Play
+              </SegmentedButton>
+            ) : (
+              <SegmentedButton active={false} onClick={narration.pause}>
+                <IconPlayerPause size={15} />
+                Pause
+              </SegmentedButton>
+            )}
+            <SegmentedButton active={false} onClick={narration.stop}>
+              <IconPlayerStop size={15} />
+              Stop
+            </SegmentedButton>
           </div>
         </>
       )}

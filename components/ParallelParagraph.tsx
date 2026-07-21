@@ -53,6 +53,8 @@ export function ParallelParagraph({ data, wordIndex, novelId, chapterNum }: Prop
       <p
         data-word-index={wordIndex}
         data-word-text={wordText}
+        data-word-lang="en-GB"
+        data-narrate-text={data.english}
         className={`leading-[1.95] mb-4 text-[1em] text-neutral-200 ${isBookmarked ? 'word-bookmarked' : ''}`}
       >
         {data.english}
@@ -65,6 +67,8 @@ export function ParallelParagraph({ data, wordIndex, novelId, chapterNum }: Prop
       <p
         data-word-index={wordIndex}
         data-word-text={wordText}
+        data-word-lang="de-DE"
+        data-narrate-text={data.german}
         className={`leading-[1.95] mb-4 text-[1em] text-neutral-200 ${isBookmarked ? 'word-bookmarked' : ''}`}
       >
         {data.german}
@@ -78,6 +82,8 @@ export function ParallelParagraph({ data, wordIndex, novelId, chapterNum }: Prop
         key={revealed ? 'en' : 'de'}
         data-word-index={wordIndex}
         data-word-text={wordText}
+        data-word-lang={revealed ? 'en-GB' : 'de-DE'}
+        data-narrate-text={revealed ? data.english : data.german}
         onClick={() => { if (!selectActive) setRevealed((v) => !v) }}
         exit={EXIT_WARP}
         animate={ENTER_WARP}

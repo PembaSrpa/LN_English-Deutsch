@@ -19,6 +19,7 @@ type SettingsContextValue = ReaderSettings & {
   setBrightness: (value: number) => void
   setAnnotationMode: (mode: AnnotationMode) => void
   setLanguageMode: (mode: LanguageMode) => void
+  setVoiceEnabled: (enabled: boolean) => void
 }
 
 const SettingsContext = createContext<SettingsContextValue | null>(null)
@@ -59,6 +60,7 @@ export function SettingsProvider({ children }: { children: React.ReactNode }) {
   const setBrightness = useCallback((brightness: number) => update({ brightness }), [update])
   const setAnnotationMode = useCallback((annotationMode: AnnotationMode) => update({ annotationMode }), [update])
   const setLanguageMode = useCallback((languageMode: LanguageMode) => update({ languageMode }), [update])
+  const setVoiceEnabled = useCallback((voiceEnabled: boolean) => update({ voiceEnabled }), [update])
 
   const value = useMemo<SettingsContextValue>(() => ({
     ...settings,
@@ -68,7 +70,8 @@ export function SettingsProvider({ children }: { children: React.ReactNode }) {
     setBrightness,
     setAnnotationMode,
     setLanguageMode,
-  }), [settings, setTheme, setFontSize, setFontFamily, setBrightness, setAnnotationMode, setLanguageMode])
+    setVoiceEnabled,
+  }), [settings, setTheme, setFontSize, setFontFamily, setBrightness, setAnnotationMode, setLanguageMode, setVoiceEnabled])
 
   const dimOpacity = ((100 - settings.brightness) / 100) * 0.55
 

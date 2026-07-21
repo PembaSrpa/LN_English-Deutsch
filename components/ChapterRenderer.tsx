@@ -114,7 +114,7 @@ function countTokenWords(tokens: Token[]): number {
 }
 
 function Tokens({
-  tokens, novelId, novelTitle, chapter, startIndex,
+  tokens, novelId, novelTitle, chapter, startIndex, plainTextLang,
 }: {
 
   tokens: Token[]
@@ -122,6 +122,7 @@ function Tokens({
   novelTitle: string
   chapter: number
   startIndex: number
+  plainTextLang: 'de-DE' | 'en-GB'
 }) {
   const { bookmark } = useWordBookmark()
   let local = startIndex
@@ -160,6 +161,7 @@ function Tokens({
                   key={j}
                   data-word-index={wordIndex}
                   data-word-text={part}
+                  data-word-lang={plainTextLang}
                   className={isBookmarked ? 'word-bookmarked' : undefined}
                 >
                   {part}
@@ -173,7 +175,7 @@ function Tokens({
   )
 }
 
-export function ChapterRenderer({ lines, fontSize, fontFamily, novelId, novelTitle, chapter }: { lines: ParsedLine[]; fontSize: number; fontFamily?: string; novelId: string; novelTitle: string; chapter: number }) {
+export function ChapterRenderer({ lines, fontSize, fontFamily, novelId, novelTitle, chapter, plainTextLang = 'en-GB' }: { lines: ParsedLine[]; fontSize: number; fontFamily?: string; novelId: string; novelTitle: string; chapter: number; plainTextLang?: 'de-DE' | 'en-GB' }) {
   // One fixed starting word-index per line, computed once from the parsed
   // content itself (not from render side effects) so it can never drift
   // between renders. See the note above Tokens for why that matters.
@@ -205,17 +207,17 @@ export function ChapterRenderer({ lines, fontSize, fontFamily, novelId, novelTit
         if (line.kind === 'heading') {
           if (line.level === 1) return (
             <h1 key={i} className="text-[1.4em] font-bold text-neutral-100 mb-5 mt-2">
-              <Tokens tokens={line.tokens} novelId={novelId} novelTitle={novelTitle} chapter={chapter} startIndex={lineStartIndices[i]} />
+              <Tokens tokens={line.tokens} novelId={novelId} novelTitle={novelTitle} chapter={chapter} startIndex={lineStartIndices[i]} plainTextLang={plainTextLang} />
             </h1>
           )
           if (line.level === 2) return (
             <h2 key={i} className="text-[1.1em] font-semibold text-neutral-200 mb-3 mt-8 pb-2 border-b border-neutral-600">
-              <Tokens tokens={line.tokens} novelId={novelId} novelTitle={novelTitle} chapter={chapter} startIndex={lineStartIndices[i]} />
+              <Tokens tokens={line.tokens} novelId={novelId} novelTitle={novelTitle} chapter={chapter} startIndex={lineStartIndices[i]} plainTextLang={plainTextLang} />
             </h2>
           )
           return (
             <h3 key={i} className="text-[1em] font-semibold text-neutral-200 mb-2 mt-4">
-              <Tokens tokens={line.tokens} novelId={novelId} novelTitle={novelTitle} chapter={chapter} startIndex={lineStartIndices[i]} />
+              <Tokens tokens={line.tokens} novelId={novelId} novelTitle={novelTitle} chapter={chapter} startIndex={lineStartIndices[i]} plainTextLang={plainTextLang} />
             </h3>
           )
         }
@@ -249,7 +251,7 @@ export function ChapterRenderer({ lines, fontSize, fontFamily, novelId, novelTit
 
         return (
           <p key={i} className="leading-[1.95] text-neutral-200 mb-4 text-[1em]">
-            <Tokens tokens={line.tokens} novelId={novelId} novelTitle={novelTitle} chapter={chapter} startIndex={lineStartIndices[i]} />
+            <Tokens tokens={line.tokens} novelId={novelId} novelTitle={novelTitle} chapter={chapter} startIndex={lineStartIndices[i]} plainTextLang={plainTextLang} />
           </p>
         )
       })}

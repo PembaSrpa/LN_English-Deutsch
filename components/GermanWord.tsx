@@ -125,6 +125,7 @@ export function GermanWord({ data, novelId, novelTitle, chapter, wordIndex }: Pr
       <span
         data-word-index={wordIndex}
         data-word-text={data.word}
+        data-word-lang="de-DE"
         onClick={handleRevealClick}
         className={`transition-all rounded cursor-pointer touch-manipulation hover:opacity-70 ${revealed ? '' : 'font-semibold'} ${isBookmarked ? 'word-bookmarked' : ''}`}
         style={revealed ? undefined : { color: style.color }}
@@ -140,6 +141,7 @@ export function GermanWord({ data, novelId, novelTitle, chapter, wordIndex }: Pr
         ref={spanRef}
         data-word-index={wordIndex}
         data-word-text={data.word}
+        data-word-lang="de-DE"
         className={`font-semibold transition-all rounded cursor-pointer hover:opacity-70 ${isBookmarked ? 'word-bookmarked' : ''}`}
         style={{ color: style.color }}
         {...touchHandlers}

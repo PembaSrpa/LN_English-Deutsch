@@ -14,6 +14,7 @@ type WordBookmarkContextValue = {
   // Whether "pick a word" mode is armed (pencil cursor / pencil icon).
   active: boolean
   toggle: () => void
+  deactivate: () => void
   // The single, app-wide bookmarked word, or null if none set yet.
   bookmark: WordBookmark | null
   // Called by the click-delegation layer when a word is tapped while active.
@@ -46,6 +47,7 @@ export function WordBookmarkProvider({ children, resetKey }: ProviderProps) {
   }, [resetKey])
 
   const toggle = useCallback(() => setActive((a) => !a), [])
+  const deactivate = useCallback(() => setActive(false), [])
 
   const selectWord = useCallback((params: SelectParams) => {
     setBookmark((prev) => {
@@ -66,7 +68,7 @@ export function WordBookmarkProvider({ children, resetKey }: ProviderProps) {
   }, [])
 
   return (
-    <WordBookmarkContext.Provider value={{ active, toggle, bookmark, selectWord }}>
+    <WordBookmarkContext.Provider value={{ active, toggle, deactivate, bookmark, selectWord }}>
       {children}
     </WordBookmarkContext.Provider>
   )

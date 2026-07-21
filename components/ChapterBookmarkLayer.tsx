@@ -1,6 +1,8 @@
 'use client'
 import { useEffect, useCallback, useRef } from 'react'
 import { useWordBookmark } from './WordBookmarkContext'
+import { useWordNarration } from './WordNarrationContext'
+import type { NarrationLang } from '@/lib/tts'
 
 // Wraps rendered chapter content to (1) delegate clicks on any
 // [data-word-index] element to the bookmark context while select mode is
@@ -26,17 +28,26 @@ export function ChapterBookmarkLayer({
   children: React.ReactNode
 }) {
   const { active, selectWord, bookmark } = useWordBookmark()
+  const { active: narrateActive, speakWord } = useWordNarration()
   const containerRef = useRef<HTMLDivElement>(null)
 
   const handleClick = useCallback((e: React.MouseEvent<HTMLDivElement>) => {
-    if (!active) return
+    if (!active && !narrateActive) return
     const target = (e.target as HTMLElement).closest('[data-word-index]') as HTMLElement | null
     if (!target) return
+
+    if (narrateActive) {
+      const narrateText = target.dataset.narrateText ?? target.dataset.wordText ?? ''
+      const lang = (target.dataset.wordLang as NarrationLang) ?? 'en-GB'
+      speakWord(narrateText, lang)
+      return
+    }
+
     const wordIndex = Number(target.dataset.wordIndex)
     const wordText = target.dataset.wordText ?? ''
     if (Number.isNaN(wordIndex)) return
     selectWord({ wordIndex, wordText, novelId, novelTitle, chapter: chapterNum })
-  }, [active, selectWord, novelId, novelTitle, chapterNum])
+  }, [active, narrateActive, selectWord, speakWord, novelId, novelTitle, chapterNum])
 
   useEffect(() => {
     if (!bookmark || bookmark.novelId !== novelId || bookmark.chapter !== chapterNum) return
@@ -46,7 +57,7 @@ export function ChapterBookmarkLayer({
   }, [bookmark, novelId, chapterNum])
 
   return (
-    <div ref={containerRef} onClick={handleClick} className={active ? 'word-select-mode' : undefined}>
+    <div ref={containerRef} onClick={handleClick} className={active || narrateActive ? 'word-select-mode' : undefined}>
       {children}
     </div>
   )
