@@ -7,6 +7,7 @@ export type ReaderTheme = 'dark' | 'light' | 'system'
 export type ReaderFontFamily = 'mono' | 'sans' | 'serif'
 export type AnnotationMode = 'annotate' | 'reveal'
 export type LanguageMode = 'en' | 'de' | 'both'
+export type PdfMode = 'paginated' | 'continuous'
 
 export type ReaderSettings = {
   theme: ReaderTheme
@@ -15,6 +16,7 @@ export type ReaderSettings = {
   brightness: number
   annotationMode: AnnotationMode
   languageMode: LanguageMode
+  pdfMode: PdfMode
 }
 
 export const DEFAULT_SETTINGS: ReaderSettings = {
@@ -24,6 +26,7 @@ export const DEFAULT_SETTINGS: ReaderSettings = {
   brightness: 100,
   annotationMode: 'annotate',
   languageMode: 'both',
+  pdfMode: 'paginated',
 }
 
 export const FONT_SIZE_MIN = 12
@@ -53,7 +56,8 @@ function sanitize(raw: Partial<ReaderSettings>): ReaderSettings {
     : DEFAULT_SETTINGS.brightness
   const annotationMode: AnnotationMode = raw.annotationMode === 'reveal' ? 'reveal' : 'annotate'
   const languageMode: LanguageMode = raw.languageMode === 'en' || raw.languageMode === 'de' ? raw.languageMode : 'both'
-  return { theme, fontFamily, fontSize, brightness, annotationMode, languageMode }
+  const pdfMode: PdfMode = raw.pdfMode === 'continuous' ? 'continuous' : 'paginated'
+  return { theme, fontFamily, fontSize, brightness, annotationMode, languageMode, pdfMode }
 }
 
 export function getReaderSettings(): ReaderSettings {

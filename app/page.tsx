@@ -3,6 +3,7 @@ import novels from '@/novels.config'
 import { getChapterList } from '@/lib/getChapters'
 import { ContinueToBookmark } from '@/components/ContinueToBookmark'
 import { HomeHeader } from '@/components/HomeHeader'
+import { GlareCard } from '@/components/GlareCard'
 
 export default function HomePage() {
   const novelData = novels.map(novel => ({
@@ -62,14 +63,27 @@ export default function HomePage() {
               </div>
             </Link>
           ))}
-        </div>
 
-        <div className="mt-8 flex justify-center">
-          <Link
-            href="/technical"
-            className="text-xs font-medium text-neutral-300 border border-neutral-600 hover:border-neutral-500 hover:text-neutral-100 rounded-full px-4 py-2 transition-colors"
-          >
-            Read Educational / Technical Books
+          <Link href="/technical">
+            <GlareCard className="flex flex-col items-center justify-center">
+              <svg
+                width="66"
+                height="65"
+                viewBox="0 0 66 65"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="h-7 w-7 text-white"
+              >
+                <path
+                  d="M8 8.05571C8 8.05571 54.9009 18.1782 57.8687 30.062C60.8365 41.9458 9.05432 57.4696 9.05432 57.4696"
+                  stroke="currentColor"
+                  strokeWidth="15"
+                  strokeMiterlimit="3.86874"
+                  strokeLinecap="round"
+                />
+              </svg>
+              <p className="text-white font-bold text-xl mt-4">Read Educational books</p>
+            </GlareCard>
           </Link>
         </div>
       </main>

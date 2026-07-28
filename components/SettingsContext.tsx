@@ -10,6 +10,7 @@ import {
   type ReaderFontFamily,
   type AnnotationMode,
   type LanguageMode,
+  type PdfMode,
 } from '@/lib/settings'
 
 type SettingsContextValue = ReaderSettings & {
@@ -19,6 +20,7 @@ type SettingsContextValue = ReaderSettings & {
   setBrightness: (value: number) => void
   setAnnotationMode: (mode: AnnotationMode) => void
   setLanguageMode: (mode: LanguageMode) => void
+  setPdfMode: (mode: PdfMode) => void
 }
 
 const SettingsContext = createContext<SettingsContextValue | null>(null)
@@ -59,6 +61,7 @@ export function SettingsProvider({ children }: { children: React.ReactNode }) {
   const setBrightness = useCallback((brightness: number) => update({ brightness }), [update])
   const setAnnotationMode = useCallback((annotationMode: AnnotationMode) => update({ annotationMode }), [update])
   const setLanguageMode = useCallback((languageMode: LanguageMode) => update({ languageMode }), [update])
+  const setPdfMode = useCallback((pdfMode: PdfMode) => update({ pdfMode }), [update])
 
   const value = useMemo<SettingsContextValue>(() => ({
     ...settings,
@@ -68,7 +71,8 @@ export function SettingsProvider({ children }: { children: React.ReactNode }) {
     setBrightness,
     setAnnotationMode,
     setLanguageMode,
-  }), [settings, setTheme, setFontSize, setFontFamily, setBrightness, setAnnotationMode, setLanguageMode])
+    setPdfMode,
+  }), [settings, setTheme, setFontSize, setFontFamily, setBrightness, setAnnotationMode, setLanguageMode, setPdfMode])
 
   const dimOpacity = ((100 - settings.brightness) / 100) * 0.55
 

@@ -65,3 +65,24 @@ export function setLastPage(bookId: string, page: number): void {
   if (typeof window === 'undefined') return
   localStorage.setItem(`${PREFIX}:pdfPage:${bookId}`, String(page))
 }
+
+export type PdfScrollPosition = { page: number; ratio: number }
+
+export function getPdfScrollPosition(bookId: string): PdfScrollPosition {
+  if (typeof window === 'undefined') return { page: 1, ratio: 0 }
+  const val = localStorage.getItem(`${PREFIX}:pdfScroll:${bookId}`)
+  if (!val) return { page: 1, ratio: 0 }
+  try {
+    const parsed = JSON.parse(val)
+    const page = typeof parsed.page === 'number' && parsed.page >= 1 ? parsed.page : 1
+    const ratio = typeof parsed.ratio === 'number' && parsed.ratio >= 0 && parsed.ratio <= 1 ? parsed.ratio : 0
+    return { page, ratio }
+  } catch {
+    return { page: 1, ratio: 0 }
+  }
+}
+
+export function setPdfScrollPosition(bookId: string, position: PdfScrollPosition): void {
+  if (typeof window === 'undefined') return
+  localStorage.setItem(`${PREFIX}:pdfScroll:${bookId}`, JSON.stringify(position))
+}

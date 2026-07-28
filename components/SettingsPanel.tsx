@@ -9,7 +9,7 @@ import { useSettings } from './SettingsContext'
 import { useNarrationPlayer } from './NarrationProvider'
 import {
   FONT_SIZE_MAX, FONT_SIZE_MIN, BRIGHTNESS_MIN, BRIGHTNESS_MAX, FONT_STACKS,
-  type ReaderFontFamily, type ReaderTheme, type AnnotationMode, type LanguageMode,
+  type ReaderFontFamily, type ReaderTheme, type AnnotationMode, type LanguageMode, type PdfMode,
 } from '@/lib/settings'
 
 const THEME_OPTIONS: { value: ReaderTheme; label: string; icon: typeof IconSun }[] = [
@@ -35,6 +35,11 @@ const LANGUAGE_MODE_OPTIONS: { value: LanguageMode; label: string }[] = [
   { value: 'both', label: 'Both' },
 ]
 
+const PDF_MODE_OPTIONS: { value: PdfMode; label: string }[] = [
+  { value: 'paginated', label: 'Page by Page' },
+  { value: 'continuous', label: 'Continuous' },
+]
+
 function SegmentedButton({ active, onClick, children }: { active: boolean; onClick: () => void; children: React.ReactNode }) {
   return (
     <button
@@ -55,12 +60,13 @@ type Props = {
   showAnnotationToggle?: boolean
   showLanguageMode?: boolean
   showNarration?: boolean
+  showPdfMode?: boolean
 }
 
-export function SettingsPanel({ showAnnotationToggle = false, showLanguageMode = false, showNarration = false }: Props) {
+export function SettingsPanel({ showAnnotationToggle = false, showLanguageMode = false, showNarration = false, showPdfMode = false }: Props) {
   const {
-    theme, fontSize, fontFamily, brightness, annotationMode, languageMode,
-    setTheme, setFontSize, setFontFamily, setBrightness, setAnnotationMode, setLanguageMode,
+    theme, fontSize, fontFamily, brightness, annotationMode, languageMode, pdfMode,
+    setTheme, setFontSize, setFontFamily, setBrightness, setAnnotationMode, setLanguageMode, setPdfMode,
   } = useSettings()
   const narration = useNarrationPlayer()
   const [open, setOpen] = useState(false)
@@ -114,6 +120,19 @@ export function SettingsPanel({ showAnnotationToggle = false, showLanguageMode =
       className="fixed z-[200] w-[260px] rounded-xl border border-neutral-600 bg-neutral-800 p-3.5"
       style={{ top: pos.top, left: pos.left, boxShadow: '0 4px 24px rgba(0,0,0,0.4)' }}
     >
+      {showPdfMode && (
+        <>
+          <div className="text-[0.625rem] uppercase tracking-widest text-neutral-400 mb-2">PDF Reading</div>
+          <div className="flex gap-1.5 mb-4">
+            {PDF_MODE_OPTIONS.map(({ value, label }) => (
+              <SegmentedButton key={value} active={pdfMode === value} onClick={() => setPdfMode(value)}>
+                {label}
+              </SegmentedButton>
+            ))}
+          </div>
+        </>
+      )}
+
       {showLanguageMode && (
         <>
           <div className="text-[0.625rem] uppercase tracking-widest text-neutral-400 mb-2">Language</div>
