@@ -1,7 +1,7 @@
 import type { Metadata } from 'next'
 import { JetBrains_Mono } from 'next/font/google'
 import './globals.css'
-import { Scales } from '@/components/Scales'
+import { ConditionalScales } from '@/components/ConditionalScales'
 import { SettingsProvider } from '@/components/SettingsContext'
 import { WebOnlyAnalytics } from '@/components/WebOnlyAnalytics'
 import { BackButtonHandler } from '@/components/BackButtonHandler'
@@ -41,7 +41,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body className="bg-neutral-900 font-mono antialiased">
         <SettingsProvider>
           <div className="min-h-screen relative bg-neutral-800">
-            <Scales />
+            <ConditionalScales />
             <BackButtonHandler />
             <WebOnlyAnalytics />
             {children}

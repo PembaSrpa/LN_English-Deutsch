@@ -168,7 +168,7 @@ export function PdfReaderClient({ bookId, bookTitle, pdfFile }: Props) {
               <span className="truncate">{bookTitle}</span>
             </Link>
           </motion.div>
-          <div className="hidden md:flex items-center gap-1 shrink-0">
+          <div className="flex items-center gap-1 shrink-0">
             <button onClick={zoomOut} className="p-1.5 rounded-lg text-neutral-300 hover:bg-neutral-600 transition-colors">
               <IconZoomOut size={16} />
             </button>
