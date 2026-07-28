@@ -25,28 +25,12 @@ const books: Book[] = [
     pdfFile: '/books/japanese-candlestick-charting-techniques.pdf',
   },
   {
-    id: 'technical-analysis-of-the-financial-markets',
-    title: 'Technical Analysis of the Financial Markets',
-    author: 'John J. Murphy',
-    description: 'Comprehensive guide to trading methods and applications of technical analysis.',
-    genre: ['Trading', 'Technical Analysis'],
-    pdfFile: '/books/technical-analysis-of-the-financial-markets.pdf',
-  },
-  {
     id: 'trade-your-way-to-financial-freedom',
     title: 'Trade Your Way to Financial Freedom',
     author: 'Van K. Tharp',
     description: '2nd edition, 2006. Position sizing and trading system design for consistent returns.',
     genre: ['Trading'],
     pdfFile: '/books/trade-your-way-to-financial-freedom.pdf',
-  },
-  {
-    id: 'trading-in-the-zone',
-    title: 'Trading in the Zone',
-    author: 'Mark Douglas',
-    description: 'Trading psychology, discipline, and the mindset behind consistent performance.',
-    genre: ['Trading', 'Psychology'],
-    pdfFile: '/books/trading-in-the-zone.pdf',
   },
   {
     id: 'market-wizards',
