@@ -98,6 +98,7 @@ export function PdfReaderClient({ bookId, bookTitle, pdfFile }: Props) {
     renderPage(pageNum, scale)
     setLastPage(bookId, pageNum)
     setPageInput(String(pageNum))
+    containerRef.current?.scrollTo({ top: 0 })
   }, [pageNum, scale, loading, numPages, renderPage, bookId])
 
   useEffect(() => {
