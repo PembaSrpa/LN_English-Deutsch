@@ -20,6 +20,7 @@ type Props = {
 const MIN_SCALE = 0.6
 const MAX_SCALE = 2.6
 const SCALE_STEP = 0.2
+const MAX_PAGE_WIDTH = 900
 
 export function PdfReaderClient({ bookId, bookTitle, pdfFile }: Props) {
   const canvasRef = useRef<HTMLCanvasElement>(null)
@@ -68,7 +69,8 @@ export function PdfReaderClient({ bookId, bookTitle, pdfFile }: Props) {
     const page = await doc.getPage(num)
     const baseViewport = page.getViewport({ scale: 1 })
     const containerWidth = containerRef.current?.clientWidth ?? baseViewport.width
-    const fitScale = (containerWidth / baseViewport.width) * currentScale
+    const targetWidth = Math.min(containerWidth - 16, MAX_PAGE_WIDTH)
+    const fitScale = (targetWidth / baseViewport.width) * currentScale
     const viewport = page.getViewport({ scale: fitScale })
 
     const context = canvas.getContext('2d')

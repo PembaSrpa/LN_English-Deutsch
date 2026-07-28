@@ -20,16 +20,13 @@ export default function TechnicalPage() {
           <p className="text-xs text-neutral-400">No books added yet.</p>
         )}
 
-        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-2">
           {books.map(book => (
             <Link key={book.id} href={`/technical/${book.id}`}
-              className="group border border-neutral-600 rounded-xl overflow-hidden hover:border-neutral-500 transition-all bg-neutral-700">
-              <div className="relative overflow-hidden bg-neutral-600 flex items-center justify-center" style={{ aspectRatio: '4/3' }}>
-                <span className="text-neutral-400 text-4xl font-bold">{book.title.slice(0, 1)}</span>
-              </div>
-              <div className="p-3 bg-neutral-700">
-                <div className="text-xs font-semibold text-neutral-100 truncate mb-0.5">{book.title}</div>
-                <div className="text-[0.625rem] text-neutral-400 truncate">{book.author}</div>
+              className="flex items-center justify-between gap-3 border border-neutral-600 rounded-lg px-4 py-3 hover:border-neutral-500 hover:bg-neutral-700 transition-colors">
+              <div className="min-w-0">
+                <div className="text-sm font-semibold text-neutral-100 truncate">{book.title}</div>
+                <div className="text-xs text-neutral-400 truncate">{book.author}</div>
               </div>
             </Link>
           ))}
