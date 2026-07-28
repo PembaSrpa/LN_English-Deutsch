@@ -63,6 +63,15 @@ export default function HomePage() {
             </Link>
           ))}
         </div>
+
+        <div className="mt-8 flex justify-center">
+          <Link
+            href="/technical"
+            className="text-xs font-medium text-neutral-300 border border-neutral-600 hover:border-neutral-500 hover:text-neutral-100 rounded-full px-4 py-2 transition-colors"
+          >
+            Read Educational / Technical Books
+          </Link>
+        </div>
       </main>
     </div>
   )

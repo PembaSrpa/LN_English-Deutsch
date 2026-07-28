@@ -54,3 +54,14 @@ export function clearWordBookmark(): void {
   if (typeof window === 'undefined') return
   localStorage.removeItem(`${PREFIX}:wordBookmark`)
 }
+
+export function getLastPage(bookId: string): number {
+  if (typeof window === 'undefined') return 1
+  const val = localStorage.getItem(`${PREFIX}:pdfPage:${bookId}`)
+  return val ? parseInt(val, 10) : 1
+}
+
+export function setLastPage(bookId: string, page: number): void {
+  if (typeof window === 'undefined') return
+  localStorage.setItem(`${PREFIX}:pdfPage:${bookId}`, String(page))
+}
