@@ -73,17 +73,24 @@ export function PdfReaderClient({ bookId, bookTitle, pdfFile }: Props) {
     const fitScale = (targetWidth / baseViewport.width) * currentScale
     const viewport = page.getViewport({ scale: fitScale })
 
+    const outputScale = window.devicePixelRatio || 1
     const context = canvas.getContext('2d')
     if (!context) return
 
-    canvas.width = viewport.width
-    canvas.height = viewport.height
+    canvas.width = Math.floor(viewport.width * outputScale)
+    canvas.height = Math.floor(viewport.height * outputScale)
+    canvas.style.width = `${viewport.width}px`
+    canvas.style.height = `${viewport.height}px`
 
     if (renderTaskRef.current) {
       renderTaskRef.current.cancel()
     }
 
-    const task = page.render({ canvasContext: context, viewport })
+    const task = page.render({
+      canvasContext: context,
+      viewport,
+      transform: outputScale !== 1 ? [outputScale, 0, 0, outputScale, 0, 0] : undefined,
+    })
     renderTaskRef.current = task
 
     try {
@@ -161,7 +168,7 @@ export function PdfReaderClient({ bookId, bookTitle, pdfFile }: Props) {
               <span className="truncate">{bookTitle}</span>
             </Link>
           </motion.div>
-          <div className="flex items-center gap-1 shrink-0">
+          <div className="hidden md:flex items-center gap-1 shrink-0">
             <button onClick={zoomOut} className="p-1.5 rounded-lg text-neutral-300 hover:bg-neutral-600 transition-colors">
               <IconZoomOut size={16} />
             </button>
