@@ -4,6 +4,7 @@ import { getChapterList } from '@/lib/getChapters'
 import { ContinueToBookmark } from '@/components/ContinueToBookmark'
 import { HomeHeader } from '@/components/HomeHeader'
 import { GlareCard } from '@/components/GlareCard'
+import { IconArrowRight } from '@tabler/icons-react'
 
 export default function HomePage() {
   const novelData = novels.map(novel => ({
@@ -64,26 +65,17 @@ export default function HomePage() {
             </Link>
           ))}
 
-          <Link href="/technical">
-            <GlareCard className="flex flex-col items-center justify-center">
-              <svg
-                width="66"
-                height="65"
-                viewBox="0 0 66 65"
-                fill="none"
-                xmlns="http://www.w3.org/2000/svg"
-                className="h-7 w-7 text-white"
-              >
-                <path
-                  d="M8 8.05571C8 8.05571 54.9009 18.1782 57.8687 30.062C60.8365 41.9458 9.05432 57.4696 9.05432 57.4696"
-                  stroke="currentColor"
-                  strokeWidth="15"
-                  strokeMiterlimit="3.86874"
-                  strokeLinecap="round"
-                />
-              </svg>
-              <p className="text-white font-bold text-xl mt-4">Read Educational books</p>
-            </GlareCard>
+          <Link href="/technical"
+            className="group border border-neutral-600 rounded-xl overflow-hidden hover:border-neutral-500 transition-all bg-neutral-700">
+            <div className="relative overflow-hidden bg-neutral-600" style={{ aspectRatio: '4/3' }}>
+              <GlareCard className="!rounded-none !border-0">
+                <IconArrowRight size={28} className="text-neutral-100 transition-transform duration-300 group-hover:translate-x-1" />
+              </GlareCard>
+            </div>
+            <div className="p-3 bg-neutral-700">
+              <div className="text-xs font-semibold text-neutral-100 truncate mb-0.5">Read Educational books</div>
+              <div className="text-[0.625rem] text-neutral-400 truncate">Reference &amp; guides</div>
+            </div>
           </Link>
         </div>
       </main>

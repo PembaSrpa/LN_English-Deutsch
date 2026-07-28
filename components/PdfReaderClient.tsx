@@ -108,6 +108,7 @@ export function PdfReaderClient({ bookId, bookTitle, pdfFile }: Props) {
         <div className="flex items-center justify-between gap-2 px-4 py-2">
           <motion.div
             className="min-w-0 flex-1"
+            style={{ transformOrigin: 'left center' }}
             whileHover={{ scale: 1.05 }}
             transition={{ type: 'spring', stiffness: 400, damping: 20 }}
           >
@@ -274,7 +275,7 @@ function PaginatedReader({ doc, numPages, bookId, scale, containerRef, onPageCha
   return <canvas ref={canvasRef} className="h-fit shadow-lg" />
 }
 
-const GAP = 12
+const GAP = 0
 const MAX_RENDERED = 24
 
 function ContinuousReader({ doc, numPages, bookId, scale, containerRef, onPageChange, navRef }: ReaderProps) {
@@ -454,7 +455,7 @@ function ContinuousReader({ doc, numPages, bookId, scale, containerRef, onPageCh
   }, [numPages, navRef, scrollToPosition])
 
   return (
-    <div className="flex flex-col items-center gap-3 w-full" style={{ visibility: ready ? 'visible' : 'hidden' }}>
+    <div className="flex flex-col items-center w-full" style={{ visibility: ready ? 'visible' : 'hidden' }}>
       {!ready && <p className="text-xs text-neutral-400 mt-8">Preparing continuous view…</p>}
       {Array.from({ length: numPages }, (_, i) => i + 1).map((num) => {
         const dims = dimsRef.current[num - 1]
