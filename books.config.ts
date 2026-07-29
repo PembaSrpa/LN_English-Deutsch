@@ -25,20 +25,20 @@ const books: Book[] = [
     pdfFile: '/books/glossary-a1.pdf',
   },
   {
-    id: 'glossary-a2',
-    title: 'Glossary A2',
-    author: '',
-    description: 'A2-level German vocabulary glossary.',
-    genre: ['Deutsch'],
-    pdfFile: '/books/glossary-a2.pdf',
-  },
-  {
     id: 'grammatik-a1',
     title: 'Grammatik A1',
     author: '',
     description: 'A1-level German grammar reference.',
     genre: ['Deutsch'],
     pdfFile: '/books/grammatik-a1.pdf',
+  },
+  {
+    id: 'glossary-a2',
+    title: 'Glossary A2',
+    author: '',
+    description: 'A2-level German vocabulary glossary.',
+    genre: ['Deutsch'],
+    pdfFile: '/books/glossary-a2.pdf',
   },
   {
     id: 'grammatik-a2',
