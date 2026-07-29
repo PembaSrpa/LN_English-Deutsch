@@ -45,7 +45,7 @@ function SegmentedButton({ active, onClick, children }: { active: boolean; onCli
     <button
       type="button"
       onClick={onClick}
-      className={`flex-1 flex flex-col items-center justify-center gap-1 py-2 rounded-lg border transition-colors text-[0.6875rem] font-medium ${
+      className={`flex-1 flex flex-col items-center justify-center gap-1 md:gap-1.5 py-2 md:py-3 rounded-lg border transition-colors text-[0.6875rem] md:text-xs font-medium ${
         active
           ? 'bg-neutral-600 border-neutral-500 text-neutral-100'
           : 'border-transparent text-neutral-400 hover:bg-neutral-600/50 hover:text-neutral-200'
@@ -80,7 +80,7 @@ export function SettingsPanel({ showAnnotationToggle = false, showLanguageMode =
   const computePos = useCallback(() => {
     if (!buttonRef.current) return
     const rect = buttonRef.current.getBoundingClientRect()
-    const panelWidth = 260
+    const panelWidth = window.innerWidth >= 768 ? 340 : 260
     const pad = 12
     let left = rect.right - panelWidth
     if (left < pad) left = pad
@@ -117,13 +117,13 @@ export function SettingsPanel({ showAnnotationToggle = false, showLanguageMode =
   const panel = mounted && open ? createPortal(
     <div
       ref={panelRef}
-      className="fixed z-[200] w-[260px] rounded-xl border border-neutral-600 bg-neutral-800 p-3.5"
+      className="fixed z-[200] w-[260px] md:w-[340px] rounded-xl border border-neutral-600 bg-neutral-800 p-3.5 md:p-5"
       style={{ top: pos.top, left: pos.left, boxShadow: '0 4px 24px rgba(0,0,0,0.4)' }}
     >
       {showPdfMode && (
         <>
-          <div className="text-[0.625rem] uppercase tracking-widest text-neutral-400 mb-2">PDF Reading</div>
-          <div className="flex gap-1.5 mb-4">
+          <div className="text-[0.625rem] md:text-xs uppercase tracking-widest text-neutral-400 mb-2 md:mb-2.5">PDF Reading</div>
+          <div className="flex gap-1.5 md:gap-2 mb-4 md:mb-5">
             {PDF_MODE_OPTIONS.map(({ value, label }) => (
               <SegmentedButton key={value} active={pdfMode === value} onClick={() => setPdfMode(value)}>
                 {label}
@@ -135,8 +135,8 @@ export function SettingsPanel({ showAnnotationToggle = false, showLanguageMode =
 
       {showLanguageMode && (
         <>
-          <div className="text-[0.625rem] uppercase tracking-widest text-neutral-400 mb-2">Language</div>
-          <div className="flex gap-1.5 mb-4">
+          <div className="text-[0.625rem] md:text-xs uppercase tracking-widest text-neutral-400 mb-2 md:mb-2.5">Language</div>
+          <div className="flex gap-1.5 md:gap-2 mb-4 md:mb-5">
             {LANGUAGE_MODE_OPTIONS.map(({ value, label }) => (
               <SegmentedButton key={value} active={languageMode === value} onClick={() => setLanguageMode(value)}>
                 {label}
@@ -148,8 +148,8 @@ export function SettingsPanel({ showAnnotationToggle = false, showLanguageMode =
 
       {showAnnotationToggle && (
         <>
-          <div className="text-[0.625rem] uppercase tracking-widest text-neutral-400 mb-2">Word Display</div>
-          <div className="flex gap-1.5 mb-4">
+          <div className="text-[0.625rem] md:text-xs uppercase tracking-widest text-neutral-400 mb-2 md:mb-2.5">Word Display</div>
+          <div className="flex gap-1.5 md:gap-2 mb-4 md:mb-5">
             {ANNOTATION_MODE_OPTIONS.map(({ value, label }) => (
               <SegmentedButton key={value} active={annotationMode === value} onClick={() => setAnnotationMode(value)}>
                 {label}
@@ -161,73 +161,73 @@ export function SettingsPanel({ showAnnotationToggle = false, showLanguageMode =
 
       {showNarration && narration?.available && (
         <>
-          <div className="text-[0.625rem] uppercase tracking-widest text-neutral-400 mb-2">Listen</div>
-          <div className="flex gap-1.5 mb-4">
+          <div className="text-[0.625rem] md:text-xs uppercase tracking-widest text-neutral-400 mb-2 md:mb-2.5">Listen</div>
+          <div className="flex gap-1.5 md:gap-2 mb-4 md:mb-5">
             {!narration.playing || narration.paused ? (
               <SegmentedButton active={false} onClick={narration.paused ? narration.resume : narration.play}>
-                <IconPlayerPlay size={15} />
+                <IconPlayerPlay size={15} className="md:w-[18px] md:h-[18px]" />
                 Play
               </SegmentedButton>
             ) : (
               <SegmentedButton active={false} onClick={narration.pause}>
-                <IconPlayerPause size={15} />
+                <IconPlayerPause size={15} className="md:w-[18px] md:h-[18px]" />
                 Pause
               </SegmentedButton>
             )}
             <SegmentedButton active={false} onClick={narration.stop}>
-              <IconPlayerStop size={15} />
+              <IconPlayerStop size={15} className="md:w-[18px] md:h-[18px]" />
               Stop
             </SegmentedButton>
           </div>
         </>
       )}
 
-      <div className="text-[0.625rem] uppercase tracking-widest text-neutral-400 mb-2">Theme</div>
-      <div className="flex gap-1.5 mb-4">
+      <div className="text-[0.625rem] md:text-xs uppercase tracking-widest text-neutral-400 mb-2 md:mb-2.5">Theme</div>
+      <div className="flex gap-1.5 md:gap-2 mb-4 md:mb-5">
         {THEME_OPTIONS.map(({ value, label, icon: Icon }) => (
           <SegmentedButton key={value} active={theme === value} onClick={() => setTheme(value)}>
-            <Icon size={15} />
+            <Icon size={15} className="md:w-[18px] md:h-[18px]" />
             {label}
           </SegmentedButton>
         ))}
       </div>
 
-      <div className="text-[0.625rem] uppercase tracking-widest text-neutral-400 mb-2">Font Size</div>
-      <div className="flex items-center gap-2 mb-4">
+      <div className="text-[0.625rem] md:text-xs uppercase tracking-widest text-neutral-400 mb-2 md:mb-2.5">Font Size</div>
+      <div className="flex items-center gap-2 md:gap-3 mb-4 md:mb-5">
         <button
           type="button"
           onClick={() => setFontSize(Math.max(FONT_SIZE_MIN, fontSize - 1))}
           disabled={fontSize <= FONT_SIZE_MIN}
           aria-label="Decrease font size"
-          className="p-2 rounded-lg border border-neutral-600 text-neutral-200 hover:bg-neutral-600 transition-colors disabled:opacity-30 disabled:pointer-events-none"
+          className="p-2 md:p-2.5 rounded-lg border border-neutral-600 text-neutral-200 hover:bg-neutral-600 transition-colors disabled:opacity-30 disabled:pointer-events-none"
         >
-          <IconMinus size={14} />
+          <IconMinus size={14} className="md:w-4 md:h-4" />
         </button>
-        <div className="flex-1 text-center text-xs text-neutral-200 tabular-nums">{fontSize}px</div>
+        <div className="flex-1 text-center text-xs md:text-sm text-neutral-200 tabular-nums">{fontSize}px</div>
         <button
           type="button"
           onClick={() => setFontSize(Math.min(FONT_SIZE_MAX, fontSize + 1))}
           disabled={fontSize >= FONT_SIZE_MAX}
           aria-label="Increase font size"
-          className="p-2 rounded-lg border border-neutral-600 text-neutral-200 hover:bg-neutral-600 transition-colors disabled:opacity-30 disabled:pointer-events-none"
+          className="p-2 md:p-2.5 rounded-lg border border-neutral-600 text-neutral-200 hover:bg-neutral-600 transition-colors disabled:opacity-30 disabled:pointer-events-none"
         >
-          <IconPlus size={14} />
+          <IconPlus size={14} className="md:w-4 md:h-4" />
         </button>
       </div>
 
-      <div className="text-[0.625rem] uppercase tracking-widest text-neutral-400 mb-2">Font Style</div>
-      <div className="flex gap-1.5 mb-4">
+      <div className="text-[0.625rem] md:text-xs uppercase tracking-widest text-neutral-400 mb-2 md:mb-2.5">Font Style</div>
+      <div className="flex gap-1.5 md:gap-2 mb-4 md:mb-5">
         {FONT_OPTIONS.map(({ value, label }) => (
           <SegmentedButton key={value} active={fontFamily === value} onClick={() => setFontFamily(value)}>
-            <span style={{ fontFamily: FONT_STACKS[value] }} className="text-xs">Aa</span>
+            <span style={{ fontFamily: FONT_STACKS[value] }} className="text-xs md:text-sm">Aa</span>
             {label}
           </SegmentedButton>
         ))}
       </div>
 
-      <div className="flex items-center justify-between mb-2">
-        <div className="text-[0.625rem] uppercase tracking-widest text-neutral-400">Brightness</div>
-        <div className="text-[0.625rem] text-neutral-400 tabular-nums">{brightness}%</div>
+      <div className="flex items-center justify-between mb-2 md:mb-2.5">
+        <div className="text-[0.625rem] md:text-xs uppercase tracking-widest text-neutral-400">Brightness</div>
+        <div className="text-[0.625rem] md:text-xs text-neutral-400 tabular-nums">{brightness}%</div>
       </div>
       <input
         type="range"
@@ -236,7 +236,7 @@ export function SettingsPanel({ showAnnotationToggle = false, showLanguageMode =
         step={5}
         value={brightness}
         onChange={(e) => setBrightness(Number(e.target.value))}
-        className="w-full accent-amber-400"
+        className="w-full h-1.5 md:h-2 accent-amber-400"
         aria-label="Brightness"
       />
     </div>,
