@@ -25,7 +25,7 @@ export default function TechnicalPage() {
       <main className="flex-1 px-[calc(1.25rem+8px)] md:px-[calc(2.5rem+16px)] py-8">
         <div className="mb-8">
           <h1 className="text-2xl font-bold text-neutral-100 tracking-tight mb-1">Read Educational Books</h1>
-          <p className="text-xs text-neutral-400">Trading, Python, data analysis, and machine learning references.</p>
+          <p className="text-xs text-neutral-400">German study material, trading, Python, data analysis, and machine learning references.</p>
         </div>
 
         {books.length === 0 && (
@@ -41,7 +41,7 @@ export default function TechnicalPage() {
                   className="flex items-center justify-between gap-3 border border-neutral-600 rounded-lg px-4 py-3 hover:border-neutral-500 hover:bg-neutral-700 transition-colors">
                   <div className="min-w-0">
                     <div className="text-sm font-semibold text-neutral-100 truncate">{book.title}</div>
-                    <div className="text-xs text-neutral-400 truncate">{book.author}</div>
+                    <div className="text-xs text-neutral-400 truncate">{book.author || book.description}</div>
                   </div>
                 </Link>
               ))}

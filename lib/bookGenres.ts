@@ -1,9 +1,10 @@
 import type { Book } from '@/books.config'
 
-export const BOOK_BUCKETS = ['Trading', 'Python', 'Data Analysis', 'Machine Learning', 'Others'] as const
+export const BOOK_BUCKETS = ['Deutsch', 'Trading', 'Python', 'Data Analysis', 'Machine Learning', 'Others'] as const
 export type BookBucket = (typeof BOOK_BUCKETS)[number]
 
 const BUCKET_TAGS: { bucket: BookBucket; tags: string[] }[] = [
+  { bucket: 'Deutsch', tags: ['Deutsch'] },
   { bucket: 'Trading', tags: ['Trading', 'Forex'] },
   { bucket: 'Machine Learning', tags: ['Machine Learning'] },
   { bucket: 'Data Analysis', tags: ['Data Analysis', 'Data Science', 'Statistics'] },
