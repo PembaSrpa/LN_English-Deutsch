@@ -1,0 +1,84 @@
+import Link from 'next/link'
+import novels from '@/novels.config'
+import { getChapterList } from '@/lib/getChapters'
+import { ContinueToBookmark } from '@/components/ContinueToBookmark'
+import { HomeHeader } from '@/components/HomeHeader'
+import { GlareCard } from '@/components/GlareCard'
+import { IconArrowRight } from '@tabler/icons-react'
+
+export default function HomePage() {
+  const novelData = novels.map(novel => ({
+    novel,
+    chapterCount: getChapterList(novel.contentFolder).length,
+  }))
+
+  return (
+    <div className="min-h-screen flex flex-col">
+      <HomeHeader />
+
+      <main className="flex-1 px-[calc(1.25rem+8px)] md:px-[calc(2.5rem+16px)] py-8">
+        <div className="mb-8">
+          <h1 className="text-2xl font-bold text-neutral-100 tracking-tight mb-1">Schatten Lesen</h1>
+          <p className="text-xs text-neutral-400">You'll learn German. Eventually.</p>
+        </div>
+
+        <ContinueToBookmark />
+
+        <div className="text-[0.625rem] uppercase tracking-[0.12em] text-neutral-400 mb-3 px-1">Library</div>
+        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3">
+          {novelData.map(({ novel }) => (
+            <Link key={novel.id} href={`/${novel.id}`}
+              className="group border border-neutral-600 rounded-xl overflow-hidden hover:border-neutral-500 transition-all bg-neutral-700">
+              <div className="relative overflow-hidden bg-neutral-600" style={{ aspectRatio: '4/3' }}>
+                {novel.coverImage ? (
+                  <>
+                    <img
+                      src={novel.coverImage}
+                      alt={novel.title}
+                      className="absolute inset-0 w-full h-full object-cover scale-110 blur-sm opacity-60"
+                    />
+                    <img
+                      src={novel.coverImage}
+                      alt=""
+                      className="absolute inset-0 w-full h-full object-contain group-hover:scale-105 transition-transform duration-300"
+                    />
+                  </>
+                ) : (
+                  <div className="w-full h-full flex items-center justify-center">
+                    <span className="text-neutral-400 text-4xl font-bold">{novel.title.slice(0, 1)}</span>
+                  </div>
+                )}
+                {(() => {
+                  const badge = ['Demo', 'IELTS', 'A1', 'A2', 'B1', 'B2'].find(tag => novel.genre.includes(tag))
+                  if (!badge) return null
+                  return (
+                    <span className="absolute top-2 right-2 text-[0.5625rem] bg-black/70 text-white px-1.5 py-0.5 rounded-full font-bold uppercase tracking-wider z-10">
+                      {badge}
+                    </span>
+                  )
+                })()}
+              </div>
+              <div className="p-3 bg-neutral-700">
+                <div className="text-xs font-semibold text-neutral-100 truncate mb-0.5">{novel.title}</div>
+                <div className="text-[0.625rem] text-neutral-400 truncate">{novel.author}</div>
+              </div>
+            </Link>
+          ))}
+
+          <Link href="/technical"
+            className="group border border-neutral-600 rounded-xl overflow-hidden hover:border-neutral-500 transition-all bg-neutral-700">
+            <div className="relative overflow-hidden bg-neutral-600" style={{ aspectRatio: '4/3' }}>
+              <GlareCard className="!rounded-none !border-0">
+                <IconArrowRight size={28} className="text-neutral-100 transition-transform duration-300 group-hover:translate-x-1" />
+              </GlareCard>
+            </div>
+            <div className="p-3 bg-neutral-700">
+              <div className="text-xs font-semibold text-neutral-100 truncate mb-0.5">Read Educational books</div>
+              <div className="text-[0.625rem] text-neutral-400 truncate">Reference &amp; guides</div>
+            </div>
+          </Link>
+        </div>
+      </main>
+    </div>
+  )
+}

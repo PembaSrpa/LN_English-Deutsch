@@ -1,0 +1,200 @@
+export type Book = {
+  id: string
+  title: string
+  author: string
+  description: string
+  genre: string[]
+  pdfFile: string
+}
+
+const books: Book[] = [
+  {
+    id: 'buch-fur-mich',
+    title: 'Buch für mich',
+    author: '',
+    description: 'Personal German reading book.',
+    genre: ['Deutsch'],
+    pdfFile: '/books/buch-fur-mich.pdf',
+  },
+  {
+    id: 'glossary-a1',
+    title: 'Glossary A1',
+    author: '',
+    description: 'A1-level German vocabulary glossary.',
+    genre: ['Deutsch'],
+    pdfFile: '/books/glossary-a1.pdf',
+  },
+  {
+    id: 'grammatik-a1',
+    title: 'Grammatik A1',
+    author: '',
+    description: 'A1-level German grammar reference.',
+    genre: ['Deutsch'],
+    pdfFile: '/books/grammatik-a1.pdf',
+  },
+  {
+    id: 'glossary-a2',
+    title: 'Glossary A2',
+    author: '',
+    description: 'A2-level German vocabulary glossary.',
+    genre: ['Deutsch'],
+    pdfFile: '/books/glossary-a2.pdf',
+  },
+  {
+    id: 'grammatik-a2',
+    title: 'Grammatik A2',
+    author: '',
+    description: 'A2-level German grammar reference.',
+    genre: ['Deutsch'],
+    pdfFile: '/books/grammatik-a2.pdf',
+  },
+  {
+    id: 'currency-trading-for-dummies',
+    title: 'Currency Trading For Dummies',
+    author: 'Brian Dolan',
+    description: '2nd edition, 2011. Introduction to the forex market, trading mechanics, and strategy basics.',
+    genre: ['Trading', 'Forex'],
+    pdfFile: '/books/currency-trading-for-dummies.pdf',
+  },
+  {
+    id: 'trade-your-way-to-financial-freedom',
+    title: 'Trade Your Way to Financial Freedom',
+    author: 'Van K. Tharp',
+    description: '2nd edition, 2006. Position sizing and trading system design for consistent returns.',
+    genre: ['Trading'],
+    pdfFile: '/books/trade-your-way-to-financial-freedom.pdf',
+  },
+  {
+    id: 'market-wizards',
+    title: 'Market Wizards: Interviews With Top Traders',
+    author: 'Jack D. Schwager',
+    description: '2012 edition. Interviews with some of the most successful traders of their era.',
+    genre: ['Trading'],
+    pdfFile: '/books/market-wizards.pdf',
+  },
+  {
+    id: 'python-how-to-think-like-a-computer-scientist',
+    title: 'Python: How to Think Like a Computer Scientist',
+    author: 'Allen B. Downey',
+    description: 'Introduction to programming and computer science fundamentals using Python.',
+    genre: ['Python'],
+    pdfFile: '/books/python-how-to-think-like-a-computer-scientist.pdf',
+  },
+  {
+    id: 'automate-the-boring-stuff-with-python',
+    title: 'Automate the Boring Stuff with Python',
+    author: 'Al Sweigart',
+    description: 'Practical Programming for Total Beginners.',
+    genre: ['Python'],
+    pdfFile: '/books/automate-the-boring-stuff-with-python.pdf',
+  },
+  {
+    id: 'clean-code',
+    title: 'Clean Code',
+    author: 'Robert C. Martin',
+    description: 'A Handbook of Agile Software Craftsmanship.',
+    genre: ['Software Engineering'],
+    pdfFile: '/books/clean-code.pdf',
+  },
+  {
+    id: 'practical-sql',
+    title: 'Practical SQL',
+    author: 'Anthony DeBarros',
+    description: '2nd Edition. A Beginner\u2019s Guide to Storytelling with Data.',
+    genre: ['SQL'],
+    pdfFile: '/books/practical-sql.pdf',
+  },
+  {
+    id: 'storytelling-with-data',
+    title: 'Storytelling with Data',
+    author: 'Cole Nussbaumer Knaflic',
+    description: 'A Data Visualization Guide for Business Professionals.',
+    genre: ['Data Analysis'],
+    pdfFile: '/books/storytelling-with-data.pdf',
+  },
+  {
+    id: 'python-for-data-analysis',
+    title: 'Python for Data Analysis',
+    author: 'Wes McKinney',
+    description: 'Data wrangling with pandas, NumPy, and Jupyter.',
+    genre: ['Python', 'Data Analysis'],
+    pdfFile: '/books/python-for-data-analysis.pdf',
+  },
+  {
+    id: 'data-science-from-scratch',
+    title: 'Data Science from Scratch',
+    author: 'Joel Grus',
+    description: 'First Principles with Python.',
+    genre: ['Data Science', 'Python'],
+    pdfFile: '/books/data-science-from-scratch.pdf',
+  },
+  {
+    id: 'practical-statistics-for-data-scientists',
+    title: 'Practical Statistics for Data Scientists',
+    author: 'Peter Bruce, Andrew Bruce',
+    description: 'Core statistical concepts for exploratory data analysis and modeling.',
+    genre: ['Statistics', 'Data Science'],
+    pdfFile: '/books/practical-statistics-for-data-scientists.pdf',
+  },
+  {
+    id: 'python-feature-engineering-cookbook',
+    title: 'Python Feature Engineering Cookbook',
+    author: 'Soledad Galli',
+    description: 'Over 70 recipes for transforming your data into effective features for machine learning.',
+    genre: ['Python', 'Machine Learning'],
+    pdfFile: '/books/python-feature-engineering-cookbook.pdf',
+  },
+  {
+    id: 'hands-on-machine-learning',
+    title: 'Hands-On Machine Learning with Scikit-Learn and TensorFlow',
+    author: 'Aur\u00e9lien G\u00e9ron',
+    description: 'Concepts, tools, and techniques for building intelligent systems.',
+    genre: ['Machine Learning', 'Python'],
+    pdfFile: '/books/hands-on-machine-learning.pdf',
+  },
+  {
+    id: 'islr',
+    title: 'An Introduction to Statistical Learning',
+    author: 'Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani',
+    description: 'Seventh printing.',
+    genre: ['Statistics', 'Machine Learning'],
+    pdfFile: '/books/islr.pdf',
+  },
+  {
+    id: 'mathematics-for-machine-learning',
+    title: 'Mathematics for Machine Learning',
+    author: 'Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong',
+    description: 'The mathematical foundations behind machine learning methods.',
+    genre: ['Machine Learning', 'Mathematics'],
+    pdfFile: '/books/mathematics-for-machine-learning.pdf',
+  },
+  {
+    id: 'python-machine-learning-by-example',
+    title: 'Python Machine Learning By Example',
+    author: 'Yuxi Liu',
+    description: 'Practical machine learning workflows implemented in Python.',
+    genre: ['Machine Learning', 'Python'],
+    pdfFile: '/books/python-machine-learning-by-example.pdf',
+  },
+  {
+    id: 'the-kaggle-book',
+    title: 'The Kaggle Book',
+    author: 'Konstantin Banachewicz, Luca Massaron',
+    description: 'Data analysis and machine learning for competitive data science.',
+    genre: ['Machine Learning', 'Data Science'],
+    pdfFile: '/books/the-kaggle-book.pdf',
+  },
+  {
+    id: 'understanding-machine-learning-theory-algorithms',
+    title: 'Understanding Machine Learning: From Theory to Algorithms',
+    author: 'Shai Shalev-Shwartz, Shai Ben-David',
+    description: 'Theoretical foundations of machine learning algorithms.',
+    genre: ['Machine Learning'],
+    pdfFile: '/books/understanding-machine-learning-theory-algorithms.pdf',
+  },
+]
+
+export default books
+export function getBook(id: string): Book | undefined {
+  return books.find(b => b.id === id)
+}
