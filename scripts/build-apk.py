@@ -5,31 +5,31 @@ build-apk.py
 Rebuilds the Android APK for schatten-lesen after code/content changes.
 
 Usage:
-    python scripts\\build-apk.py            # debug build (default)
-    python scripts\\build-apk.py --release   # release/signed build
-    python scripts\\build-apk.py --skip-install  # skip "npm install" step (default already skips it)
-    python scripts\\build-apk.py --install-deps  # force "npm install" first (use after pulling new packages)
+    python scripts/build-apk.py            # debug build (default)
+    python scripts/build-apk.py --release   # release/signed build
+    python scripts/build-apk.py --install-deps  # run "npm install" first (use after pulling new packages)
 
 What it does, in order:
     1. (optional) npm install
     2. npm run build          -> regenerates the static Next.js export
     3. npx cap sync android   -> copies the fresh build into the Android project
-    4. gradlew.bat assembleDebug (or assembleRelease)
+    4. gradlew assembleDebug (or assembleRelease)
 
 Stops immediately and prints the error if any step fails.
 """
 
 import argparse
+import platform
 import subprocess
 import sys
 from pathlib import Path
 
-PROJECT_ROOT = Path(r"C:\Projects\schatten-lesen")
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
 ANDROID_DIR = PROJECT_ROOT / "android"
+IS_WINDOWS = platform.system() == "Windows"
 
 
 def run(cmd, cwd):
-    """Run a command, streaming output live. Exit the script if it fails."""
     print(f"\n{'=' * 60}")
     print(f"Running: {cmd}")
     print(f"In:      {cwd}")
@@ -38,7 +38,7 @@ def run(cmd, cwd):
     result = subprocess.run(cmd, cwd=cwd, shell=True)
 
     if result.returncode != 0:
-        print(f"\n❌ Step failed: {cmd}")
+        print(f"\nStep failed: {cmd}")
         print("Fix the error above, then re-run this script.")
         sys.exit(result.returncode)
 
@@ -58,7 +58,11 @@ def main():
     args = parser.parse_args()
 
     if not PROJECT_ROOT.exists():
-        print(f"❌ Project folder not found: {PROJECT_ROOT}")
+        print(f"Project folder not found: {PROJECT_ROOT}")
+        sys.exit(1)
+
+    if not ANDROID_DIR.exists():
+        print(f"Android folder not found: {ANDROID_DIR}")
         sys.exit(1)
 
     if args.install_deps:
@@ -68,7 +72,8 @@ def main():
     run("npx cap sync android", cwd=PROJECT_ROOT)
 
     gradle_task = "assembleRelease" if args.release else "assembleDebug"
-    run(f".\\gradlew.bat {gradle_task}", cwd=ANDROID_DIR)
+    gradlew = ".\\gradlew.bat" if IS_WINDOWS else "./gradlew"
+    run(f"{gradlew} {gradle_task}", cwd=ANDROID_DIR)
 
     build_type = "release" if args.release else "debug"
     apk_path = (
@@ -81,7 +86,7 @@ def main():
         / f"app-{build_type}.apk"
     )
 
-    print("\n✅ Build complete!")
+    print("\nBuild complete!")
     print(f"APK location: {apk_path}")
     print("\nInstall it on your phone with:")
     print(f'  adb install "{apk_path}"')
