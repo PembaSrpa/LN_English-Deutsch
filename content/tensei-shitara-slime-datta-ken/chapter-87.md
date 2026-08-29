@@ -1,5 +1,9 @@
 # V8.5SS14 Defeat of the Holy Knights
+
 ---
+
+## Volume 8.5 - Side Story 14
+
 Upon arriving at Tempest's capital city Rimuru, a drastic change in the situation had taken place. There was a sudden surge of fighting spirit indicating a huge battle. One of the parties gave off a rather familiar aura. It belonged to the Holy Knight Order Vice Commander Renard, who was supposed to be defending their home nation Lubelius while they were out.
 
 This came as a tremendous shock to the Holy Knights, who had just recently gained hope in being able to resolve the conflict with Rimuru peacefully, after weeks of traveling. But regardless of the situation, they needed to go confirm the situation first.

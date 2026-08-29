@@ -1,5 +1,9 @@
 # V4C2 King Gazel’s Invitation
+
 ---
+
+## Volume 4 - Chapter 2
+
 I could see a child suffering from an intense fever—a cold, damp cloth upon his forehead. Before it reached room temperature, a new cloth was immersed in water and wrung out. It was a valiant effort. It wasn’t even her own child, either.
 
 “It’s all right,” she said, smiling at the child as he groggily forced his eyes open before closing them again, relieved.

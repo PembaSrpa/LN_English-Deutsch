@@ -1,5 +1,9 @@
 # V2C4 Disengaging Gears
+
 ---
+
+## Volume 2 - Chapter 4
+
 The lizardman chief nodded at the latest war report.
 
 It had been four days since his conference with Soei. Three days remained until the two armies would come together formally, but for that day, it looked like they could pass yet another night without any major losses.

@@ -1,5 +1,9 @@
 # V1C2 Battle of the Goblin Village
+
 ---
+
+## Volume 1 - Chapter 2
+
 The path from the underground lake to the surface took the form of a single long cavern path, which I was currently bouncing and oozing my way along. I was moving quite a bit better than I’d originally pictured. Even in the dank darkness, harnessing Magic Sense made it look as bright as a sunny day to me.
 
 Back when I was blind, I was too focused on my footing to notice, but slimes can actually truck along pretty quickly when they want to. I never got particularly fatigued, but there was no real reason to hurry either, so I tended to keep it at a regular walking rate by human standards. (This was definitely *not* because my last flirtation with exuberant locomotion landed me square in the water.)

@@ -1,5 +1,9 @@
 # V13.5SS3 Lakeshore Dyed Scarlet
+
 ---
+
+## Volume 13.5 - Side Story 3
+
 There once was a small nation named Silberia. A province state with less than ten thousand inhabitants under the rule of the Eastern Sovereign Alliance of the Nasca Namrium Ulmeria Empire.
 
 It had no signature industry, nor special attractions. If there was anything worth mentioning, it would be its peaceful weather unique to the Namrium region and a beautiful lake that lay there.

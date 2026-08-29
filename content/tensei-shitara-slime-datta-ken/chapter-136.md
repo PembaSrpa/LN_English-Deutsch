@@ -1,5 +1,9 @@
 # V14C1 Rewards and Evolutions
+
 ---
+
+## Volume 14 - Chapter 1
+
 It was the day after the revival of almost 700,000 imperial soldiers. At the Colosseum, the men who had played an active role in the defense were all lined up. The bleachers were filled with the last of the soldiers. Today was a victory party. Although the war against the Empire was still ongoing, it was planned as a necessary morale booster. Bacchus, who had been sent by the Holy Knight Order, and the 'Surmounters' under Luminas were also present. They were killed by Jiwu, but fortunately they had been in the labyrinth. They were revived and the apologies were accepted. Although they were unanimous in saying that it was only due to inexperience, it still happened in our country, and formality is important.
 
 In any case, I was glad that the damage was minimal. We were planning to serve delicious food in the latter half of the party, so I hoped people would enjoy it to their heart's content. In the guest of honor's seats, there were guests from foreign countries. Not only Alvis who participated in the defense as a reinforcement, but also Phobio and the two members of the 'Two Wings' arrived later with the elite contingent.

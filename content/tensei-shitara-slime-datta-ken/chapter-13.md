@@ -1,5 +1,9 @@
 # V2C2 Evolutions and Clashes
+
 ---
+
+## Volume 2 - Chapter 2
+
 We decided to sit and hash things out with the ogres the next day. We chose the log house built atop the recently burned-out public square in the center of the village.
 
 Mildo, youngest of the three dwarf brothers, had done a great job crafting it from the basic sketch I drew on a plan of wood. My previous stint as a general contractor gave me at least that much knowledge, as I measured out the dimensions and such as best I could with charcoal on wood and handed it over.

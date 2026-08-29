@@ -1,5 +1,9 @@
 # V1SS1 Gobta’s Big Adventure
+
 ---
+
+## Volume 1 - Side Story 1
+
 This is a tale from back when Gobta was just another goblin in the horde.
 
 The sky stretched blue across the heavens, a refreshing breeze flowing in the air.

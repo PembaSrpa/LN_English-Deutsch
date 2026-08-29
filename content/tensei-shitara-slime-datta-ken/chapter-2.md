@@ -1,5 +1,9 @@
 # V1C1 My First Friend
+
 ---
+
+## Volume 1 - Chapter 1
+
 It was dark. Too dark to see anything. Where was I? What even happened, for that matter? Someone was picking on me for being a celibate sage or something, and then…
 
 That was enough to jump-start my mind again.

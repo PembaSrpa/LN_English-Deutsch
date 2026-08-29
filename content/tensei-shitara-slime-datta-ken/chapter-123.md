@@ -1,5 +1,9 @@
 # V12E The Emperor's Hegemony
+
 ---
+
+## Volume 12 - Epilogue
+
 "You're awake, Rudra."
 
 The words were addressed to a man sat atop his throne, dressed in opulent clothing. The speaker, a beautiful, blue-haired woman, was the Marshal, the one in charge of the meeting hall.

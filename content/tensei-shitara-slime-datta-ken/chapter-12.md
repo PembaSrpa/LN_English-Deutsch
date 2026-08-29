@@ -1,5 +1,9 @@
 # V2C1 The Start of the Mayhem
+
 ---
+
+## Volume 2 - Chapter 1
+
 The rage in Ranga’s snarl was palpable. As if chiding him, two ogres, one with blue hair and one with black, leaped in response.
 
 A moment later, a shock wave formed a crater in the earth, sending piles of dirt and mud into the sky. The blast from Ranga’s Voice Cannon held enough power to atomize a group of goblins on the spot. But it would only work, of course, if it actually struck the ogres.

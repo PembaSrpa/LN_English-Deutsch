@@ -1,5 +1,9 @@
 # V14C3 Capital in Turmoil
+
 ---
+
+## Volume 14 - Chapter 3
+
 The darkness of the Imperial City ran deep. Thanks to the benefits of scientific civilization, the streets of the Imperial City were now illuminated by streetlights that used natural gas. Even so, there still existed backstreets that were hidden from the public eye. Although the Imperial City continued to develop, it would be a long time before all the darkness was exterminated.
 
 Misha was quietly walking in the darkness of the capital. This darkness was the place where Misha had been born and raised. Rather than fear, she felt a sense of comfort and calmness. This was the woman named Misha. In the days since she reported to Yuuki, Misha has been busy preparing for the coup d'état while hiding in plain sight.

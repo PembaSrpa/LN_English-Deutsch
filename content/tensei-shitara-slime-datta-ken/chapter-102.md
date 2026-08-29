@@ -1,5 +1,9 @@
 # V10I1 Mariabell
+
 ---
+
+## Volume 10 - Interlude 1
+
 Mariabell was a 'Reincarnated One.' She recalled that her former self was a ruler that dominated Europe. In her past life, she manipulated the economy at will; even war was but a pawn on her board.
 
 Bullets rained on the battlefield. People murdered their own kind, creating a hell on Earth that was bathed in blood. Houses were burnt down, families were lost, and people grieved and moaned. She built her affluence on top of all these misfortunes and not once had she doubted her actions.

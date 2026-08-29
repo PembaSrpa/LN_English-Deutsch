@@ -1,5 +1,9 @@
 # V13P Two Suspicions
+
 ---
+
+## Volume 13 - Prologue
+
 Gadra was deeply perplexed, mainly by two things. The first one, needless to say, was about the person who tried to assassinate him.
 
 *Someone who even **I** couldn't sense... There are only a few people capable of doing that. Although, I do have an idea of who it could be...*

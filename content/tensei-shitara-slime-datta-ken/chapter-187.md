@@ -1,5 +1,9 @@
 # VB1SS2 Shizue Izawa's Adventuring Life Part 1
+
 ---
+
+## Booklet 1 - Side Story 2
+
 Several years had passed since the "Hero" took me under her wing. Before I realized it, I had made a name for myself within the Adventurers' Guild. With the "Anti-Magic Mask" inherited from the "Hero," some began to see me as her successor. It was around this time that I earned the title "Conqueror of Flames." I believed all of this was thanks to the "Hero," but she disliked it whenever I expressed my gratitude. She also insisted that I never speak to her formally.
 
 <Just call me Chronoa, without any honorifics. But please, try not to use that name in front of others>, she said, urging me to address her casually. When I asked why, she would deflect the question with nonsensical remarks like, <If anything, I'd rather call you 'Shizu-san.' So, please bear with it.> This became an unspoken agreement between us---Chronoa the "Hero" and I would not delve into this matter further.

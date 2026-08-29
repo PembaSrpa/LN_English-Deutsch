@@ -1,5 +1,9 @@
 # V8E Concluding Meeting
+
 ---
+
+## Volume 8 - Epilogue
+
 It was near evening on the last day of the reception ceremony that we concluded our meeting with the tengu tribe. All the executives had gathered in the meeting room after a somewhat early dinner---I was looking forward to that part---and I wanted everyone to give a report on their recent activities on this rare occasion. I also invited certain guests to this meeting as well. There were Veldora and Ramiris, accompanied by her servants Beretta and Treyni-san. Milim would be officially visiting in three days. Fearing the reveal of her recent activities, she quickly returned. It was a smart move considering there was no telling whether Frey would scold Milim or not, but keeping Milim in this town would definitely anger her. I didn't really want to get involved in that whole mess.
 
 ![break]

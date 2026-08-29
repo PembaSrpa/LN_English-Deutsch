@@ -1,5 +1,9 @@
 # V3C3 The Congregation
+
 ---
+
+## Volume 3 - Chapter 3
+
 The Kingdom of Farmus was a vast nation, a sort of front door leading to the assorted nations to the west.
 
 These nations had no direct ties to the Eastern Empire. Instead of official relations, they had powerful merchants who took it personally upon themselves to distribute in-demand goods between the two lands. Most of this informal trade went through the Armed Nation of Dwargon, which (publicly, at least) was neutral and thus gave their tacit consent to the goods going to and fro between them.

@@ -1,5 +1,9 @@
 # V8.5SS8 Gobta's Training Day
+
 ---
+
+## Volume 8.5 - Side Story 8
+
 Morning! This is Gobta.
 
 ![break]

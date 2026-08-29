@@ -1,5 +1,9 @@
 # VB5SS8 Coleus's Dream Part 4
+
 ---
+
+## Booklet 5 - Side Story 8
+
 "Haaaaaa-ha-ha-ha!! What a shame, what a shame. We were so close to enjoying the greatest spectacle by those fools. Did you say you're Satoru? Thanks to you, uncultured swine, our plans are ruined."
 
 Leaning against the guild building's wall, the slender, gentle-looking man laughed. He wore a ring with a purple gem embedded in it. His skin was tan, though less sun-kissed than most. Half of his face was obscured by pale purple hair, but his lips were twisted into a sneer. Without any intention to deceive, he laughed openly at those who had fallen into his traps.

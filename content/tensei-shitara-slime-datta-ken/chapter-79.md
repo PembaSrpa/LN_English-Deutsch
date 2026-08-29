@@ -1,5 +1,9 @@
 # V8.5SS6 A Pink Scenery
+
 ---
+
+## Volume 8.5 - Side Story 6
+
 Beyond a cloud of hot steam, there existed a heaven on earth where everyone hoped to enter, the ideal place.
 
 Kabal and Gido's envious glares were already quite annoying. But not only them, Kaijin, Garm, and the other two dwarf brothers, they all looked terribly jealous.

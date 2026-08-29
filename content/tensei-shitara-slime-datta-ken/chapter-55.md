@@ -1,5 +1,9 @@
 # V6E In the Holy Land
+
 ---
+
+## Volume 6 - Epilogue
+
 *Dang*, Laplace thought as he ran as fast as his legs could take him, *I thought I was gonna die!*
 
 Just as they had discussed, he had attempted to break into the holy domain once more, the moment the Walpurgis Council began. He was on his way to the cathedral inside the Holy Temple, headed for the Inner Cloister where he ran into a demon lord last time…only to run into the worst person possible.

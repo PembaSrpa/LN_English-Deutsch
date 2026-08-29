@@ -1,5 +1,9 @@
 # V18I1 The Heavenly Emperor and the Former Hero
+
 ---
+
+## Volume 18 - Interlude 1
+
 "What's wrong with you today, Leon-kun?"
 
 The one who had asked was a beautiful woman, Elmesia El-Ru Sarion, the Heavenly Emperor of Sorcerer's Dynasty Sarion.

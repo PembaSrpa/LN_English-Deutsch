@@ -1,5 +1,9 @@
 # V8.5SS13 Roads of Delicacy
+
 ---
+
+## Volume 8.5 - Side Story 13
+
 Gard Myourmiles was a famous merchant.
 
 Not only that, he also happened to be the head of the Kingdom of Blumund's underworld. He was an arrogant man, strict with his money, and refused to stoop to flattery, even with the most prominent nobles---these kinds of comments about him were common across Blumund, and that sentiment had reached as far as Ingracia.

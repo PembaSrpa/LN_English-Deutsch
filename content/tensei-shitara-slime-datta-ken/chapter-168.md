@@ -1,5 +1,9 @@
 # V18C4 Shattered Ambition
+
 ---
+
+## Volume 18 - Chapter 4
+
 I received the report from Dino, but the contents were ridiculous.
 As I expected, Michael had made his move.
 It was within expectations, so that was good.

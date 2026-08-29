@@ -1,5 +1,9 @@
 # V12C4 The Empire Strikes First
+
 ---
+
+## Volume 12 - Chapter 4
+
 There lurked a man of many mysteries within the Empire. This man was Tatsuya Kondou, an otherworlder, and he knew every secret among its inner workings. He, indeed, was the darkness of the Imperial capital. His short black hair, with bangs gently flowing into his eyes, softened his otherwise tensive demeanor.
 
 At first glance, he looked like a fine young man, someone in his early twenties. Beneath it all, however, his heart was cold. The eyes on his emotionless face glowed with a sharp light, as if piercing his enemies and seeing through all.

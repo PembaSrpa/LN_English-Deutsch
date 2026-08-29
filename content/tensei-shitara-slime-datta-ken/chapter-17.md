@@ -1,5 +1,9 @@
 # V2C6 The Devourer of All
+
 ---
+
+## Volume 2 - Chapter 6
+
 It was a sight to behold.
 
 I kept up my vigil on the battlefield from above, taking in the reality unfolding on the ground. Flashes of light ran from corner to corner, blowing away dozens of orcs at once. A loud roar rumbled in the sky as a black dome-shaped something appeared, then disappeared after a few seconds and left nothing but a bunch of glass fused into the earth.

@@ -1,5 +1,9 @@
 # V13.5SS2 Goddess of the Ever-night Kingdom
+
 ---
+
+## Volume 13.5 - Side Story 2
+
 I am the one they called Luminas.
 
 Luminas Valentine, the ruler of the old world---a vampire.

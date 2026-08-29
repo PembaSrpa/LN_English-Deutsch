@@ -1,5 +1,9 @@
 # V8.5SS10 Geld and Work
+
 ---
+
+## Volume 8.5 - Side Story 10
+
 My name is Geld. I am the one who inherited the will and name of the orc lord. We failed in our conquest and now serve under the reign of Rimuru-sama. That is most fortunate in hard times such as these. After surrendering we were not being treated like slaves nor spent the days in misery. Instead, we received mercy beyond our imagination and were treated with kindness.
 
 ---This ushered in days without starving.

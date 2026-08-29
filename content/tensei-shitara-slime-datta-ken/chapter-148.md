@@ -1,5 +1,9 @@
 # V15C4 The Eight Gates
+
 ---
+
+## Volume 15 - Chapter 4
+
 After Laplace left, Diablo was the only one left in the room. He smiled and was glad that everything had gone as planned.
 
 He watched the battle of his beloved Lord up close and was planning to use it as a reference for his own future usefulness.

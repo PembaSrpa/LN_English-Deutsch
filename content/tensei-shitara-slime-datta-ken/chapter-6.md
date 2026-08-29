@@ -1,5 +1,9 @@
 # V1C3 Through the Dwarven Kingdom
+
 ---
+
+## Volume 1 - Chapter 3
+
 As he’d so boldly proclaimed a day earlier, Rigurd had everything I needed that afternoon. He had even chosen the team members for my expedition into the Dwarven Kingdom already.
 
 By the way, did Rigur really have to be our expedition leader, too? I was a little concerned about that, but he seemed to be all for it.

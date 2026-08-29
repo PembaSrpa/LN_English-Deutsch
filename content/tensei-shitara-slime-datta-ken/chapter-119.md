@@ -1,5 +1,9 @@
 # V12I1 The Internal Affairs of the Empire
+
 ---
+
+## Volume 12 - Interlude 1
+
 The Eastern Empire---one of the oldest nations in the world. It was more formally known as the Nasca Namrium Ulmeria United Eastern Empire.
 
 The history of the Empire was said to be ancient, and that its foundations were laid out by a nation as far back as two thousand years ago. The long-standing minor Kingdom of Nasca gradually absorbed the large nations of the Magic Kingdom of Namrium and the Eastern Union of Ulmeria, thus giving birth to the Empire known today.

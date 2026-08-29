@@ -1,5 +1,9 @@
 # V9C4 The Final Round and the Dungeon Opening
+
 ---
+
+## Volume 9 - Chapter 4
+
 On the third morning of the Founding Festival, I set off to the Dwarven Kingdom in order to exchange our stellars for gold coins.
 
 Now that our problem had been resolved, we would have to see how the conspirators would react. With this done, I had nothing else to worry about, so I could just enjoy the celebration.

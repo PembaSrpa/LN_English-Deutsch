@@ -1,5 +1,9 @@
 # V2FC A Relaxing Spot
+
 ---
+
+## Volume 2 - Final Chapter
+
 I was resting in my room.
 
 Over three months had passed since I returned. All kinds of things had happened since, but I was taking a moment to reflect on all the chaos of a time gone by.

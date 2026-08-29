@@ -1,5 +1,9 @@
 # V3AW Afterword
+
 ---
+
+## Volume 3 - Afterword
+
 Nice to see you all for the first time in a while. This is Fuse.
 
 First off, thanks to all of you for picking up this book. I think I mentioned that in Volume 1, but if you didn’t pick it up, we never would’ve gotten started with this, so I’m sure I can write that as many times as I feel like!

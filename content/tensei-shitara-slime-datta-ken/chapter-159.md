@@ -1,5 +1,9 @@
 # V17C2 Distant Memories
+
 ---
+
+## Volume 17 - Chapter 2
+
 Velgrynd took her first leap into the strange space between unknown worlds. There, she found herself unbounded by time and confronted her inner self. By doing so, she made the Ultimate Skill 'Divine Flame King Cthugha' completely her own. The Ultimate Skill 'Divine Flame King Cthugha' had the power to track Rudra's soul. Strictly speaking, the effect was to discover an entity once specified. Velgrynd can now find pieces of her beloved Rudra's soul, no matter how remote or far away they are, even beyond time and space.
 
 All she has to do now is 'jump' for it. It is a perfect combination of Spacetime Manipulation and Dimension Leap, a technique that is only possible with the Ultimate Skill's ever-growing power. However, it was impossible to jump to a specific time and place because the target coordinates could not be determined. In other words, the 'Spacetime Leap' is only possible when there is a destination.

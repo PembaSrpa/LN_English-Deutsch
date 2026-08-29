@@ -1,5 +1,9 @@
 # V7I1 The Secret Meeting
+
 ---
+
+## Volume 7 - Interlude 1
+
 Adjacent to the territory of the Kingdom of Ingracia and the Kingdom of Farmus sits a small kingdom facing towards the North Sea. This kingdom is known as Siltrosso.
 
 A secret meeting is being held here---one that will shake the foundations of history.

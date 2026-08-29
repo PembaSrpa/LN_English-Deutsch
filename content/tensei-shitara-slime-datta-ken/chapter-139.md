@@ -1,5 +1,9 @@
 # V14I2 The Heavenly Game
+
 ---
+
+## Volume 14 - Interlude 2
+
 This is a record of the war. A heavenly game that had played out over many years. It was a battle of supremacy on earth between a demon lord and a brave warrior. However---
 
 For 'Scorch Dragon' Velgrynd, such games were meaningless. She was not interested, so it did not matter to her who won. She thought it would be better to fight directly to decide who was the winner rather than participating in such troublesome games. However, the direct confrontation between Guy and Rudra was still unsettled, even though they had fought many times. That is why this game was started, with the only rule being 'no direct confrontation'. Although she couldn't complain about it, Velgrynd was still dissatisfied with the game.

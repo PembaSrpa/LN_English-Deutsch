@@ -1,5 +1,9 @@
 # V18E The End of the Dream
+
 ---
+
+## Volume 18 - Epilogue
+
 Yuuki laughed in despair.
 *Oh, dear. I tried my best, but is this as far as I got?*
 It had been a little over ten years since he had come to this world.

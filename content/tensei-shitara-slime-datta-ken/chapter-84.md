@@ -1,5 +1,9 @@
 # V8.5SS11 Fine Foe
+
 ---
+
+## Volume 8.5 - Side Story 11
+
 Gabil gradually felt enraged as he grew hipokute grass in the cave every day.
 
 "Hey," he spoke up, "speaking of Souka, rumor has it that she's improved greatly as of late. Wouldn't she one day become stronger than me if this continues?"

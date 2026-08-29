@@ -1,5 +1,9 @@
 # V7C3 A Saint's Goal
+
 ---
+
+## Volume 7 - Chapter 3
+
 On this day, the world is shadowed in fear once more.
 
 "Storm Dragon" Veldora has been revived.

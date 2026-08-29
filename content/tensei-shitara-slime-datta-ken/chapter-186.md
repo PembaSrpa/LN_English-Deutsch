@@ -1,5 +1,9 @@
 # VB1SS1 Shizue Izawa's Childhood
+
 ---
+
+## Booklet 1 - Side Story 1
+
 I, Shizue Izawa, am an otherworlder summoned into this world.
 
 The person who summoned me is one of the demon lords, the apex of this world, named Leon Cromwell. However, my being summoned is apparently not what he is seeking after. Even with the unimaginable power he has, it is very difficult to achieve what he is looking for. That is how harsh this world is. And I will come to be all too familiar with this fact.

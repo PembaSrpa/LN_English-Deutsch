@@ -1,5 +1,9 @@
 # V6C2 Word from Ramiris
+
 ---
+
+## Volume 6 - Chapter 2
+
 Just as the summit was winding down, and I felt it was time to wrap things up:
 
 *Bwaaam!!*

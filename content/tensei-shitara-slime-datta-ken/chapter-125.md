@@ -1,5 +1,9 @@
 # V13C1 Unrest and Resolve
+
 ---
+
+## Volume 13 - Chapter 1
+
 A month had passed since the meeting with the executives.
 
 I had been meticulously observing the Empire's movements in the Control Room, day after day. This was where every bit of scoured intel came together, and as a result, Benimaru and I basically lived here. Although, we made sure to go back home at night. If I left my house vacant too long, Veldora and Ramiris would almost certainly turn it into their own personal hideout. Since a lot of effort was put into constructing my hermitage, it was only right that I should make the most of it.

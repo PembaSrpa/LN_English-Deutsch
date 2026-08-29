@@ -1,5 +1,9 @@
 # V13AW Afterword
+
 ---
+
+## Volume 13 - Afterword
+
 Long time no see, everyone. Fuse here.
 
 I didn't write an afterword for volume 12 nor do I have Twitter, so it really feels like it's been forever. I've been doing some advertising on my author page on Shōsetsuka ni Narō specifically in the katsudō hōkoku (activity report) section. If you're interested, please go check it out! I'm sure I'll be sending out some information around the release dates! Now, let's talk about the main story for a bit.

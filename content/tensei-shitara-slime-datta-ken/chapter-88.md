@@ -1,5 +1,9 @@
 # V9P The Shining Hero
+
 ---
+
+## Volume 9 - Prologue
+
 He---Honjou Masayuki---is a Chosen Hero.
 
 Although Masayuki had never once proclaimed himself a Hero, for some odd reason, people he encountered just started referring to him as such. It hasn't even been a year since he first appeared in this world, just out of the blue, yet the name Masayuki was now renowned throughout the Western Nations. He's become a celebrity known to all.

@@ -1,5 +1,9 @@
 # V12C2 Outcomes and Preparation
+
 ---
+
+## Volume 12 - Chapter 2
+
 Several months passed since the meeting with Guy and the other demon lords. Time quickly flew by; it'd already been one year since I became a demon lord, attended the Walpurgis, had the fight with Hinata, celebrated the Founding Festival, and dealt with the confrontation concerning Mariabell and the Rosso family. Maybe it was because so much had happened, but the past year really went by in a flash.
 
 We had concluded the Tempest Resurrection Festival in private and the Empire had yet to make a move. However, according to the information gathered by Souei and Moss, supplies were being delivered one after another to major cities along the border. Now that their actions went this far, it didn't take a genius to figure out what was happening---a war was brewing on the horizon.

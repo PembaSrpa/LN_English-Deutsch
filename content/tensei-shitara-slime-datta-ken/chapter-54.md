@@ -1,5 +1,9 @@
 # V6C6 The Octagram
+
 ---
+
+## Volume 6 - Chapter 6
+
 The moment I consumed Clayman, the red-haired demon lord Guy stood up.
 
 “An impressive feat,” he solemnly intoned. “I hereby recognize your right, from this day forward, to call yourself a demon lord. Does anyone disagree?”

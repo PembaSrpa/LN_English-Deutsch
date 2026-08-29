@@ -1,5 +1,9 @@
 # V15C1 Time of Despair
+
 ---
+
+## Volume 15 - Chapter 1
+
 Just as Rimuru was preparing to infiltrate the Imperial City, Dwarf King Gazel Dwargo found himself at the center of a desperate battlefield. He was unable to avert his gaze from the incarnation of beauty scattering death in the distance.
 
 "Was that 'Gravity Collapse'? It can theoretically expand its power infinitely. Do you think legion magic can prevent it?" Gazel asked the assembled group.

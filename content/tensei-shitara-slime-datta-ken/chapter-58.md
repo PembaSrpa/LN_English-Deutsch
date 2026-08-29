@@ -1,5 +1,9 @@
 # V7C1 A Deal With the Devil
+
 ---
+
+## Volume 7 - Chapter 1
+
 "Octagram" will be our official title in the future---
 
 Guy's subordinates, namely his maids, the green-haired Mizeri and blue-haired Raine, are preparing delicate meals for everyone. Their dark maid outfits are of very good taste, and the same can be said about the dishes produced under their phenomenal culinary skills.

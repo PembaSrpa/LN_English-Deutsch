@@ -1,5 +1,9 @@
 # V3P The Demon Lord Summit
+
 ---
+
+## Volume 3 - Prologue
+
 It was a vast, gorgeously designed chamber, the floor covered in a luxuriant carpet that must have taken a team of artisans several years to weave.
 
 The table in the middle featured wood carved from a fragrant tree, providing a pleasant, woodsy smell. It was large, round, and could comfortably seat a dozen or so—but despite the size of the room, only three chairs were placed around it. They were all the height of luxury, of course, the sort that even higher-end nobility would have difficulty procuring.

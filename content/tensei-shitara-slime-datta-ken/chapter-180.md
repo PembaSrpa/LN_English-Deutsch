@@ -1,5 +1,9 @@
 # V20C1 The First Showdown
+
 ---
+
+## Volume 20 - Chapter 1
+
 In the former Eurazania, at the planned construction site of Demon Lord Milim's new capital, a battle to the death was taking place.
 Fighting against the antlion Peliod, was Esprit.
 

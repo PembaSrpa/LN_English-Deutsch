@@ -1,5 +1,9 @@
 # V6C3 The Eve of Battle
+
 ---
+
+## Volume 6 - Chapter 3
+
 It turned out to be unusually easy for Clayman to convene a Walpurgis Council.
 
 The use of Carillon’s “betrayal” as the topic was important to him. The way it was explained to the demon lords was basically that Carillon violated their nonaggression agreement by invading the Forest of Jura, and Milim punished him for it. That was clearly a screen, but none of the other demon lords protested. It would all be coming out during the Council—but by then, it’d be over. That was Clayman’s aim. Walpurgis would earn him valuable time toward awakening himself, becoming a true demon lord, and obtaining immense powers. And Milim would be there, too. If she acted subservient to him in front of the other demon lords, that’d just prove to them all that Clayman was not willing to accept any back talk.

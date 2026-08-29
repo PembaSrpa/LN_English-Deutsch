@@ -1,5 +1,9 @@
 # V9I3 Midnight Conference
+
 ---
+
+## Volume 9 - Interlude 3
+
 Alongside Benimaru, Shion and Diablo, I entered the conference room. Myourmiles was already waiting nervously. Shuna was in charge of receiving the guests. Upon realizing our arrival, she began to prepare drinks for everyone.
 
 "Gazel-sama said he's on his way."

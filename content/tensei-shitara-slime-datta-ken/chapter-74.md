@@ -1,5 +1,9 @@
 # V8.5SS1 Psychidae Gobta
+
 ---
+
+## Volume 8.5 - Side Story 1
+
 Hi everyone, this is Gobta!
 
 ![break]

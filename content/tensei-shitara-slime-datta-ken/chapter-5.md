@@ -1,5 +1,9 @@
 # V1I2 The Girl and the Titan
+
 ---
+
+## Volume 1 - Interlude 2
+
 Being possessed by Ifrit saved my life. That, I could never hope to deny. If I’d been left there alone, the burns from the air raid would’ve killed me. No matter what Leon the demon lord intended for me, I had to accept the fact that I owed my life to him.
 
 As a high-ranked flame elemental, Ifrit had powers that were far beyond anything I could have imagined. He miraculously tamed the magic teeming inside me, ready to explode, as he took over my body. Thanks to my being stabilized beforehand—if you want to phrase it that way—I managed to gain an ability. The unique skill “Deviant.”

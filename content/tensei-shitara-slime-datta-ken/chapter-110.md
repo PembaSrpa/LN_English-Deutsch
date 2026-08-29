@@ -1,5 +1,9 @@
 # V11C2 New Companions
+
 ---
+
+## Volume 11 - Chapter 2
+
 That demon crossed the border like a strong gust of wind, devastating this evil realm. Crossing the 'Gate of Hell,' he arrived at a spiritual world---which could be called Hell, or the nether realm. He became the symbol of violence, slaughtering powerful demons along the way.
 
 The weaker demons had already fled, while the strong grouped up to battle him. But to him, this was merely a meaningless struggle of the weak.

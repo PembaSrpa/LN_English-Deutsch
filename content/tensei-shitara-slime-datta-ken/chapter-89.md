@@ -1,5 +1,9 @@
 # V9C1 Eve of the Opening Ceremony
+
 ---
+
+## Volume 9 - Chapter 1
+
 Masayuki's team got a request from Yuuki to move out.
 
 They had uncovered evidence of a massive slave trade market operating in Balakia, one of the small nations surrounding the Kingdom of Ingracia. There was a lucky slave who managed to escape and subsequently called for help, which made it necessary to dispatch an investigation.

@@ -1,5 +1,9 @@
 # V8.5SS5 Hot Spring
+
 ---
+
+## Volume 8.5 - Side Story 5
+
 All right, this may seem sudden, but it's a matter concerning the region to the west of the wetlands that the lizardmen inhabited. There you would find a vast underground cavern, the natural labyrinth formed by an active volcano. Its complex interior structure was made up of countless winding roads, spanning an area so immense, that even the lizardmen were unable to fully grasp it. Should you choose to explore one of these paths, you might be led to a frozen cave world, whereas another might lead to a world of burning lava. There also seemed to be hidden paths that lead to magical hotspots, though they were deemed too dangerous to traverse.
 
 However, the labyrinth wasn't the focus of this expedition. Rather, it was the existence of the active volcano. Because of that, there might be hot springs there as well---that thought set this whole thing in motion.

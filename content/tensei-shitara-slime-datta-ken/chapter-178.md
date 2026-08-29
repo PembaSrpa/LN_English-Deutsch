@@ -1,5 +1,9 @@
 # V19AW Afterword
+
 ---
+
+## Volume 19 - Afterword
+
 It's been a long time, everyone.
 
 For the first time, the deadline was extended by one month. I thought it was going to be a disaster when I started writing it, but then I felt that it was actually impossible. As I was rearranging the contents for the completion, various developments came to my mind. The reason was that I couldn't write them down easily, because whatever I added would have a big influence on the future.

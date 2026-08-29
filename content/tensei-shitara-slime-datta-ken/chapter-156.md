@@ -1,5 +1,9 @@
 # V16E Guy Crimson
+
 ---
+
+## Volume 16 - Epilogue
+
 He arose a long time ago, far back in the ages, before the creation of the world. His birth was a mere coincidence. Veldanava, the creator god, created the seven seraphim from the Great Spirit of Light, and the shadows were born. Those were the Seven Primordials---devil lords derived from the Great Spirit of Darkness.
 
 He was the first of them, and he was the king who ruled the underworld, the world of darkness. Since his birth, his power had been absolute, the embodiment of darkness. An arrogant king who could control the demons at will. From his perspective, even his seven separate brothers and sisters of darkness were no more than like those of his many family members (dependents).

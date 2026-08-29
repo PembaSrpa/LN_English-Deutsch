@@ -1,5 +1,9 @@
 # V20C3 Quake of the Titans
+
 ---
+
+## Volume 20 - Chapter 3
+
 At the border between the Barren Lands and the Western Nations, there was a long structure called the Long Wall.
 It was said to have been built by the work of the god Luminas in order to protect civilization from the hot sands known as the Desert of Death.
 This Long Wall was considered sacred because it was protected by a special barrier. That is, the magicule repellent barrier.

@@ -1,5 +1,9 @@
 # V4P Beauty in Action
+
 ---
+
+## Volume 4 - Prologue
+
 Hinata Sakaguchi was bored as she sat in her personal room, assigned to her within the Holy Empire of Lubelius’s main palace. This world was just so boring.
 
 She was still fifteen when she fell into this world. It was her first day of high school, the date of the official entrance ceremony, and the only reason she attended was because she didn’t want to be at home. On the way back, passing by the temple she passed by every other day of the week, a sudden gale slashed across her body, so powerful she couldn’t keep her eyes open. When she did finally pry her eyelids apart, she saw a new and unfamiliar landscape before her.

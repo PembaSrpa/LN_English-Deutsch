@@ -1,5 +1,9 @@
 # V15C2 Unleashed Power
+
 ---
+
+## Volume 15 - Chapter 2
+
 It was probably the first time that anger had blown away my reason. When Shion and the others were killed, I had felt a mixture of regret and anger, and was engulfed in guilt. But since there was hope in sight, I had been able to calm the storm in my heart, keep my cool and take my anger out in productive ways...
 
 But this time was different. The pain of having my soul torn apart and the possibility of losing Veldora had completely blown away my sense of reason.

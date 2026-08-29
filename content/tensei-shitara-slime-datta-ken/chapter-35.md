@@ -1,5 +1,9 @@
 # V4C6 Conquering the Labyrinth
+
 ---
+
+## Volume 4 - Chapter 6
+
 It was a tranquil late afternoon as Shuna set to reading in her room. Just as she did, Shion came barging in, like always, begging her for help with one recipe or another. But she keenly noticed the book in Shuna’s hand and asked her a question.
 
 “What’s that, Lady Shuna?”

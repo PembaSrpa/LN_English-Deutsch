@@ -1,5 +1,9 @@
 # VB1SS4 Kuro and the Mask
+
 ---
+
+## Booklet 1 - Side Story 4
+
 In a dark forest, a woman knelt in a small clearing, lamenting. At the center of the clearing lay her companion, barely breathing.
 
 The rugged man with short-cropped hair had three large wounds on his back---fatal injuries that left him with little time to live. The woman knew this all too well. She understood that no matter what she tried, it was impossible to save him.

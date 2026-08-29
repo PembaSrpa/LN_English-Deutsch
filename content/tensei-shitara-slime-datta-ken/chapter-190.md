@@ -1,5 +1,9 @@
 # VB5SS5 Coleus's Dream Part 1
+
 ---
+
+## Booklet 5 - Side Story 5
+
 Inside a dim, dark room, a girl lay on a couch. Despite her sloppy appearance, she exuded an inexplicable elegance. The source of this allure was her beauty.
 
 Her silver hair, flowing like moonlight in the night, glistened in the darkness. Her eyes, one blue and the other red, held a captivating, heterochromatic gleam. She looked to be around fifteen or sixteen years old, embodying a beauty that was both imperfect and perfected---a fleeting moment between girlhood and maturity.

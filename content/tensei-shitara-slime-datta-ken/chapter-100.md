@@ -1,5 +1,9 @@
 # V10C1 The Smooth Operation of the Labyrinth
+
 ---
+
+## Volume 10 - Chapter 1
+
 The Founding Festival of the Tempest Federation was a success, and with that the festival came to an end. It had been a busy ten days, and all the invited guests as well as visitors from the neighboring nations had all left the town.
 
 That included the king of Blumund and Fuze, who both seemed to have something to discuss regarding their future plans and went home as soon as they could.

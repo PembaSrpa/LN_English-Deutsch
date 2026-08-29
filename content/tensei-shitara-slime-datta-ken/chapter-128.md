@@ -1,5 +1,9 @@
 # V13C3 Labyrinth Siege
+
 ---
+
+## Volume 13 - Chapter 3
+
 I remember telling them to give it their all. There was need to worry, I shouldn't be old enough to be losing my memory. It had only been three years since I was reincarnated. There was no need to worry about that. That being said...
 
 Watching the scene projected on the big screen, I wondered if I had really said those words or not. After all, the big screen was showing the great victory of our army. That was good and all, but the content was just too terrifying. It was completely a one-sided war of aggression that would make anyone go "oof".

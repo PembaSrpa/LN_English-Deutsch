@@ -1,5 +1,9 @@
 # V19C3 The Royal Capital in Flames
+
 ---
+
+## Volume 19 - Chapter 3
+
 The Congress proceeded smoothly. This was all thanks to the advance preparations. The necessary number of votes to pass the resolution had already been secured, so there was no chance of an upset here. In the first place, there was no way that anyone would be stupid enough to oppose the resolution when a settlement with the Empire was about to be secured.
 
 That's why Masayuki, as the Emperor, stood up to sign the settlement document. The room filled with cheers and applause, and everyone watched as Masayuki ascended to the podium. Exactly as planned.

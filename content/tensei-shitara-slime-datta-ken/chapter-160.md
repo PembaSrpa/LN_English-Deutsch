@@ -1,5 +1,9 @@
 # V17C3 The Turbulent Days
+
 ---
+
+## Volume 17 - Chapter 3
+
 My name is Calgurio. I was the captain of the Armored Corps, the most powerful force in the Eastern Empire. I was just plain stupid at the time. I said I was doing this for Rudra, but all I had cared about was my own personal glory. Now I understand what a career is worth.
 
 That's right...forty years ago, a commander in chief of a corps from a lowly nobleman's family---that's a big promotion. The baron of a married family was a trivial thing from the corps commander's point of view, but I think it's understandable that I've grown up, although it is still no excuse. Of course, I'm still reflecting on it now.

@@ -1,5 +1,9 @@
 # V17C5 Special Collections: Vesta's Consultation
+
 ---
+
+## Volume 17 - Chapter 5
+
 My name is Vesta. It was my dream to serve the great Hero King Gazel, to do research that would benefit the people. Although my dream was broken, but I followed in my father's footsteps and became Minister of the Armed Nation of Dwargon. Well, 'was' is more accurate. I lost that position due to my own stupid jealousy...
 
 At that time, in my own engineering unit, there was a development of a new weapon in collaboration with the elven technicians. This top-secret project was called the 'Armored Soldier Project', and a man named Kaijin was chosen to lead its development.

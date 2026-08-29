@@ -1,5 +1,9 @@
 # V3C2 The Demon Lord Invades
+
 ---
+
+## Volume 3 - Chapter 2
+
 On a flying horse, the trip from Dwargon to—ugh—Rimuru apparently took just one day. They were soon off, with Gazel promising to visit again soon.
 
 And he did.

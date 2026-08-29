@@ -1,5 +1,9 @@
 # V5C2 Prelude to Calamity
+
 ---
+
+## Volume 5 - Chapter 2
+
 King Edmaris of Farmus winced at the report he was just handed. He had reason to. His kingdom’s situation had just faced dramatic changes for the worse.
 
 It all began when the seal placed on Veldora, the Storm Dragon, vanished from the Forest of Jura. It led to a flurry of requests for monetary and military support from Earl Nidol Migam and the many other nobles with parcels of territory out in the hinterlands. It wasn’t a problem the nation could afford to ignore. Edmaris had ordered measures to be taken at once—but instead of providing what the nobility hoped for, he sought instead to further entrench his authority.

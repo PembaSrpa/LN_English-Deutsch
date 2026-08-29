@@ -1,5 +1,9 @@
 # VB5SS7 Coleus's Dream Part 3
+
 ---
+
+## Booklet 5 - Side Story 7
+
 The operation was set to take place in three days. My role was to stabilize Princess Zenobia's condition and aim for her complete recovery. With that in mind, despite the late hour, I transferred my consciousness to the Clone I had hidden in Princess Zenobia's bedroom.
 
 At that moment, I froze. Inside her room was a presence exuding an overwhelming aura. My Magic Sense detected a spine-chilling dread. *Could this be what you call fear?*

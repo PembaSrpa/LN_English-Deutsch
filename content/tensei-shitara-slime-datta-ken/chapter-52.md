@@ -1,5 +1,9 @@
 # V6C4 In the Land of Destiny
+
 ---
+
+## Volume 6 - Chapter 4
+
 So everything was set. After giving my final instructions to Veldora, I waited for an envoy to direct me to the Council site. I didn’t know where it was, so I’d be going along with Ramiris—who, by the way, also didn’t know.
 
 I asked why, and she had replied, “Because someone always comes to *take* me there!” Which made sense, I suppose, in its own way. The way she always got lost, wherever she went, I guess it’s just a given that she had a guide. If someone doesn’t really feel like memorizing a route, they never will, no matter how many times they repeat it.

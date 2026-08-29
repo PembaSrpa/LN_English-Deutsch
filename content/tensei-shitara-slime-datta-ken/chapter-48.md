@@ -1,5 +1,9 @@
 # V6C1 Between Monster and Man
+
 ---
+
+## Volume 6 - Chapter 1
+
 Clayman was never one to place too much trust in his strength.
 
 He was the demon lord who took over all of Kazalim’s lands. Once Kazalim was defeated at the hands of the demon lord Leon, all the people who served him came to rely upon Clayman for guidance. The domains of the two lords wound up being merged under Clayman’s rule, something none of the other demon lords voiced any complaint over. It all happened fairly quickly, thanks to the ever-careful Kazalim’s preparations in case the worst came to pass.

@@ -1,5 +1,9 @@
 # V9C3 Martial Tournament
+
 ---
+
+## Volume 9 - Chapter 3
+
 I had a hangover.
 
 I couldn't get drunk before, but by tuning down my 'Poison Nullification', I was able to overcome the issue and finally get sloshed. It was the technique Luminas taught me, and I had treasured it ever since. Yesterday I used it behind Raphael-san's back and drank some fine wine whilst already slightly drunk. As a result, my headache worsened dramatically.

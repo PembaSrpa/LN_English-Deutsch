@@ -1,5 +1,9 @@
 # V10C2 The Bustling Daily Life
+
 ---
+
+## Volume 10 - Chapter 2
+
 Several days passed since our last meeting. A party finally managed to break through Floor 30---it was Masayuki's team. Just as we'd discussed with Myourmiles, their conquest was progressing smoothly. Although this was a complete sham, as long as we don't get caught, it wouldn't be a problem.
 
 Since Masayuki had the Unique Skill 'Chosen One,' even if we slipped up a bit, others would still receive the outcome with a positive spin all on their own. He really was the ideal guy to handle public relations.

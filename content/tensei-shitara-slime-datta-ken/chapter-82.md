@@ -1,5 +1,9 @@
 # V8.5SS9 Milim and Honey
+
 ---
+
+## Volume 8.5 - Side Story 9
+
 Milim Nava was a demon lord.
 
 In her long and tenacious life, she was never defeated. To alleviate some of the boredom in her life she visited a town and encountered a monster. Even though it had overwhelming magic power and magical ability, it posed no challenge in Milim's eyes.

@@ -1,5 +1,9 @@
 # V8C4 Reception Ceremony
+
 ---
+
+## Volume 8 - Chapter 4
+
 The labyrinth was nearly complete, so I ran back to the town. Veldora and Ramiris were still in the labyrinth. As for Milim, she'd help with the building process as well once she had caught enough dragons.
 
 Speaking of which, was it really all right for her not to return to her nation?

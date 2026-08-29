@@ -1,5 +1,9 @@
 # V10C5 The Trap of Greed
+
 ---
+
+## Volume 10 - Chapter 5
+
 I gathered all of my lieutenants and shared the information with them.
 
 I also introduced Glenda to everyone. Of course, this also meant that she was under surveillance from now on. Glenda would have to win our trust through her own effort in the future.

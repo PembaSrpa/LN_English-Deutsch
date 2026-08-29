@@ -1,5 +1,9 @@
 # V8P Progress Report
+
 ---
+
+## Volume 8 - Prologue
+
 "Talk about being mischievous, Granbell-sama. You almost got me killed out there."
 
 "Surely you jest. Didn't you already flee before getting affected at all?"

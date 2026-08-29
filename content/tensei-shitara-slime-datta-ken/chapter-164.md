@@ -1,5 +1,9 @@
 # V18C1 Walpurgis
+
 ---
+
+## Volume 18 - Chapter 1
+
 The destination through Raine's portal was a silvery world of ice and snow.
 
 Unlike last time, it seemed that the venue was to be Guy's palace.

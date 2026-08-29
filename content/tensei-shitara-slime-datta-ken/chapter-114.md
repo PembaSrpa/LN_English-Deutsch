@@ -1,5 +1,9 @@
 # V11E To the Promised Land
+
 ---
+
+## Volume 11 - Epilogue
+
 That night, we just exchanged a bit of information with each other. We decided to discuss the details after we had settled down later.
 
 Leon told me about his relationship with Chloe. They were childhood friends that grew up like siblings. He didn't reveal more information. Chloe probably had forgotten about it too, so it remained a mystery.

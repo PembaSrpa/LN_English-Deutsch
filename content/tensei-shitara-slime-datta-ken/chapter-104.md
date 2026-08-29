@@ -1,5 +1,9 @@
 # V10C4 The True Identity of the Mastermind
+
 ---
+
+## Volume 10 - Chapter 4
+
 The beautiful ex-mercenary---Glenda Attley. Every time she pulled her trigger, a life was taken.
 
 Ever since she was summoned to this world, she held onto her beloved firearm. It had never betrayed Glenda's expectations. It became a part of her, so much so that shooting became second nature. With the addition of the Unique Skill 'Sniper,' Glenda was invincible.

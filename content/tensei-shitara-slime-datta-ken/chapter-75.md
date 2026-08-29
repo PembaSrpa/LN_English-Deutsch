@@ -1,5 +1,9 @@
 # V8.5SS2 Night Butterfly
+
 ---
+
+## Volume 8.5 - Side Story 2
+
 The body of a slime was surprisingly comfortable. It wasn't hard to move around, nor did I ever feel tired. To the care-free me, there was no inconvenience at all.
 
 However, I encountered a huge problem...

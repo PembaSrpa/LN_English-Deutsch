@@ -1,5 +1,9 @@
 # V6C5 Walpurgis
+
 ---
+
+## Volume 6 - Chapter 5
+
 The impossibly ornate door connected right to the meeting hall.
 
 A large, round table was positioned in the center, with twelve evenly spaced chairs surrounding it. Ten demon lords were on the invite list (with Carillon absent), so two of these seats would be empty even if I took up one. Attendees sat in chronological order of their demon lord appointment, and so I was placed right in front of the door—not that I minded. My attention was focused in the room around me anyway.

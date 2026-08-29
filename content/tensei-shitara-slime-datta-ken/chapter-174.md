@@ -1,5 +1,9 @@
 # V19C2 The Beginning of the Great War
+
 ---
+
+## Volume 19 - Chapter 2
+
 After the discussion that night, it was decided that Kagali and Teare would remain in my country's custody. Teare was still unconscious, and it was safer to take care of her in the labyrinth. We could get detailed information and find out if there was any malicious intent at work. So, it was only natural that Kagali would come with me. I accepted the two of them without any complaint.
 
 Silvia-san returned to Sarion. She would've been a great help as a warrior, but what was most important to Silvia-san was Sarion, where her daughter was. I couldn't just force her to do anything I wanted, so we promised to cooperate with each other if anything happened. I also gave her a cell phone, just in case. El-tan had one, but I decided that it would be better for Silvia-san to have one as a backup. The communication function of the Demon's Ring was not universal, and it was best to have as many means of communication as possible. After this trouble was all over, we could use them for fun. After exchanging our contact information, I saw Silvia-san off.

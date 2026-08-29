@@ -1,5 +1,9 @@
 # V5C5 The Unleashed
+
 ---
+
+## Volume 5 - Chapter 5
+
 After Rimuru set off for battle, the residents of the town assembled in the central plaza and began to pray. It wasn’t out of sentiment, but for real work reasons. Shuna was commanding them, as part of her efforts to keep the barrier up.
 
 The stronger ones were set in place so they could better protect the fringes of town, out of concern for intruders. At the same time, Shuna released a stream of magical force within the barrier, boosting the number of magicules in the air.

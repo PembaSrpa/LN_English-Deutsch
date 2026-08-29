@@ -1,5 +1,9 @@
 # VB1SS3 Shizue Izawa's Adventuring Life Part 2
+
 ---
+
+## Booklet 1 - Side Story 3
+
 The time had come, and the infiltration operation was carried out.
 
 As planned, we swiftly arrived at the hideout and made our way safely to the royal castle. We were then escorted to the reception room, where we were introduced to several key figures.

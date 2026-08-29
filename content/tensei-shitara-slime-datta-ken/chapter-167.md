@@ -1,5 +1,9 @@
 # V18C3 Reminiscences of the Clowns
+
 ---
+
+## Volume 18 - Chapter 3
+
 Going back in time.
 
 Kagali, who was taken from the battlefield by Feldway, regained consciousness just as Lieutenant Kondou was killed in battle.

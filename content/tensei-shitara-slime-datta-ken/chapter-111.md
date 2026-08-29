@@ -1,5 +1,9 @@
 # V11C3 Signs of Unrest
+
 ---
+
+## Volume 11 - Chapter 3
+
 I wasn't expecting such a drastic boost to our military forces, but at the same time, I was genuinely glad at the prospect of more companions joining our ranks.
 
 I urged Diablo to discuss new work arrangements for the demons. The three demonesses were in attendance as representatives of the new personnel. I was interested in hearing their opinions as well.

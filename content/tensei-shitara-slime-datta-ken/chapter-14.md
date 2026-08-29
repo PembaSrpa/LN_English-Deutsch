@@ -1,5 +1,9 @@
 # V2C3 The Envoy and the Meeting
+
 ---
+
+## Volume 2 - Chapter 3
+
 Several days had passed since I had appointed my pseudo cabinet of ogre mages.
 
 Just as they had said, things appeared to be going well between them and the hobgoblins, Rigurd included. Soei was providing raw materials to Shuna, and she was already successfully spinning silk thread from it. The fabric it produced had made her the target of astonishment from the village’s goblinas. Which made sense. Compared to the simple hemp from the goblin era, this was in a whole other dimension.

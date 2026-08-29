@@ -1,5 +1,9 @@
 # V4C1 Trading with the Beast Kingdom
+
 ---
+
+## Volume 4 - Chapter 1
+
 I could see a bunch of children playing around outside. Three boys and two girls. They ran up to me at first sight, overjoyed to see me.
 
 “Teacher! What’re we gonna do today?” they all asked, their eyes shining—a determined-looking boy; a timid-looking boy; a reticent-looking boy; a lively looking girl; and a wise-looking girl.

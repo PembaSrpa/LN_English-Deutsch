@@ -1,5 +1,9 @@
 # V7C2 Roles to Uphold
+
 ---
+
+## Volume 7 - Chapter 2
+
 The day after Diablo's report, Shuna and Souei returned early in the morning.
 
 "We've made it back safely!"

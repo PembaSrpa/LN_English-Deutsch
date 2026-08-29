@@ -1,5 +1,9 @@
 # V3C4 The Advancing Malice
+
 ---
+
+## Volume 3 - Chapter 4
+
 The magic-born Mjurran pushed her emotions deep inside as she walked across the forest.
 
 Mjurran was once a witch, living in this forest. Persecuted by others, she had fled here three hundred years ago—quietly researching her magic, interacting with no human or magic-born. But those days were nearing their end. Extending one’s life with magic only worked for so long.

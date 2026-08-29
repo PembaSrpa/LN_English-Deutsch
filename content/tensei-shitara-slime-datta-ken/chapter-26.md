@@ -1,5 +1,9 @@
 # V3C5 Charybdis
+
 ---
+
+## Volume 3 - Chapter 5
+
 The fight was about to begin.
 
 We were at the end of the gravel road leading toward the Dwarven Kingdom, near the midway point between the capitals of Dwargon and Tempest. We rendezvoused with Geld and his construction team there, waiting for the moment to come.

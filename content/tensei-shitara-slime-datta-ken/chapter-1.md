@@ -1,5 +1,9 @@
 # V1P Death and Reincarnation
+
 ---
+
+## Volume 1 - Prologue
+
 It was just your typical kind of life. I graduated from college, landed a job at a sort-of-big general contractor outfit, and with my older brother taking care of our parents for me, I was currently enjoying all the myriad benefits of the bachelor-pad life. Age thirty-seven. No significant other.
 
 I wasn’t exactly short or frumpy or hideous or anything. But when it came to the opposite sex, apparently I had nothing to offer. I’d made efforts along those lines, with varying degrees of dedication, but by the third rejection, something fizzled out within me. Besides—really, at this age, I was kinda past the point where a girlfriend needed to be my main focus. Work kept me busy enough. Plus, it wasn’t like I was gonna die without one.

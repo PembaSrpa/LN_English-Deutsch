@@ -1,5 +1,9 @@
 # V11C4 Western Turmoil
+
 ---
+
+## Volume 11 - Chapter 4
+
 Demon Lord Leon left to meet with a difficult character, a woman with flowing silver hair and a distinctive pair of long, pointy ears. She sank deeply into a luxurious chair, beautiful like a scene straight out of a painting. She was a high elf and the gorgeous Emperor of the Sorcerer's Dynasty Sarion---Elmesia El-Ru Sarion.
 
 The two of them sat facing each other under the gazebo set in a breathtaking garden. A faint trail of steam drifted from the teacup that had just been served, and its rich fragrance was relaxing. Maids waited by the side to refill the tea before it got cold. The two silently observed each other for a while.

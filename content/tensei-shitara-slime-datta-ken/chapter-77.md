@@ -1,5 +1,9 @@
 # V8.5SS4 Dress Up
+
 ---
+
+## Volume 8.5 - Side Story 4
+
 On that day, the female residents continued their work nervously without a word. They all unconsciously steered their eyes towards that certain building as if something were on their mind. Inside the building, the ladies were cautiously holding an earnest discussion.
 
 "Well then, Haruna-san, I imagine there is no delay to the preparations?"

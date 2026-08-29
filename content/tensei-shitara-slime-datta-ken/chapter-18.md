@@ -1,5 +1,9 @@
 # V2C7 The Great Forest of Jura Alliance
+
 ---
+
+## Volume 2 - Chapter 7
+
 The man sat alone, relaxing in an impossibly ornate room. He smiled, which was visible through his mask.
 
 Elegantly, he waved a hand in the air, directing his servants to exit the chamber. They bowed to him, every motion carefully practiced, and left without a word. Just as they did, a jovial-sounding voice resonated from the previously empty sofa against the wall.

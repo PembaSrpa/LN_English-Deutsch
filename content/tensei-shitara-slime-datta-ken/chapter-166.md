@@ -1,5 +1,9 @@
 # V18C2 A Short-lived Everyday Life
+
 ---
+
+## Volume 18 - Chapter 2
+
 Five months have passed since Walpurgis.
 
 During this time, many things have happened, but it has been very peaceful overall.

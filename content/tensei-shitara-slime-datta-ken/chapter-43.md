@@ -1,5 +1,9 @@
 # V5C4 The Birth of a Demon Lord
+
 ---
+
+## Volume 5 - Chapter 4
+
 I headed for the meeting hall, Yohm in tow, once I heard that all my people had quickly gathered there.
 
 As I stepped inside, the entire Tempest government currently in town was waiting for me, strained looks on their faces. Gabil and Soei were still on standby in the cave, but Soei was connected to me via the Sticky Steel Thread trick, and I figured he was monitoring the audio.

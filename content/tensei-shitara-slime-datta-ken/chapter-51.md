@@ -1,5 +1,9 @@
 # V6I1 The Demon Lords
+
 ---
+
+## Volume 6 - Interlude 1
+
 The demon lord Clayman awaited the appointed hour, a glass of wine in his hand. The Walpurgis Council was tonight, and as a mixture of anger and happiness danced across his face, he thought over a few things.
 
 First, the bad news.

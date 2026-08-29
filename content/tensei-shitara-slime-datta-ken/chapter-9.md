@@ -1,5 +1,9 @@
 # V1FC The Inherited Form
+
 ---
+
+## Volume 1 - Final Chapter
+
 Shizu was gone now—gone, after giving me one final goal to strive for.
 
 Up to now, I had largely taken things as they’d arrived, fighting to keep my head above water. Now, though, I had a motivation to gather some intel on this “demon lord” guy. It was a job I readily accepted, but it was also a promise. And I’m a man who keeps his promises.

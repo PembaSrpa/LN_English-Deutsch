@@ -1,5 +1,9 @@
 # V15C5 The Truth of the Emperor
+
 ---
+
+## Volume 15 - Chapter 5
+
 Damrada was alone thinking to himself while guarding one of the eight gates.
 
 Why had this happened to him?

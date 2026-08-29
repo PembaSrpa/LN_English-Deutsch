@@ -1,5 +1,9 @@
 # V8.5SS3 Daily Life of a Certain Group of Adventurers
+
 ---
+
+## Volume 8.5 - Side Story 3
+
 Kabal, Elen and Gido staggered down the road. Their faces looked utterly exhausted as they stopped in front of the building they were intimately familiar with. With feeble arms they weakly pushed the door open and entered. This was a cheap inn that also functioned as a pub. To the penniless three, this was their favorite spot.
 
 The trio regrouped at the pub after confirming their rooms. Then, letting out deep, collective sighs, they opened their mouths and let a tidal wave of complaints gush out.

@@ -1,5 +1,9 @@
 # VB5SS6 Coleus's Dream Part 2
+
 ---
+
+## Booklet 5 - Side Story 6
+
 "Thank you for saving my elder sister."
 
 The woman who greeted me in front of the large mansion was young and beautiful. The older sister she referred to was Ulamuth-san, Count Guratol's wife. Unbelievably, this meant that the person before me was Jeff-sensei's younger sister.

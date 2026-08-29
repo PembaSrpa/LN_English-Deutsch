@@ -1,5 +1,9 @@
 # V19C1 The First Battle
+
 ---
+
+## Volume 19 - Chapter 1
+
 The place where we transported was extremely frigid. A world of silver. It was as if we had wandered into Guy's castle. I had tried to use the 'magic transfer circle', but the spell did not work. Therefore, I used 'Spatial Transportation' to reach the limit of what I could see with my surveillance spell 'Argus', and was greeted by a stinging cold air. It was freezing to the core. It must have been 'that'. I was able to nullify the cold, but the fact that I still felt a chill was definitely due to Velzard's influence. There was a presence in the air that made the air tremble, telling me that this was definitely a battlefield. The greatest source of power was coming from the battlefield where Guy and Velzard were facing each other. They had created a deadly space where no one could intervene.
 
 So, I'd just leave that part alone. I thought I felt someone looking at me, but I just ignored it. I felt like I had been hit by a wave of anger saying, 'You bastard, you just ignored me!' but it wasn't good to overthink things. I'm just an extra, so it's probably best if I don't intervene.

@@ -1,5 +1,9 @@
 # V1AW Afterword
+
 ---
+
+## Volume 1 - Afterword
+
 Hello there! Fuse here. First of all, I’d like to thank you for picking up this book.
 
 This volume is a heavily revised, rewritten, and expanded version of a story originally released on the web. This work, as I’m sure some of you know, is still being released on syosetu.com, a Japanese-language website for online novelists and storytellers. The side story and other extra material in this particular book are all original to this volume, crafted for followers of the web version to enjoy.

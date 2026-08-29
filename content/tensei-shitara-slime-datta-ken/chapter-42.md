@@ -1,5 +1,9 @@
 # V5C3 Despair and Hope
+
 ---
+
+## Volume 5 - Chapter 3
+
 Ensuring the magical field was dispelled, I crept back outside, breathing a sigh of relief. I could feel my Replication-driven other half disappear.
 
 Ranga half threw himself out of my shadow. “You are safe, my master!” Being cut off must have alarmed him beyond belief, his hair standing on end from all the nerves. I gave him a pet, trying to reassure him that everything was okay.

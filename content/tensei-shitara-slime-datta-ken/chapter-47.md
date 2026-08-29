@@ -1,5 +1,9 @@
 # V6P The Magic-Born’s Ruse
+
 ---
+
+## Volume 6 - Prologue
+
 “Hoo dear, nearly bit it for good back there…”
 
 Laplace was muttering to himself as he appeared before his master. He clearly had the injuries to back that assessment up.

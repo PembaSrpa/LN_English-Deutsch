@@ -1,5 +1,9 @@
 # V14C4 The Purge of the Red Lotus
+
 ---
+
+## Volume 14 - Chapter 4
+
 The Eastern city of the Armed Nation of Dwargon was now blockaded by 60,000 men. However, that was just a cover-up. Both sides had made it known behind the scenes that they were allied with each other. The commanders were worried about the possibility of an unfortunate accident. In such a situation, the air of the soldiers at the end of the line was light. Tents were set up for encampment, and chit-chat bloomed in the tents. Even so, everyone maintained a moderate sense of tension. Every single soldier was in the same state of mind, so it could be said that the training level of the soldiers was remarkably high. No wonder their morale was so high.
 
 After all, their superiors were in the midst of their final meeting. Their dreams of overthrowing the Empire and establishing a new nation would be decided at that meeting. Everyone was looking forward to it, and everyone's eyes were filled with expectation toward the capital. That is why so many people noticed at the same time.

@@ -1,5 +1,9 @@
 # V10C3 The Council
+
 ---
+
+## Volume 10 - Chapter 3
+
 In the small Kingdom of Siltrosso, situated in the north, a meeting was about to begin. A young man and an elder were facing off against each other.
 
 The young man was the head of the Freedom Association, Yuuki Kagurazaka.

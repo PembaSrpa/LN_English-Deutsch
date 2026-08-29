@@ -1,5 +1,9 @@
 # V7C4 The Second Confrontation
+
 ---
+
+## Volume 7 - Chapter 4
+
 The road to Dwargon is completed alongside the official opening of the road to the Kingdom of Blumund. Yet we are still getting busier by the day. We still have to construct the new road that leads to Sorcerer's Dynasty Sarion and also plan out the new city construction project for Milim's group. There was still tons of work to be done.
 
 On top of all these, we are also planning a massive celebration while quietly executing on our grand scheme to take over the Kingdom of Farmus. I thought that there would probably be a lot of nuisances to come after becoming a Demon Lord, yet my workload has reached my limit before any problems even occur.

@@ -1,5 +1,9 @@
 # V17C4 The Blue Demon's Monologue
+
 ---
+
+## Volume 17 - Chapter 4
+
 Nice to meet you all, my name is Raine.
 Huh? Don't know me? Come on, cut the crap, or do I need to slap some sense into you? Go back to school and study again!
 

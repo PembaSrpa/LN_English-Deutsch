@@ -1,5 +1,9 @@
 # V8C2 Nations and Invitations
+
 ---
+
+## Volume 8 - Chapter 2
+
 The news couldn't be kept a secret even if we wanted to. The rumor spread to the leaders of the nations surrounding the Jura Great Forest too quickly to be controlled.
 
 ![break]

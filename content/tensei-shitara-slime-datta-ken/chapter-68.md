@@ -1,5 +1,9 @@
 # V8C1 Reconciliation and Pacts
+
 ---
+
+## Volume 8 - Chapter 1
+
 I was exhausted after the whole incident. Everything was finally settled. It was more tiring than fighting against Hinata---but let's keep that a secret.
 
 As for what happened during that time---

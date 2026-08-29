@@ -1,5 +1,9 @@
 # V2AW Afterword
+
 ---
+
+## Volume 2 - Afterword
+
 This is Fuse. Good to see you—for the first time, or not.
 
 I’m once again tasked to write an afterword for this book, so I thought a bit about what I should write. I’m the kind of person who likes reading the afterword first, and there are times when I commit to buying a book based on what I see there. I mean, it’s rare for me to decide *against* a purchase because of that, but there are at least a few times when the afterword made me think “Yeah, let’s go with this!”

@@ -1,5 +1,9 @@
 # V9C2 Founding Festival
+
 ---
+
+## Volume 9 - Chapter 2
+
 After meeting the representatives of the monsters living in the Great Jura Forest, the talk with the representing group from the Western Nations went smoothly as well. There were many more details to discuss in the future, but the ideas brought up in our discussion were a good start.
 
 Last night we held a rare founding eve celebration. The event concluded peacefully with the various attendances from guests all over the continent.

@@ -1,5 +1,9 @@
 # V6AW Afterword
+
 ---
+
+## Volume 6 - Afterword
+
 Hey! It’s been a while! About five months since the previous volume. Yes, it’s Volume 6 of *That Time I Got Reincarnated as a Slime*, and it’s time for the traditional afterword.
 
 This volume is the result of yet another epic battle between my editor, Mr. I, and me over what to write and what to cut out.

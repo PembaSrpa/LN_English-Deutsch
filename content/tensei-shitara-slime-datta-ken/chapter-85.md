@@ -1,5 +1,9 @@
 # V8.5SS12 Rimuru's Notebook
+
 ---
+
+## Volume 8.5 - Side Story 12
+
 A certain location held a small journal---Rimuru's Notebook---which is considered a valuable document containing records of events portraying the period of time surrounding the monster country's founding. Among experts, whether the artifact is authentic or forged has been a famous controversy even to this day. But there's good reason for it.
 
 ![break]

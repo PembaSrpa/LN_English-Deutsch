@@ -1,5 +1,9 @@
 # V12C3 Visitors from the Empire
+
 ---
+
+## Volume 12 - Chapter 3
+
 In a luxurious room, three men stood close to one another, faces plastered with nervous expressions. They straightened their backs, waiting for the master of this room to return. That was the man who had become one of the corps commanders of the Empire in the blink of an eye---Yuuki.
 
 But in the eyes of these three, that was nothing surprising. After all, Yuuki was their overlord, as well as the grandmaster of the secret organization they were all a part of---Cerberus.

@@ -1,5 +1,9 @@
 # V4C7 Rescued Souls
+
 ---
+
+## Volume 4 - Chapter 7
+
 We changed locations to the Dwelling of the Spirits, located in the deepest part of the labyrinth. No matter how this turned out, my only role in it was keeping the kids safe. We had Ramiris on our side, and for all her weirdness, she was still the ex–Spirit Queen. She was quite a far cry from the stately noblewoman Treyni described her as, but I was sure it’d all work out. Probably.
 
 It turned out Ramiris knew about Treyni, because the fairy’s mind was passed down with every incarnation of her body. “Oh, she’s still doing good?” she asked. “She was such a cute little spirit, back in the day!” She theorized that when she was demoted to fairy, Treyni was impacted by the fallout and became a dryad. It sounded like a true enough story to me.

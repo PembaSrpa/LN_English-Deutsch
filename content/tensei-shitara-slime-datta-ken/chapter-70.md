@@ -1,5 +1,9 @@
 # V8C3 The Preparations
+
 ---
+
+## Volume 8 - Chapter 3
+
 The location was a small, slightly disorganized conference room. Within stood two suspicious shadows.
 
 No, that's not all. There was also the shadow of a smaller person. It was around thirty centimeters tall and possessed wings similar to those of a dragonfly. With this tiny person's shadow at the center, the other two sat opposite to each other.

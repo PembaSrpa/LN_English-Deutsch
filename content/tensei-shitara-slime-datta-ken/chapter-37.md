@@ -1,5 +1,9 @@
 # V4E A Monster’s Natural Enemy
+
 ---
+
+## Volume 4 - Epilogue
+
 Taking my leave of Yuuki and the children, I had reached the outskirts of the city. Away from the gaze of others, I figured I could use Spatial Motion to return home without further delay. I thought so anyway, but for some reason, the skill wouldn’t activate.
 
 *What’s going on?*

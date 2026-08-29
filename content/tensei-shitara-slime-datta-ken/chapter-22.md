@@ -1,5 +1,9 @@
 # V3C1 The Name of a Nation
+
 ---
+
+## Volume 3 - Chapter 1
+
 Recalling the report from his covert informant, Gazel Dwargo, king of the dwarves, pondered the information. He had asked this spy to observe a certain slime he was concerned about, but the briefing he received seemed far too preposterous to believe.
 
 *The monsters are building a full-scale city.*

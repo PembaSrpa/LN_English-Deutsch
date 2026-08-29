@@ -1,5 +1,9 @@
 # V7E New Bonds
+
 ---
+
+## Volume 7 - Epilogue
+
 The location is the holy land---"Inner Sanctum".
 
 The head of the "Seven Luminary Clerics", "Master of Sun" Gran, is done with his work for now and has been bitterly waiting for his companions to return.

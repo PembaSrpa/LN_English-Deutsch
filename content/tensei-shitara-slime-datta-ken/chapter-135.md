@@ -1,5 +1,9 @@
 # V14P The Clowns' Decision
+
 ---
+
+## Volume 14 - Prologue
+
 The news had not yet reached the Empire, but that was ignorant bliss for the subjects of the Empire. After all, the Imperial generals who were meant to invade the Western Nations through the Great Jura Forest---in other words, their beloved family members---were all helplessly slaughtered. With an army of nearly a million men, defeat had been unthinkable. No one doubted that they would accomplish their long cherished dream of conquering the West and establish a completely unified nation under the name of Emperor Rudra. The Great Jura Forest was a daunting obstacle, but now that the evil dragon Veldora had been weakened, there was nothing to fear. It was supposed to be that way.
 
 ![break]

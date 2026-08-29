@@ -1,5 +1,9 @@
 # V10AW Afterword
+
 ---
+
+## Volume 10 - Afterword
+
 Long time no see, everyone. This is Fuse.
 
 I was going to forgo writing an afterword this time. The reason being that this volume has been the one with the most added pages in the history of Tensura light novels, even after attempts at cutting things.

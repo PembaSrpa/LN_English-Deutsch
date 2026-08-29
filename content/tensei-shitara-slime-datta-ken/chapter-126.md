@@ -1,5 +1,9 @@
 # V13C2 The Devastation Begins
+
 ---
+
+## Volume 13 - Chapter 2
+
 All monsters on the battlefield took the declaration from their leader, Rimuru, straight to their soul.
 
 The words of their absolute ruler were met with their loyalty and trust.

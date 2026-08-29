@@ -1,5 +1,9 @@
 # V19C4 The Gathering of the Giants
+
 ---
+
+## Volume 19 - Chapter 4
+
 As I faced Michael, I was in the biggest pinch of my life. I feel like I'm always in these kinds of situations, but this time it was for real. Michael's unexplainable attack had defeated even Diablo, and there was nothing I could do about it, to be honest. The only reason I could afford to be like this was because Veldora was waiting for me in the labyrinth. As long as Veldora was safe, I could be resurrected. More importantly---
 
 Are things really okay?

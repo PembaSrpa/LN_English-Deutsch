@@ -1,5 +1,9 @@
 # V16C1 The Betrayal
+
 ---
+
+## Volume 16 - Chapter 1
+
 Emperor Rudra was replaced by Michael, and Phantom King Feldway had left.
 
 It wasn't settled, but the feeling took its toll on everyone. There were still some uncertainties, but for now I wanted to celebrate everyone's safety. We would deal with the cleanup and future plans later. That said, Karion, Frey, and the rest of the group had gone into an evolutionary sleep, so I arranged for Testarossa to send them off discreetly.

@@ -1,5 +1,9 @@
 # V1C4 The Conqueror of Flames
+
 ---
+
+## Volume 1 - Chapter 4
+
 So there we were. Back at the goblin village. It had been only about two weeks, but I was seriously starting to miss it a little. Assuming you wanted to call it a village at all. It was more of an empty space with a fence around it.
 
 While we were gone, a few simple tents had been pitched around the area. There were signs of progress, at least. I spotted a large iron pot situated over the remains of the central campfire. Goblin cuisine used to be all about spit-roasting—but now they’d added simmering to the mix!

@@ -1,5 +1,9 @@
 # V14C2 Future Plans
+
 ---
+
+## Volume 14 - Chapter 2
+
 Before I forgot, I decided to thank Veldora and Ramiris. The reward for Veldora was clothes. I thought it might be a little problematic since he was always wearing a cloak and no clothes on his upper body, but he didn't seem to mind. Perhaps he liked this kind of clothing so I took the opportunity to give him some clothes as a gift.
 
 "Oh, Rimuru! My friend and ally! At last, you have noticed my feelings. I have always wanted to wear something nice."

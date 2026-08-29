@@ -1,5 +1,9 @@
 # V4C4 The Kingdom of Blumund
+
 ---
+
+## Volume 4 - Chapter 4
+
 Blumund. A smaller kingdom, population under a million. It consisted mainly of little villages, collected into regions ruled by noble lords. The only big settlement to speak of was the capital. It was seriously a *super*-tiny country.
 
 Guided by my trio of friends, we proceeded to a rural village. The tranquil sight of it, surrounded by fenced-in fields, greeted us past the forest.

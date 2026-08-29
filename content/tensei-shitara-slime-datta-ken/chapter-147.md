@@ -1,5 +1,9 @@
 # V15C3 The Intensifying Battlefield
+
 ---
+
+## Volume 15 - Chapter 3
+
 The 30,000 members of the Magic Beast Corps, led by General Gladium, flew into the sky from the airship.
 
 Seeing the gallant figure of Velgrynd, their morale was high. The enemies below them would make the perfect targets for their violent impulses.

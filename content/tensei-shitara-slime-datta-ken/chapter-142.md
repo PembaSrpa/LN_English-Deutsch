@@ -1,5 +1,9 @@
 # V14E Rage
+
 ---
+
+## Volume 14 - Epilogue
+
 It was a scene that could only be described as a monster Armageddon. No, that was no joke. Because it could only be described that way. Two dragons were fighting in a fierce battle. Although not the same shape, they were both the same size.
 
 'Scorch Dragon' Velgrynd's true nature was a very refined and beautiful form. It was more agile than Veldora, and its silhouette seemed to be suitable for flying in the sky. I wondered what kind of battle would be fought...

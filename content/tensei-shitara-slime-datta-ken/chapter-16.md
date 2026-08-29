@@ -1,5 +1,9 @@
 # V2C5 The Great Clash
+
 ---
+
+## Volume 2 - Chapter 5
+
 Just as Gobta was reaching out to rescue Gabil, I was checking out the battle from above.
 
 It was a pretty fearsome sight. The orcs must’ve thought they had a massive advantage, and now we’d just flipped the chessboard on them… Just us, and a few ogre mages, really. I couldn’t blame them for freaking out. I kind of was, too.

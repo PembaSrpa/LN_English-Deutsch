@@ -1,5 +1,9 @@
 # V7AW Afterword
+
 ---
+
+## Volume 7 - Afterword
+
 Sorry for having kept everyone waiting, now I present *That Time I Got Reincarnated as a Slime* Volume seven.
 
 This time the content has also increased quite a bit.

@@ -1,5 +1,9 @@
 # V15P Scorch Dragon versus Storm Dragon
+
 ---
+
+## Volume 15 - Prologue
+
 For Veldora, this was most definitely not a good day.
 
 In preparation for the invasion of the Imperial Army, the entire capital city had been moved into isolation in the labyrinth, leaving only an empty plane of nothingness where the city had once stood. Against this backdrop, the image of a beautiful woman in flight stood out prominently on the monitor.

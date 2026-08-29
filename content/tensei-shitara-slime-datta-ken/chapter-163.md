@@ -1,5 +1,9 @@
 # V18P A Clandestine Meeting
+
 ---
+
+## Volume 18 - Prologue
+
 While Rimuru and the others were waging a fierce battle against Rudra's forces...
 
 ![break]

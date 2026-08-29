@@ -1,5 +1,9 @@
 # V19E Evolving Malice
+
 ---
+
+## Volume 19 - Epilogue
+
 Feeling a great surge of power, it opened its eyes dimly. All it could see were the little people who always got in its way. The being that stood before it was eradicating the swarm of them. It was a force that even it---the World-destroying Dragon Ivarage could not ignore, and the carnage ended in the blink of an eye. The victor---Michael, had left the scene without paying a single thought to Ivarage.
 
 A little uncomfortable with this, Ivarage moved slowly and walked over to the site of the battle. The remains of those who had fought against him for so many years. He unconsciously spoke of the many corpses floating there. Fools who launched feeble attacks that didn't even itch. Nevertheless, they were comforting to Ivarage's endless boredom. It was probably because he felt that their deaths were a bit of a waste that he took such a futile action. However---

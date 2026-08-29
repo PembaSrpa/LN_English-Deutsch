@@ -1,5 +1,9 @@
 # V7C6 God and Demon Lord
+
 ---
+
+## Volume 7 - Chapter 6
+
 This is the kingdom of darkness. In this nation, there is a crypt hidden deep underground unknown to anyone.
 
 There, a beautiful black-haired girl without clothes sealed inside a frozen coffin is in front of someone's eyes. The person before the girl carries herself without etiquette as she lies directly on the coffin.

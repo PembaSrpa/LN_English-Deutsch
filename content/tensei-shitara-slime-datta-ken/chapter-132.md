@@ -1,5 +1,9 @@
 # V13.5SS1 Payday in Tempest
+
 ---
+
+## Volume 13.5 - Side Story 1
+
 The Opening festival had come to an end and the prosperous days continued. As part of it, Rigurd was busy throughout the day. Although he was occupied with lots of work, these were all fulfilling and joyful days.
 
 And all of this was thanks to Rigurd's master.

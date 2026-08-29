@@ -1,5 +1,9 @@
 # V3E A New Artifice
+
 ---
+
+## Volume 3 - Epilogue
+
 Several days had passed since Charybdis’s defeat. The land of Tempest was calm once more. A lot had happened, certainly, but our nation was finally starting to get recognized, and I couldn’t have been happier.
 
 We were now on friendly relations with the Armed Nation of Dwargon and the kingdom of Blumund. The road between us and Dwargon would be opening up soon, and my official invitation had already arrived. I needed to make my report, but they were planning more to receive me as an official state guest.

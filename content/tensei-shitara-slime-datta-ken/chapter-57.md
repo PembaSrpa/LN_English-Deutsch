@@ -1,5 +1,9 @@
 # V7P Majins' Tributes
+
 ---
+
+## Volume 7 - Prologue
+
 Clayman is dead.
 
 Laplace delivers the horrible news, and in front of him, everyone falls into silence.

@@ -1,5 +1,9 @@
 # V16C3 Toward Rebuilding
+
 ---
+
+## Volume 16 - Chapter 3
+
 The explanation to King Gazel was also troubling me, but I had a meeting with Masayuki and others today. I focused my attention on that, and fired myself up. I would first meet up with Testarossa.
 
 I had calmed down a bit. Today would be a high priority meeting, so only a carefully selected group of people would gather in the conference room. From our side were Benimaru and Rigurd. Also Shion, Diablo, and now Testarossa. On Masayuki's side would be Velgrynd, Calgurio and Minits, plus Bernie and Jiwu. In the lounge-like waiting room, all the members of our group were already there. It was short notice, but no one complained about it. Shuna had also volunteered to serve us, so we were fully prepared. As for the policies, well...

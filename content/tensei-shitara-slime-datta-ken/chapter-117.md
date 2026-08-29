@@ -1,5 +1,9 @@
 # V12C1 The Staccato of Marching Jackboots
+
 ---
+
+## Volume 12 - Chapter 1
+
 We returned home on the same day that our music exchange with Luminas ended. Venom and his subordinates, as well as the band members whom they were in charge of escorting, were now all perfectly safe.
 
 The children that Diablo protected were given a week off to rest. Thankfully, they did not sustain any injuries, but I still wanted to make sure they were safe and sound, just in case. They had witnessed firsthand the difference between training and the real deal, and as a result, lacked their usual liveliness. I was afraid they were traumatized, so I told them to have a good rest.

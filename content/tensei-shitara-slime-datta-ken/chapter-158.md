@@ -1,5 +1,9 @@
 # V17C1 The Ambition of Myourmiles
+
 ---
+
+## Volume 17 - Chapter 1
+
 My name is Myourmiles and I consider myself a fortunate man. Recently, my luck has been so overwhelming that it's difficult to describe it in just one word. This fortunate streak reached its peak when I accepted an invitation from Rimuru-sama, my boss and the head of state of the Jura Tempest Federation. Not just any ordinary boss, Rimuru-sama is also a demon lord, a fact that is not to be taken lightly.
 
 When I first met Rimuru-sama, I knew he was no ordinary person. I still consider him to be a goddess, but the truth is, his power is beyond my imagination. And not just in the sense of leveling large cities; he defeated a sky dragon, a monster that could have taken down a small country, in mere seconds. At that moment, he was a hero in my eyes, but I was even more astounded to hear that he had become one of the Octagram shortly thereafter. To top it off, he is also friends with the legendary Demon Lord Milim-sama and the True Dragon Veldora-sama, of which there are only four in the world. Honestly, I am so used to being surprised by Rimuru-sama that I have become numb to it and find myself simply saying "hmm" at anything I hear these days. But that's enough rambling about Rimuru-sama for now.
